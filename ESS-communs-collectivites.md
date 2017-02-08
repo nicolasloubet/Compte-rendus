@@ -8,6 +8,10 @@ Cette prise de notes est associée à la formation ['ESS, communs et collectivit
 
 Ce document est placé sous licence Creative Commons Licence CC-BY-NC-SA 4.0 Int. 
 
-![CC-BY-NC-SA 4.0](https://github.com/nicolasloubet/compte-rendus/blob/master/CC-BY-NC-SA.png?raw=true)
+<p align="center">
+  <img src="https://github.com/nicolasloubet/compte-rendus/blob/master/CC-BY-NC-SA.png?raw=true alt="CC-BY-NC-SA 4.0"/>
+</p>
+
+
 
 
