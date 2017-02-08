@@ -4,7 +4,7 @@ _Les communs sont à l’ordre du jour. De quoi parle t’on ? Quels enjeux port
    
 ## 1- À propos de ce document
 
-Ce document est une [prise de notes](https://hackpad.com/ESS-communs-et-collectivits-locales-1sabaEeDnTv) associée à la formation ['ESS, communs et collectivités locales'](https://www.idealconnaissances.com/formation/ess-communs-et-collectivites-locales) délivrée le 07/02/2017.
+Ce document est la [prise de notes](https://hackpad.com/ESS-communs-et-collectivits-locales-1sabaEeDnTv) associée à la formation ['ESS, communs et collectivités locales'](https://www.idealconnaissances.com/formation/ess-communs-et-collectivites-locales) délivrée le 07/02/2017.
 
 
 
