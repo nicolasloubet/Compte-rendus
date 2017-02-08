@@ -1,4 +1,4 @@
-# ESS, communs et collectivités locales
+# Séminaire 'Économie sociale et solidaire (ESS), communs et collectivités locales
 
 _Les communs sont à l’ordre du jour. De quoi parle t’on ? Quels enjeux portent les communs pour l'ESS ? Dans quelle mesure l'approche des communs permet-elle de renouveler les approches de l'utilité sociale de l'ESS ? Comment les collectivité locales au travers de leurs politiques locales d’ESS sont-elles concernées par les communs ?_
    
