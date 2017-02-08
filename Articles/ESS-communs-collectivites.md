@@ -6,11 +6,11 @@
 
 _Les communs sont à l’ordre du jour. De quoi parle t’on ? Quels enjeux portent les communs pour l'ESS ? Dans quelle mesure l'approche des communs permet-elle de renouveler les approches de l'utilité sociale de l'ESS ? Comment les collectivité locales au travers de leurs politiques locales d’ESS sont-elles concernées par les communs ?_
    
-## À propos de ce document
+## À propos de ce document (CC-BY-NC-SA 4.0)
 
 Ce document est la [prise de notes](https://hackpad.com/ESS-communs-et-collectivits-locales-1sabaEeDnTv) associée à la formation ['ESS, communs et collectivités locales'](https://www.idealconnaissances.com/formation/ess-communs-et-collectivites-locales) délivrée le 07/02/2017.
 
-### Nicole ALIX (La Coop des Communs)
+## Nicole ALIX (La Coop des Communs)
 
 <p align="center">
 <img src="https://github.com/nicolasloubet/compte-rendus/blob/master/Images/ess-communs-slide1.png" width="80%">
@@ -26,23 +26,23 @@ Ce document est la [prise de notes](https://hackpad.com/ESS-communs-et-collectiv
 <img src="https://github.com/nicolasloubet/compte-rendus/blob/master/Images/ess-communs-slide2.png" width="80%">
 </p>
 
-*   Communs partagent des valeurs / méthodes avec l'ESS (socité plus responsable, inclusive...). Communs = syst. de gouvernance. Panel de modèles économiques qui ont fait leur preuve.
+* Communs partagent des valeurs / méthodes avec l'ESS (socité plus responsable, inclusive...). Communs = syst. de gouvernance. Panel de modèles économiques qui ont fait leur preuve.
 
-*   Forces sociales, culturelles (...). ESS devrait aussi regarder ce qui se fait du côté des communs.
+* Forces sociales, culturelles (...). ESS devrait aussi regarder ce qui se fait du côté des communs.
 
-*   Comment on peut mieux gérer les ressources communs  / partagées avec les citoyens ?
+* Comment on peut mieux gérer les ressources communs  / partagées avec les citoyens ?
 
 <p align="center">
 <img src="https://github.com/nicolasloubet/compte-rendus/blob/master/Images/ess-communs-slide3.png" width="80%">
 </p>
 
-*   L'économie collaborative prend deux formes : pair à pair vs relations marchandes distribuées.
+* L'économie collaborative prend deux formes : pair à pair vs relations marchandes distribuées.
 
 <p align="center">
 <img src="https://github.com/nicolasloubet/compte-rendus/blob/master/Images/ess-communs-slide4.png" width="80%">
 </p>
 
-*   2 formes de coop : mono-acteurs (e.g. coop de taxis) VS pluti-acteurs (orientés communs).
+* 2 formes de coop : mono-acteurs (e.g. coop de taxis) VS pluti-acteurs (orientés communs).
 
 <p align="center">
 <img src="https://github.com/nicolasloubet/compte-rendus/blob/master/Images/ess-communs-slide5.png" width="80%">
@@ -50,18 +50,20 @@ Ce document est la [prise de notes](https://hackpad.com/ESS-communs-et-collectiv
 
 <u>Ressources</u> : 
 
-*   [Assemblée EU des communs](http://wiki.lescommuns.org/wiki/Assemblée_européenne_des_communs)
-*   [République des Communs ? ](http://wiki.remixthecommons.org/index.php/Colloque_%22Vers_une_République_des_biens_communs_%3F%22)
-*   [Webographie indicative](https://annuel.framapad.org/p/webographieFINACOOP)                                  
-*   [Towards a Future Internet ](http://cordis.europa.eu/fp7/ict/fire/docs/tafi-final-report_en.pdf)
+* [Assemblée EU des communs](http://wiki.lescommuns.org/wiki/Assemblée_européenne_des_communs)
+* [République des Communs ? ](http://wiki.remixthecommons.org/index.php/Colloque_%22Vers_une_République_des_biens_communs_%3F%22)
+* [Webographie indicative](https://annuel.framapad.org/p/webographieFINACOOP)                                  
+* [Towards a Future Internet ](http://cordis.europa.eu/fp7/ict/fire/docs/tafi-final-report_en.pdf)
 
-## Benedetta CELATI (Universit� Marne La Vall�e)
+## Benedetta CELATI (Université Marne La Vallée)
 
-*   Fil rouge de la pr�sentation : **Les communs en Italie et le r�le des collectivit�s locales**
+* Fil rouge de la présentation : **Les communs en Italie et le rôle des collectivités locales**
 
-*   Concept de 'Biens Communs' a �t� r�-introduit (en Italie) avec la Commision Rodot� (2007)
+* Concept de 'Biens Communs' a été ré-introduit (en Italie) avec la Commision Rodotà (2007)
 
-              ![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_1sabaEeDnTv_p.62368_1486461829513_Capture decran 2017-02-07 a� 10.59.09.png)
+ <p align="center">
+<img src="https://github.com/nicolasloubet/compte-rendus/blob/master/Images/ess-communs-slide6.png" width="80%">
+</p>
 
 *   Un adjoint au maire au "Biens Communs" a �t� nomm� � Naples en 2011 ("ville pionni�re").
 
