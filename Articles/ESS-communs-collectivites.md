@@ -10,7 +10,7 @@ _Les communs sont à l’ordre du jour. De quoi parle t’on ? Quels enjeux port
 
 Ce document est la [prise de notes](https://hackpad.com/ESS-communs-et-collectivits-locales-1sabaEeDnTv) associée à la formation ['ESS, communs et collectivités locales'](https://www.idealconnaissances.com/formation/ess-communs-et-collectivites-locales) délivrée le 07/02/2017.
 
-## Nicole ALIX (La Coop des Communs)
+### Nicole ALIX (La Coop des Communs)
 
 <p align="center">
 <img src="https://github.com/nicolasloubet/compte-rendus/blob/master/Images/ess-communs-slide1.png" width="80%">
