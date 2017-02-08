@@ -16,11 +16,11 @@ Ce document est la [prise de notes](https://hackpad.com/ESS-communs-et-collectiv
 <img src="https://github.com/nicolasloubet/compte-rendus/blob/master/Images/ess-communs-slide1.png" width="80%">
 </p>
 
-*   [Coop des Communs](http://coopdescommuns.org/fr/46-2/) est le résultat d'une histoire qui a démarré il y a 5 ans (dans le cadre de manifestations du monde de l'économie sociale et solidaire), suite au Prix Novel d'[Olström](https://fr.wikipedia.org/wiki/Elinor_Ostrom).
+* [Coop des Communs](http://coopdescommuns.org/fr/46-2/) est le résultat d'une histoire qui a démarré il y a 5 ans (dans le cadre de manifestations du monde de l'économie sociale et solidaire), suite au Prix Novel d'[Olström](https://fr.wikipedia.org/wiki/Elinor_Ostrom).
 
-*   <u>Contexte</u> : réflexion sur le service d'intérêt général, inter-groupe sur les communs (qui a fusionné avec un autre inter-groupe), recherche qui se développe avec Benjamin Coria.
+* <u>Contexte</u> : réflexion sur le service d'intérêt général, inter-groupe sur les communs (qui a fusionné avec un autre inter-groupe), recherche qui se développe avec Benjamin Coria.
 
-*   Réseau se compose d'activisites, chercheurs, praticiens de l'ESS. Ce sont uniquement des personnes physiques. Idée : faire émerger une culture des communs dans/avec l'ESS.
+* Réseau se compose d'activisites, chercheurs, praticiens de l'ESS. Ce sont uniquement des personnes physiques. Idée : faire émerger une culture des communs dans/avec l'ESS.
 
 <p align="center">
 <img src="https://github.com/nicolasloubet/compte-rendus/blob/master/Images/ess-communs-slide2.png" width="80%">
