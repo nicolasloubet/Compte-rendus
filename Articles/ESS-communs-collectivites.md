@@ -111,7 +111,7 @@ Ce document est la [prise de notes](https://hackpad.com/ESS-communs-et-collectiv
 
 ## Geneviève FONTAINE & Philippe CHEMLA (TETRIS)        
 
-* Présentation rapide de la communaut� d'agglom�ration du Pays de Grasse + SCIC [TETRIS](http://scic-tetris.org).
+* Présentation rapide de la communauté d'agglomération du Pays de Grasse + SCIC [TETRIS](http://scic-tetris.org).
 
  <p align="center">
 <img src="https://github.com/nicolasloubet/compte-rendus/blob/master/Images/ess-communs-slide15.png" width="80%">
@@ -149,7 +149,10 @@ Ce document est la [prise de notes](https://hackpad.com/ESS-communs-et-collectiv
 
 * Selon Geneviève, l'emploi peut étre vu comme une gestion co-produite et co-gérée.
 
-![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_1sabaEeDnTv_p.62368_1486464516351_Capture decran 2017-02-07 a� 11.44.07.png)
+ <p align="center">
+<img src="https://github.com/nicolasloubet/compte-rendus/blob/master/Images/ess-communs-slide20.png" width="80%">
+</p>
+
 
 * Difficulté : les acteurs ont des cultures TRÈS différentes. Il y a bien des conflits à gérer ! 
 * ESS est un mode de développement sur les territoires (et pas qu'un mode d'entreprendre).
