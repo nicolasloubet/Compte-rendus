@@ -119,7 +119,7 @@ Ce document est la [prise de notes](https://hackpad.com/ESS-communs-et-collectiv
 
 * Territoire ouvert à l'expérimentation (depuis 2001). Article 30 : achat de prestations sociales.
 * Le gros problème sur le territoire : le foncier. Nous sommes en effet sur la Côte d'Azur !
-* 120k€ HT/an. Le statut coopératif. Outil économique permet de renforcer la mutualisation. 
+* 120 k€ HT/an... Statut coopératif est un outil économique permet de renforcer la mutualisation. 
 * L'outil SCIC permet d'expérimenter l'expèrience multi-acteurs (enteprises, associations, etc.)
 
  <p align="center">
