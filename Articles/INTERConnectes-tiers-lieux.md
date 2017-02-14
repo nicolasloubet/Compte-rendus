@@ -80,7 +80,7 @@ Autres données
 
 *   3 février : [assises du coworking à Lyon](https://www.eventbrite.fr/e/inscription-acow17-1eres-assises-du-coworking-lyon-2017-29889754059)
 *   [Le mixeur](http://www.le-mixeur.org) : une pépinière à Saint-Etienne
-*   Projet à Valencienne avec mix de fonctions
+*   [Projet à Valencienne](https://reusein.wordpress.com) avec mix de fonctions
 
 # 3- Crédits des images
 
