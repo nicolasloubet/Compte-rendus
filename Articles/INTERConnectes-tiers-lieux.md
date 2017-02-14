@@ -1,6 +1,6 @@
-# [#INTERC[o](/ep/search/?q=%23INTERCnnectes&via=NcAqF0gExXs)nnectes] 'Y'a t-il trop de tiers-lieux en France ?'
+# 'Y'a t-il trop de tiers-lieux en France ?'
 
-<u>tl;dr</u>: OUI. Et il faut créer plus de 'lieux polymorphes modulaires' ! Ou plus sérieusement : il est important de dépasser le sens 1er du terme pour proposer des éléments de structuration. 
+tl;dr: OUI. Et il faut créer plus de 'lieux polymorphes modulaires'! Ou plus sérieusement : il est important de dépasser le sens 1er du terme pour proposer des éléments de structuration. 
 
 ![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_NcAqF0gExXs_p.62368_1481656402158_Photo 13-12-2016 20 09 59.jpg)
 
@@ -35,7 +35,7 @@ Synthèse écrite de la s[ession consacrée au tiers-lieux](http://www.amnyos.co
 *   Le Tiers-Lieu est une zone de connexions entre des publics différents publics qui partagent un même territoire. Au XXe siècle, les lieux qui le faisaient ont perdu leur usages. Qu'est-ce qu'on en fait aujourd'hui ? Comment on les fait vivre ? Qui créé la connexion à quel moment ?
 *   Est-ce légitime de financer de nouveaux lieux  alors qu'il y a déjà des lieux à faire vivre ?
 
-** Yoann Duriaux **
+**Yoann Duriaux**
 
 *   Yoann Duriaux est co-fondateur de [Movilab](http://movilab.org/), co-commisaire sur la [biennale 2017](http://www.biennale-design.com/saint-etienne/2013/fr/home/)
 *   Pour permettre les connexions effectives, il faut avoir des rôles et des postures.
@@ -49,32 +49,32 @@ Synthèse écrite de la s[ession consacrée au tiers-lieux](http://www.amnyos.co
 
 ## 2- Discussions
 
-** Bruno Duverger **
+**Bruno Duverger**
 
 *   Vice président numérique de la communauté de communes (com de com) '[59 communes](http://www.grandlyon.com/metropole/59-communes.html)'. Consultant en 'fusion des communes' Sa question : où vont les habitants lors des fusions ? 
 *   Le but : que les habitants se rencontrent dans un autre cadre que l'administratif et le biz. 
 
-** Claudine Revol **
+**Claudine Revol**
 
 *   Convergence entre les lieux du XXe et XXIe. On avait besoin de réinventer les lieux, les institutions ne répondaient pas au besoin. Le besoin principal désormais : le travail nomade (qui a changé) + d'autres à développer qui existent moins, autour d'intérêts nouveaux. 
 
-** Yoann Duriaux **
+**Yoann Duriaux**
 
 *   Les communautés doivent intégrer les mouvements sociologiques des tiers-lieux.. et reconnaître que des transitions se font grâce au tiers-lieux / au travers de ce procesus. 
 
-** Michael Schwartz **
+**Michael Schwartz**
 
 *   Coworking = communauté de travail qui se manifeste initiellement par un partage d'espace pour travailler (mais on a aussi des gens de passage). Le tiers lieux est un espace de friction.
 
-** Témoin sur place **
+**Témoin sur place**
 
 *   Tiers-lieu = instance politique et sociale où on va s'échanger des idées pour réinventer la société. Ce n'est pas lié à la technologie. Il existe aussi des "espaces numériques". 
 
-** Pascal Perez **
+**Pascal Perez**
 
 *   Besoin d'une évolution plus importante, d'une rupture : il y aura plus d'emplois salariés mais des procumers (producteurs & consommateurs). On parle des startups car c'est l'argent est ce ce qui attire la presse. On arrive pas à péter les institutions et reconnaitre la valeur des TL. 
 
-<u>Autres données</u>
+Autres données
 
 *   3 février : [assises du coworking à Lyon](https://www.eventbrite.fr/e/inscription-acow17-1eres-assises-du-coworking-lyon-2017-29889754059)
 *   [Le mixeur](http://www.le-mixeur.org) : une pépinière à Saint-Etienne
