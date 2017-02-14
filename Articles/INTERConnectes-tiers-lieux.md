@@ -12,9 +12,8 @@ Ce document est une synthèse écrite de la [session consacrée aux tiers-lieux]
 
 # Introduction globale
 
-*   Martine - animatrice - est consultante chez [Amios](http://www.amnyos.com), cabinet qui accompagne les territoires. 
-*   Question : Comment appréhender les formes de l'économie collaborative dans les territoires ? Précisément dans les tiers-lieux, au coeur d'un engouement. Dans leur définition canonique, ils désignent des lieux qui ne sont ni le domicile, ni l'entreprise. Cela peut prendre forme de bibliothèques, de cafés, de gares, des ateliers (cf. "fablabs").
-*   Mais qu'est-ce qu'un tiers lieu et en quoi ça peut bénéficier sur le territoire ? Quelle pérennité ? 
+*   Martine - animatrice - est consultante chez [Amios](http://www.amnyos.com), un cabinet qui accompagne les territoires. 
+*   Point de départ : comment appréhender les formes de l'économie collaborative dans les territoires ? Précisément dans les tiers-lieux ! Dans leur définition canonique, ils désignent des lieux qui ne sont ni le domicile, ni l'entreprise. Cela peut prendre forme de bibliothèques, de cafés, de gares, des ateliers (cf. "fablabs"). Mais qu'est-ce qu'un tiers lieu en 2017 et en quoi ça participe du développement / de la vie des territoires ?
 
 # Résumé des interventions
 
