@@ -29,7 +29,7 @@ Ce document est une synthèse écrite de la [session consacrée aux tiers-lieux]
 **Mickael Schwartz**
 
 *   La mission de la Cordée est de créer des coworking spaces à Lyon et aux alentours. La société accompagne également la collectivité, des porteurs de projets et des entreprises sur les enjeux de 'gestion du territoire'.
-*   Pour Mickael, le tiers-lieu est une zone de connexions entre des publics différents qui partagent un même territoire. Au XXe siècle, les lieux qui jouaient ce rôle ont perdu leur usage. Est-ce légitime de financer de nouveaux lieux  alors qu'il y a déjà des lieux à faire vivre ?
+*   Pour Mickael, le tiers-lieu est une zone de connexions entre des publics différents qui partagent un même territoire. Au XXe siècle, les lieux qui jouaient ce rôle ont perdu leur usage. Faut-il remixer ces lieux ou en créer des nouveaux ?
 
 **Yoann Duriaux**
 
