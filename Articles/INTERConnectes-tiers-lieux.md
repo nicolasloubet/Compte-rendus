@@ -1,10 +1,10 @@
-# 'Y'a t-il trop de tiers-lieux en France ?'
-
-tl;dr: OUI. Et il faut créer plus de 'lieux polymorphes modulaires'! Ou plus sérieusement : il est important de dépasser le sens 1er du terme pour proposer des éléments de structuration. 
+# Débat aux Interconnectés — 'Y'a t-il trop de tiers-lieux en France ?'
 
 ![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_NcAqF0gExXs_p.62368_1481656402158_Photo 13-12-2016 20 09 59.jpg)
 
 *   Photo originale de Charlotte Rizzo (publiée sur [Twitter](https://twitter.com/ch4r1zz/status/808609721490014208) le 13 décembre 2016).
+
+tl;dr: OUI. Et il faut créer plus de 'lieux polymorphes modulaires'! Ou plus sérieusement : il est important de dépasser le sens 1er du terme pour proposer des éléments de structuration. 
 
 Synthèse écrite de la s[ession consacrée au tiers-lieux](http://www.amnyos.com/234-137eme-Forum-des.html) sur le dernier [forum des interconnectés](http://forum.interconnectes.fr) (le 13/12/2016). Basé sur la [prise de notes](/Ya-t-il-trop-de-tiers-lieux--RabDWSzgERS) de [Claudine Revol](https://fr.linkedin.com/in/claudinerevol/fr) (bien présente lors de la session !).
 
