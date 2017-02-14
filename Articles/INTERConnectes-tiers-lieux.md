@@ -15,7 +15,7 @@ Ce document est une synthèse écrite de la [session consacrée aux tiers-lieux]
 *   Martine est consultante chez [Amios](http://www.amnyos.com), un cabinet qui accompagne les territoires. Elle a été l'animatrice de la session.
 *   Question fil rouge : comment appréhender les formes de "l'économie collaborative" dans les territoires ? Précisément dans les tiers-lieux (dont l'engouement est palpable). Dans leur définition canonique, ils désignent des lieux qui ne sont ni le domicile, ni l'entreprise ; cela peut prendre forme de bibliothèques, de cafés, de gares, des ateliers (cf. "fablabs"). Mais qu'est-ce qu'un tiers lieu en 2017 et en quoi ça participe du développement / de la vie des territoires ?
 
-# Résumé des interventions
+# Interventions
 
 *   Yannick Conseil : co-fondateur du Créalab et responsable 'dev éco' Grand Angoulème. 
 *   [Mickael Schwartz](https://fr.linkedin.com/in/michael-schwartz-83916639/fr) : co-fondateur du réseau de coworking spaces "La Cordée"
@@ -36,9 +36,9 @@ Ce document est une synthèse écrite de la [session consacrée aux tiers-lieux]
 *   A l'origine de Movilab, il y a un capital informationnel de données (notamment des témoignages). La mission de la [POC Fondation](http://movilab.org/index.php?title=La_POC_Foundation) (association loi 1901) est de prendre soin de ce capital commun des tiers lieux (libres et open source).
 *   Pour approndir les tiers-lieux, il faut lire [Antoine Burret](https://www.linkedin.com/in/antoineburret/fr) ! Cela étant, les lire c'est bien, les vivre c'est mieux !
 *   En pratique, les tiers-lieux permettent à des gens improbables de rencontrer d'autres gens improbables (pour développer des services ensemble). Pour permettre les connexions effectives, il faut avoir des rôles et des postures.
-*   Les tiers-lieux qui donnet à voir leur procesus de fonctionnement sont libres à la différence des institutions et des commerces privés. Il y a plusieurs façons d'inventer. Pas besoin de créer de grands lieux pour un usage unique.
+*   Les tiers-lieux qui donnent à voir leur procesus de fonctionnement sont **libres** à la différence des institutions et des commerces privés. Il y a plusieurs façons d'inventer. Pas besoin de créer de grands lieux pour un usage unique...
 
-# Discussion avec la salle
+# Discussion
 
 **Bruno Duverger**
 
@@ -65,12 +65,12 @@ Ce document est une synthèse écrite de la [session consacrée aux tiers-lieux]
 
 *   Besoin d'une évolution plus importante, d'une rupture : il y aura plus d'emplois salariés mais des prosumers (producteurs & consommateurs). On parle des startups car c'est l'argent est ce ce qui attire la presse. On arrive pas à péter les institutions et reconnaitre la valeur des TL. 
 
-# Autres données utiles
+# Données utiles
 
 *   3 février : [assises du coworking à Lyon](https://www.eventbrite.fr/e/inscription-acow17-1eres-assises-du-coworking-lyon-2017-29889754059)
 *   [Le mixeur](http://www.le-mixeur.org) : une pépinière à Saint-Etienne
 *   [Projet à Valencienne](https://reusein.wordpress.com) avec mix de fonctions
 
-# Crédits des images
+# Crédits images
 
 *   La photo en une de ce document a été prise par [Charlotte Rizzo](https://www.linkedin.com/in/charlotte-rizzo-39651124/) (la MYNE) et publiée sur [Twitter](https://twitter.com/ch4r1zz/status/808609721490014208) le 13 décembre 2016.
