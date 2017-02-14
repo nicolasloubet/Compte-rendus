@@ -24,11 +24,11 @@ Ce document est une synthèse écrite de la [session consacrée aux tiers-lieux]
 **Yannick Conseil**
 
 *   En 2013, l'idée etait de créer des fablabs (pour matérialiser des idées). Les acteurs locaux ont aggrégé une communauté d'entrepreneurs puis ont créé une association (en charge de l'animation) qui compte en l'état 1 salarié. 
-*   En 2015, le CA a souhaité créer 2 ateliers. Ils ont créé un lieu ouvert, au coeur d'un quartier jeune, qui mixte entrepreneurs, salariés, intermittents et citoyens. Difficultés : être inclusif  et faire avec des moyens limités. Approche projet plébiscitée.
+*   En 2015, le CA a souhaité créer 2 ateliers. Ils ont créé un lieu ouvert, au coeur d'un quartier jeune, qui mixte entrepreneurs, salariés, intermittents et citoyens. Difficultés : être inclusif  et faire avec des moyens limités.
 
 **Mickael Schwartz**
 
-*   Mission : création de coworking spaces à Lyon et aux alentours. Accompagnent de la collectivité, de porteurs de projets, d'entreprise sur la question de la 'gestion du territoire'.
+*   La mission de la Cordée est de créer des coworking spaces à Lyon et aux alentours. La société accompagne également la collectivité, des porteurs de projets et des entreprises sur les enjeux de 'gestion du territoire'.
 *   Le Tiers-Lieu est une zone de connexions entre des publics différents publics qui partagent un même territoire. Au XXe siècle, les lieux qui le faisaient ont perdu leur usages. Qu'est-ce qu'on en fait aujourd'hui ? Comment on les fait vivre ? Qui créé la connexion à quel moment ?
 *   Est-ce légitime de financer de nouveaux lieux  alors qu'il y a déjà des lieux à faire vivre ?
 
