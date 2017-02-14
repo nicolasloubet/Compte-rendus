@@ -23,7 +23,7 @@ Ce document est une synthèse écrite de la [session consacrée aux tiers-lieux]
 
 **Yannick Conseil**
 
-*   En 2013, l'idée etait de créer des fablabs (pour matérialiser des idées). Les acteurs locaux ont aggrégé une communauté d'entrepreneurs puis ont créé une association (en charge de l'animation). L'association compte en l'état 1 salarié. 
+*   En 2013, l'idée etait de créer des fablabs (pour matérialiser des idées). Les acteurs locaux ont aggrégé une communauté d'entrepreneurs puis ont créé une association (en charge de l'animation) qui compte en l'état 1 salarié. 
 *   En 2015, le CA a souhaité créer 2 ateliers. Ils ont créé un lieu ouvert, au coeur d'un quartier jeune, qui mixte entrepreneurs, salariés, intermittents et citoyens. Difficultés : être inclusif  et faire avec des moyens limités. Approche projet plébiscitée.
 
 **Mickael Schwartz**
