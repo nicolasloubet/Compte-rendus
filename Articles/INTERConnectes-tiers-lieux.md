@@ -17,7 +17,7 @@ Ce document est une synthèse écrite de la [session consacrée aux tiers-lieux]
 
 # Résumé des interventions
 
-*   Yanick Conseil : fondateur créalab et resp dév économique grand Angoulème
+*   Yanick Conseil : fondateur  du Créalab et responsable du développement économique du "Grand Angoulème".
 *   [Mickael Schwartz](https://fr.linkedin.com/in/michael-schwartz-83916639/fr) : co-fondateur du réseau de coworking spaces "La Cordée"
 *   [Yoann Duriaux](https://fr.linkedin.com/in/yoann-duriaux-b162121b) : co-fondateur de [Movilab](http://movilab.org), co-commisaire sur la [biennale 2017](http://www.biennale-design.com/saint-etienne/2013/fr/home/)
 
