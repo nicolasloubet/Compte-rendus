@@ -33,15 +33,10 @@ Ce document est une synthèse écrite de la [session consacrée aux tiers-lieux]
 
 **Yoann Duriaux**
 
-*   Pour permettre les connexions effectives, il faut avoir des rôles et des postures.
-*   A l'origine de Movilab, capital informationnel des données (dont témoignages).
-*   [POC Fondation](http://movilab.org/index.php?title=La_POC_Foundation) permet de prendre soin du capital commun des tiers lieux (libres).
-*   Pour Rosenberg, il convient de parler de 'tiers espaces' plutôt que de 'tiers lieux'. 
-*   Pour approndir les tiers-lieux sous l'angle académique, il faut lire [Antoine Burret](https://www.linkedin.com/in/antoineburret/fr) ! 
-*   Par construction, il est vain d'expliquer les tiers lieux. Il faut 'juste' les vivre. 
-*   Les tiers-lieux permettent à des gens improbables de rencontrer d'autres gens improbables (pour coopérer) ! 
-*   Ils sont libres et open source à la différence des institutions et des commerces privés.
-*   Il y a plusieurs façons d'inventer. Pas besoin de créer de grands lieux pour un usage unique.
+*   A l'origine de Movilab, il y a un capital informationnel de données (notamment des témoignages). La mission de la [POC Fondation](http://movilab.org/index.php?title=La_POC_Foundation) est de prendre soin de ce capital commun des tiers lieux (libres).
+*   Pour approndir les tiers-lieux dans une perspective académique, il faut lire [Antoine Burret](https://www.linkedin.com/in/antoineburret/fr) ! Cela étant, il est vain d'expliquer les tiers lieux. Il faut les vivre ! 
+*   En pratique, les tiers-lieux permettent à des gens improbables de rencontrer d'autres gens improbables (pour coopérer). Pour permettre les connexions effectives, il faut avoir des rôles et des postures.
+*   Les tiers-lieux qui donnet à voir leur procesus de fonctionnement sont libres à la différence des institutions et des commerces privés. Il y a plusieurs façons d'inventer. Pas besoin de créer de grands lieux pour un usage unique.
 
 # Discussion avec la salle
 
