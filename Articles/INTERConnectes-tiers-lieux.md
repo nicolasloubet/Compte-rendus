@@ -1,14 +1,12 @@
 # [Interconnectés] 'Y'a t-il trop de tiers-lieux en France ?'
 
-![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_NcAqF0gExXs_p.62368_1481656402158_Photo 13-12-2016 20 09 59.jpg)
-
-*   Photo originale de Charlotte Rizzo (publiée sur [Twitter](https://twitter.com/ch4r1zz/status/808609721490014208) le 13 décembre 2016).
-
 tl;dr: OUI. Et il faut créer plus de 'lieux polymorphes modulaires'! Ou plus sérieusement : il est important de dépasser le sens 1er du terme pour proposer des éléments de structuration. 
+
+![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_NcAqF0gExXs_p.62368_1481656402158_Photo 13-12-2016 20 09 59.jpg)
 
 Synthèse écrite de la s[ession consacrée au tiers-lieux](http://www.amnyos.com/234-137eme-Forum-des.html) sur le dernier [forum des interconnectés](http://forum.interconnectes.fr) (le 13/12/2016). Basé sur la [prise de notes](/Ya-t-il-trop-de-tiers-lieux--RabDWSzgERS) de [Claudine Revol](https://fr.linkedin.com/in/claudinerevol/fr) (bien présente lors de la session !).
 
-## 0- Introduction
+# 0- Introduction
 
 *   Martine - animatrice - est consultante chez [Amios](http://www.amnyos.com), cabinet qui accompagne les territoires. 
 
@@ -16,19 +14,19 @@ Synthèse écrite de la s[ession consacrée au tiers-lieux](http://www.amnyos.co
 
 *   Qu'est-ce qu'un tiers lieu et en quoi ça peut bénéficier sur le territoire ? Quelle pérennité ?
 
-## 1- Interventions
+# 1- Interventions
 
 *   Yanick Conseil : fondateur créalab et resp dév économique grand Angoulème
 *   [Mickael Schwartz](https://fr.linkedin.com/in/michael-schwartz-83916639/fr) : co-fondateur du réseau de coworking spaces "La Cordée"
 *   [Yoann Duriaux](https://fr.linkedin.com/in/yoann-duriaux-b162121b) : co-fondateur de [Movilab](http://movilab.org), co-commisaire sur la [biennale 2017](http://www.biennale-design.com/saint-etienne/2013/fr/home/)
 
-** Yannick Conseil **
+**Yannick Conseil**
 
 *   Yanick Conseil est le fondateur créalab et resp dév économique grand Angoulème
 *   En 2013, l'idée etait de créer des fablabs (pour matérialiser des idées). Les acteurs locaux ont aggrégé une communauté d'entrepreneurs puis ont créé une association (Créalab à Angouleme, en charge de l'animation). L'association compte en l'état 1 salarié. 
 *   En 2015, le CA a souhaité créer 2 ateliers dans l'espace. Ils ont créé un lieu ouvert, au coeur d'un quartier jeune, qui mixte entrepreneurs, salariés, intermittents et citoyens. Difficultés : être ouvert à tous, faire avec des moyens limités. Approche projet plébiscitée.
 
-** Mickael Schwartz **
+**Mickael Schwartz**
 
 *   [Mickael Schwartz](https://fr.linkedin.com/in/michael-schwartz-83916639/fr) est le co-fondateur du réseau de coworking spaces "La Cordée"
 *   Mission : création de coworking spaces à Lyon et aux alentours. Accompagnent de la collectivité, de porteurs de projets, d'entreprise sur la question de la 'gestion du territoire'.
@@ -47,7 +45,7 @@ Synthèse écrite de la s[ession consacrée au tiers-lieux](http://www.amnyos.co
 *   TL sont libres et open source à la différence des institutions et des commerces privés.
 *   Plusieurs façons d'inventer. Pas besoin de créer de grands lieux pour un unique usage
 
-## 2- Discussions
+# 2- Discussions
 
 **Bruno Duverger**
 
@@ -80,8 +78,6 @@ Autres données
 *   [Le mixeur](http://www.le-mixeur.org) : une pépinière à Saint-Etienne
 *   Projet à Valencienne avec mix de fonctions
 
-## 3- Licence du doc
+# 3- Crédits photo
 
-![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_NcAqF0gExXs_p.62368_1481673279797_cc-zero.png)
-
-Vous pouvez copier, modifier, distribuer et représenter lSuvre, même à des fins commerciales, sans avoir besoin de demander lautorisation. Voir d**autres informations** sur ce [document](https://creativecommons.org/publicdomain/zero/1.0/deed.fr). 
+*   Photo originale de Charlotte Rizzo (publiée sur [Twitter](https://twitter.com/ch4r1zz/status/808609721490014208) le 13 décembre 2016).
