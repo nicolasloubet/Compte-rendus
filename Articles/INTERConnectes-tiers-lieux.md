@@ -10,7 +10,7 @@
 
 Ce document est une synthèse écrite de la [session consacrée aux tiers-lieux](http://www.amnyos.com/234-137eme-Forum-des.html) sur le dernier [forum des interconnectés](http://forum.interconnectes.fr) (le 13/12/2016). Elle est basée sur la [prise de notes](/Ya-t-il-trop-de-tiers-lieux--RabDWSzgERS) de [Claudine Revol](https://fr.linkedin.com/in/claudinerevol/fr) (bien présente lors de la session !).
 
-# 0- Introduction globale
+# Introduction globale
 
 *   Martine - animatrice - est consultante chez [Amios](http://www.amnyos.com), cabinet qui accompagne les territoires. 
 
@@ -18,7 +18,7 @@ Ce document est une synthèse écrite de la [session consacrée aux tiers-lieux]
 
 *   Qu'est-ce qu'un tiers lieu et en quoi ça peut bénéficier sur le territoire ? Quelle pérennité ?
 
-# 1- Résumé des interventions
+# Résumé des interventions
 
 *   Yanick Conseil : fondateur créalab et resp dév économique grand Angoulème
 *   [Mickael Schwartz](https://fr.linkedin.com/in/michael-schwartz-83916639/fr) : co-fondateur du réseau de coworking spaces "La Cordée"
@@ -49,7 +49,7 @@ Ce document est une synthèse écrite de la [session consacrée aux tiers-lieux]
 *   TL sont libres et open source à la différence des institutions et des commerces privés.
 *   Plusieurs façons d'inventer. Pas besoin de créer de grands lieux pour un unique usage
 
-# 2- Discussions
+# Discussion avec la salle
 
 **Bruno Duverger**
 
@@ -76,12 +76,12 @@ Ce document est une synthèse écrite de la [session consacrée aux tiers-lieux]
 
 *   Besoin d'une évolution plus importante, d'une rupture : il y aura plus d'emplois salariés mais des procumers (producteurs & consommateurs). On parle des startups car c'est l'argent est ce ce qui attire la presse. On arrive pas à péter les institutions et reconnaitre la valeur des TL. 
 
-Autres données
+# Autres données utiles
 
 *   3 février : [assises du coworking à Lyon](https://www.eventbrite.fr/e/inscription-acow17-1eres-assises-du-coworking-lyon-2017-29889754059)
 *   [Le mixeur](http://www.le-mixeur.org) : une pépinière à Saint-Etienne
 *   [Projet à Valencienne](https://reusein.wordpress.com) avec mix de fonctions
 
-# 3- Crédits des images
+# Crédits des images
 
 *   La photo en une a été prise par Charlotte Rizzo et publiée sur [Twitter](https://twitter.com/ch4r1zz/status/808609721490014208) le 13 décembre 2016.
