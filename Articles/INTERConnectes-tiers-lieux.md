@@ -8,16 +8,16 @@
 
 # À propos de ce document
 
-Ce document est une synthèse écrite de la [session consacrée aux tiers-lieux](http://www.amnyos.com/234-137eme-Forum-des.html) sur le dernier [forum des interconnectés](http://forum.interconnectes.fr) (le 13/12/2016). Elle est basée sur la [prise de notes](/Ya-t-il-trop-de-tiers-lieux--RabDWSzgERS) de [Claudine Revol](https://fr.linkedin.com/in/claudinerevol/fr) (encore merci à elle de sa présence et de ses notes).
+Ce document est une synthèse écrite de la [session consacrée aux tiers-lieux](http://www.amnyos.com/234-137eme-Forum-des.html) lors du dernier [forum des interconnectés](http://forum.interconnectes.fr) (le 13/12/2016). Elle est basée sur la [prise de notes](/Ya-t-il-trop-de-tiers-lieux--RabDWSzgERS) de [Claudine Revol](https://fr.linkedin.com/in/claudinerevol/fr) (encore merci à elle de sa présence et de ses notes).
 
 # Introduction globale
 
-*   Martine - animatrice - est consultante chez [Amios](http://www.amnyos.com), un cabinet qui accompagne les territoires. 
-*   Point de départ : comment appréhender les formes de l'économie collaborative dans les territoires ? Précisément dans les tiers-lieux ! Dans leur définition canonique, ils désignent des lieux qui ne sont ni le domicile, ni l'entreprise. Cela peut prendre forme de bibliothèques, de cafés, de gares, des ateliers (cf. "fablabs"). Mais qu'est-ce qu'un tiers lieu en 2017 et en quoi ça participe du développement / de la vie des territoires ?
+*   Martine est consultante chez [Amios](http://www.amnyos.com), un cabinet qui accompagne les territoires. Elle a été l'animatrice de la session.
+*   Question fil rouge : comment appréhender les formes de l'économie collaborative dans les territoires ? Précisément dans les tiers-lieux ! Dans leur définition canonique, ils désignent des lieux qui ne sont ni le domicile, ni l'entreprise. Cela peut prendre forme de bibliothèques, de cafés, de gares, des ateliers (cf. "fablabs"). Mais qu'est-ce qu'un tiers lieu en 2017 et en quoi ça participe du développement / de la vie des territoires ?
 
 # Résumé des interventions
 
-*   Yanick Conseil : fondateur  du Créalab et responsable 'dev éco' du "Grand Angoulème".
+*   Yanick Conseil : fondateur  du Créalab et responsable 'dev éco' du Grand Angoulème. 
 *   [Mickael Schwartz](https://fr.linkedin.com/in/michael-schwartz-83916639/fr) : co-fondateur du réseau de coworking spaces "La Cordée"
 *   [Yoann Duriaux](https://fr.linkedin.com/in/yoann-duriaux-b162121b) : co-fondateur de [Movilab](http://movilab.org), co-commisaire sur la [biennale 2017](http://www.biennale-design.com/saint-etienne/2013/fr/home/)
 
