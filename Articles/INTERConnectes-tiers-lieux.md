@@ -80,4 +80,4 @@ Autres données
 
 # 3- Crédits photo
 
-*   Photo originale de Charlotte Rizzo (publiée sur [Twitter](https://twitter.com/ch4r1zz/status/808609721490014208) le 13 décembre 2016).
+*   La photo en une a été prise par Charlotte Rizzo et publiée sur [Twitter](https://twitter.com/ch4r1zz/status/808609721490014208) le 13 décembre 2016.
