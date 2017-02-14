@@ -4,9 +4,11 @@ tl;dr: OUI. Et il faut créer plus de 'lieux polymorphes modulaires'! Ou plus s�
 
 ![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_NcAqF0gExXs_p.62368_1481656402158_Photo 13-12-2016 20 09 59.jpg)
 
-Synthèse écrite de la s[ession consacrée au tiers-lieux](http://www.amnyos.com/234-137eme-Forum-des.html) sur le dernier [forum des interconnectés](http://forum.interconnectes.fr) (le 13/12/2016). Basé sur la [prise de notes](/Ya-t-il-trop-de-tiers-lieux--RabDWSzgERS) de [Claudine Revol](https://fr.linkedin.com/in/claudinerevol/fr) (bien présente lors de la session !).
+# A propos de ce document
 
-# 0- Introduction
+Ce document est une synthèse écrite de la [session consacrée aux tiers-lieux](http://www.amnyos.com/234-137eme-Forum-des.html) sur le dernier [forum des interconnectés](http://forum.interconnectes.fr) (le 13/12/2016). Elle est basée sur la [prise de notes](/Ya-t-il-trop-de-tiers-lieux--RabDWSzgERS) de [Claudine Revol](https://fr.linkedin.com/in/claudinerevol/fr) (bien présente lors de la session !).
+
+# 0- Introduction globale
 
 *   Martine - animatrice - est consultante chez [Amios](http://www.amnyos.com), cabinet qui accompagne les territoires. 
 
@@ -14,7 +16,7 @@ Synthèse écrite de la s[ession consacrée au tiers-lieux](http://www.amnyos.co
 
 *   Qu'est-ce qu'un tiers lieu et en quoi ça peut bénéficier sur le territoire ? Quelle pérennité ?
 
-# 1- Interventions
+# 1- Résumé des interventions
 
 *   Yanick Conseil : fondateur créalab et resp dév économique grand Angoulème
 *   [Mickael Schwartz](https://fr.linkedin.com/in/michael-schwartz-83916639/fr) : co-fondateur du réseau de coworking spaces "La Cordée"
@@ -78,6 +80,6 @@ Autres données
 *   [Le mixeur](http://www.le-mixeur.org) : une pépinière à Saint-Etienne
 *   Projet à Valencienne avec mix de fonctions
 
-# 3- Crédits photo
+# 3- Crédits des images
 
 *   La photo en une a été prise par Charlotte Rizzo et publiée sur [Twitter](https://twitter.com/ch4r1zz/status/808609721490014208) le 13 décembre 2016.
