@@ -6,7 +6,7 @@
 <img src="https://hackpad-attachments.s3.amazonaws.com/hackpad.com_NcAqF0gExXs_p.62368_1481656402158_Photo 13-12-2016 20 09 59.jpg" width="80%">
 </p>
 
-# A propos de ce document
+# À propos de ce document
 
 Ce document est une synthèse écrite de la [session consacrée aux tiers-lieux](http://www.amnyos.com/234-137eme-Forum-des.html) sur le dernier [forum des interconnectés](http://forum.interconnectes.fr) (le 13/12/2016). Elle est basée sur la [prise de notes](/Ya-t-il-trop-de-tiers-lieux--RabDWSzgERS) de [Claudine Revol](https://fr.linkedin.com/in/claudinerevol/fr) (bien présente lors de la session !).
 
@@ -14,7 +14,7 @@ Ce document est une synthèse écrite de la [session consacrée aux tiers-lieux]
 
 *   Martine - animatrice - est consultante chez [Amios](http://www.amnyos.com), cabinet qui accompagne les territoires. 
 
-*   Question point de départ : Comment appréhender les formes de l'économie collaborative dans les territoires ? Précisément dans les tiers-lieux, au coeur d'un engouement. Dans leur définition canonique, ils désignent des lieux qui ne sont ni le domicile, ni l'entreprise. Cela peut prendre forme de bibliothèques, de cafés, de gares, des ateliers (cf. "fablabs").
+*   Question : Comment appréhender les formes de l'économie collaborative dans les territoires ? Précisément dans les tiers-lieux, au coeur d'un engouement. Dans leur définition canonique, ils désignent des lieux qui ne sont ni le domicile, ni l'entreprise. Cela peut prendre forme de bibliothèques, de cafés, de gares, des ateliers (cf. "fablabs").
 
 *   Qu'est-ce qu'un tiers lieu et en quoi ça peut bénéficier sur le territoire ? Quelle pérennité ?
 
