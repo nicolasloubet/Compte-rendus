@@ -17,26 +17,23 @@ Ce document est une synthèse écrite de la [session consacrée aux tiers-lieux]
 
 # Résumé des interventions
 
-*   Yanick Conseil : fondateur  du Créalab et responsable 'dev éco' du Grand Angoulème. 
+*   Yannick Conseil : co-fondateur du Créalab et responsable 'dev éco' Grand Angoulème. 
 *   [Mickael Schwartz](https://fr.linkedin.com/in/michael-schwartz-83916639/fr) : co-fondateur du réseau de coworking spaces "La Cordée"
-*   [Yoann Duriaux](https://fr.linkedin.com/in/yoann-duriaux-b162121b) : co-fondateur de [Movilab](http://movilab.org), co-commisaire sur la [biennale 2017](http://www.biennale-design.com/saint-etienne/2013/fr/home/)
+*   [Yoann Duriaux](https://fr.linkedin.com/in/yoann-duriaux-b162121b) : co-initiateur de [Movilab](http://movilab.org), co-commisaire sur la [biennale 2017](http://www.biennale-design.com/saint-etienne/2013/fr/home/)
 
 **Yannick Conseil**
 
-*   Yanick Conseil est le fondateur créalab et resp dév économique grand Angoulème
 *   En 2013, l'idée etait de créer des fablabs (pour matérialiser des idées). Les acteurs locaux ont aggrégé une communauté d'entrepreneurs puis ont créé une association (Créalab à Angouleme, en charge de l'animation). L'association compte en l'état 1 salarié. 
-*   En 2015, le CA a souhaité créer 2 ateliers dans l'espace. Ils ont créé un lieu ouvert, au coeur d'un quartier jeune, qui mixte entrepreneurs, salariés, intermittents et citoyens. Difficultés : être ouvert à tous, faire avec des moyens limités. Approche projet plébiscitée.
+*   En 2015, le CA a souhaité créer 2 ateliers. Ils ont créé un lieu ouvert, au coeur d'un quartier jeune, qui mixte entrepreneurs, salariés, intermittents et citoyens. Difficultés : être inclusif  et faire avec des moyens limités. Approche projet plébiscitée.
 
 **Mickael Schwartz**
 
-*   [Mickael Schwartz](https://fr.linkedin.com/in/michael-schwartz-83916639/fr) est le co-fondateur du réseau de coworking spaces "La Cordée"
 *   Mission : création de coworking spaces à Lyon et aux alentours. Accompagnent de la collectivité, de porteurs de projets, d'entreprise sur la question de la 'gestion du territoire'.
 *   Le Tiers-Lieu est une zone de connexions entre des publics différents publics qui partagent un même territoire. Au XXe siècle, les lieux qui le faisaient ont perdu leur usages. Qu'est-ce qu'on en fait aujourd'hui ? Comment on les fait vivre ? Qui créé la connexion à quel moment ?
 *   Est-ce légitime de financer de nouveaux lieux  alors qu'il y a déjà des lieux à faire vivre ?
 
 **Yoann Duriaux**
 
-*   Yoann Duriaux est co-fondateur de [Movilab](http://movilab.org/), co-commisaire sur la [biennale 2017](http://www.biennale-design.com/saint-etienne/2013/fr/home/)
 *   Pour permettre les connexions effectives, il faut avoir des rôles et des postures.
 *   A l'origine de Movilab, capital informationnel des données (dont témoignages).
 *   POC Fondation permet de prendre soin du capital commun des tiers lieux (libres).
