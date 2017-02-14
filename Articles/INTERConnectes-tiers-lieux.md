@@ -1,8 +1,10 @@
 # [Interconnectés] 'Y'a t-il trop de tiers-lieux en France ?'
 
-tl;dr: OUI. Et il faut créer plus de 'lieux polymorphes modulaires'! Ou plus sérieusement : il est important de dépasser le sens 1er du terme pour proposer des éléments de structuration. 
+tl;dr: OUI. Et il faut de toute urgence créer plus de 'lieux polymorphes modulaires'! Plus sérieusement : il est important de dépasser le sens premier du terme (qui date de 2012- pour proposer des éléments de structuration. 
 
-![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_NcAqF0gExXs_p.62368_1481656402158_Photo 13-12-2016 20 09 59.jpg)
+<p align="center">
+<img src="https://hackpad-attachments.s3.amazonaws.com/hackpad.com_NcAqF0gExXs_p.62368_1481656402158_Photo 13-12-2016 20 09 59.jpg" width="80%">
+</p>
 
 # A propos de ce document
 
