@@ -38,7 +38,8 @@ Ce document est une synthèse écrite de la [session consacrée aux tiers-lieux]
 *   [POC Fondation](http://movilab.org/index.php?title=La_POC_Foundation) permet de prendre soin du capital commun des tiers lieux (libres).
 *   Pour Rosenberg, il convient de parler de 'tiers espaces' plutôt que de 'tiers lieux'. 
 *   Pour approndir les tiers-lieux sous l'angle académique, il faut lire [Antoine Burret](https://www.linkedin.com/in/antoineburret/fr) ! 
-*   Il faut vivre le tiers lieux et pas seulement les 'expliquer'. En résumé, les tiers-lieux permettent à des gens improbables de rencontrer d'autres gens improbables (pour coopérer) ! 
+*   Par construction, il est vain d'expliquer les tiers lieux. Il faut 'juste' les vivre. 
+*   Les tiers-lieux permettent à des gens improbables de rencontrer d'autres gens improbables (pour coopérer) ! 
 *   Ils sont libres et open source à la différence des institutions et des commerces privés.
 *   Il y a plusieurs façons d'inventer. Pas besoin de créer de grands lieux pour un usage unique.
 
