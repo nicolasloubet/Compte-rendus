@@ -84,4 +84,4 @@ Ce document est une synthèse écrite de la [session consacrée aux tiers-lieux]
 
 # Crédits des images
 
-*   La photo en une a été prise par Charlotte Rizzo et publiée sur [Twitter](https://twitter.com/ch4r1zz/status/808609721490014208) le 13 décembre 2016.
+*   La photo en une de ce document a été prise par [Charlotte Rizzo](https://www.linkedin.com/in/charlotte-rizzo-39651124/) (la MYNE) et publiée sur [Twitter](https://twitter.com/ch4r1zz/status/808609721490014208) le 13 décembre 2016.
