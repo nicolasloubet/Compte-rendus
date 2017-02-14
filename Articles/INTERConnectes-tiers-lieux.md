@@ -59,7 +59,7 @@ Ce document est une synthèse écrite de la [session consacrée aux tiers-lieux]
 
 **Michael Schwartz**
 
-*   Coworking = communauté de travail qui se manifeste initiellement par un partage d'espace pour travailler (mais on a aussi des gens de passage). Le tiers lieux est un espace de friction.
+*   Le coworking est une communauté de travail qui se manifeste initialement par un partage de l'espace pour travailler (mais on a aussi des gens de passage). Le tiers lieu est un espace de friction.
 
 **Témoin sur place**
 
@@ -67,7 +67,7 @@ Ce document est une synthèse écrite de la [session consacrée aux tiers-lieux]
 
 **Pascal Perez**
 
-*   Besoin d'une évolution plus importante, d'une rupture : il y aura plus d'emplois salariés mais des procumers (producteurs & consommateurs). On parle des startups car c'est l'argent est ce ce qui attire la presse. On arrive pas à péter les institutions et reconnaitre la valeur des TL. 
+*   Besoin d'une évolution plus importante, d'une rupture : il y aura plus d'emplois salariés mais des prosumers (producteurs & consommateurs). On parle des startups car c'est l'argent est ce ce qui attire la presse. On arrive pas à péter les institutions et reconnaitre la valeur des TL. 
 
 # Autres données utiles
 
