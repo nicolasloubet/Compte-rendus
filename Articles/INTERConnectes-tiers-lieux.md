@@ -1,4 +1,4 @@
-# Débat aux Interconnectés — 'Y'a t-il trop de tiers-lieux en France ?'
+# [Interconnectés] 'Y'a t-il trop de tiers-lieux en France ?'
 
 ![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_NcAqF0gExXs_p.62368_1481656402158_Photo 13-12-2016 20 09 59.jpg)
 
