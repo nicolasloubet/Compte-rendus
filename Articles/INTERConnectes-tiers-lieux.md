@@ -33,7 +33,7 @@ Ce document est une synthèse écrite de la [session consacrée aux tiers-lieux]
 
 **Yoann Duriaux**
 
-*   A l'origine de Movilab, il y a un capital informationnel de données (notamment des témoignages). La mission de la [POC Fondation](http://movilab.org/index.php?title=La_POC_Foundation) (association loi 1901) est de prendre soin de ce capital commun des tiers lieux (libres !).
+*   A l'origine de Movilab, il y a un capital informationnel de données (notamment des témoignages). La mission de la [POC Fondation](http://movilab.org/index.php?title=La_POC_Foundation) (association loi 1901) est de prendre soin de ce capital commun des tiers lieux (libres et open source).
 *   Pour approndir les tiers-lieux, il faut lire [Antoine Burret](https://www.linkedin.com/in/antoineburret/fr) ! Cela étant, les lire c'est bien, les vivre c'est mieux !
 *   En pratique, les tiers-lieux permettent à des gens improbables de rencontrer d'autres gens improbables (pour développer des services ensemble). Pour permettre les connexions effectives, il faut avoir des rôles et des postures.
 *   Les tiers-lieux qui donnet à voir leur procesus de fonctionnement sont libres à la différence des institutions et des commerces privés. Il y a plusieurs façons d'inventer. Pas besoin de créer de grands lieux pour un usage unique.
