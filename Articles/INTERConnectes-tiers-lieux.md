@@ -42,12 +42,11 @@ Ce document est une synthèse écrite de la [session consacrée aux tiers-lieux]
 
 **Bruno Duverger**
 
-*   Vice président numérique de la communauté de communes (com de com) '[59 communes](http://www.grandlyon.com/metropole/59-communes.html)'. Consultant en 'fusion des communes' Sa question : où vont les habitants lors des fusions ? 
-*   Le but : que les habitants se rencontrent dans un autre cadre que l'administratif et le biz. 
+*   Vice président numérique de la communauté de communes (com de com) '[59 communes](http://www.grandlyon.com/metropole/59-communes.html) et consultant en 'fusion des communes' Sa question : où vont les habitants lors des fusions ? Il faudrai que les habitants se rencontrent dans un autre cadre que l'administratif ou le commerce. 
 
 **Claudine Revol**
 
-*   Convergence entre les lieux du XXe et XXIe. On avait besoin de réinventer les lieux, les institutions ne répondaient pas au besoin. Le besoin principal désormais : le travail nomade (qui a changé) + d'autres à développer qui existent moins, autour d'intérêts nouveaux. 
+*   Il y a un mouvement de convergence entre les lieux de rencontres du XXe et XXIe. On avait besoin de réinventer les lieux, les institutions ne répondaient plus au besoin. Le besoin principal est désormais le travail nomade (qui mute). D'autres besoins s'expriment autour d'intérêts nouveaux. 
 
 **Yoann Duriaux**
 
@@ -55,15 +54,15 @@ Ce document est une synthèse écrite de la [session consacrée aux tiers-lieux]
 
 **Michael Schwartz**
 
-*   Le coworking est une communauté de travail qui se manifeste initialement par un partage de l'espace pour travailler (mais on a aussi des gens de passage). Le tiers lieu est un espace de friction.
+*   Le coworking se définit au travers d'une communauté de travail qui se manifeste par un partage de l'espace au début. Le tiers lieu agit lui comme une zone de friction(s).
 
 **Témoin sur place**
 
-*   Tiers-lieu = instance politique et sociale où on va s'échanger des idées pour réinventer la société. Ce n'est pas lié à la technologie. Il existe aussi des "espaces numériques". 
+*   Le tiers-lieu est instance politique et sociale où on va s'échanger des idées pour réinventer la société. Ce n'est pas lié à la technologie. Il existe aussi des "espaces numériques". 
 
 **Pascal Perez**
 
-*   Besoin d'une évolution plus importante, d'une rupture : il y aura plus d'emplois salariés mais des prosumers (producteurs & consommateurs). On parle des startups car c'est l'argent est ce ce qui attire la presse. On arrive pas à péter les institutions et reconnaitre la valeur des TL. 
+*   Nous avons besoin d'une évolution plus importante, d'une rupture. Bientôt, il n'y aura plus d'emplois salariés mais des prosumers. Les startups profifent d'une attention exagérée car l'argent attire la presse. On arrive pas à péter les institutions et reconnaitre la valeur des tiers-lieux. 
 
 # Données utiles
 
