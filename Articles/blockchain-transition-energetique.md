@@ -74,13 +74,11 @@ CEA Tech est le pole de recherche 'tech' du CEA (qui agit historiquement sur la 
 
 Pour Sara, la philosophie blockchain se résume à 'chacun peut contribuer au système' (chaque acteur déclare ce qu'il a fait et tout le monde le sait). Ex.des "Supply Chains" (où il y a des compétiteurs qui ne peuvent pas se faire confiance).
 
-Comment améliorer les services à partir des traces laisssées sur la blockchain ? > data analytics
-
-Très dur d'évaluer toutes les techniques (= maîtriser, comparer, savoir ce qu'il y a derrière).
-
-IRISA est l'un des laboratoires spÈcialistes (en EU) dans le domaine du calcul distribué.
-
-Startup intégrée dans le processus de travail autour de la thématique  **[Trust In Soft](https://trust-in-soft.com/about-us-tis/)**.
+Questions (ouvertes), remarques et informations utiles : 
+* Comment améliorer les services à partir des traces laisssées sur la blockchain ?
+* Dur d'évaluer toutes les techniques (= maîtriser, comparer, savoir ce qu'il y a derrière).
+* IRISA est l'un des laboratoires spÈcialistes (en EU) dans le domaine du calcul distribué.
+* La 'startup' **[Trust In Soft](https://trust-in-soft.com/about-us-tis/)** est spécialisée dans la vérification automatique de code.
 
 **Action** : lien avec les core devi Ethereum (pendant [EDCON](http://edcon.io) !) => voici le [diaporama](https://www.dropbox.com/s/kxm5mthqw3l5p5f/Block-chain%40CEA_LIST4Meetup_2017.02.15.pdf?dl=0). 
 
