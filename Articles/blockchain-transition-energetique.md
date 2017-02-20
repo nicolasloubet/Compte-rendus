@@ -10,9 +10,9 @@ Ce document est une synthèse écrite - partielle - d'un [meetup](https://www.me
 
 # Présent.e.s sur place
 
-* **[Mathieu](https://www.linkedin.com/in/matthieuboisson/)** : ancien *product owner* chez [PowerNext](http://www.powernext.fr/). Intéressé par les enjeux de traçabilité. 
+* **[Mathieu](https://www.linkedin.com/in/matthieuboisson/)** : anc. *product owner* chez [PowerNext](http://www.powernext.fr/). Intéressé par les enjeux de traçabilité. 
 
-* **Mikhaël** : designer. Avant tout curieux et en découverte des pratiques blockchain.
+* **Mikhaël** : designer ([Enzyme&Co](http://enzymeandco.com)). Curieux et en découverte des pratiques blockchain.
 
 * **Johan** : informaticien en transition, ancien d'[Etalab](https://www.etalab.gouv.fr/qui-sommes-nous). [OGP Toolbox](http://ogptoolbox.org/). Intérêt : nouveaux modèles de gouvernance. 
 
