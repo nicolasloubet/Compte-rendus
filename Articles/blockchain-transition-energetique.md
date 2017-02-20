@@ -66,7 +66,7 @@ Vont rencontrer ENEDIS bientôt pour questionner le coût de passage sur le rés
 
 Point intéressant : il y a d'autres projets que Fabric dans Hyperledger : cello, iroha, etc.
 
-**Action** : soutenir leur recherche de profils orientés blockchain (ils recrutent !).
+**Action** : soutenir leur recherche de profils qui ont de la pratique sur/avec blockchain (ils recrutent  !).
 
 # Intervention de Sara
 
@@ -76,7 +76,7 @@ La recherche 'blockchain' s'inscrit dans la branche "systèmes distribués", vé
 
 Philosophie blockchain : chacun peut contribuer au système. E.g. dans une "Supply Chain", il y a pas mal de compétiteurs qui ne peuvent pas se faire confiance. Blockchain => j'ai fait quelque chose, tout le monde le sait. 
 
-Comment améliorer les services à partir des traces laisssées sur la blockchain > data analytics
+Comment améliorer les services à partir des traces laisssées sur la blockchain ? > data analytics
 
 Très dur d'évaluer toutes les techniques (= maîtriser, comparer, savoir ce qu'il y a derrière...).
 
