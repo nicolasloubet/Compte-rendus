@@ -26,9 +26,9 @@ Ce document est une synthèse écrite - partielle - d'un [meetup](https://www.me
 
 * **David** : membre du [P2P FoodLab](https://p2pfoodlab.net/) (qui s'intéresse à l'agro-écologie). Il travaille sur robot pour jardiner des cultures maraichères. S'intèresse à DAISEE au travers des enjeux d'autonomie énergétique.
 
-* **Kim** : dev web. S'intéresse à la BC, l'IoT et [IPFS](https://ipfs.io/). Contribution à DAISEE sur la partie API.
+* **Kim** : dev web. S'intéresse à la BC, l'IoT et [IPFS](https://ipfs.io/). Contributrice DAISEE sur la partie API.
 
-* **Stéphane** : dev web engagé sur BC. A travaillé chez Ledger (qui développe des hardware wallets). Co-fondateur de [ASSETH](http://www.asseth.fr/). Créer sa société de conseil pour former les équipes. 
+* **Stéphane** : dev web très engagé sur la blockchain. A travaillé - en stage - chez Ledger (qui développe des hardware wallets). Co-fondateur de [ASSETH](http://www.asseth.fr/). A créeé sa société de conseil pour former des équipes. 
 
 * **Jean-Mickael** : Ètudiant ESILV . Travaille sur un projet avec  [IOTA](https://iotatoken.com/). Travaille sur l'aspect audit. Intérêt sur aspect développement technique sur l'énergie. Membre d'[ASSETH](http://www.asseth.fr/)
 
