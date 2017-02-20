@@ -20,7 +20,7 @@ Ce document est une synthèse écrite - partielle - d'un [meetup](https://www.me
 
 * **Önder** : collègue de Sara. Spécialiste des systèmes et calculs distribués et intelligents
 
-* **Jean-Baptiste** : co-fondateur de Mobion (système de location de scooters électriques). A connu le meetup via Fabien. Projet Blockchain et Energie sur l'infra recharge scooter. 
+* **Jean-Baptiste** : co-fondateur de Mobion (système de location de scooters électriques). A connu le meetup via Fabien Gaisnier (engagé sur la Fabrique). Projet "Blockchain et Energie" sur l'infrastracuture de recharge des scooters.
 
 * **[Valentin](https://www.linkedin.com/in/valentin-lombardi-83a3b5b6/)** : Chargé d'innovation chez [Sigfox](https://www.sigfox.com/fr). Définition de use cases pertinents IoT / Blockchain, démonstrateurs sur des projets de certification data, de SC implémentés par de la sensor data...A fouillé plusieurs domaines industriels mais pas encore l'Ènergie d'où sa présence. 
 
