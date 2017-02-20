@@ -48,7 +48,7 @@ Ce document est une synthèse écrite - partielle - d'un [meetup](https://www.me
 
 # Intervention de Julien
 
-[Talium](http://tallium.fr) a déployé 2 usecases pour SunChain (spécialiste de l'énergie photovoltaique en France).
+[Talium](http://tallium.fr) a déployé 2 usecases pour SunChain (spin-off de [TECSOL](http://www.tecsol.fr), spécialiste de l'énergie photovoltaique en France).
 
 *   Auto-consommation d'Ènergie avec [Monax](https://monax.io/?redirect_from_eris=true) 
 
