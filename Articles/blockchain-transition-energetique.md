@@ -42,7 +42,7 @@ Ce document est une synthèse écrite - partielle - d'un [meetup](https://www.me
 
 * **Samira** : tech leader de DAISEE. Soutient toutes les démarches des prototypage.
 
-* **Nicolas & Clément** : co-initiateurs de [Cellabz](http://cellabz.com) qui co-produit DAISEE.
+* **Nicolas & Clément** : explorateurs, co-initiateurs de [Cellabz](http://cellabz.com) qui co-produit DAISEE.
 
 * **Rieul** : énergéticien de métier, co-initiateur de la [MYNE](http://lamyne.org) qui co-produit DAISEE.
 
