@@ -22,9 +22,9 @@ Ce document est une synthèse écrite - partielle - d'un [meetup](https://www.me
 
 * **Jean-Baptiste** : co-fondateur de Mobion (location de scooters électriques). A connu le meetup via F. Gaisnier (engagé sur la Fabrique). Projet "Blockchain" sur l'infrastracuture de recharge des scooters.
 
-* **[Valentin](https://www.linkedin.com/in/valentin-lombardi-83a3b5b6/)** : chargé d'innovation chez [Sigfox](https://www.sigfox.com/fr). A cherché des usecases pertinents au croisement IoT/Blockchain. A fouillé plusieurs domaines industriels mais n'a encore rien initité sur l'énergie.
+* **[Valentin](https://www.linkedin.com/in/valentin-lombardi-83a3b5b6/)** : chargé d'innovation chez [Sigfox](https://www.sigfox.com/fr). A cherché des usecases pertinents au croisement IoT/Blockchain. A fouillé plusieurs domaines industriels mais n'a encore rien initité sur/autour de l'énergie.
 
-* **David** : membre du [P2P FoodLab](https://p2pfoodlab.net/) (qui s'intéresse ‡ l'agro-écologie > robot pour jardiner des cultures maraichères). S'intèresse à DAISEE au travers des enjeux d'autonomie énergétique.
+* **David** : membre du [P2P FoodLab](https://p2pfoodlab.net/) (qui s'intéresse à l'agro-écologie). Il travaille sur robot pour jardiner des cultures maraichères. S'intèresse à DAISEE au travers des enjeux d'autonomie énergétique.
 
 * **Kim** : dev web. S'intéresse à la BC, l'IoT et [IPFS](https://ipfs.io/). Contribution partie API et prototype de DAISEE. 
 
