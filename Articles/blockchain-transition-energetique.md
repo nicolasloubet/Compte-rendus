@@ -30,9 +30,9 @@ Ce document est une synthèse écrite - partielle - d'un [meetup](https://www.me
 
 * **Stéphane** : dev web très engagé sur la blockchain. A travaillé - en stage - chez Ledger (qui développe des hardware wallets). Co-fondateur de [ASSETH](http://www.asseth.fr/). A créeé sa société de conseil pour former des équipes. 
 
-* **Jean-Mickael** : Ètudiant ESILV . Travaille sur un projet avec  [IOTA](https://iotatoken.com/). Travaille sur l'aspect audit. Intérêt sur aspect développement technique sur l'énergie. Membre d'[ASSETH](http://www.asseth.fr/)
+* **Jean-Mickael** : étudiant à l'[ESIEE](http://esiee.fr). Travaille sur un projet avec  [IOTA](https://iotatoken.com/) (sur des pratiques d'audit). Intéressé par les enjeux techniques de l'énergie. Eglament membre d'[ASSETH](http://www.asseth.fr/)
 
-* **Martin** : étudiant à [SUPAERO](https://www.isae.fr/). Intéressé par le secteur de l'énergie. Présent sur le meetup par curiosité ! 
+* **Martin** : étudiant à [SUPAERO](https://www.isae.fr/). Intéressé par le secteur de l'énergie. Présent par curiosité ! 
 
 * **Anna** : travaille dans la société [Energisme](http://energisme.com/fr/) (qui compte 30 personnes). Doctorante sur la thématique. 
 
