@@ -50,13 +50,13 @@ Ce document est une synthèse écrite - partielle - d'un [meetup](https://www.me
 
 [Talium](http://tallium.fr) a déployé 2 usecases pour SunChain (spin-off de [TECSOL](http://www.tecsol.fr), spécialiste de l'énergie photovoltaique en France).
 
-*   Auto-consommation d'Ènergie avec [Monax](https://monax.io/?redirect_from_eris=true) 
+* Auto-consommation d'énergie avec [Monax](https://monax.io/?redirect_from_eris=true) 
 
 <p align="center">
 <img src="https://github.com/nicolasloubet/Compte-rendus/blob/master/Images/blockchain-transition-energetique-slide2.png" >
 </p>
 
-*   Consommation mobile avec [Hyperledger](http://hyperledger.org)
+* Consommation "mobile" avec [Hyperledger](http://hyperledger.org)
 
 <p align="center">
 <img src="https://github.com/nicolasloubet/Compte-rendus/blob/master/Images/blockchain-transition-energetique-slide3.png" >
@@ -66,21 +66,21 @@ Vont rencontrer ENEDIS bientôt pour questionner le coût de passage sur le rés
 
 Point intéressant : il y a d'autres projets que Fabric dans Hyperledger : cello, iroha, etc.
 
-**Problématiques rencontrées et besoins**: en recherche de profils blockchain (ils recrutent !).
+**Action** : soutenir leur recherche de profils orientés blockchain (ils recrutent !).
 
 # Intervention de Sara
 
-CEA Tech = pole de recherche technologique du CEA (support ‡ la gestion des centrales). Expertise coeur : la vérification de programmes (pour des installation industrielles critiques).
+CEA Tech est le pole de recherche technologique du CEA (qui agit historiquement en support à la gestion des centrales). Expertise coeur : la vérification de programmes (pour des installation industrielles critiques).
 
-La recherche 'blockchain' s'inscrit dans la branche systèmes distribués, vérification, algorithmie. Les activités de recherche sont : Smart contracts + Networking (réseau, détection de failles).
+La recherche 'blockchain' s'inscrit dans la branche "systèmes distribués", vérification, algorithmie. Les activités de recherche portent sur les Smart contracts et le Networking (réseau, détection de failles).
 
-Philosophie : chacun peut contribuer au système. Supply Chain, pas mal de compétiteurs.... qui ne peuvent pas se faire confiance. Blockchain : j'ai fait quelque chose, tout le monde le sait. 
+Philosophie blockchain : chacun peut contribuer au système. E.g. dans une "Supply Chain", il y a pas mal de compétiteurs qui ne peuvent pas se faire confiance. Blockchain => j'ai fait quelque chose, tout le monde le sait. 
 
 Comment améliorer les services à partir des traces laisssées sur la blockchain > data analytics
 
 Très dur d'évaluer toutes les techniques (= maîtriser, comparer, savoir ce qu'il y a derrière...).
 
-Panel de technologies : 
+Panel de technologies présentées sur le meetup : 
 *   Cryptographie homomorphe
 *   Exhaustive vulnerability detection. 
 *   Network Security
@@ -89,7 +89,7 @@ IRISA est l'un des laboratoires spÈcialistes (en EU) dans le domaine du calcul 
 
 Startup intégrée dans le processus de travail autour de la thématique  **[Trust In Soft](https://trust-in-soft.com/about-us-tis/)**.
 
-<u>Action</u> : lien avec les core devi Ethereum (pendant [EDCON](http://edcon.io) !) => voici le [diaporama](https://www.dropbox.com/s/kxm5mthqw3l5p5f/Block-chain%40CEA_LIST4Meetup_2017.02.15.pdf?dl=0). 
+**Action** : lien avec les core devi Ethereum (pendant [EDCON](http://edcon.io) !) => voici le [diaporama](https://www.dropbox.com/s/kxm5mthqw3l5p5f/Block-chain%40CEA_LIST4Meetup_2017.02.15.pdf?dl=0). 
 
 # Intervention de J.-B.
 
