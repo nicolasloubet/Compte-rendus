@@ -6,7 +6,7 @@
 
 # À propos de ce document
 
-Ce document est une synthèse écrite du [meetup](https://www.meetup.com/fr-FR/DAISEE/events/237689856/) du 16/02/2016 au [Square](https://twitter.com/squareparis?lang=fr) (initié par la Fabrique des Mobilités, DAISEE et Asseth dans le cadre des événements satellites d'[EDCON](http://edcon.io)).
+Ce document est une (modeste) synthèse écrite du [meetup](https://www.meetup.com/fr-FR/DAISEE/events/237689856/) du 16/02/2016 au [Square](https://twitter.com/squareparis?lang=fr) initié par la Fabrique des Mobilités, DAISEE et Asseth dans le cadre des événements satellites de la conférence [EDCON](http://edcon.io)).
 
 # Présent.e.s sur place
 
