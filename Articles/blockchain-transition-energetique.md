@@ -70,9 +70,9 @@ Point intéressant : il y a d'autres projets que Fabric dans Hyperledger : cello
 
 # Intervention de Sara
 
-CEA Tech est le pole de recherche 'technologique' du CEA (qui agit historiquement sur la gestion des centrales). Son expertise coeur est la vérification de programmes. La recherche 'blockchain' s'inscrit dans la branche "systèmes distribués", vérification, algorithmie. Les activités portent sur les smart contracts et le networking (réseau, détection de failles).
+CEA Tech est le pole de recherche 'tech' du CEA (qui agit historiquement sur la gestion des centrales). Son expertise coeur est la vérification de programmes. La recherche 'blockchain' s'inscrit dans la branche "systèmes distribués", vérification, algorithmie. Les activités portent sur les smart contracts et le networking (réseau, détection de failles).
 
-Pour Sara, la philosophie blockchain se résume à 'chacun peut contribuer au système' (chaque acteur du réseau déclare ce qu'il a fait et tout le monde le sait). Ex.des "Supply Chains" (où il y a pas mal de compétiteurs qui ne peuvent pas se faire confiance).
+Pour Sara, la philosophie blockchain se résume à 'chacun peut contribuer au système' (chaque acteur du réseau déclare ce qu'il a fait et tout le monde le sait). Ex.des "Supply Chains" (où il y a des compétiteurs qui ne peuvent pas se faire confiance).
 
 Comment améliorer les services à partir des traces laisssées sur la blockchain ? > data analytics
 
