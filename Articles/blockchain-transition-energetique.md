@@ -40,11 +40,11 @@ Ce document est une synthèse écrite - partielle - d'un [meetup](https://www.me
 
 * **Julien & François** : co-fondateurs de [Tallium](http://www.talium.fr/) qui a réalisé 2 'POCs' pour SunChain.
 
-* **Samira** : tech leader de la commuanuté DAISEE. Soutient toutes les démarches des prototypage.
+* **Samira** : tech leader de DAISEE. Soutient toutes les démarches des prototypage.
 
 * **Nicolas & Clément** : co-initiateurs de [Cellabz](http://cellabz.com) qui co-produit DAISEE.
 
-* **Rieul** : énergéticien de métier, co-initiateur de la MYNE qui co-produit DAISEE.
+* **Rieul** : énergéticien de métier, co-initiateur de la [MYNE](http://lamyne.org) qui co-produit DAISEE.
 
 # Intervention de Julien
 
