@@ -108,7 +108,7 @@ Pour un aperçu des travaux de Pierre, voir : [](http://observatoire-blockchains
 # Intervention de Rieul
 
 <p align="center">
-<img src="https://github.com/nicolasloubet/Compte-rendus/blob/master/Images/blockchain-transition-energetique-slide1.jpg" width="80%">
+<img src="https://github.com/nicolasloubet/Compte-rendus/blob/master/Images/blockchain-transition-energetique-slide4.jpg" width="80%">
 </p>
 
 Rieul a fait la même présentation que sur EventHorizon : [](http://bit.ly/DAISEE-EventHorizonx)http://bit.ly/DAISEE-EventHorizonx
