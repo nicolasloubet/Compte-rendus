@@ -14,7 +14,7 @@ Ce document est une synthèse écrite - partielle - d'un [meetup](https://www.me
 
 * **Mikhaël** : designer ([Enzyme&Co](http://enzymeandco.com)). Curieux et en découverte des pratiques blockchain.
 
-* **Johan** : informaticien en transition, ancien d'[Etalab](https://www.etalab.gouv.fr/qui-sommes-nous). [OGP Toolbox](http://ogptoolbox.org/). Intérêt : nouveaux modèles de gouvernance. 
+* **Johan** : ancien d'[Etalab](https://www.etalab.gouv.fr/qui-sommes-nous). Développe l'[OGP Toolbox](http://ogptoolbox.org/). Intérêt : nouveaux modèles de gouvernance. 
 
 * **[Sara](https://www.linkedin.com/in/sara-tucci-piergiovanni-1582672/)** : du [CEA L](http://www-list.cea.fr/)[IST](http://www-list.cea.fr/) (CEA Tech), en charge activités autour de la blockchain. Collaboration avec [IRISA](https://www.irisa.fr/) de Rennes (sur les algorithmes de consensus), [I](http://www.telecom-sudparis.eu/fr_accueil.html)[M](http://www.telecom-sudparis.eu/fr_accueil.html)[T](http://www.telecom-sudparis.eu/fr_accueil.html) (sur les contracts). Explore les systèmes d'obligation au dessus de la blockchain. Cherche des personnes par co-travailler.
 
