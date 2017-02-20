@@ -28,9 +28,9 @@ Ce document est une synthèse écrite - partielle - d'un [meetup](https://www.me
 
 * **Kim** : dev web. S'intéresse à la BC, l'IoT et [IPFS](https://ipfs.io/). Contributrice DAISEE sur la partie API.
 
-* **Stéphane** : dev web très engagé sur la blockchain. A travaillé - en stage - chez Ledger (qui développe des hardware wallets). Co-fondateur de [ASSETH](http://www.asseth.fr/). A créeé sa société de conseil pour former des équipes. 
+* **Stéphane** : dev web très engagé sur la blockchain. A travaillé - en stage - chez Ledger (qui développe des *hardware wallets*). Co-fondateur de [ASSETH](http://www.asseth.fr/). A créeé sa société de conseil pour former des équipes. 
 
-* **Jean-Mickael** : étudiant à l'[ESIEE](http://esiee.fr). Travaille sur un projet avec  [IOTA](https://iotatoken.com/) (sur des pratiques d'audit). Intéressé par les enjeux techniques de l'énergie. Eglament membre d'[ASSETH](http://www.asseth.fr/)
+* **Jean-Mickael** : étudiant à l'[ESIEE](http://esiee.fr). Travaille actuellement sur un projet qui s'appuie sur [IOTA](https://iotatoken.com/) (pour des pratiques d'audit). Intéressé par les enjeux techniques de l'énergie. Également membre d'[ASSETH](http://www.asseth.fr/)
 
 * **Martin** : étudiant à [SUPAERO](https://www.isae.fr/). Intéressé par le secteur de l'énergie. Présent par curiosité ! 
 
