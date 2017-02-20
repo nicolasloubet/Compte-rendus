@@ -48,7 +48,7 @@ Ce document est une synthèse écrite - partielle - d'un [meetup](https://www.me
 
 # Intervention de Julien
 
-[Talium](http://tallium.fr) a déployé 2 usecases pour SunChain.
+[Talium](http://tallium.fr) a déployé 2 usecases pour SunChain (spécialiste de l'énergie photovoltaique en France).
 
 *   Auto-consommation d'Ènergie avec [Monax](https://monax.io/?redirect_from_eris=true) 
 
@@ -97,9 +97,7 @@ Objectif : qualifier l'énergie qu'on consomme / produit. Interaction telecom / 
 
 Mission : avoir un instantané de la qualité du réseau. Partage d'une "méta-variable".
 
-Conseil de Matthieu : regardez les garanties d'origine (Powernext est l'un des garants en FR).
-
-*   Solarcoin est venu rencontrer PowerNext (ils se positionnent sur l'incentive).
+Conseil de Matthieu : voir les "garanties d'origine" (Powernext est l'un des garants en FR).
 
 # Intervention de Pierre
 
