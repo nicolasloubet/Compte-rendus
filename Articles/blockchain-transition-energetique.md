@@ -14,9 +14,9 @@ Ce document est une synthèse écrite - partielle - d'un [meetup](https://www.me
 
 * **Mikhaël** : designer. Avant tout curieux et en découverte des pratiques blockchain.
 
-* **Johan Richer ** : informaticien en transition, ancien d'[Etalab](https://www.etalab.gouv.fr/qui-sommes-nous). [OGP Toolbox](http://ogptoolbox.org/). Intérêt : nouveaux modèles de gouvernance. 
+* **Johan** : informaticien en transition, ancien d'[Etalab](https://www.etalab.gouv.fr/qui-sommes-nous). [OGP Toolbox](http://ogptoolbox.org/). Intérêt : nouveaux modèles de gouvernance. 
 
-* **[Sara](https://www.linkedin.com/in/sara-tucci-piergiovanni-1582672/) ** : du [CEA L](http://www-list.cea.fr/)[IST](http://www-list.cea.fr/) (CEA Tech), en charge activités autour de la blockchain. Collaboration avec [IRISA](https://www.irisa.fr/) de Rennes (sur les algorithmes de consensus), [I](http://www.telecom-sudparis.eu/fr_accueil.html)[M](http://www.telecom-sudparis.eu/fr_accueil.html)[T](http://www.telecom-sudparis.eu/fr_accueil.html) (sur les contracts). Explore les systèmes d'obligation au dessus de la blockchain. Cherche des personnes par co-travailler.
+* **[Sara](https://www.linkedin.com/in/sara-tucci-piergiovanni-1582672/)** : du [CEA L](http://www-list.cea.fr/)[IST](http://www-list.cea.fr/) (CEA Tech), en charge activités autour de la blockchain. Collaboration avec [IRISA](https://www.irisa.fr/) de Rennes (sur les algorithmes de consensus), [I](http://www.telecom-sudparis.eu/fr_accueil.html)[M](http://www.telecom-sudparis.eu/fr_accueil.html)[T](http://www.telecom-sudparis.eu/fr_accueil.html) (sur les contracts). Explore les systèmes d'obligation au dessus de la blockchain. Cherche des personnes par co-travailler.
 
 * **Önder** : collègue de Sara. Spécialiste des systèmes et calculs distribués et intelligents
 
@@ -30,17 +30,17 @@ Ce document est une synthèse écrite - partielle - d'un [meetup](https://www.me
 
 * **Stéphane** : dev web engagé sur BC. A travaillé chez Ledger (qui développe des hardware wallets). Co-fondateur de [ASSETH](http://www.asseth.fr/). Créer sa société de conseil pour former les équipes. 
 
-* *Jean-Mickae** : Ètudiant ESILV . Travaille sur un projet avec  [IOTA](https://iotatoken.com/). Travaille sur l'aspect audit. Intérêt sur aspect développement technique sur l'énergie. Membre d'[ASSETH](http://www.asseth.fr/)
+* **Jean-Mickael** : Ètudiant ESILV . Travaille sur un projet avec  [IOTA](https://iotatoken.com/). Travaille sur l'aspect audit. Intérêt sur aspect développement technique sur l'énergie. Membre d'[ASSETH](http://www.asseth.fr/)
 
 * **Martin** : Étudiant ‡ [SUPAERO](https://www.isae.fr/). Intêret pour le secteur. Présent sur le meetup par curiosité ! 
 
-* **Anna ** : travaille dans la société [Energisme](http://energisme.com/fr/) (qui compte 30 personnes). Doctorante sur la thématique. 
+* **Anna** : travaille dans la société [Energisme](http://energisme.com/fr/) (qui compte 30 personnes). Doctorante sur la thématique. 
 
 * **[Pierre](https://www.linkedin.com/in/paperon/)** : stratégistes. A connu les débuts de l'Internet (grand public). Suit Bitcoin depuis 2013. Voit arriver des Blockchain 2.0. Investisseur dans différente sociétés dont [Energisme](http://energisme.com/fr/), notamment impliqué sur le POC Bouygues. Intért Ethereum sur la thématique gouvernance. 
 
 * **Julien& François** : co-fondateurs de [Tallium](http://www.talium.fr/) (société middleware). 2 'POCs' Ènergie (avec SunChain).
 
-* **Samira ** : tech leader de la commuanuté DAISEE. Soutient toutes les démarches des prototypage.
+* **Samira** : tech leader de la commuanuté DAISEE. Soutient toutes les démarches des prototypage.
 
 # Intervention de Julien
 
