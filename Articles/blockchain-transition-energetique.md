@@ -14,9 +14,9 @@ Ce document est une synthèse écrite - partielle - d'un [meetup](https://www.me
 
 * **Mikhaël** : designer ([Enzyme&Co](http://enzymeandco.com)). Curieux et en découverte des pratiques blockchain.
 
-* **Johan** : ancien d'[Etalab](https://www.etalab.gouv.fr/qui-sommes-nous). Développe l'[OGP Toolbox](http://ogptoolbox.org/). Intérêt : nouveaux modèles de gouvernance. 
+* **Johan** : ancien d'[Etalab](https://www.etalab.gouv.fr/qui-sommes-nous). Développe l'[OGP Toolbox](http://ogptoolbox.org/). Intérêt : modèles de gouvernance. 
 
-* **[Sara](https://www.linkedin.com/in/sara-tucci-piergiovanni-1582672/)** : du [CEA L](http://www-list.cea.fr/)[IST](http://www-list.cea.fr/) (CEA Tech), en charge activités autour de la blockchain. Collaboration avec [IRISA](https://www.irisa.fr/) de Rennes (sur les algorithmes de consensus), [I](http://www.telecom-sudparis.eu/fr_accueil.html)[M](http://www.telecom-sudparis.eu/fr_accueil.html)[T](http://www.telecom-sudparis.eu/fr_accueil.html) (sur les contracts). Explore les systèmes d'obligation au dessus de la blockchain. Cherche des personnes par co-travailler.
+* **[Sara](https://www.linkedin.com/in/sara-tucci-piergiovanni-1582672/)** : chercheure. au [CEA L](http://www-list.cea.fr/)[IST](http://www-list.cea.fr/) (CEA Tech), en charge activités / projets autour de la blockchain. Le CEA Collaboration avec l'[IRISA](https://www.irisa.fr/) de Rennes (sur les algorithmes de consensus), l'[IMT](http://www.telecom-sudparis.eu/fr_accueil.html) (sur les contracts). Le CEA explore les systèmes d'obligation au dessus de la blockchain. Sara cherche des personnes avec qui travailler.
 
 * **Önder** : collègue de Sara. Spécialiste des systèmes et calculs distribués et intelligents
 
