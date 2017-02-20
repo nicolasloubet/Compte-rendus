@@ -36,7 +36,7 @@ Ce document est une synthèse écrite - partielle - d'un [meetup](https://www.me
 
 * **Anna** : travaille chez [Energisme](http://energisme.com/fr/) (qui compte 30 personnes). Doctorante sur la thématique. 
 
-* **[Pierre](https://www.linkedin.com/in/paperon/)** : stratégiste. A connu les débuts de l'Internet (grand public). Suit Bitcoin depuis 2013. Investisseur dans différente sociétés dont [Energisme](http://energisme.com/fr/) (impliqué sur un POC pour Bouygues). Intéressé par les apports d'Ethereum en matière de gouvernance. 
+* **[Pierre](https://www.linkedin.com/in/paperon/)** : stratégiste. A connu les débuts de l'Internet (grand public). Suit Bitcoin depuis 2013. S'intéresse depuis au 'Blockchains 2.0". Investisseur dans différente sociétés dont [Energisme](http://energisme.com/fr/) (impliqué sur un POC pour Bouygues). Intéressé par les apports d'Ethereum en matière de gouvernance. 
 
 * **Julien & François** : co-fondateurs de [Tallium](http://www.talium.fr/) (société middleware). Ont fait 2 'POCs' pour SunChain.
 
