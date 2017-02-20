@@ -10,7 +10,7 @@ Ce document est une synthèse écrite - partielle - d'un [meetup](https://www.me
 
 # Présent.e.s sur place
 
-* **[Mathieu](https://www.linkedin.com/in/matthieuboisson/)** : ancien product owner chez [PowerNext](http://www.powernext.fr/). IntÈressÈ par les enjeux de traÁabilitÈ. 
+* **[Mathieu](https://www.linkedin.com/in/matthieuboisson/)** : ancien *product owner* chez [PowerNext](http://www.powernext.fr/). Intéressé par les enjeux de traçabilité. 
 
 * **Mikhaël** : designer. Avant tout curieux et en découverte des pratiques blockchain.
 
@@ -89,7 +89,7 @@ Startup intégrée dans le processus de travail autour de la thématique  **[Tru
 
 # Intervention de J.-B.
 
-Objectif : qualifier l'Ènergie qu'on consomme / produit. Interaction telecom / blockchain.
+Objectif : qualifier l'énergie qu'on consomme / produit. Interaction telecom / blockchain.
 
 Mission : avoir un instantané de la qualité du réseau. Partage d'une "méta-variable".
 
@@ -113,6 +113,6 @@ Pour un aperçu des travaux de Pierre, voir : [](http://observatoire-blockchains
 
 Rieul a fait la même présentation que sur EventHorizon : [](http://bit.ly/DAISEE-EventHorizonx)http://bit.ly/DAISEE-EventHorizonx
 
-# Crédits des images
+# Crédits images
 
 *   La photo en une de ce document a été prise par [Charlotte Rizzo](https://www.linkedin.com/in/charlotte-rizzo-39651124/) (la MYNE) et publiée sur [Twitter](https://twitter.com/ch4r1zz/status/808609721490014208) le 13 décembre 2016.
