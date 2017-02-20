@@ -36,11 +36,15 @@ Ce document est une synthèse écrite - partielle - d'un [meetup](https://www.me
 
 * **Anna** : travaille chez [Energisme](http://energisme.com/fr/) (qui compte 30 personnes). Doctorante sur la thématique. 
 
-* **[Pierre](https://www.linkedin.com/in/paperon/)** : stratégiste. A connu les débuts de l'Internet (grand public). Suit Bitcoin depuis 2013. S'intéresse depuis au 'Blockchains 2.0". Investisseur dans différente sociétés dont [Energisme](http://energisme.com/fr/) (impliqué sur un POC pour Bouygues). Intéressé par les apports de la blockchain Ethereum en matière de gouvernance. 
+* **[Pierre](https://www.linkedin.com/in/paperon/)** : stratégiste. A connu les débuts de l'Internet (grand public). Suit Bitcoin depuis 2013 et s'intéresse depuis 2014 au 'Blockchains 2.0". Investisseur dans différentes sociétés dont [Energisme](http://energisme.com/fr/) (impliqué sur un "POC" pour Bouygues). Intéressé par les apports de la blockchain Ethereum en matière de gouvernance. 
 
 * **Julien & François** : co-fondateurs de [Tallium](http://www.talium.fr/) qui a réalisé 2 'POCs' pour SunChain.
 
 * **Samira** : tech leader de la commuanuté DAISEE. Soutient toutes les démarches des prototypage.
+
+* **Nicolas & Clément** : co-initiateurs de [Cellabz](http://cellabz.com) qui co-produit DAISEE.
+
+* **Rieul** : énergéticien de métier, co-initiateur de la MYNE qui co-produit DAISEE.
 
 # Intervention de Julien
 
