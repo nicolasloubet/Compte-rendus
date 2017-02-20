@@ -32,7 +32,7 @@ Ce document est une synthèse écrite - partielle - d'un [meetup](https://www.me
 
 * **Jean-Mickael** : Ètudiant ESILV . Travaille sur un projet avec  [IOTA](https://iotatoken.com/). Travaille sur l'aspect audit. Intérêt sur aspect développement technique sur l'énergie. Membre d'[ASSETH](http://www.asseth.fr/)
 
-* **Martin** : Étudiant ‡ [SUPAERO](https://www.isae.fr/). Intêret pour le secteur. Présent sur le meetup par curiosité ! 
+* **Martin** : étudiant à [SUPAERO](https://www.isae.fr/). Intéressé par le secteur de l'énergie. Présent sur le meetup par curiosité ! 
 
 * **Anna** : travaille dans la société [Energisme](http://energisme.com/fr/) (qui compte 30 personnes). Doctorante sur la thématique. 
 
