@@ -4,19 +4,17 @@
 <img src="https://github.com/nicolasloubet/Compte-rendus/blob/master/Images/blockchain-transition-energetique-slide1.jpg" width="80%">
 </p>
 
----
-
 # Table des contenus
-1. [À propos de ce document](#À-propos-de-ce-document)
+1. [À propos du document](#À-propos-du-document)
 2. [Présent.e.s sur place](#présentes-sur-place)
 3. [Intervention de Julien](#intervention-de-julien)
 4. [Intervention de Sara](#intervention-de-sara)
 5. [Intervention de J.-B.](#intervention-de-j-b)
 6. [Intervention de Pierre](#intervention-de-pierre)
 7. [Intervention de Rieul](#intervention-de-rieul)
-8. [Crédits images](#crédits-images)
+8. [Origine des images](#origine-images)
 
-# À propos de ce document
+# À propos du document
 
 Ce document est une synthèse écrite - partielle - d'un [meetup](https://www.meetup.com/fr-FR/DAISEE/events/237689856/) organisé le 16/02/2017 au [Square](https://twitter.com/squareparis?lang=fr), initié par la [Fabrique des Mobilités](http://wiki.lafabriquedesmobilites.fr/wiki/Accueil), [DAISEE](http://daisee.org) et [Asseth](http://asseth.fr) dans le cadre des événements satellites de la conférence [EDCON](http://edcon.io) (les 17 et 18/02/2017).
 
@@ -118,6 +116,6 @@ Pour un aperçu des travaux de Pierre, voir : [](http://observatoire-blockchains
 
 Rieul a fait la même présentation que sur EventHorizon : [](http://bit.ly/DAISEE-EventHorizonx)http://bit.ly/DAISEE-EventHorizonx
 
-# Crédits images
+# Origine des images
 
 *   Les photos du document ont été prises par Clémnent Epié et Nicolas Loubet. Elles sont sous licence [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0).
