@@ -108,4 +108,4 @@ Rieul a fait la même présentation que sur EventHorizon : [](http://bit.ly/DAIS
 
 # Crédits images
 
-*   Les photos due document ont été prises par Clémnent Epié et Nicolas Loubet. Elles sont sous licence CC-BY-NC-SA.
+*   Les photos du document ont été prises par Clémnent Epié et Nicolas Loubet. Elles sont sous licence [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0).
