@@ -108,4 +108,4 @@ Rieul a fait la même présentation que sur EventHorizon : [](http://bit.ly/DAIS
 
 # Crédits images
 
-*   La photo en une de ce document a été prise par [Charlotte Rizzo](https://www.linkedin.com/in/charlotte-rizzo-39651124/) (la MYNE) et publiée sur [Twitter](https://twitter.com/ch4r1zz/status/808609721490014208) le 13 décembre 2016.
+*   Les photos qui apparaissent dans ce document ont été prises par Clémnent Epié et Nicolas Loubet. Elles sont sous licence CC-BY-NC-SA.
