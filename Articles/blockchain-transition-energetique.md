@@ -12,7 +12,7 @@
 5. [Intervention de J.-B.](#intervention-de-j-b)
 6. [Intervention de Pierre](#intervention-de-pierre)
 7. [Intervention de Rieul](#intervention-de-rieul)
-8. [Origine des images](#origine-images)
+8. [Origine des images](origine-des-images)
 
 # À propos du document
 
@@ -110,12 +110,8 @@ Pour un aperçu des travaux de Pierre, voir : [](http://observatoire-blockchains
 
 # Intervention de Rieul
 
-<p align="center">
-<img src="https://github.com/nicolasloubet/Compte-rendus/blob/master/Images/blockchain-transition-energetique-slide4.jpg" width="80%">
-</p>
-
 Rieul a fait la même présentation que sur EventHorizon : [](http://bit.ly/DAISEE-EventHorizonx)http://bit.ly/DAISEE-EventHorizonx
 
 # Origine des images
 
-*   Les photos du document ont été prises par Clémnent Epié et Nicolas Loubet. Elles sont sous licence [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0).
+*   La photo en tête de document a été prisespar Nicolas Loubet. Elles sont sous licence [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0). Les schémas des 'usecases' de la société Talium sont de la propriété de la société épnoyme (autrement dit, il est obligatoire de demander l'avis des intéressés pour les remixer).
