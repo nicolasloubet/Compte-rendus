@@ -14,11 +14,11 @@
 7. [Intervention de Rieul](#intervention-de-rieul)
 8. [Origine des images](#origine-des-images)
 
-# À propos du document
+## À propos du document
 
 Ce document est une synthèse écrite - partielle - d'un [meetup](https://www.meetup.com/fr-FR/DAISEE/events/237689856/) organisé le 16/02/2017 au [Square](https://twitter.com/squareparis?lang=fr), initié par la [Fabrique des Mobilités](http://wiki.lafabriquedesmobilites.fr/wiki/Accueil), [DAISEE](http://daisee.org) et [Asseth](http://asseth.fr) dans le cadre des événements satellites de la conférence [EDCON](http://edcon.io) (les 17 et 18/02/2017).
 
-# Présent.e.s sur place
+## Présent.e.s sur place
 
 * **[Mathieu](https://www.linkedin.com/in/matthieuboisson/)** : anc. *product owner* chez [PowerNext](http://www.powernext.fr/). Intéressé par les enjeux de traçabilité. 
 
@@ -56,7 +56,7 @@ Ce document est une synthèse écrite - partielle - d'un [meetup](https://www.me
 
 * **Rieul** : énergéticien de métier, co-initiateur de la [MYNE](http://lamyne.org) qui co-produit DAISEE.
 
-# Intervention de Julien
+## Intervention de Julien
 
 [Talium](http://tallium.fr) a déployé 2 usecases pour SunChain (spin-off de [TECSOL](http://www.tecsol.fr), spécialiste de l'énergie photovoltaique en France).
 
@@ -78,7 +78,7 @@ Point intéressant : il y a d'autres projets que Fabric dans Hyperledger : cello
 
 **Action** : soutenir leur recherche de profils qui pratiquent la blockchain (ils recrutent  !).
 
-# Intervention de Sara
+## Intervention de Sara
 
 CEA Tech est le pole de recherche 'tech' du CEA (qui agit historiquement sur la gestion des centrales). Son expertise coeur est la vérification de programmes. La recherche 'blockchain' s'inscrit dans la branche "systèmes distribués", vérification, algorithmie. Les activités portent sur les smart contracts et le networking (réseau, détection de failles).
 
@@ -92,7 +92,7 @@ Questions (ouvertes), remarques et informations utiles :
 
 **Action** : lien avec les core devi Ethereum (pendant [EDCON](http://edcon.io) !) => voici le [diaporama](https://www.dropbox.com/s/kxm5mthqw3l5p5f/Block-chain%40CEA_LIST4Meetup_2017.02.15.pdf?dl=0). 
 
-# Intervention de J.-B.
+## Intervention de J.-B.
 
 Objectif : qualifier l'énergie qu'on consomme / produit. Interaction telecom / blockchain.
 
@@ -100,7 +100,7 @@ Mission : avoir un instantané de la qualité du réseau. Partage d'une "méta-v
 
 Conseil de Matthieu : voir les "garanties d'origine" (Powernext est l'un des garants en FR).
 
-# Intervention de Pierre
+## Intervention de Pierre
 
 Panel d'exp. micro-grid (Brooklyn Microgrid, Confluence). Recommande de suive Veolia.
 
@@ -108,10 +108,10 @@ S'intèresse surtout aux nouvelles citoyennetés, démocratie peer to peer (à l
 
 Pour un aperçu des travaux de Pierre, voir : [](http://observatoire-blockchains.com)http://observatoire-blockchains.com
 
-# Intervention de Rieul
+## Intervention de Rieul
 
 Rieul a fait la même présentation que sur EventHorizon : [](http://bit.ly/DAISEE-EventHorizonx)http://bit.ly/DAISEE-EventHorizonx
 
-# Origine des images
+## Origine des images
 
 *   La photo en tête de document a été prisespar Nicolas Loubet. Elles sont sous licence [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0). Les schémas des 'cas d'usages' de la société Talium (réalisés pour Sunchain) sont de la propriété de la société épnoyme.
