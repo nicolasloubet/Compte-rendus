@@ -7,7 +7,7 @@
 _Les communs sont à l’ordre du jour. De quoi parle t’on ? Quels enjeux portent les communs pour l'ESS ? Dans quelle mesure l'approche des communs permet-elle de renouveler les approches de l'utilité sociale de l'ESS ? Comment les collectivité locales au travers de leurs politiques locales d’ESS sont-elles concernées par les communs ?_
 
 # Table des contenus
-1. [À propos du document](#À-propos-du-document)
+1. [À propos du document](#À-propos-de-ce-document)
 2. [Intervention de Nicole Alix](#nicole-alix-la-coop-des-communs)
 3. [Intervention de Benedetta Celati](#benedetta-celati-université-marne-la-vallée)
 4. [Intervention de G. Fontaine & P. Chemla](#geneviève-fontaine--philippe-chemla-tetris)
