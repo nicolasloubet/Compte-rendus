@@ -6,16 +6,24 @@
 <img src="https://hackpad-attachments.s3.amazonaws.com/hackpad.com_NcAqF0gExXs_p.62368_1481656402158_Photo 13-12-2016 20 09 59.jpg" width="80%">
 </p>
 
-# À propos de ce document
+# Table des contenus
+1. [À propos de ce document](#À-propos-de-ce-document)
+2. [Introduction globale](#introduction-globale)
+3. [Interventions](#interventions)
+4. [Discussion de G. Fontaine & P. Chemla](#discussion)
+5. [Données utiles](#données-utiles)
+6. [Crédits images](#crédits-images)
+
+## À propos de ce document
 
 Ce document est une synthèse écrite de la [session consacrée aux tiers-lieux](http://www.amnyos.com/234-137eme-Forum-des.html) lors du dernier [forum des interconnectés](http://forum.interconnectes.fr) (le 13/12/2016). Elle est basée sur la [prise de notes](/Ya-t-il-trop-de-tiers-lieux--RabDWSzgERS) de [Claudine Revol](https://fr.linkedin.com/in/claudinerevol/fr) (encore merci à elle de sa présence et de ses notes).
 
-# Introduction globale
+## Introduction globale
 
 *   Martine est consultante chez [Amios](http://www.amnyos.com), un cabinet qui accompagne les territoires. Elle a été l'animatrice de la session.
 *   Question fil rouge : comment appréhender les formes de "l'économie collaborative" dans les territoires ? Précisément dans les tiers-lieux (dont l'engouement est palpable). Dans leur définition canonique, ils désignent des lieux qui ne sont ni le domicile, ni l'entreprise ; cela peut prendre forme de bibliothèques, de cafés, de gares, des ateliers (cf. "fablabs"). Mais qu'est-ce qu'un tiers lieu en 2017 et en quoi ça participe du développement / de la vie des territoires ?
 
-# Interventions
+## Interventions
 
 *   Yannick Conseil : co-fondateur du Créalab et responsable 'dev éco' Grand Angoulème. 
 *   [Mickael Schwartz](https://fr.linkedin.com/in/michael-schwartz-83916639/fr) : co-fondateur du réseau de coworking spaces "La Cordée"
@@ -38,7 +46,7 @@ Ce document est une synthèse écrite de la [session consacrée aux tiers-lieux]
 *   En pratique, les tiers-lieux permettent à des gens improbables de rencontrer d'autres gens improbables (pour développer des services ensemble). Pour permettre les connexions effectives, il faut avoir des rôles et des postures.
 *   Les tiers-lieux qui donnent à voir leur procesus de fonctionnement sont **libres** à la différence des institutions et des commerces privés. Il y a plusieurs façons d'inventer. Pas besoin de créer de grands lieux pour un usage unique...
 
-# Discussion
+## Discussion
 
 **Bruno Duverger**
 
@@ -64,12 +72,12 @@ Ce document est une synthèse écrite de la [session consacrée aux tiers-lieux]
 
 *   Nous avons besoin d'une évolution plus importante, d'une rupture. Bientôt, il n'y aura plus d'emplois salariés mais des prosumers. Les startups profifent d'une attention exagérée car l'argent attire la presse. On arrive pas à péter les institutions et reconnaitre la valeur des tiers-lieux. 
 
-# Données utiles
+## Données utiles
 
 *   3 février : [assises du coworking à Lyon](https://www.eventbrite.fr/e/inscription-acow17-1eres-assises-du-coworking-lyon-2017-29889754059)
 *   [Le mixeur](http://www.le-mixeur.org) : une pépinière à Saint-Etienne
 *   [Projet à Valencienne](https://reusein.wordpress.com) avec mix de fonctions
 
-# Crédits images
+## Crédits images
 
 *   La photo en une de ce document a été prise par [Charlotte Rizzo](https://www.linkedin.com/in/charlotte-rizzo-39651124/) (la MYNE) et publiée sur [Twitter](https://twitter.com/ch4r1zz/status/808609721490014208) le 13 décembre 2016.
