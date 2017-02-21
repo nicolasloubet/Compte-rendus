@@ -10,7 +10,7 @@
 1. [À propos de ce document](#À-propos-de-ce-document)
 2. [Introduction globale](#introduction-globale)
 3. [Interventions](#interventions)
-4. [Discussion de G. Fontaine & P. Chemla](#discussion)
+4. [Discussion](#discussion)
 5. [Données utiles](#données-utiles)
 6. [Crédits images](#crédits-images)
 
