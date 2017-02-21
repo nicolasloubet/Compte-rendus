@@ -114,4 +114,4 @@ Rieul a fait la même présentation que sur EventHorizon : [](http://bit.ly/DAIS
 
 # Origine des images
 
-*   La photo en tête de document a été prisespar Nicolas Loubet. Elles sont sous licence [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0). Les schémas des 'usecases' de la société Talium sont de la propriété de la société épnoyme (autrement dit, il est obligatoire de demander l'avis des intéressés pour les remixer).
+*   La photo en tête de document a été prisespar Nicolas Loubet. Elles sont sous licence [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0). Les schémas des 'cas d'usages' de la société Talium (réalisés pour Sunchain) sont de la propriété de la société épnoyme.
