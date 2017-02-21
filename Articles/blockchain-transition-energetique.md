@@ -12,7 +12,7 @@
 5. [Intervention de J.-B.](#intervention-de-j-b)
 6. [Intervention de Pierre](#intervention-de-pierre)
 7. [Intervention de Rieul](#intervention-de-rieul)
-8. [Origine des images](origine-des-images)
+8. [Origine des images](#origine-des-images)
 
 # À propos du document
 
