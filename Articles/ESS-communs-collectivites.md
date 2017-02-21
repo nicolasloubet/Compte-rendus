@@ -5,12 +5,18 @@
 </p>
 
 _Les communs sont à l’ordre du jour. De quoi parle t’on ? Quels enjeux portent les communs pour l'ESS ? Dans quelle mesure l'approche des communs permet-elle de renouveler les approches de l'utilité sociale de l'ESS ? Comment les collectivité locales au travers de leurs politiques locales d’ESS sont-elles concernées par les communs ?_
-   
+
+# Table des contenus
+1. [À propos du document](#À-propos-du-document)
+2. [Intervention de Nicole Alix](#nicole-alix-la-coop-des-communs)
+3. [Intervention de Benedetta Celati](#benedetta-celati-université-marne-la-vallée)
+4. [Intervention de G. Fontaine & P. Chemla](#geneviève-fontaine--philippe-chemla-tetris)
+
 ## À propos de ce document
 
 Ce document est la [prise de notes](https://hackpad.com/ESS-communs-et-collectivits-locales-1sabaEeDnTv) associée à la formation ['ESS, communs et collectivités locales'](https://www.idealconnaissances.com/formation/ess-communs-et-collectivites-locales) délivrée le 07/02/2017.
 
-## Nicole ALIX (La Coop des Communs)
+## Nicole Alix (La Coop des Communs)
 
 <p align="center">
 <img src="https://github.com/nicolasloubet/compte-rendus/blob/master/Images/ess-communs-slide1.png" width="80%">
@@ -51,7 +57,7 @@ Ce document est la [prise de notes](https://hackpad.com/ESS-communs-et-collectiv
 * [Webographie indicative](https://annuel.framapad.org/p/webographieFINACOOP)                                  
 * [Towards a Future Internet ](http://cordis.europa.eu/fp7/ict/fire/docs/tafi-final-report_en.pdf)
 
-## Benedetta CELATI (Université Marne La Vallée)
+## Benedetta Celati (Université Marne La Vallée)
 
 * Fil rouge de la présentation : **Les communs en Italie et le rôle des collectivités locales**
 * Concept de 'Biens Communs' a été ré-introduit (en Italie) avec la Commision Rodotà (2007)
@@ -109,7 +115,7 @@ Ce document est la [prise de notes](https://hackpad.com/ESS-communs-et-collectiv
 <img src="https://github.com/nicolasloubet/compte-rendus/blob/master/Images/ess-communs-slide14.png" width="80%">
 </p>
 
-## Geneviève FONTAINE & Philippe CHEMLA (TETRIS)        
+## Geneviève Fontaine & Philippe Chemla (TETRIS)        
 
 * Présentation rapide de la communauté d'agglomération du Pays de Grasse + SCIC [TETRIS](http://scic-tetris.org).
 
