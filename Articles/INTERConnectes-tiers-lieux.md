@@ -8,7 +8,7 @@
 
 # Table des contenus
 1. [À propos de ce document](#À-propos-de-ce-document)
-2. [Introduction globale](#introduction-globale)
+2. [Introduction](#introduction-globale)
 3. [Interventions](#interventions)
 4. [Discussion](#discussion)
 5. [Données utiles](#données-utiles)
@@ -18,7 +18,7 @@
 
 Ce document est une synthèse écrite de la [session consacrée aux tiers-lieux](http://www.amnyos.com/234-137eme-Forum-des.html) lors du dernier [forum des interconnectés](http://forum.interconnectes.fr) (le 13/12/2016). Elle est basée sur la [prise de notes](/Ya-t-il-trop-de-tiers-lieux--RabDWSzgERS) de [Claudine Revol](https://fr.linkedin.com/in/claudinerevol/fr) (encore merci à elle de sa présence et de ses notes).
 
-## Introduction globale
+## Introduction
 
 *   Martine est consultante chez [Amios](http://www.amnyos.com), un cabinet qui accompagne les territoires. Elle a été l'animatrice de la session.
 *   Question fil rouge : comment appréhender les formes de "l'économie collaborative" dans les territoires ? Précisément dans les tiers-lieux (dont l'engouement est palpable). Dans leur définition canonique, ils désignent des lieux qui ne sont ni le domicile, ni l'entreprise ; cela peut prendre forme de bibliothèques, de cafés, de gares, des ateliers (cf. "fablabs"). Mais qu'est-ce qu'un tiers lieu en 2017 et en quoi ça participe du développement / de la vie des territoires ?
