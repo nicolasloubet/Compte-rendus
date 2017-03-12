@@ -2,7 +2,7 @@
 
 # Table des contenus
 1. [À propos du document](#À-propos-du-document)
-2. [Qui était présent ?](#qui-était-présent)
+2. [Qui était présent ?](#qui-était-présent-)
 3. [L'esprit de la Métropole](#lesprit-de-la-métropole)
 4. [Focus sur MakerTour](#focus-sur-makertour)
 5. [Focus sur les FabLabs](#focus-sur-les-fablabs)
