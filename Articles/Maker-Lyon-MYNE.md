@@ -16,7 +16,7 @@ Ce document est une mise en forme de la [prise de notes][38] des échanges avec 
 
 * [Pierre][13] : président de [la FOL][14](premier FabLab du territoire lyonnais) et membre actif du réseau [OpenAra][15]. 
 
-	* La FOL se structure autour de 3 pôles : (1) Un Fablab dans la MJC de Bron (2) Un FabLab Mobile (3) Un pôle d’hybridation avec d’autres acteurs du territoire (pour faire émerger des modèle hybrides à vocation éducative ET industrielle).
+	* La FOL a 3 pôles : (1) Un Fablab dans la MJC de Bron (2) Un FabLab Mobile (3) Un pôle d’hybridation avec d’autres acteurs du territoire (pour faire émerger des modèle hybrides à vocation éducative ET industrielle).
 	* La vision de  Pierre n’est pas celle d’un "gros" Fablab mais celle d'une multiplicité d'acteurs qui s’articulent les uns les autres avec un lieu de « référence » mixte et hybride de part les activités qui peuvent y être développées.
 	* À quoi servent les hackathons ? À décloisonner et apprendre, "se professionnaliser", se fédérer et faire des choses entre nous. Exemple du [CGPMe camp][16], un hackathon basé sur les besoins des entrepreneurs.
 	* La question qui reste en suspend : "Comment on hybride les modèles économiques et les positionnements ?"
