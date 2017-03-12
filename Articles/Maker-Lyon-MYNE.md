@@ -1,4 +1,4 @@
-# Rencontre avec Karine Dognin-Sauze - 18/10/2016
+# Rencontre avec Karine Dognin-Sauze (Métropole de Lyon)
 
 ## À propos du document
 
