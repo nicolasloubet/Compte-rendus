@@ -1,6 +1,10 @@
-# Rendez-vous avec Karine Dognin-Sauze - 18/10/2016
+# Rencontre avec Karine Dognin-Sauze - 18/10/2016
 
-## 1. Qui était présent ?
+## À propos du document
+
+Ce document est la prise de notes associée à la rencontre avec [Karine Dognin-Sauze](https://www.linkedin.com/in/karine-dognin-30980820/) à [la MYNE](http://lamyne.org) le 18 octobre 2016. Ce texte (sous licence Creative Commons CC-BY-SA) est issu d'une [prise de notes][38] de [Rieul](https://www.linkedin.com/in/rieultecher).
+
+## Qui était présent ?
 
 * [Mathieu][1] : diplomé du master [IDEA][2] (une formation initialement co-portée par l'[EM Lyon][3] et [Centrale Lyon][4]), co-fondateur avec Etienne de [MakerTour][5] (une association qui met en visibilité les pratiques des FabLabs) et 361 degrés (une entreprise de conseil aux entreprises adossé à l’expertise acquise dans dans le cadre du MakerTour). Il ouvre en janvier avec Etienne une déclinaison lyonnaise du [Wagon][6] (un programme de formation accélérée - en 2 mois - à la programmation).
 
@@ -28,7 +32,7 @@
 * Egalement présents (mini bios à compléter) : Karine, Amandine, Maude.
 
 
-## 2. L'esprit de la Métropole
+## L'esprit de la Métropole
 
 - Historique : biotechnologies, chimie, industries créatives (économie très diversifiée avec un socle industriel). Vague de tertiarisation.  La stratégie économique de la métropole en cours d’élaboration.  
 * Quatre piliers de la métropole : 
@@ -41,7 +45,7 @@
 
 * Sur le volet spécifique de la fabrication ("maker"): il y peut être un positionnement à trouver entre la Silicon Valley (indsutrie software) et Shenzen (indsutrie hardware).
 
-## 3. Focus sur MakerTour
+## Focus sur MakerTour
 
 * Quels sont les points marquant de ce premier tour ? 
 * Quels sont les caractéristiques européennes ?
@@ -49,15 +53,11 @@
 * De quoi avez vous besoin de la part de la Métropole ? 
 * La Métropole peut-elle aider les acteurs du territoire ? 
 
-## 4. Focus sur les FabLabs
+## Focus sur les FabLabs
 
 * [L'histoire des FabLabs][35]
 * [La chartedes FabLabs][36]
 * [Thèse sur les FabsLabs][37]
-
-Source : ce texte (sous licence CC-BY-SA) est issu d'une [prise de notes][38] de @Rieul (merci).
-
-<div style="text-align:center"> <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a></div>
 
 [1]:	https://fr.linkedin.com/in/mathieugeiler
 [2]:	http://masters.em-lyon.com/fr/Programme-I.D.E.A
