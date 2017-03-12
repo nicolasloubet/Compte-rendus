@@ -2,7 +2,7 @@
 
 ## À propos du document
 
-Ce document est la prise de notes associée à la rencontre avec [Karine Dognin-Sauze](https://www.linkedin.com/in/karine-dognin-30980820/) à [la MYNE](http://lamyne.org) le 18 octobre 2016. Ce texte (sous licence Creative Commons CC-BY-SA) est issu d'une [prise de notes][38] de [Rieul](https://www.linkedin.com/in/rieultecher).
+Ce document est une mise en forme d'une [prise de notes][38] associée à la rencontre avec [Karine Dognin-Sauze](https://www.linkedin.com/in/karine-dognin-30980820) qui estVP de la Métropole de Lyon en charge de l'innovation numérique. Cette rencontre aeu lieu à [la MYNE](http://lamyne.org) le 18 octobre 2016.
 
 ## Qui était présent ?
 
