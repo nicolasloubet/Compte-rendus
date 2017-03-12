@@ -29,7 +29,7 @@ Ce document est une mise en forme de la [prise de notes][38] des échanges avec 
 
 * [Rieul][26] : co-initiateur de l'association [La Paillasse Saône][27] et du tiers-lieu [La M[Y]NE][28]. Investi dans [Beyond Lab][29] et [Exponential Medecine][30], membre de la dynamique [OpenAra][31], contributeur actif de l'initiative [DAISEE][32]. Co-coordinateur des [ateliers des Rencontres de la Metropole Intelligente][33] en 2016. Jusqu’à la fin du mois d’octobre, délégué général adjoint de [Lyon French Tech][34]. Investi dans l'émergence d'un réseau des 'Communs Scientifiques' à Lyon.
 
-* Personnes également présentes mais dont les mini-biographies n'ont pas été réunies : Karine, Amandine, Maude.
+* Personnes présentes mais dont les mini-biographies n'ont pas été réunies : Karine, Amandine, Maude.
 
 ## L'esprit de la Métropole
 
