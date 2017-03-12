@@ -56,7 +56,7 @@ Ce document est une mise en forme de la [prise de notes][38] des échanges avec 
 ## Focus sur les FabLabs
 
 * [L'histoire des FabLabs][35]
-* [La chartedes FabLabs][36]
+* [La charte des FabLabs][36]
 * [Thèse sur les FabsLabs][37]
 
 [1]:	https://fr.linkedin.com/in/mathieugeiler
