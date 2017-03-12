@@ -21,7 +21,7 @@ Ce document est une mise en forme de la [prise de notes][38] des échanges avec 
 	* À quoi servent les hackathons ? À décloisonner et apprendre, "se professionnaliser", se fédérer et faire des choses entre nous. Exemple du [CGPMe camp][16], un hackathon basé sur les besoins des entrepreneurs.
 	* La question qui reste en suspend : "Comment on hybride les modèles économiques et les positionnements ?"
 
-* Pauline : co-fondatrice de [Bel Air Camp][17] qui ouvre dans une semaine (à date du 18/10/2016). Accueille notamment l'équipe du [supergrid d'Alstom GE][18] (dans l'attente d'être dans ses nouveaux bâtiments). Modèle d'agent immobilier qui fait de la location d'espace. Projet porté par [DCB International][19] avec une structure juridique ad hoc (Bel Air Camp). 
+* [Pauline](https://www.linkedin.com/in/paulinesiche) : co-fondatrice de [Bel Air Camp][17] qui ouvre dans une semaine (à date du 18/10/2016). Accueille notamment l'équipe du [supergrid d'Alstom GE][18] (dans l'attente d'être dans ses nouveaux bâtiments). Modèle d'agent immobilier qui fait de la location d'espace. Projet porté par [DCB International][19] avec une structure juridique ad hoc (Bel Air Camp). 
 
 * [Max][20] : fondateur d'[Evotion][21] qui fait de la location de robots). A 8 ans d'expérience dans le secteur. Il est en lien avec Bruno Bonnell ( Robopolis). Est président de la [JEL][22] (association des Jeunes Entrepreneurs de Lyon). Pour lui, il est compliqué de créer une affaire autour des robots pour les makers. Co-porteur avec Jean de la mini-[MakerFaire Lyon][23].
 
