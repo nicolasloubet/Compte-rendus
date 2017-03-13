@@ -17,7 +17,7 @@ Ce document est une mise en forme de la [prise de notes][38] des échanges avec 
 
 * [Jean][7] : co-fondateur de [YouFactory][8], une société qui offre un lieu et des services pour accompagner la profressionalisation des 'artisans numériques' (makers). Ledit lieu est intégré au Pole Pixel de Villeurbanne. 
 
-* [Xavier][9] : co-fondateur des [Bricoleurs][10] (qui fait le lien entre ceux qui connaissent le numérique et ceux qui veulent découvrir ou développer leurs compétences dans ce domaine) et de l’[Ecan][11] (qui propose des formations pour les artisans numériques). Explore activement les pratiques émergentes autour d'Ethereum. 
+* [Xavier][9] : co-fondateur des [Bricodeurs][10] (qui fait le lien entre ceux qui connaissent le numérique et ceux qui veulent découvrir ou développer leurs compétences dans ce domaine) et de l’[Ecan][11] (qui propose des formations pour les artisans numériques). Explore activement les pratiques émergentes autour d'Ethereum. 
 
 	* Les Bricodeurs ont établi un partenariat avec [La Maison des Mathématiques][12]. L'objectif est de sortir du bricolage et thématiser pour apprendre à monter un vrai projet. Les ateliers sont gratuits (l’année dernière, il étaient payants). La communauté se destine à accompagner des "projets citoyens" (cf. [La Nuit du Code Citoyen](https://codecitoyen.github.io))
 
