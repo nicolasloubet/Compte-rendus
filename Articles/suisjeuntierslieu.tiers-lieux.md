@@ -17,7 +17,7 @@ Aussi bien dans le cadre de l'initiative citoyenne que du tiers-lieu, un point c
 
 
 NOM | TYPE | INFORMATIONS
-- | - | -
+------------ | ------------- | -------------
 
 Chasseurs de livres	Initiative	Initiative car le lieu défini ne sert pas de lieu de rencontre, bien qu'il puisse l'être, mais de lieu de partage de ressources.
 Hackerspace	Tiers-lieu	Tiers-lieu car son orientation dépendra de la communauté qui le fréquente, les projets naissant au sein du lieu.
