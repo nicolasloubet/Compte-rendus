@@ -21,20 +21,18 @@ Aussi bien dans le cadre de l'initiative citoyenne que du tiers-lieu, un point c
 Chasseurs de livres | Initiative	| Le lieu défini ne sert pas de lieu de rencontre(s), bien qu'il puisse l'être, mais de lieu de partage de ressources.
 Hackerspace |	Tiers-lieu |	Son orientation dépendra de la communauté qui le fréquente, les projets naissant au sein du lieu.
 Makerspace / FabLab |	Tiers-lieu | Son orientation dépendra de la communauté qui le fréquente, les projets naissant au sein du lieu.
-Disco Soupe |	Initiative / tiers-lieu | Initiative citoyenne se réunissant en tiers-lieu itinérant pour agir avec le public.
+Disco Soupe |	Initiative / Tiers-lieu | Initiative citoyenne se réunissant en tiers-lieu itinérant pour agir avec le public.
 
-Repair Café	Initiative / tiers-lieu	Initiative / tiers-lieu car initiative citoyenne se réunissant en tiers-lieu itinérant pour agir avec le public.
-Potagers Collectifs	Tiers-lieu	Tiers-lieu car son orientation dépendra de la communauté qui le fréquente, les projets naissant au sein du lieu.
-Incroyables Comestibles	Initiative	Initiative car le lieu défini ne sert pas de lieu de rencontre, bien qu'il puisse l'être, mais de lieu de partage de ressources.
-Monnaie alternative	Initiative	La monnaie alternative ou monnaie locale est une initiative car a pour but de renforcer les échanges locaux tout en devant garantir de fonctionner dans une totale transparence.
-LUG - Linux User Group	Initiative / tiers-lieu	Initiative / tiers-lieu car initiative citoyenne se réunissant en tiers-lieu itinérant pour agir avec le public.
-Informatique Libre	Initiative	Initiative car initiatives pouvant être des services rémunérés, voir commerces, ayant tendance à favoriser et promouvoir l'utilisation des solutions libres et/ou open-source.
-Ressourcerie	Initiative	Initiative car but écologique local cherchant à "gérer, sur un territoire donné, un centre de récupération, de valorisation, de revente et parfois d'éducation à l’environnement."
+Repair Café |	Initiative / Tiers-lieu |	Initiative citoyenne se réunissant en tiers-lieu itinérant pour agir avec le public.
+Potagers Collectifs |	Tiers-lieu |	Son orientation dépendra de la communauté qui le fréquente, les projets naissant au sein du lieu.
+Incroyables Comestibles |	Initiative |	Le lieu défini ne sert pas de lieu de rencontre, bien qu'il puisse l'être, mais de lieu de partage de ressources.
+Monnaie alternative |	Initiative |	La monnaie alternative ou monnaie locale est une initiative car a pour but de renforcer les échanges locaux tout en devant garantir de fonctionner dans une totale transparence.
+LUG - Linux User Group |	Initiative / Tiers-lieu | Initiative citoyenne se réunissant en tiers-lieu itinérant pour agir avec le public.
+Informatique Libre |	Initiative |	Initiatives pouvant être des services rémunérés, voir commerces, ayant tendance à favoriser et promouvoir l'utilisation des solutions libres et/ou open-source.
+Ressourcerie |	Initiative | But écologique local cherchant à "gérer, sur un territoire donné, un centre de récupération, de valorisation, de revente et parfois d'éducation à l’environnement."
 
 
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+** Quels sont les liens entre initiatives citoyennes et tiers-lieux ?**  L'un comme l'autre ont pour but de changer la manière dont fonctionnent les échanges sociaux et locaux tout en cherchant à agir économiquement différement que selon les modèles proposés habituellement. Dans un format idéal, initiatives citoyennes et tiers-lieux devraient permettre à une communauté, voire une ville, de vivre en quasi autarcie.
 
+Source : [Suis-je un tiers-lieu ?](http://suisjeuntierslieu.tiers-lieux.be). Licence Creative Commons - Attribution - Partage dans les mêmes conditione ([CC 2.0 BY SA - Belgique](https://creativecommons.org/licenses/by-sa/2.0/be))
 
