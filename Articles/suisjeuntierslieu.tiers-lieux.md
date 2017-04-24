@@ -31,7 +31,7 @@ Informatique Libre |	Initiative |	Initiatives pouvant être des services rémun�
 Ressourcerie |	Initiative | But écologique local cherchant à "gérer, sur un territoire donné, un centre de récupération, de valorisation, de revente et parfois d'éducation à l’environnement."
 
 
-** Quels sont les liens entre initiatives citoyennes et tiers-lieux ?**  L'un comme l'autre ont pour but de changer la manière dont fonctionnent les échanges sociaux et locaux tout en cherchant à agir économiquement différement que selon les modèles proposés habituellement. Dans un format idéal, initiatives citoyennes et tiers-lieux devraient permettre à une communauté, voire une ville, de vivre en quasi autarcie.
+**Quels sont les liens entre initiatives citoyennes et tiers-lieux ?** L'un comme l'autre ont pour but de changer la manière dont fonctionnent les échanges sociaux et locaux tout en cherchant à agir économiquement différement que selon les modèles proposés habituellement. Dans un format idéal, initiatives citoyennes et tiers-lieux devraient permettre à une communauté, voire une ville, de vivre en quasi autarcie.
 
 Source : [Suis-je un tiers-lieu ?](http://suisjeuntierslieu.tiers-lieux.be). Licence Creative Commons - Attribution - Partage dans les mêmes conditione ([CC 2.0 BY SA - Belgique](https://creativecommons.org/licenses/by-sa/2.0/be))
 
