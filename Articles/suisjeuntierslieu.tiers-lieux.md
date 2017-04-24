@@ -22,7 +22,6 @@ Chasseurs de livres | Initiative	| Le lieu défini ne sert pas de lieu de rencon
 Hackerspace |	Tiers-lieu |	Son orientation dépendra de la communauté qui le fréquente, les projets naissant au sein du lieu.
 Makerspace / FabLab |	Tiers-lieu | Son orientation dépendra de la communauté qui le fréquente, les projets naissant au sein du lieu.
 Disco Soupe |	Initiative / Tiers-lieu | Initiative citoyenne se réunissant en tiers-lieu itinérant pour agir avec le public.
-
 Repair Café |	Initiative / Tiers-lieu |	Initiative citoyenne se réunissant en tiers-lieu itinérant pour agir avec le public.
 Potagers Collectifs |	Tiers-lieu |	Son orientation dépendra de la communauté qui le fréquente, les projets naissant au sein du lieu.
 Incroyables Comestibles |	Initiative |	Le lieu défini ne sert pas de lieu de rencontre, bien qu'il puisse l'être, mais de lieu de partage de ressources.
