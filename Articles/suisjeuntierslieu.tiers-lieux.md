@@ -15,6 +15,23 @@ L'**initiative citoyenne** est une action menée par plusieurs personnes à titr
 
 Aussi bien dans le cadre de l'initiative citoyenne que du tiers-lieu, un point commun important est de vouloir voir se reproduire l'initiative à d'autres endroits, sans qu'aucune forme de concurrence ne naisse, et, pour faciliter cela, vouloir partager les connaissances acquises sans chercher à en faire directement commerce.
 
+
+NOM | TYPE | INFORMATIONS
+- | - | -
+
+Chasseurs de livres	Initiative	Initiative car le lieu défini ne sert pas de lieu de rencontre, bien qu'il puisse l'être, mais de lieu de partage de ressources.
+Hackerspace	Tiers-lieu	Tiers-lieu car son orientation dépendra de la communauté qui le fréquente, les projets naissant au sein du lieu.
+Makerspace / fablab	Tiers-lieu	Tiers-lieu car son orientation dépendra de la communauté qui le fréquente, les projets naissant au sein du lieu.
+Disco Soupe	Initiative / tiers-lieu	Initiative / tiers-lieu car initiative citoyenne se réunissant en tiers-lieu itinérant pour agir avec le public.
+Repair Café	Initiative / tiers-lieu	Initiative / tiers-lieu car initiative citoyenne se réunissant en tiers-lieu itinérant pour agir avec le public.
+Potagers Collectifs	Tiers-lieu	Tiers-lieu car son orientation dépendra de la communauté qui le fréquente, les projets naissant au sein du lieu.
+Incroyables Comestibles	Initiative	Initiative car le lieu défini ne sert pas de lieu de rencontre, bien qu'il puisse l'être, mais de lieu de partage de ressources.
+Monnaie alternative	Initiative	La monnaie alternative ou monnaie locale est une initiative car a pour but de renforcer les échanges locaux tout en devant garantir de fonctionner dans une totale transparence.
+LUG - Linux User Group	Initiative / tiers-lieu	Initiative / tiers-lieu car initiative citoyenne se réunissant en tiers-lieu itinérant pour agir avec le public.
+Informatique Libre	Initiative	Initiative car initiatives pouvant être des services rémunérés, voir commerces, ayant tendance à favoriser et promouvoir l'utilisation des solutions libres et/ou open-source.
+Ressourcerie	Initiative	Initiative car but écologique local cherchant à "gérer, sur un territoire donné, un centre de récupération, de valorisation, de revente et parfois d'éducation à l’environnement."
+
+
 First Header | Second Header
 ------------ | -------------
 Content from cell 1 | Content from cell 2
