@@ -1,8 +1,6 @@
 # Suis-je un tiers-lieu ?
 
-Il est important de faire la différence entre une "**initiative citoyenne**" et un "**tiers-lieu**", mais également de montrer le lien qui existe (ou en tous cas "qui devrait") entre ces deux types d'initiatives.
-
-Ce site voit le tiers-lieu comme un "**espace physique**" permettant à une "**communauté**" de partager "**librement**" "**ressources**", "**compétences**" et "**savoirs**".
+Il est important de faire la différence entre une "**initiative citoyenne**" et un "**tiers-lieu**", mais également de montrer le lien qui existe (ou en tous cas "qui devrait") entre ces deux types d'initiatives. Le site [tiers-lieux.be](http://www.tiers-lieux.be) voit le tiers-lieu comme un "**espace physique**" permettant à une "**communauté**" de partager "**librement**" "**ressources**", "**compétences**" et "**savoirs**".
 
 * L'espace physique est le lieu où se situe le tiers-lieu. Il peut s'agir d'un lieu fixe, comme pour un makerspace ou hackerspace, ou itinérant, comme pour Disco Soupe ou Repair Café.
 * Les ressources sont les choses physiques mises à disposition de la communauté, cela pouvant aller de semences résultant d'une précédente récolte à des machines scientifiques onéreuses.
