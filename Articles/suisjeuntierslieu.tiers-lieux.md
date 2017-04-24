@@ -16,13 +16,13 @@ L'**initiative citoyenne** est une action menée par plusieurs personnes à titr
 Aussi bien dans le cadre de l'initiative citoyenne que du tiers-lieu, un point commun important est de vouloir voir se reproduire l'initiative à d'autres endroits, sans qu'aucune forme de concurrence ne naisse, et, pour faciliter cela, vouloir partager les connaissances acquises sans chercher à en faire directement commerce.
 
 
-NOM | TYPE | INFORMATIONS
+**Nom** | **Type** | **Informations**
 ------------ | ------------- | -------------
+Chasseurs de livres | Initiative	| Le lieu défini ne sert pas de lieu de rencontre(s), bien qu'il puisse l'être, mais de lieu de partage de ressources.
+Hackerspace |	Tiers-lieu |	Son orientation dépendra de la communauté qui le fréquente, les projets naissant au sein du lieu.
+Makerspace / FabLab |	Tiers-lieu | Son orientation dépendra de la communauté qui le fréquente, les projets naissant au sein du lieu.
+Disco Soupe |	Initiative / tiers-lieu | Initiative citoyenne se réunissant en tiers-lieu itinérant pour agir avec le public.
 
-Chasseurs de livres	Initiative	Initiative car le lieu défini ne sert pas de lieu de rencontre, bien qu'il puisse l'être, mais de lieu de partage de ressources.
-Hackerspace	Tiers-lieu	Tiers-lieu car son orientation dépendra de la communauté qui le fréquente, les projets naissant au sein du lieu.
-Makerspace / fablab	Tiers-lieu	Tiers-lieu car son orientation dépendra de la communauté qui le fréquente, les projets naissant au sein du lieu.
-Disco Soupe	Initiative / tiers-lieu	Initiative / tiers-lieu car initiative citoyenne se réunissant en tiers-lieu itinérant pour agir avec le public.
 Repair Café	Initiative / tiers-lieu	Initiative / tiers-lieu car initiative citoyenne se réunissant en tiers-lieu itinérant pour agir avec le public.
 Potagers Collectifs	Tiers-lieu	Tiers-lieu car son orientation dépendra de la communauté qui le fréquente, les projets naissant au sein du lieu.
 Incroyables Comestibles	Initiative	Initiative car le lieu défini ne sert pas de lieu de rencontre, bien qu'il puisse l'être, mais de lieu de partage de ressources.
