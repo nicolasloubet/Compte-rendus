@@ -2,6 +2,13 @@
 
 Ce document accompagne les échanges sur la gouvernance des noms de domaine tier-lieux. 
 
+**Nom de domaine** | **Administrateur**
+------------ | -------------
+[tiers-lieux.org](tiers-lieux.org) | Simon Sarrazin
+[tiers-lieux.fr](tiers-lieux.fr) | Marc Vanlindt
+[tiers-lieux.be](tiers-lieux.be) | Marc Vanlindt
+[tiers-lieux.ch](tiers-lieux.ch) | Alexandre Poltorak
+
 # **Contexte**
 
 > (...) Il me semble que la gestion de ces noms de domaine est importante pour nos histoires. Ne devrions-nous pas envisager leurs gestions sous l’angle des communs ? Existe-t-il des précédents ? — [Antoine Burret](http://movilab.org/index.php?title=Utilisateur:Antoine)
@@ -18,15 +25,6 @@ Ce document accompagne les échanges sur la gouvernance des noms de domaine tier
    * Xavier Coadic (Le Biome, multibao, FTW)
    * Yann Heurtaux (Hackuarium, la Serre, FTW)
    * Yoan Duriaux (OpenFactory42, Movilab, FTW)
-
-# **Annuaire**
-
-**Nom de domaine** | **Administrateur**
------------- | -------------
-[tiers-lieux.org](tiers-lieux.org) | Simon Sarrazin
-[tiers-lieux.fr](tiers-lieux.fr) | Marc Vanlindt
-[tiers-lieux.be](tiers-lieux.be) | Marc Vanlindt
-[tiers-lieux.ch](tiers-lieux.ch) | Alexandre Poltorak
 
 # **Exemples**
 
