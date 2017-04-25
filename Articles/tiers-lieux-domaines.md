@@ -30,8 +30,8 @@ Ce document accompagne les échanges sur la gouvernance des noms de domaine tier
 
 # **Exemples**
 
-   * Legal Service Commons : \url{underlinehttp://legalserviceforcommons.initiative.placeunderline}
-   * Trademark Policy Wikimedia : \url{underlinehttps://m.wikimediafoundation.org/wiki/Trademark\_policyunderline}
+   * Legal Service Commons : http://legalserviceforcommons.initiative.placeunderline
+   * Trademark Policy Wikimedia : https://m.wikimediafoundation.org/wiki/Trademark\_policyunderline
 
 # **Licence**
 
