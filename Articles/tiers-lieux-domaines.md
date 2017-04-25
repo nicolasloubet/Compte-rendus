@@ -23,10 +23,10 @@ Message d'Antoine Burret : J’ai eu l’échange suivant avec Marc (Vanlindt, d
 
 **Nom de domaine** | **Administrateur**
 ------------ | -------------
-tiers-lieux.org | Simon Sarrazin
-tiers-lieux.fr | Marc Vanlindt
-tiers-lieux.be | Marc Vanlindt
-tiers-lieux.ch | Alexandre Poltorak
+[tiers-lieux.org](tiers-lieux.org) | Simon Sarrazin
+[tiers-lieux.fr](tiers-lieux.fr) | Marc Vanlindt
+[tiers-lieux.be](tiers-lieux.be) | Marc Vanlindt
+[tiers-lieux.ch](tiers-lieux.ch) | Alexandre Poltorak
 
 # **Exemples**
 
