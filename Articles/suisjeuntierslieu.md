@@ -6,7 +6,7 @@ Il est important de faire la différence entre une "**initiative citoyenne**" et
 * Les ressources sont les choses physiques mises à disposition de la communauté, cela pouvant aller de semences résultant d'une précédente récolte à des machines scientifiques onéreuses.
 * La communauté est le groupe de personnes intéréssé par l'initiative et décidant d'y prendre part.
 * "Librement" sous-entend que le partage s'appuie sur la philosophie du "libre" (cf. glossaire) en utilisant, au besoin, des licences libres pour protéger les biens commus informationnels.
-* Les **compétences** sont les capacités de certains membres fondateurs du tiers-lieu ou de certains membres de la communauté à mettre en pratique leur expérience dans un certain domaine en appliquant les savoirs qu'ils auront acquis.
+* Les **compétences** sont les capacités de certains membres fondateurs du tiers-lieu ou de la communauté à mettre en pratique leur expérience dans un certain domaine en appliquant les savoirs qu'ils auront acquis.
 * Les savoirs sont l'ensemble des connaissances utilisées et acquises par l'expérience au sein du tiers-lieu et permettant d'acquérir une compétence dans ce domaine.
 
 Ces savoirs doivent toujours être librement accessibles à tous, y compris aux personnes ne faisant pas partie de la communauté du tiers-lieux afin de pouvoir être qualifié de bien commun informationnel.
