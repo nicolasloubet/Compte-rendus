@@ -21,7 +21,8 @@ Message d'Antoine Burret : J’ai eu l’échange suivant avec Marc (Vanlindt, d
 
 # **Annuaire**
 
-Nom de domaine | Administrateur
+**Nom de domaine** | **Administrateur**
+------------ | -------------
 tiers-lieux.org | Simon Sarrazin
 tiers-lieux.fr | Marc Vanlindt
 tiers-lieux.be | Marc Vanlindt
@@ -32,7 +33,7 @@ tiers-lieux.ch | Alexandre Poltorak
    * Legal Service Commons : \url{underlinehttp://legalserviceforcommons.initiative.placeunderline}
    * Trademark Policy Wikimedia : \url{underlinehttps://m.wikimediafoundation.org/wiki/Trademark\_policyunderline}
 
-#**Licence**
+# **Licence**
 
 <p align="center">
   <img src="https://github.com/nicolasloubet/compte-rendus/blob/master/Images/CC-BY-NC-SA.png?raw=true alt="CC-BY-NC-SA 4.0"/>
