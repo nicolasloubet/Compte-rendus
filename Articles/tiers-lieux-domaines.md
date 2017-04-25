@@ -4,7 +4,7 @@ Ce document accompagne les échanges sur la gouvernance des noms de domaine tier
 
 # **À propos**
 
-Message d'Antoine Burret : (...) Il me semble que la gestion de ces noms de domaine est importante pour nos histoires. Ne devrions-nous pas envisager leurs gestions sous l’angle des communs ? Existe-t-il des précédents ?
+> (...) Il me semble que la gestion de ces noms de domaine est importante pour nos histoires. Ne devrions-nous pas envisager leurs gestions sous l’angle des communs ? Existe-t-il des précédents ? — [Antoine Burret](http://movilab.org/index.php?title=Utilisateur:Antoine)
 
 # **Contributeurs**
 
