@@ -1,4 +1,4 @@
-# [Interconnectés] Y a t-il trop de tiers-lieux en France ?
+# Y a t-il trop de tiers-lieux en France ?
 
 **tl;dr**: OUI. Et il faut de toute urgence créer davantage de 'lieux polymorphes modulaires'! Plus sérieusement : il est important de dépasser le sens premier du terme ([daté des années 1980](https://fr.wikipedia.org/wiki/Tiers-lieu)) pour proposer des éléments de structuration. 
 
