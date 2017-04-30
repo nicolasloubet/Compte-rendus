@@ -2,6 +2,10 @@
 
 Ce répertoire est un recueil d'articles issus de rencontres, de réunions, d'ateliers et de conférences en lien avec mes activités. Sauf mention explicite contraire, les textes et les images sont tou.te.s régi.e.s par la licence [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
+## Blockchain
+
+* [Blockchain dans la transition énergétique](https://github.com/nicolasloubet/Compte-rendus/blob/master/Articles/blockchain-transition-energetique.md)
+
 ## Communs
 
 * [Économie sociale, communs et collectivités](https://github.com/nicolasloubet/Compte-rendus/blob/master/Articles/ESS-communs-collectivites.md)
@@ -13,6 +17,3 @@ Ce répertoire est un recueil d'articles issus de rencontres, de réunions, d'at
 * [Rencontre avec Karine Dognin-Sauze](https://github.com/nicolasloubet/Compte-rendus/blob/master/Articles/Maker-Lyon-MYNE.md)
 * [CAIRN : interview de Pauline Gourlet](https://github.com/nicolasloubet/Compte-rendus/blob/master/Articles/pauline-gourlet-cairn.md)
 
-## Blockchain
-
-* [Blockchain dans la transition énergétique](https://github.com/nicolasloubet/Compte-rendus/blob/master/Articles/blockchain-transition-energetique.md)
