@@ -2,7 +2,7 @@
 
 _Ce document est le compte-rendu de l'entretien entre Pauline Gourlet et par Sylvia Fredriksson. Il a été réalisé le 31 janvier 2017 dans le cadre de la préparation de [l'expérience Tiers-Lieux 'Fork The World'](https://nicolasloubet.gitbooks.io/fork-the-world/content/chapter1.html) de la [10e Biennale de Design de Saint-Etienne](http://www.biennale-design.com/saint-etienne/2017/fr/home)._
 
-**En tant que chercheuse en design, quelle a été ta méthodologie de travail en rapport avec le Carrefour numérique, FabLab de la Cité des sciences à Paris ?**
+## **En tant que chercheuse en design, quelle a été ta méthodologie de travail en rapport avec le Carrefour numérique, FabLab de la Cité des sciences à Paris ?**
 
 En commençant le projet, je n’avais pas planifié ce que j’allais faire. C’est au gré des rencontres que les méthodologies se mettent en place, à l’image du fonctionnement des tiers-lieux. On rencontre des gens, on découvre des projets, on identifie les besoins des uns et des autres.
 
@@ -22,7 +22,7 @@ Une fois l’intention définie, j'ai travaillé avec Thierry Dasse en immersion
 
 Du point de vue du traitement des données encodées par Cairn, j’ai essayé de comprendre ce qui se passait, de manière un peu plus rigoureuse, par le biais d’observations, d’entretiens et de prise de vue vidéo. J'ai filmé pendant 10 jours ce qu’il se passait, et la manière dont les gens interagissaient avec la table.
 
-**Cette expérience au fablab du Carrefour numérique est-elle représentative de ta méthode de travail ? Comment cette initiative s’articule avec ta recherche ?**
+## **Cette expérience au fablab du Carrefour numérique est-elle représentative de ta méthode de travail ? Comment cette initiative s’articule avec ta recherche ?**
 
 Je travaille toujours de cette manière. Mes projets commencent en général par une envie de transformation face à quelque chose qui ne me satisfait pas, ou qui a l’air d’être problématique pour moi et plusieurs personnes. Ensuite, je mets en œuvre une itération pour identifier comment on cette transformation d’un état insatisfaisant peut s’opérer collectivement. Cela passe par des rencontres, une imprégnation dans un lieu pour mieux connaître et comprendre les gens et la communauté. Enfin, s’opère une série d’itérations collectives.
 
@@ -30,7 +30,7 @@ Ce qui m’intéresse en tant que chercheur, c’est que cette démarche est à 
 
 L’enjeu de ma recherche est de montrer que Cairn et l’incarnation des activités des contributeurs du fablab dans un objet physique peut amener la communauté à se repenser. C’est cette dimension que je m’attache à capter, et c’est pour cela que le temps d’analyse est long.
 
-**Qu’as-tu observé, avec Cairn, des activités du Carrefour numérique ?**
+## **Qu’as-tu observé, avec Cairn, des activités du Carrefour numérique ?**
 
 Tout d’abord, je pense que si Cairn permet de produire une connaissance située sur les activités d’un fablab spécifique, ce dispositif permet aussi de comparer les fablabs entre eux, ce qui me semble encore plus intéressant.
 
@@ -44,7 +44,7 @@ Chez les nouveaux usagers, j’ai relevé un fort désir de marquer leur passage
 
 Actuellement, je n’ai pas fini d’analyser ce que j’ai quantifié. Mais je ne suis pas sûre que la quantification soit la démarche la plus intéressante dans cet objet.
 
-**Qu’est-ce que Cairn nous apprend sur les mutations du travail ?**
+## **Qu’est-ce que Cairn nous apprend sur les mutations du travail ?**
 
 Encore une fois, je pense que ce sont les discussions autour de Cairn qui nous apprennent possiblement sur les mutations du travail, ou en tout cas sur ce que l’on considère être une activité humaine - car je ne sais même pas si cela s’appelle encore travail - à ce niveau là.
 
@@ -52,13 +52,13 @@ Je ne dirais pas que le table en elle-même informe sur les mutations du travail
 
 Ce que Cairn décrit, c’est un engagement régulier de plusieurs personnes à se retrouver pour partager des pratiques.
 
-**Cette dimension économique, qui n’est pas prise en compte dans l’encodage de la table, pourrait-elle être intégrée dans Cairn ?**
+## **Cette dimension économique, qui n’est pas prise en compte dans l’encodage de la table, pourrait-elle être intégrée dans Cairn ?**
 
 Oui, ce serait possible. Cela dépend des fablabs, mais notamment le Carrefour numérique, parce qu’il est ouvert et gratuit, n’est pas dédié à la mise en œuvre de production dans un objectif commercial. Les usagers viennent réaliser des prototypes, mais ne sont pas, à priori, censé y développer une activité qui leur permettant de vivre de ce qu’ils produisent.
 
 Il serait donc en effet intéressant de voir comment cette activité au fablab s’intègre dans une activité professionnelle. Les gens que j’ai interrogé étaient majoritairement des indépendants (développeurs, artistes) ou encore des retraités, c’est-à-dire des personnes qui disposent de temps, voir pour qui le temps de prototypage en fablab fait partie intégrante de leur démarche professionnelle. Ce sont des pratiques à priori incompatibles avec un travail salarié, pour être très caricatural.
 
-**Quel rôle peut jouer le design dans la compréhension des mutations du travail ?**
+## **Quel rôle peut jouer le design dans la compréhension des mutations du travail ?**
 
 Je ne sais pas si c’est le design qui a quelque chose à dire de cela, ou si ce sont plutôt des méthodes de recherche. Ce que je constate, dans le contexte du fablab comme dans celui de l'école, c’est qu’il est intéressant de faire des choses ensemble.
 
