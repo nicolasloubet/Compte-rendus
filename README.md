@@ -1,6 +1,6 @@
 # Compte-rendus
 
-Ce répertoire est un recueil d'articles issus de rencontres, de réunions, d'ateliers et de conférences. Sauf mention contraire, les textes et les images sont tou.te.s régi.e.s par la licence Creative Commons [BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+Ce répertoire est un recueil d'articles issus de rencontres, de réunions, d'ateliers et de conférences en lien avec mes activités. Sauf mention contraire, les textes et les images sont tou.te.s régi.e.s par la licence Creative Commons [BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 ## Communs
 
