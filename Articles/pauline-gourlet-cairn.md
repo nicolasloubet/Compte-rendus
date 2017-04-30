@@ -1,4 +1,4 @@
-# CAIRN - Une table pour rendre visible les processus d'apprentissage pair à pair dans les tiers-lieux
+# CAIRN : une table pour rendre visible les processus d'apprentissage pair à pair dans les tiers-lieux
 
 _Ce texte est une interview de [Pauline Gourlet](https://les-savanturiers.cri-paris.org/pauline-gourlet) par [Sylvia Fredriksson](https://www.sylviafredriksson.net/about). Elle a réalisé le 31 janvier 2017 dans le cadre de la préparation de [l'expérience Tiers-Lieux 'Fork The World'](https://nicolasloubet.gitbooks.io/fork-the-world/content/chapter1.html) de la [10e Biennale Internationale de Design de Saint-Etienne](http://www.biennale-design.com/saint-etienne/2017/fr/home)._
 
