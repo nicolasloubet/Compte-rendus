@@ -1,6 +1,6 @@
 # CAIRN : de la mesure de l'emploi à la compréhension du travail
 
-_ Ce texte est une interview de [Pauline Gourlet](https://les-savanturiers.cri-paris.org/pauline-gourlet) par [Sylvia Fredriksson](https://www.sylviafredriksson.net/about). Elle a réalisé le 31 janvier 2017 dans le cadre de la préparation de [l'expérience Tiers-Lieux 'Fork The World'](https://nicolasloubet.gitbooks.io/fork-the-world/content/chapter1.html) de la [10e Biennale de Design de Saint-Etienne](http://www.biennale-design.com/saint-etienne/2017/fr/home)._
+_Ce texte est une interview de [Pauline Gourlet](https://les-savanturiers.cri-paris.org/pauline-gourlet) par [Sylvia Fredriksson](https://www.sylviafredriksson.net/about). Elle a réalisé le 31 janvier 2017 dans le cadre de la préparation de [l'expérience Tiers-Lieux 'Fork The World'](https://nicolasloubet.gitbooks.io/fork-the-world/content/chapter1.html) de la [10e Biennale de Design de Saint-Etienne](http://www.biennale-design.com/saint-etienne/2017/fr/home)._
 
 ## **En tant que chercheuse en design, quelle a été ta méthodologie de travail en rapport avec le Carrefour numérique, FabLab de la Cité des sciences à Paris ?**
 
