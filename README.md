@@ -2,7 +2,7 @@
 
 Dépot consacré aux compte-rendus de formations et d'ateliers suivi. Les documents sont sous licence [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-## Biens Communs
+## Communs
 
 * [Économie sociale, communs et collectivités](https://github.com/nicolasloubet/Compte-rendus/blob/master/Articles/ESS-communs-collectivites.md)
 
