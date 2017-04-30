@@ -2,7 +2,7 @@
 
 Dépot consacré aux compte-rendus de formations et d'ateliers suivi. Les documents sont sous licence [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-* [Économie sociale, biens communs et collectivités](https://github.com/nicolasloubet/Compte-rendus/blob/master/Articles/ESS-communs-collectivites.md)
+* [Économie sociale, communs et collectivités](https://github.com/nicolasloubet/Compte-rendus/blob/master/Articles/ESS-communs-collectivites.md)
 * [Y a t-il trop de tiers-lieux en France ?](https://github.com/nicolasloubet/Compte-rendus/blob/master/Articles/INTERConnectes-tiers-lieux.md)
 * [Rencontre avec Karine Dognin-Sauze](https://github.com/nicolasloubet/Compte-rendus/blob/master/Articles/Maker-Lyon-MYNE.md)
 * [Blockchain dans la transition énergétique](https://github.com/nicolasloubet/Compte-rendus/blob/master/Articles/blockchain-transition-energetique.md)
