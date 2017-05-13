@@ -1,9 +1,7 @@
-# Mutuelles de travail & travail des communs - Regards croisés
+# Mutuelles de travail & travail des communs
 
 * [Présentation](http://blogfr.p2pfoundation.net/index.php/2017/04/05/mutuelles-de-travail-travail-communs-regards-croises)
 * [Prise de notes](https://mensuel.framapad.org/p/mutuelles-travail)
-
----
 
 ## 1- Présentation des structures organisatrices
 
@@ -241,32 +239,31 @@ Voir le livre "Manifeste pour une véritable économie collaborative".
 
 ### Discussion
 
-   * Justine Ballon (Coopaname – **Manucoop** – **Ladyss**)
-   * Stéphanie Brulé Josso (**Chrysalide**)
-   * Germain Lefebvre (**Oxalis **– **Manucoop**)
-   * Nadine Richez Battesti (**Lest** – **Manucoop**)
-    Question : qu'est-ce que les communs apportent à votre réflexion ?
+* Justine Ballon (Coopaname – **Manucoop** – **Ladyss**)
+* Stéphanie Brulé Josso (**Chrysalide**)
+* Germain Lefebvre (**Oxalis **– **Manucoop**)
+* Nadine Richez Battesti (**Lest** – **Manucoop**)
+
+Question : qu'est-ce que les communs apportent à votre réflexion ?
 
 * Germain : la question de la membrane et de lien au marché n'est pas si simple que ça car on choisit de proposer aux entrepreneurs de rompre avec le lien de subordination tout en leur proposant une protection sociale dont les mécanismes dépassent la communauté.
 
-* Stéphanie : la structure en 3 niveaux est très intéressante pour les CAE, notamment celles qui passent en SCIC. Chez Chrysalide, la gouvernance existe mais la non démocratie poeut tout à fait exister même dans des structures coopératives. Non reconnaissance du commun produit par les commoners en dehors de l'activité salariée (réunions,...) = communs immatériel non valorisés par l'équipe qui gouvernen la CAE. Vrai enjeu d'introduire la question des communs.
-Problème aussi de la concurrence entre les réseaux, les autres CAE, etc...
+* Stéphanie : la structure en 3 niveaux est très intéressante pour les CAE, notamment celles qui passent en SCIC. Chez Chrysalide, la gouvernance existe mais la non démocratie poeut tout à fait exister même dans des structures coopératives. Non reconnaissance du commun produit par les commoners en dehors de l'activité salariée (réunions,...) = communs immatériel non valorisés par l'équipe qui gouvernen la CAE. Vrai enjeu d'introduire la question des communs. Problème aussi de la concurrence entre les réseaux, les autres CAE, etc...
 
 * Nadine : Dans l'ESS on axe souvent sur l'organisation et une version étroite de la production réalisée (comptabilité). On perd parfois de vue l'action du collectif. Quelle est la place de l'organisation et de l'animation des communautés/de la vie coopérative dans les communs ?
-La question de la réciprocité réapparaît dans le rapport au marché mais il devrait également y en avoir au niveau de l'état et des coopératives elles-mêmes.
-Quelle est la place du travail ? Repenser le travail et son organisation, place du travailleur dans cette organisation. Comment gérer les rapports de pouvoir ?
+ * La question de la réciprocité réapparaît dans le rapport au marché mais il devrait également y en avoir au niveau de l'état et des coopératives elles-mêmes.
+ * Quelle est la place du travail ? Repenser le travail et son organisation, place du travailleur dans cette organisation. Comment gérer les rapports de pouvoir ?
 
 * Justine : dialogue entre deux formes d'utopies, construction d'un nouvel imaginaire, notamment via un nouveau vocabulaire qu'il n'est pas toujours facile de s'approprier. Comment on peut toucher d'autres personnes ? Dans le projet Jeunes de Coopaname, un effort est fait pour toucher d'autres publics.
 
 * Distinction entre l'économie capitaliste basée sur un modèle extractif et l'économie post-capitaliste générative.
-Si on essayent de découper les activités de travail des entrepreneurs salariés des CAE, on retrouve :
-- le temps lié à l'activité en vue de générer un revenu (prospection, prestation,...)
-- le temps lié à la communauté (les salariés qui accompagnent ont un rôle d'animation avec des événements)
-- le temps de formation, d'apprentissage
-- le temps de construction des règles collectives
+* Si on essayent de découper les activités de travail des entrepreneurs salariés des CAE, on retrouve :
+ * le temps lié à l'activité en vue de générer un revenu (prospection, prestation,...)
+ * le temps lié à la communauté (les salariés qui accompagnent ont un rôle d'animation avec des événements)
+ * le temps de formation, d'apprentissage
+ * le temps de construction des règles collectives
 
-* Comment répartir ces temps, sachant que certains n'ont pas de répercussion économique directe ?
-Nécessité de construire les communs (règles de gouvernance, répartition des résultats) alors que certains sont payés pour le faire et d'autres non ?
+* Comment répartir ces temps, sachant que certains n'ont pas de répercussion économique directe ? Nécessité de construire les communs (règles de gouvernance, répartition des résultats) alors que certains sont payés pour le faire et d'autres non ?
 
 ### Réponse de Michel Bauwens
 
