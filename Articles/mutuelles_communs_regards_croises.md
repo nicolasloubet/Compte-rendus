@@ -10,7 +10,7 @@ _Jeudi 11 mai 2017, **La manufacture coopérative** (1) et **En Communs** (2) on
 
 ## Les mutuelles de travail, des organisations pour entreprendre en commun ?
 
-### Antonella Corsani & Marie-Christine Bureau
+### Intervnetion d'A. Corsani & M.-C. Bureau
 
 * Découverte des coopératives d'activité d'emplois en 2011. Ne connaissaient pas
 * Il y a peu de recherches. Pour expliquer ce que c'est. Prend beaucoup de temps
@@ -137,7 +137,7 @@ Comment augmenter sa marge de discrétion en faveur des coopérateurs mais aussi
 
 * Le point de vue adopté : communauté de gens qui souhaitent faire vivre leur(s) commun(s) et qui ont besoin du marché pour ça (cf. "[Manifeste pour une véritable économie collaborative](http://blogfr.p2pfoundation.net/index.php/2017/04/04/manifeste-veritable-economie-collaborative)".
 
-* Nous sommes en train de créer une nouvelle société. C'est confirmé par le groupe P2P Value qui a étudie sur 3 ans près de 300 communautés de production Pair-à-Pair (Enspiral en Nouvelle Zélande, Sensorica au Canada, Backfeed, etc.) 3 enseignements :
+* Nous sommes en train de créer une nouvelle société. C'est confirmé par le groupe [P2P Value](https://p2pvalue.eu) qui a étudie sur 3 ans près de 300 communautés de production Pair-à-Pair (Enspiral, Sensorica, Backfeed, etc.). 3 enseignements :
   * 78% des communautés interrogées pratiquent une nouvelle forme de comptabilité : la comptabilité contributive (NB : selon Michel Bauwens, les grands changements de société ont **toujours** été aussi des changements de comptabilité)
   * Les individus engagés dans ces projets ont une conscience transnationale même quand ils sont actifs localement (au travers de pratiques de permaculture, de jardins partagés,...). Cela semble dessiner un nouvel imaginaire social
    * La réputation devient une nouvelle monnaie ("currency"). Elle se traduit par l'accès à des ressources.
@@ -164,7 +164,7 @@ Comment augmenter sa marge de discrétion en faveur des coopérateurs mais aussi
   
 * Deux critères : ouverture et engagement dans le projet. Financiariser les externalités négatives : Ex de Terre de Liens : avec l'agriculture biologique, on a beaucoup moins de coûts de nettoyage, donc la ville/l'état peut réinvestir X% de ce qui a été économié dans la constrcution du commun. Encore en émergence : les coopératives d'énergie (6% des toits en panneaux solaires, 1% seulement dans les quartiers pauvres ; projet "Energie du voisinage). Le coopératif est utilisé comme outil légal de gestion des communs.
 
-### Discussion
+### Temps de discussion
 
 * Question : qu'est-ce que les communs apportent à votre réflexion ?
 
