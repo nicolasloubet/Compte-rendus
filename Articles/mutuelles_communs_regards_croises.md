@@ -1,6 +1,6 @@
 # Mutuelles de travail & travail des communs
 
-_Jeudi 11 mai 2017, **La manufacture coopérative** (1) et **En Communs** (2) ont animé aux [Grands Voisins](http://lesgrandsvoisins.org) (3) un [séminaire](https://www.eventbrite.fr/e/inscription-seminaire-manucoop-en-communs-33333905609)  sur les modèles, les pratiques et les mutations des mutuelles de travail (notamment les Coopératives d'Activités et d'Emploi). Ce document est UNE mise en forme de la [prise de notes](https://mensuel.framapad.org/p/mutuelles-travail) de [Maia Dereva](http://maiadereva.semeoz.info) (qu'il convient de [remercier comme il se doit !](https://liberapay.com/MaiaDereva/donate))._
+_Jeudi 11 mai 2017, **La manufacture coopérative** (1) et **En Communs** (2) ont animé aux [Grands Voisins](http://lesgrandsvoisins.org) (3) un [séminaire](http://blogfr.p2pfoundation.net/index.php/2017/04/05/mutuelles-de-travail-travail-communs-regards-croises/)  sur les modèles, les pratiques et les mutations des mutuelles de travail (notamment les Coopératives d'Activités et d'Emploi). Ce document est UNE mise en forme de la [prise de notes](https://mensuel.framapad.org/p/mutuelles-travail) de [Maia Dereva](http://maiadereva.semeoz.info) (qu'il convient de [remercier comme il se doit !](https://liberapay.com/MaiaDereva/donate))._
 
 (1) **La manufacture coopérative**, aux Grands Voisins depuis janvier, est née d'une recherche-action sur la coopération lancée en 2012 par Coopaname et Oxalis en partenariat avec le Ladyss. Transformée en coopérative autonome en 2015, son objectif est d'aider au développement coopératif par la recherche-action et l'accompagnement entre collectifs.
 
@@ -10,10 +10,10 @@ _Jeudi 11 mai 2017, **La manufacture coopérative** (1) et **En Communs** (2) on
 
 ## Les mutuelles de travail, des organisations pour entreprendre en commun ?
 
-++Intervenantes++ : Antonella Corsani & Marie-Christine Bureau
+**Intervenantes** : Antonella Corsani (ISST – IDHES – Manucoop) & Marie-Christine Bureau (Lise – CNAM)
 
-* Découverte des coopératives d'activité d'emplois en 2011. Ne connaissaient pas.
-* Il y a peu de recherches. Pour expliquer ce que c'est, ça prend beaucoup de temps.
+* Découverte des coopératives d'activité d'emplois en 2011. Elles ne connaissaient pas.
+* Il y a peu de recherches. Pour expliquer ce que c'est... ça prend beaucoup de temps.
 * Les CAE constituent une "attaque" de la fabrique néolibérale de la subjectivité.
 
 ### Néolibéralisme
