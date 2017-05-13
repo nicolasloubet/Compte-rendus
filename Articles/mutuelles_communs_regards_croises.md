@@ -10,7 +10,7 @@ _Jeudi 11 mai 2017, **La manufacture coopérative** (1) et **En Communs** (2) on
 
 ## Les mutuelles de travail, des organisations pour entreprendre en commun ?
 
-**Intervenantes** : Antonella Corsani & Marie-Christine Bureau / **Animation** : Noémie de Grenier
+**Intervenantes** : Antonella Corsani & Marie-Christine Bureau. **Animation** : Noémie de Grenier
 
 * Découverte des coopératives d'activité d'emplois en 2011. Ne connaissaient pas
 * Il y a peu de recherches. Pour expliquer ce que c'est. Prend beaucoup de temps
@@ -27,7 +27,7 @@ _Jeudi 11 mai 2017, **La manufacture coopérative** (1) et **En Communs** (2) on
 
 ### Coopaname
 
-* Le nouveau management : inciter l'autonomie et la coopération. Entrepreneuriat interne = travailleur autonome dépendant.
+* Évolution du management : autonomie et coopération. Entrepreneuriat interne = "travailleur autonome dépendant".
 * Externalisation RH. Incitation à la création d'entreprise (entrepreunariat externe = nouveau travailleur indépendant).
 * Zones grises des relations de travail. Les CAE naissent au sein de cette "zone grise" et non pas dans un renversement.
 
