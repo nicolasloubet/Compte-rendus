@@ -18,7 +18,6 @@
   * La journée se découpe en deux grandes sessions : matin et après-midi
     * Comment faire dialoguer les deux univers (communs et coopératives) ?
     * Interventions pas trop courtes pour avoir le temps de déplier la pensée
-
 ---
 
 ## 2- Antonella Corsani & Marie-Christine Bureau
@@ -230,12 +229,11 @@ Voir le livre "Manifeste pour une véritable économie collaborative".
 * Idées en discussion :
   * Mobiliser le pouvoir d'achat via des institutions clés (hôpitaux, écoles,..) dans tous les quartiers. Ex : 1 million de repas délivrés à des enfants par an dans la ville de Gand => introduction de critères alternatifs dans les appels d'offres et combiner ça avec un "saucissonnage" de l'appel d'offre qui le rend plus intéressan pour les petites entreprises
   * Appel à communs : un appel d'offre est basé sur la compétition individuelle (1 seul gagnant), remplacé par des appels à consortiums, technique qui stimule la coopération entre acteurs    Ex : consortium de 8 personnes pour acheter un bâtiment avec comptabilité contributive pour gérer le loyer
-    2 critères : ouverture et engagement dans le projet
+ * 2 critères : ouverture et engagement dans le projet
+  * financiariser les externalités négatives : Ex de Terre de Liens : avec l'agriculture biologique, on a beaucoup moins de coûts de nettoyage, donc la ville/l'état peut réinvestir X% de ce qui a été économié dans la constrcution du commun
+  * Energent : coopérative d'énergie, 6% des toits en panneaux solaires, 1% seulement dans les quartiers pauvres. Projet "Energie du voisinage.
 
-   *     financiariser les externalités négatives :         Ex de Terre de Liens : avec l'agriculture biologique, on a beaucoup moins de coûts de nettoyage, donc la ville/l'état peut réinvestir X% de ce qui a été économié dans la constrcution du commun
-
-   *     Energent : coopérative d'énergie, 6% des toits en panneaux solaires, 1% seulement dans les quartiers pauvres. Projet "Energie du voisinage"
-    Le coopératif est utilisé comme outil légal de gestion des communs
+* Le coopératif est utilisé comme outil légal de gestion des communs
 
 ### Discussion
 
@@ -251,23 +249,27 @@ Question : qu'est-ce que les communs apportent à votre réflexion ?
 * Stéphanie : la structure en 3 niveaux est très intéressante pour les CAE, notamment celles qui passent en SCIC. Chez Chrysalide, la gouvernance existe mais la non démocratie poeut tout à fait exister même dans des structures coopératives. Non reconnaissance du commun produit par les commoners en dehors de l'activité salariée (réunions,...) = communs immatériel non valorisés par l'équipe qui gouvernen la CAE. Vrai enjeu d'introduire la question des communs. Problème aussi de la concurrence entre les réseaux, les autres CAE, etc...
 
 * Nadine : Dans l'ESS on axe souvent sur l'organisation et une version étroite de la production réalisée (comptabilité). On perd parfois de vue l'action du collectif. Quelle est la place de l'organisation et de l'animation des communautés/de la vie coopérative dans les communs ?
- * La question de la réciprocité réapparaît dans le rapport au marché mais il devrait également y en avoir au niveau de l'état et des coopératives elles-mêmes.
- * Quelle est la place du travail ? Repenser le travail et son organisation, place du travailleur dans cette organisation. Comment gérer les rapports de pouvoir ?
+  * La question de la réciprocité réapparaît dans le rapport au marché mais il devrait également y en avoir au niveau de l'état et des coopératives elles-mêmes.
+  * Quelle est la place du travail ? Repenser le travail et son organisation, place du travailleur dans cette organisation. Comment gérer les rapports de pouvoir ?
 
 * Justine : dialogue entre deux formes d'utopies, construction d'un nouvel imaginaire, notamment via un nouveau vocabulaire qu'il n'est pas toujours facile de s'approprier. Comment on peut toucher d'autres personnes ? Dans le projet Jeunes de Coopaname, un effort est fait pour toucher d'autres publics.
 
 * Distinction entre l'économie capitaliste basée sur un modèle extractif et l'économie post-capitaliste générative.
 * Si on essayent de découper les activités de travail des entrepreneurs salariés des CAE, on retrouve :
- * le temps lié à l'activité en vue de générer un revenu (prospection, prestation,...)
- * le temps lié à la communauté (les salariés qui accompagnent ont un rôle d'animation avec des événements)
- * le temps de formation, d'apprentissage
- * le temps de construction des règles collectives
+  * le temps lié à l'activité en vue de générer un revenu (prospection, prestation,...)
+  * le temps lié à la communauté (les salariés qui accompagnent ont un rôle d'animation avec des événements)
+  * le temps de formation, d'apprentissage
+  * le temps de construction des règles collectives
 
 * Comment répartir ces temps, sachant que certains n'ont pas de répercussion économique directe ? Nécessité de construire les communs (règles de gouvernance, répartition des résultats) alors que certains sont payés pour le faire et d'autres non ?
 
 ### Réponse de Michel Bauwens
 
-* La domination reste évidemment.Il faut faire la différence entre la captation externe et la captation interne.Il y a toujours 1% de personnes très actives, 9% actives de temps en temps, et le reste qui utilisent.Ex. de Linux : les contributeurs bénévoles existent mais sont concurrencés par 20 000 développeurs salariés par des entreprises privées.Ex2 : Ouishare : problèmes car des personnes pensent que ce sont toujours les mêmes qui récupèrent les contrats.
-* Vous reprenez une idéologie capitaliste en ne considérant que la valeur marchande. Faire attention à jusqu'où on remonétarise le commun.Dans certaines structures, il y a décorrélation complète entre ceux qui créent le commun et ceux qui ont une activité commerciale.
-* Systèmes de solidarité (achat de maison par exemple) sans revenu direct. Crowdfunding interne (Co-budget)
-* Il y a des choix différents dans le monde des communs (parfois très libéraux).
+* La domination reste évidemment. Il faut faire la différence entre la captation externe et la captation interne.
+* Il y a toujours 1% de personnes très actives, 9% actives de temps en temps, et le reste qui utilisent.
+  * Ex. de Linux : les contributeurs bénévoles existent mais sont concurrencés par 20 000 développeurs salariés par des entreprises privées.
+  * Ex de Ouishare : problèmes car des personnes pensent que ce sont toujours les mêmes qui récupèrent les contrats.
+
+* Vous reprenez une idéologie capitaliste en ne considérant que la valeur marchande. Faire attention à jusqu'où on remonétarise le commun. Dans certaines structures, il y a décorrélation complète entre ceux qui créent le commun et ceux qui ont une activité commerciale.
+  * Systèmes de solidarité (achat de maison par exemple) sans revenu direct. Crowdfunding interne (Co-budget)
+  * Il y a des choix différents dans le monde des communs (parfois très libéraux).
