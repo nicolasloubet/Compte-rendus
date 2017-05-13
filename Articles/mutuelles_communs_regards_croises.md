@@ -19,10 +19,10 @@ _Jeudi 11 mai 2017, **La manufacture coopérative** (1) et **En Communs** (2) on
 
 * Chacun y met des sens différents :
    * Dans une perspective sociologique : marchandisation du monde (cela n'aborde pas tous les aspects)
-   * Dans une perspective économique : mutation des formes d'intervention de l'État (il n'y a jamais eu autant d'intervention du Droit). Le libéralisme est mort, le keynesianisme aussi, nous vivons une rande transformation (Polyani). Foucault nous apprend à lire le néolibéralisme comme une innovation de l'histoire.
+   * Dans une perspective économique : mutation des formes d'intervention de l'État (il n'y a jamais eu autant d'intervention du Droit). Le libéralisme est mort, le keynesianisme aussi (Polyani). Foucault nous apprend à lire le néolibéralisme comme une innovation de l'histoire.
    * Le préfixe "néo" opacifie la césure que le néolibéralisme opère dans l'histoire du libéralisme (Jeanpierre). Il fait penser le présent comme un retour du passé.
 
-* Le néolibéralisme n'est pas une théorie économique ni une série de dispositifs de politique économique. C'est un art de gouverner (Foucault). L'intention est de façonner la société sur le modèle idéal de l'entreprise soumise à la logique du marché par des 'règles' de concurrence. La société est pensée comme un ensemble d'entreprises concurrentes entre elles, y compris les individus comme entreprises ("capital humain").
+* Le néolibéralisme n'est pas une théorie économique ni une série de dispositifs de politique économique. C'est un art de gouverner (Foucault). L'intention est de façonner la société sur le modèle idéal de l'entreprise soumise à la logique du marché. La société est pensée comme un ensemble d'entreprises concurrentes entre elles, y compris les individus (cf. "capital humain").
    * Sujet de l'époque fordiste : l'homme se doit d'être un bon travailleur et père de famille.
    * Sujet néolibéral : engagé dans la "production de soi" "le personne devient entreprise" (Gorz).
    Les mots sont : autonomie et concurrence. L'existence est finalisée à cette production de soi.
