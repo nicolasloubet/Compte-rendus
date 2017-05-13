@@ -4,7 +4,7 @@ _Jeudi 11 mai 2017, **La manufacture coopérative** (1) et **En Communs** (2) on
 
 (1) **La manufacture coopérative**, aux Grands Voisins depuis janvier, est née d'une recherche-action sur la coopération lancée en 2012 par Coopaname et Oxalis en partenariat avec le Ladyss. Transformée en coopérative autonome en 2015, son objectif est d'aider au développement coopératif par la recherche-action et l'accompagnement entre collectifs.
 
-(2) **EnCommuns** est un programme de recherche engagé en octobre 2016 sous la direction de Benjamin Coriat. Il se poursuivra jusqu'en 2019. À partir des résultats obtenus par l'ANR PROPICE, il propose d'élargir la réflexion au champ de l'entreprise, en analysant les activités et les modèles économiques développés autour des communs, y compris dans les pays du Sud. Dans le cadre du projet, un séminaire mensuel, ouvert au public, est co-organisé par Sébastien Broca (Cemti, Paris 8), Benjamin Coriat (CEPN, Paris 13) et Fabienne Orsi (IRD, LPED, Aix-Marseille).
+(2) **EnCommuns** est un programme de recherche engagé en octobre 2016 qui se poursuivra jusqu'en 2019. À partir des résultats obtenus par l'ANR PROPICE, il propose d'élargir la réflexion au champ de l'entreprise, en analysant les activités et les modèles économiques développés autour des communs. Dans le cadre du projet, un séminaire mensuel, ouvert au public, est co-organisé par Sébastien Broca (Cemti, Paris 8), Benjamin Coriat (CEPN, Paris 13) et Fabienne Orsi (IRD, LPED, Aix-Marseille).
 
 ## 0- Présentation des structures organisatrices
 
