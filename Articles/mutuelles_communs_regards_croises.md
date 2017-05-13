@@ -19,7 +19,7 @@ _Jeudi 11 mai 2017, **La manufacture coopérative** (1) et **En Communs** (2) on
 
 * Chacun y met des sens différents :
    * Dans une perspective sociologique : "marchandisation du monde" (mais cela n'aborde pas tous les aspects).
-   * Dans une perspective économique : mutation des formes d'intervention de l'État (par la loi). Le libéralisme est mort, le keynesianisme aussi (Polyani). Le néolibéralisme est une innovation de l'Histoire (Foucault).
+   * Dans une perspective économique : mutation des formes d'intervention de l'État (par la Loi). Le libéralisme est mort, le keynesianisme aussi (Polyani). Le néolibéralisme est lue comme une innovation de l'Histoire (Foucault).
    * Le préfixe "néo" opacifie la césure que le néolibéralisme opère dans l'histoire du libéralisme (Jeanpierre). Il fait penser le présent comme un retour du passé.
 
 * Le néolibéralisme n'est pas une théorie économique ni une série de dispositifs de politique économique. C'est un art de gouverner (Foucault). L'intention est de façonner la société sur le modèle de l'entreprise soumise à la logique du marché. La société est pensée comme un ensemble d'entreprises concurrentes entre elles, y compris les individus (cf. "capital humain").
