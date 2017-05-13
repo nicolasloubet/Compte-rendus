@@ -10,17 +10,16 @@ _Jeudi 11 mai 2017, **La manufacture coopérative** (1) et **En Communs** (2) on
 
 ## Les mutuelles de travail, des organisations pour entreprendre en commun ?
 
-**Intervenantes** : Antonella Corsani (ISST – IDHES – Manucoop) & Marie-Christine Bureau (Lise – CNAM)
-
-* Découverte des coopératives d'activité d'emplois en 2011. Elles ne connaissaient pas.
-* Il y a peu de recherches. Pour expliquer ce que c'est... ça prend beaucoup de temps.
+**Intervenantes** : Antonella Corsani & Marie-Christine Bureau
+* Découverte des coopératives d'activité d'emplois en 2011. Ne connaissaient pas.
+* Il y a peu de recherches. Pour expliquer ce que c'est. Prend beaucoup de temps.
 * Les CAE constituent une "attaque" de la fabrique néolibérale de la subjectivité.
 
 ### Néolibéralisme
 
 * Chacun y met des sens différents :
-   * **Sociologie** : marchandisation du monde (définition limitée qui n'aborde pas tous les aspects)
-   * **Économie** : retrait de l'état (mais en réalité, il y a surtout mutation des formes d'intervention de l'État, il n'y a jamais eu autant d'intervention du Droit)
+   * Sociologie : marchandisation du monde (définition limitée qui n'aborde pas tous les aspects)
+   * Économie : Mutation des formes d'intervention de l'État, il n'y a jamais eu autant d'intervention du Droit)
    * Polyani : le libéralisme est mort, le keynesianisme aussi. Grande transformation. Foucault nous apprend à lire le néolibéralisme comme une innovation de l'histoire.
    * Problème du préfixe "néo" : opacifie la césure que le néolibéralisme opère dans l'histoire du libéralisme (Jeanpierre). Fait penser le présent comme un retour du passé.
 
