@@ -22,43 +22,43 @@ _Jeudi 11 mai 2017, **La manufacture coopérative** (1) et **En Communs** (2) on
    * Dans une perspective économique : mutation des formes d'intervention de l'État (par la Loi). Le libéralisme est mort, le keynesianisme aussi (Polyani). Le néolibéralisme est lue comme une innovation de l'Histoire (Foucault).
    * Le préfixe "néo" opacifie la césure que le néolibéralisme opère dans l'histoire du libéralisme (Jeanpierre).
 
-* Le néolibéralisme n'est pas une théorie économique ni une série de dispositifs de politique économique. C'est un art de gouverner (Foucault). L'intention : façonner la société sur le modèle de l'entreprise soumise à la logique du marché ; elle est pensée comme un ensemble d'entreprises concurrentes entre elles, y compris les individus (cf. "capital humain").
+* Le néolibéralisme n'est pas une théorie économique ni une série de dispositifs de politique économique. C'est un art de gouverner (Foucault). L'intention : façonner la société sur le modèle de l'entreprise soumise à la logique du marché, comme un ensemble d'entreprises concurrentes entre elles, y compris les individus (cf. "capital humain").
    * Sujet de l'époque fordiste : l'homme se doit d'être un bon travailleur et père de famille.
    * Sujet néolibéral : engagé dans la "production de soi" "le personne devient entreprise" (Gorz). Les concepts structurants sont : autonomie et concurrence. L'existence est finalisée à cette production de soi.
 
 ### Coopaname
 
-* Le nouveau management : inciter l'autonomie et la coopération. Entrepreneuriat interne = travailleur autonome dépendant
-* Externalisation des RH. Incitation à la création d'entreprise (entrepreunariat externe = nouveau travailleur indépendant)
-* Zones grises des relations de travail => les CAE naissent au sein de cette zone grise et non pas dans un renversement.
+* Le nouveau management : inciter l'autonomie et la coopération. Entrepreneuriat interne = travailleur autonome dépendant.
+* Externalisation RH. Incitation à la création d'entreprise (entrepreunariat externe = nouveau travailleur indépendant).
+* Zones grises des relations de travail. Les CAE naissent au sein de cette "zone grise" et non pas dans un renversement.
 
 * La zone grise s'étend avec les transformations des politiques de l'emploi :
   * Il s'agit d'intervenir sur les comportements des chômeurs (Lavitry)
-  * Dispositifs d'accompagnement : motivation / autonomie / responsabilité
-  * Transformation de chaque individu (travailleur) en "entrepreneur de soi"
+  * Dispositifs d'accompagnement : motivation, autonomie, responsabilité
+  * Transformation de chaque individu (travailleur) en _entrepreneur de soi_
+  
+> On ne peut pas vouloir l'autonomie sans la vouloir pour tous, [...] Sa réalisation ne peut se concevoir que comme entreprise collective - **Cornelius Castoriadis** (1975)
 
-  > On ne peut pas vouloir l'autonomie sans la vouloir pour tous, [...] sa réalisation ne peut se concevoir que comme entreprise collective - **Cornelius Castoriadis**, 1975
-
-* Le développement des CAE va reposer sur la mobilisation des dispositifs néolibéraux (portage salarial, pépinières d'entreprises, incubateurs, etc.). Les CAE épousent la condition néolibérale (Féher) pour préfigurer de nouveaux horizons d'émancipation.
-
-* Coopaname : la CAE comme entreprise partagée. C'est à ce moment que le tournant a lieu vers une fabrique de perversion de la subjectivité néolibérale.
-  * Sortir du "couple" autonomie | dépendance
-  * Rejet de la subordination et de la solitude
-  * Élaborer la démocratie interne de l'organisation
-  * Réduire les détermninants de dépendance économique
-  * Choisir ce qui est mutualisé, ce qui ne l'est pas
+* Le développement des CAE va reposer sur la mobilisation des dispositifs néolibéraux (portage salarial, pépinières d'entreprises, incubateurs, etc.). Elles épousent la condition néolibérale (Féher) pour préfigurer de nouveaux horizons d'émancipation.Chez Coopaname, la CAE est pensée sous l'angle de l'entreprise partagée. Cela engage le tournant vers une tentatie de perversion de la subjectivité néolibérale. Les motivations sont de/d'
+  * sortir du "couple" autonomie / dépendance
+  * rejeter  la subordination et  la solitude
+  * élaborer la démocratie interne de l'organisation
+  * réduire les détermninants de dépendance économique
+  * choisir ce qui est mutualisé, ce qui ne l'est pas
 
 * Si l'intention est de réduire la dépendance économique, comment interpréter l'effet collectif ?
   * Constat : ça marche mieux pour les femmes que pour les hommes (résultat en cours d'analyse).
   * Fabrique instituante. On veut échapper aux institutions mais on institue de nouvelles règles.
 
-* Subordination volontaire au collectif (pouvoir de facturation)
-* Changement par la loi (Hamon, 2014). Les IRP définies comme :
+* Subordination volontaire au collectif (**pouvoir de facturation**). Changement par la loi (Hamon, 2014). IRP :
   * Moyen de protéger collectivement les salariés des employeurs de soi-même qu'ils sont par ailleurs
   * Résistance contre les pratiques abusives des "donneurs d'ordre" et des clients (> moins-disant social)
   * Contre-pouvoir pour limiter le pouvoir moral que la direction de la SCOP exerce à l'égard des membres.
+
 * Collectif comme processus (Simondon) : mise en commun des "réserves de devenir" (toujours en mouvement).
   * L'institution : fonctionnel (outils, organisation, etc.) ET imaginaire (projection vers le futur).
+
+---
 
 ### Elsa Peskine (IRERP – Paris 10)
 
