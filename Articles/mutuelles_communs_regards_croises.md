@@ -57,7 +57,7 @@ _Jeudi 11 mai 2017, **La manufacture coopérative** (1) et **En Communs** (2) on
 * Collectif comme processus (Simondon) : mise en commun des "réserves de devenir" (toujours en mouvement).
   * L'institution = le fonctionnel (outils, organisation, etc.) ET l'imaginaire (projection vers le futur)
 
-### Elsa Peskine
+### Discussion d'Elsa Peskine
 
 * La CAE est un objet juridique assez particulier. On y trouve un cadre d'accompagnement, de protection juridique et un cadre de construction d'une structure collective.Dans une SCOP traditionnelle, on réunit des salariés autour d'un projet d'activité commun. Dans une CAE, les activités peuvent avoir ou non des liens. C'est un projet social.
 
@@ -67,7 +67,7 @@ _Jeudi 11 mai 2017, **La manufacture coopérative** (1) et **En Communs** (2) on
    * Comment protéger ? Par assimilation au salariat en appliquant certaines dispositions du code du travail (différent de ce qui a été retenu pour les travailleurs sur plateformes comme Uber). Hybridation entre salarié et entrepreneur.
    * Critère de dépendance économique par rapport à un seul donneur d'ordre : dans les CAE, le critère d'applicabilité de ce critère est différent. C'est l'isolement qui fait qu'on décide de créer un cadre de mutualisation des risques
 
-### Sabina Issehnane
+### Discussion de Sabina Issehnane
 
 * Lecture au prisme d'une des motivations premières d'entrée dans la CAE : bénéficier de la couverture sociale.
 
@@ -82,7 +82,7 @@ _Jeudi 11 mai 2017, **La manufacture coopérative** (1) et **En Communs** (2) on
 * Problème : être non salarié au départ + carrière marquée par une discontinuité de l'emploi qui se voit dans les catégories B et C (X 3 depuis les années 90)
 * Secteur du spectacle marqué par l'intermittence constitue un "laboratoire" des transformations de l'emploi = s'en inspirer pour créer un régime spécifique
 
-### Benjamin Coriat
+### Discussion de Benjamin Coriat
 
 * Dans les communs comme dans les coopératives on cherche à réinventer des modèles de vie pérennes.
 * Les acteurs des communs sont des champions de la gouvernance... mais pas des modèles économiques.
@@ -97,7 +97,7 @@ _Jeudi 11 mai 2017, **La manufacture coopérative** (1) et **En Communs** (2) on
 Comment augmenter sa marge de discrétion en faveur des coopérateurs mais aussi pour des activités en externe
 (accroître le niveau de connaissance en interne et en externe), pour ne pas rester des îlots dans un monde de barbares.
 
-### Réponses
+### Réponses d'A. Corsani & M.-C. Bureau
 
 * Dans le cadre de ces nouvelles formes d'activités, en prenant en compte la nouvelle nature du travail mais aussi des relations au travail, la question du temps de travail est très problématique. Autant parler d'une réduction du temps de travail à 4 jours par semaine a du sens, autant la réduction du temps horaire dans la journée n'en a pas. Il y a un équilibre des temps sociaux moyens chez la figure moyenne des entrepreneurs salariés beaucoup plus intéressant que chez les salariés. La culture qui se développe à l'intérieur de la coopérative aide à remettre le travail à sa place. C'est comme s'il y a avait une éducation coopérative sur ce sujet. Dans un contexte de transformation de la nature du travail, cette question du rapport au temps de travail mérite d'être soulevée.
 
@@ -111,7 +111,7 @@ Comment augmenter sa marge de discrétion en faveur des coopérateurs mais aussi
 
 * Glissement des droits sociaux appliqués au pouvoir vers des droits sociaux associés au travail. La lenteur du projet de monnaie commune est proportionnel à l'ampleur de ce que ce projet peut apporter en matière de nouvelle gestion des droits sociaux.
 
-### Antonella Corsani & Marie-Christine Bureau
+### Discussion avec la salle
 
 * Le nombre de CAE n'augmente plus (beaucoup vers 1995) mais celles qui existent grandissent et se sectorisent. On commence à voir des expériences d'articulations entre les tiers-lieux (comme les fablabs) et les CAE. Il s'ouvre là quelque chose de difficile à définir mais avec une nouvelle perspective. Mouvement de réhabilitation des espaces industriels en friches : la question se pose sous un jour différent. Les entrepreneurs salariés qui souffrent de solitude cherchent des lieux pour travailler en commun.
 
@@ -133,21 +133,17 @@ Comment augmenter sa marge de discrétion en faveur des coopérateurs mais aussi
 
 ## Le travail des communs au prisme des coopératives
 
-### Michel Bauwens (P2P Foundation)
+### Intervention de Michel Bauwens
 
-* Je travaille actuellement avec la ville de Gand pour élaborer un plan de transition vers les communs. Le point de vue que je vais développer : une communauté de gens qui souhaitent faire vivre leur commun et qui ont besoin du marché pour ça.
-Voir le livre "Manifeste pour une véritable économie collaborative".
+* Michel travaille actuellement avec la ville de Gand pour élaborer un plan de transition vers les communs. Le point de vue adopté : une communauté de gens qui souhaitent faire vivre leur(s) commun(s) et qui ont besoin du marché pour ça (cf. "[Manifeste pour une véritable économie collaborative](http://blogfr.p2pfoundation.net/index.php/2017/04/04/manifeste-veritable-economie-collaborative)".
 
-* Nous sommes en train de changer de perspective et de créer une nouvelle société. Présentation basée sur deux études :
-  * P2P Value : étude sur 3 ans de 300 communautés de production Pair-à-Pair (fablabs, makerspaces, Arduino, Linux,...)3 choses en sont ressorties :
-    * 78% des communautés interrogées pratiquent déjà une nouvelle forme de comptabilité = comptabilité contributive.
+* Nous sommes en train de changer de perspective et de créer une nouvelle société. La présentation basée sur deux études :
+  * P2P Value : étude sur 3 ans de 300 communautés de production Pair-à-Pair [e.g. Enspiral (Nouvelle Zélande, 350 membres, en train de s'internationaliser), Sensorica (capteurs open hardware en design partagé, Montréal, Canada), Backfeed (création monétaire à l'intérieur de communautés)]. 3 enseignements ressortent :
+    * 78% des communautés interrogées pratiquent une nouvelle forme de comptabilité : la comptabilité contributive.
     * Les grands changements de société ont toujours été aussi des changements de comptabilité.
-    * Copyright (c) 2017 Copyright Holder All Rights Reserved.es gens qui sont dans ces projets ont une conscience transnationale même quand ils sont actifs localement (permaculture, jardins partagés,...) = nouvel imaginaire social
-    * La réputation devient une nouvelle monnaie ("currency" en anglais) : elle se traduit par l'accès à des ressources
-  * Étude de Enspiral (Nouvelle Zélande, 350 membres, en train de s'internationaliser)
-  * Étude de Sensorica (capteurs open hardware en design partagé, Montréal, Canada)
-  * Étude de backfeed : tentative de création monétaire à l'intérieur de communautés
-
+    * Les individus engagés dans ces projets ont une conscience transnationale même quand ils sont actifs localement (au tarvers de pratiques de permaculture, de culture de jardins partagés,...). Cela dessine un nouvel imaginaire social
+    * La réputation devient une nouvelle monnaie ("currency" en anglais) : elle se traduit par l'accès à des ressources.
+    
 * Nous sommes en train de vivre une transition dans le régime de valeur.
 
 * Entre le 5ème et le 10ème siècle, fin de l'empire romain = essentiellement un économie de rapine (on obtient des ressources par la guerre) Les structures sociales de l'empire romain ont été très vivaces jusqu'au 9ème siècle. 755 : mouvement La Paix de Dieu => chartes (surtout en France) établissement d'un nouveau régime
@@ -162,15 +158,11 @@ Voir le livre "Manifeste pour une véritable économie collaborative".
   * Hôpital public : considérée comme un coût surtout en cas de crise
   * Hôpital privé : la valeur pour les propriétaires
 
-* Dans les nouvelles communautés de production entre pairs, on voit émerger un régime de valeur basé sur la contribution.
-*   Exemple au Moyen Age : gens qui quittent les villes et qui disent "ici s'arrête la loi salienne" (romaine) et instaurent d'autres valeurs, avec des membranes qui vont gérer la relation entre ces valeurs minoritaires et les valeurs dominantes.
+* Dans les nouvelles communautés de production entre pairs, on voit émerger un régime de valeur basé sur la contribution. Exemple au Moyen Age : gens qui quittent les villes et qui disent "ici s'arrête la loi salienne" (romaine) et instaurent d'autres valeurs, avec des membranes qui vont gérer la relation entre ces valeurs minoritaires et les valeurs dominantes.
 
-* Les 300 communautés étudiées font cela : "ici s'arrête la valeur du marché et commence la valeur de la contribution". A l'intérieur de ces communautés, la valeur est redistribuée.
+* Les 300 communautés étudiées font cela : "Ici s'arrête la valeur du marché et commence la valeur de la contribution". A l'intérieur de ces communautés, la valeur est redistribuée. Chez Sensorica, la comptabilité permet de noter le projet, le travail effectué pour ce projet, un espace, une machine = la communauté se met d'accord pour reconnaître ce qu'est une contribution. Cela se traduit par du "karma" gagné par du mérite dans la communauté productive; Le flux qui vient de l'extérieur est partagé en fonction de la valeur karmique du contributeur.
 
-* Chez Sensorica, la comptabilité permet de noter le projet, le travail effectué pour ce projet, un espace, une machine = la communauté se met d'accord pour reconnaître ce qu'est une contribution. Cela se traduit par du "karma" gagné par du mérite dans la communauté productive; Le flux qui vient de l'extérieur est partagé en fonction de la valeur karmique du contributeur.
-
-* Dans ce nouveau régime, il y a une valeur pluraliste : c'est la communauté qui décide. La membrane : gestion de la relation entre la communauté productive et le marché.
-* Plusieurs techniques cohabitent :
+* Dans ce nouveau régime, il y a une valeur pluraliste : c'est la communauté qui décide. La membrane : gestion de la relation entre la communauté productive et le marché. Plusieurs techniques cohabitent :
   * Communauté ouverte
   * Organisations infrastructurelles (associations / fondations qui construisent les infrastructures)
   * Entreprises génératives : nées dans les communs et veulent créer une économie dans ces communs (au début bénévolat, puis on a besoin de gagner sa vie)Ce n'est plus un capitalisme extractif mais génératif.
@@ -186,16 +178,17 @@ Voir le livre "Manifeste pour une véritable économie collaborative".
   * Copyfair : licences qui autorisent tous les partages de la connaissance mais qui font dépendre la commercialisation de cette connaissance à de la réciprocité
 (licences à réciprocité renforcée). Exemple : licences pour des semences en Allemagne
 
-* Question du commun et de l'état : comment gérer ce lien ?
-* A Gand c'est intéressant : il existe une coalition progressiste (rouge - vert - bleu) depuis 16 ans. Cela a permis de créer des postes de fonctionnaires engagés qui se sont permis dans le temps de soutenir les transitions écologiques dans la ville. Rien que dans l'alimentaire, il y a 80 projets / entreprises autour des circuits courts.
+* Question du commun et de l'état : comment gérer ce lien ? A Gand c'est intéressant : il existe une coalition progressiste (rouge - vert - bleu) depuis 16 ans. Cela a permis de créer des postes de fonctionnaires engagés qui se sont permis dans le temps de soutenir les transitions écologiques dans la ville. Rien que dans l'alimentaire, il y a 80 projets / entreprises autour des circuits courts.
+
 * Idées en discussion :
   * Mobiliser le pouvoir d'achat via des institutions clés (hôpitaux, écoles,..) dans tous les quartiers. Ex : 1 million de repas délivrés à des enfants par an dans la ville de Gand => introduction de critères alternatifs dans les appels d'offres et combiner ça avec un "saucissonnage" de l'appel d'offre qui le rend plus intéressan pour les petites entreprises
   * Appel à communs : un appel d'offre est basé sur la compétition individuelle (1 seul gagnant), remplacé par des appels à consortiums, technique qui stimule la coopération entre acteurs    Ex : consortium de 8 personnes pour acheter un bâtiment avec comptabilité contributive pour gérer le loyer
- * 2 critères : ouverture et engagement dans le projet
-  * financiariser les externalités négatives : Ex de Terre de Liens : avec l'agriculture biologique, on a beaucoup moins de coûts de nettoyage, donc la ville/l'état peut réinvestir X% de ce qui a été économié dans la constrcution du commun
-  * Energent : coopérative d'énergie, 6% des toits en panneaux solaires, 1% seulement dans les quartiers pauvres. Projet "Energie du voisinage.
+  
+* 2 critères : ouverture et engagement dans le projet
+  * Financiariser les externalités négatives : Ex de Terre de Liens : avec l'agriculture biologique, on a beaucoup moins de coûts de nettoyage, donc la ville/l'état peut réinvestir X% de ce qui a été économié dans la constrcution du commun
+  * Émergent : coopérative d'énergie, 6% des toits en panneaux solaires, 1% seulement dans les quartiers pauvres. Projet "Energie du voisinage.
 
-* Le coopératif est utilisé comme outil légal de gestion des communs
+* Le coopératif est utilisé comme outil légal de gestion des communs.
 
 ### Discussion
 
@@ -204,7 +197,7 @@ Voir le livre "Manifeste pour une véritable économie collaborative".
 * Germain Lefebvre (**Oxalis **– **Manucoop**)
 * Nadine Richez Battesti (**Lest** – **Manucoop**)
 
-Question : qu'est-ce que les communs apportent à votre réflexion ?
+* Question : qu'est-ce que les communs apportent à votre réflexion ?
 
 * Germain : la question de la membrane et de lien au marché n'est pas si simple que ça car on choisit de proposer aux entrepreneurs de rompre avec le lien de subordination tout en leur proposant une protection sociale dont les mécanismes dépassent la communauté.
 
@@ -228,9 +221,10 @@ Question : qu'est-ce que les communs apportent à votre réflexion ?
 ### Réponse de Michel Bauwens
 
 * La domination reste évidemment. Il faut faire la différence entre la captation externe et la captation interne.
+
 * Il y a toujours 1% de personnes très actives, 9% actives de temps en temps, et le reste qui utilisent.
-  * Ex. de Linux : les contributeurs bénévoles existent mais sont concurrencés par 20 000 développeurs salariés par des entreprises privées.
-  * Ex de Ouishare : problèmes car des personnes pensent que ce sont toujours les mêmes qui récupèrent les contrats.
+  * Linux : contributeurs bénévoles existent mais sont concurrencés par 20k développeurs salariés par des entreprises privées
+  * Ouishare : Il y a des problèmes car plusieurs personnes pensent que ce sont toujours les mêmes qui récupèrent les contrats
 
 * Vous reprenez une idéologie capitaliste en ne considérant que la valeur marchande. Faire attention à jusqu'où on remonétarise le commun. Dans certaines structures, il y a décorrélation complète entre ceux qui créent le commun et ceux qui ont une activité commerciale.
   * Systèmes de solidarité (achat de maison par exemple) sans revenu direct. Crowdfunding interne (Co-budget)
