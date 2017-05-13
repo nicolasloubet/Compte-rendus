@@ -10,13 +10,13 @@ _Jeudi 11 mai 2017, **La manufacture coopérative** (1) et **En Communs** (2) on
 
 ## Les mutuelles de travail, des organisations pour entreprendre en commun ?
 
-**Intervenantes** : Antonella Corsani & Marie-Christine Bureau. **Animation** : Noémie de Grenier
+### Antonella Corsani & Marie-Christine Bureau
 
 * Découverte des coopératives d'activité d'emplois en 2011. Ne connaissaient pas
 * Il y a peu de recherches. Pour expliquer ce que c'est. Prend beaucoup de temps
 * Les CAE constituent une "attaque" de la fabrique néolibérale de la subjectivité
 
-### Néolibéralisme
+#### Néolibéralisme
 
 * Dans une perspective sociologique : "marchandisation du monde" (mais cela n'aborde pas tous les aspects)
 * Dans une perspective économique : mutation des formes d'intervention de l'État (par la Loi). Le libéralisme est mort, le keynesianisme aussi (Polyani). Le néolibéralisme est lue comme une innovation de l'Histoire (Foucault)
@@ -25,7 +25,9 @@ _Jeudi 11 mai 2017, **La manufacture coopérative** (1) et **En Communs** (2) on
    * Sujet de l'époque fordiste : l'homme se doit d'être un bon travailleur et père de famille
    * Sujet néolibéral : engagé dans la "production de soi" "le personne devient entreprise" (Gorz). Les concepts structurants sont : autonomie et concurrence. L'existence est finalisée à cette production de soi
 
-### Coopaname
+#### Coopaname
+
+> On ne peut pas vouloir l'autonomie sans la vouloir pour tous, [...] Sa réalisation ne peut se concevoir que comme entreprise collective - **Cornelius Castoriadis** (1975)
 
 * Évolution du management : autonomie et coopération. Entrepreneuriat interne = "travailleur autonome dépendant".
 * Externalisation RH. Incitation à la création d'entreprise (entrepreunariat externe = nouveau travailleur indépendant).
@@ -35,12 +37,8 @@ _Jeudi 11 mai 2017, **La manufacture coopérative** (1) et **En Communs** (2) on
   * Il s'agit d'intervenir sur les comportements des chômeurs (Lavitry)
   * Dispositifs d'accompagnement : motivation, autonomie, responsabilité
   * Transformation de chaque individu (travailleur) en _entrepreneur de soi_
-  
-> On ne peut pas vouloir l'autonomie sans la vouloir pour tous, [...] Sa réalisation ne peut se concevoir que comme entreprise collective - **Cornelius Castoriadis** (1975)
-
-* Le développement des CAE va reposer sur la mobilisation des dispositifs néolibéraux (portage salarial, pépinières d'entreprises, incubateurs, etc.). Elles épousent la condition néolibérale (Féher) pour préfigurer de nouveaux horizons d'émancipation. 
-
-* Chez Coopaname, la CAE est pensée sous l'angle de l'entreprise partagée. Cela engage le tournant vers une tentatie de perversion de la subjectivité néolibérale. Les motivations sont de/d' :
+ 
+* Le développement des CAE va reposer sur la mobilisation des dispositifs néolibéraux (portage salarial, pépinières d'entreprises, incubateurs, etc.). Elles épousent la condition néolibérale (Féher) pour préfigurer de nouveaux horizons d'émancipation. Chez Coopaname, la CAE est pensée sous l'angle de l'entreprise partagée (tentative de perversion de la subjectivité néolibérale). Les motivations sont :
   * sortir du "couple" autonomie / dépendance
   * rejeter  la subordination et  la solitude
   * élaborer la démocratie interne de l'organisation
@@ -59,28 +57,24 @@ _Jeudi 11 mai 2017, **La manufacture coopérative** (1) et **En Communs** (2) on
 * Collectif comme processus (Simondon) : mise en commun des "réserves de devenir" (toujours en mouvement).
   * L'institution = le fonctionnel (outils, organisation, etc.) ET l'imaginaire (projection vers le futur)
 
----
+### Elsa Peskine
 
-### Elsa Peskine (IRERP – Paris 10)
+* La CAE est un objet juridique assez particulier. On y trouve un cadre d'accompagnement, de protection juridique et un cadre de construction d'une structure collective.Dans une SCOP traditionnelle, on réunit des salariés autour d'un projet d'activité commun. Dans une CAE, les activités peuvent avoir ou non des liens. C'est un projet social.
 
-* La CAE est un objet juridique assez particulier. On y trouve un cadre d'accompagnement, de protection juridique et un cadre de construction d'une structure collective.
-* Dans une SCOP traditionnelle, on réunit des salariés autour d'un projet d'activité commun. Dans une CAE, les activités peuvent avoir ou non des liens. C'est un projet social.
+* Le choix du contrat de travail suppose le respect du droit, notamment vis à vis du temps de travail. En droit français, la protection du salarié passe par le respect du droit du travail. La loi relative à l'ESS a créé le statut d'entrepreneur salarié : certaines dispositions du code du travail seulement sont appliquées. À l'issue des trois ans, il peut devenir associé de la coopérative.
 
-* Problématique : Le choix du contrat de travail suppose le respect du droit, notamment vis à vis du temps de travail. En droit français, la protection du salarié passe par le respect du droit du travail.
-* La loi relative à l'ESS a créé le statut d'entrepreneur salarié : certaines dispositions du code du travail seulement sont appliquées. À l'issue des trois ans, il peut devenir associé de la coopérative.
+* Renouvellement de la conception de l'organisation. 
+   * Comment protéger ? Par assimilation au salariat en appliquant certaines dispositions du code du travail (différent de ce qui a été retenu pour les travailleurs sur plateformes comme Uber). Hybridation entre salarié et entrepreneur.
+   * Critère de dépendance économique par rapport à un seul donneur d'ordre : dans les CAE, le critère d'applicabilité de ce critère est différent. C'est l'isolement qui fait qu'on décide de créer un cadre de mutualisation des risques
 
-* Renouvellement de la conception de l'organisation.
-   * Technique : comment protéger ? Ici, ce qui a été choisi, c'est l'assimilation au salariat. On applique certaines dispositions du code du travail. (différent de ce qui a été retenu pour les travailleurs sur plateformes comme Uber). Construire une hybridation dans la vision binaire salarié OU entrepreneur
-   * Critère de dépendance économique par rapport à un seul donneur d'ordre. Dans les CAE, le critère d'applicabilité de ce critère est différent. C'est l'isolement qui fait qu'on décide de créer un cadre de mutualisation des risques
-
-### Sabina Issehnane (CIAPHS – En Communs)
+### Sabina Issehnane
 
 * Lecture au prisme d'une des motivations premières d'entrée dans la CAE : bénéficier de la couverture sociale.
 
 * Les indépendants :
   * 20% dans les années 1970
   * 10% dans les années 2000
-  * Hausse à la fin années 2000
+  * Hausse en fin d'années 2000
 
 * Population d'indépendants hétérogène. Les entrepreneurs salariés n'ont pas les mêmes diplômes, les mêmes rémunérations, activités, trajectoires...
 * Profils différents avec de multiples activités (certains continuent à avoir un travail salarié, d'autres perçoivent en cumulé des prestations sociales)
@@ -88,7 +82,7 @@ _Jeudi 11 mai 2017, **La manufacture coopérative** (1) et **En Communs** (2) on
 * Problème : être non salarié au départ + carrière marquée par une discontinuité de l'emploi qui se voit dans les catégories B et C (X 3 depuis les années 90)
 * Secteur du spectacle marqué par l'intermittence constitue un "laboratoire" des transformations de l'emploi = s'en inspirer pour créer un régime spécifique
 
-### Benjamin Coriat (CEPN – En Communs)
+### Benjamin Coriat
 
 * Dans les communs comme dans les coopératives on cherche à réinventer des modèles de vie pérennes.
 * Les acteurs des communs sont des champions de la gouvernance... mais pas des modèles économiques.
@@ -105,57 +99,41 @@ Comment augmenter sa marge de discrétion en faveur des coopérateurs mais aussi
 
 ### Réponses
 
-* Dans le cadre de ces nouvelles formes d'activités, en prenant en compte la nouvelle nature du travail mais aussi des relations au travail, la question du temps de travail est très problématique. Autant parler d'une réduction du temps de travail à 4 jours par semaine a du sens, autant la réduction du temps horaire dans la journée n'en a pas. Il y a un équilibre des temps sociaux moyens chez la figure moyenne des entrepreneurs salariés beaucoup plus intéressant que chez les salariés. La culture qui se développe à l'intérieur de la coopérative aide à remettre le travail à sa place. C'est comme s'il y a avait une éducation coopérative sur ce sujet.
-Dans un contexte de transformation de la nature du travail, cette question du rapport au temps de travail mérite d'être soulevée.
+* Dans le cadre de ces nouvelles formes d'activités, en prenant en compte la nouvelle nature du travail mais aussi des relations au travail, la question du temps de travail est très problématique. Autant parler d'une réduction du temps de travail à 4 jours par semaine a du sens, autant la réduction du temps horaire dans la journée n'en a pas. Il y a un équilibre des temps sociaux moyens chez la figure moyenne des entrepreneurs salariés beaucoup plus intéressant que chez les salariés. La culture qui se développe à l'intérieur de la coopérative aide à remettre le travail à sa place. C'est comme s'il y a avait une éducation coopérative sur ce sujet. Dans un contexte de transformation de la nature du travail, cette question du rapport au temps de travail mérite d'être soulevée.
 
-* Au sein des coopératives, le niveau de formation est très homogène. Ce sont pour la plupart des gens dans le secteur culturel avec un haut niveau de formation.
-Comment faire en sorte que ces créations de CAE existent dans des niveaux sociaux différents ? S'ouvrir à d'autres populations. Pourquoi on ne les atteint pas ?
-Il n'y a aucune sélection à Coopaname, pourtant, on observe cette homogénéité. La coopérative n'est pas fermée mais n'arrive pas à intéresser d'autres populations.
+* Au sein des coopératives, le niveau de formation est très homogène. Ce sont pour la plupart des gens dans le secteur culturel avec un haut niveau de formation. Comment faire en sorte que ces créations de CAE existent dans des niveaux sociaux différents ? S'ouvrir à d'autres populations. Pourquoi on ne les atteint pas ? Il n'y a aucune sélection à Coopaname, pourtant, on observe cette homogénéité. La coopérative n'est pas fermée mais n'arrive pas à intéresser d'autres populations.
 
-* D'une manière générale, il faut considérer qu'il ne suffit pas d'être une CAE pour que le modèle de gouvernance soit évident. La gouvernance change en fonction du statut (SCOP, etc...) de la même manière que qu'une SARL est différente d'une SA. La SA ouvre plus d'espace à la démocratie par exemple. On n'a pas un modèle pré-établi et défini par un nombre limité de personnes. C'est quelque chose qui se fabrique. Comités pour distribuer le pouvoir, directions collectives = manière pour répondre partiellement. Le modèle n'est pas écrit par quelqu'un sur un bureau, mais testé collectivement (cela peut prendre du temps).
-Exemple de création d'une monnaie interne : projet qui prend beaucoup de temps. La démocratie, c'est aussi du temps, pour qu'un projet appartienne à tous.
+* D'une manière générale, il faut considérer qu'il ne suffit pas d'être une CAE pour que le modèle de gouvernance soit évident. La gouvernance change en fonction du statut (SCOP, etc...) de la même manière que qu'une SARL est différente d'une SA. La SA ouvre plus d'espace à la démocratie par exemple. On n'a pas un modèle pré-établi et défini par un nombre limité de personnes. C'est quelque chose qui se fabrique. Comités pour distribuer le pouvoir, directions collectives = manière pour répondre partiellement. Le modèle n'est pas écrit par quelqu'un sur un bureau, mais testé collectivement (cela peut prendre du temps). Exemple de création d'une monnaie interne : projet qui prend beaucoup de temps. La démocratie, c'est aussi du temps, pour qu'un projet appartienne à tous.
 
-* A Coopaname, toute personne peut entrer même si elle n'est pas d'accord ave cl'idée de laboratoire permanent, mais quand elle entre, il se passe quelque chose. Souvent ce sont des personnes issues de classes moyennes, qui ont été cadres, qui ont connues l'autonomie prescrite (histoires douloureuses de négociation de licenciement, burnout).
-Quand elles arrivent, elles ne savent pas où aller. Elles disent "plus jamais ça", mais ont peur de se lancer das une activité seule. Ce n'est pas toujours par choix.
+* A Coopaname, toute personne peut entrer même si elle n'est pas d'accord ave cl'idée de laboratoire permanent, mais quand elle entre, il se passe quelque chose. Souvent ce sont des personnes issues de classes moyennes, qui ont été cadres, qui ont connues l'autonomie prescrite (histoires douloureuses de négociation de licenciement, burnout). Quand elles arrivent, elles ne savent pas où aller. Elles disent "plus jamais ça", mais ont peur de se lancer das une activité seule. Ce n'est pas toujours par choix.
 
-* Par l'expérience dans le collectif, cela devient quelque chose d'autre un véritable choix, quitte à payer très cher en termes d'argent (réduction très significative du salaire).
-Travailler tous ensemble et travailler moins : comment travailler moins fait aussi partie du modèle économique. Comment avoir moins de besoins ?
-Manière post-capitaliste de penser.
+* Par l'expérience dans le collectif, cela devient quelque chose d'autre un véritable choix, quitte à payer très cher en termes d'argent (réduction très significative du salaire). Travailler tous ensemble et travailler moins : comment travailler moins fait aussi partie du modèle économique. Comment avoir moins de besoins ? Manière post-capitaliste de penser.
 
 * Glissement des droits sociaux appliqués au pouvoir vers des droits sociaux associés au travail. La lenteur du projet de monnaie commune est proportionnel à l'ampleur de ce que ce projet peut apporter en matière de nouvelle gestion des droits sociaux.
 
-### Interventions
+### Antonella Corsani & Marie-Christine Bureau
 
-* Le nombre de CAE n'augmente plus (beaucoup vers 1995) mais celles qui existent grandissent et se sectorisent. On commence à voir des expériences d'articulations entre les tiers-lieux comme les fablabs et les CAE. Il s'ouvre là quelque chose de difficile à définir mais avec une nouvelle perspective.
-Mouvement de réhabilitation des espaces industriels en friches : la question se pose sous un jour différent. Les entrepreneurs salariés qui souffrent de solitude cherchent des lieux pour travailler en commun.
+* Le nombre de CAE n'augmente plus (beaucoup vers 1995) mais celles qui existent grandissent et se sectorisent. On commence à voir des expériences d'articulations entre les tiers-lieux (comme les fablabs) et les CAE. Il s'ouvre là quelque chose de difficile à définir mais avec une nouvelle perspective. Mouvement de réhabilitation des espaces industriels en friches : la question se pose sous un jour différent. Les entrepreneurs salariés qui souffrent de solitude cherchent des lieux pour travailler en commun.
 
-* Dans d'autres pays, ça fait partie de la vie quotidienne. En France ce n'est pas une histoire d'amitié mais de luttes. Ailleurs : alliance stratégique entre mouvement coopératif et mouvement ouvrier. In fine, pourquoi la critique des coopératives ? Parce qu'elles affaiblissent le conflit de classe, les tensions.
-Repenser le salariat comme partage de droits.
+* Dans d'autres pays, ça fait partie de la vie quotidienne. En France ce n'est pas une histoire d'amitié(s) mais de luttes. Ailleurs : alliance stratégique entre mouvement coopératif et mouvement ouvrier. In fine, pourquoi la critique des coopératives ? Parce qu'elles affaiblissent le conflit de classe(s), les tensions. Il s'agit de repenser le salariat comme un partage de droits.
 
-* Autre forme assez innovante : SCIC (société coopérative d'intérêt collectif), a peut-être à voir avec la baisse de création des CAE. Cette forme peut avoir une structure de multi-partenariats, en particulier, dans beaucoup de cas les partenaires sont des collectivités locales. C'est le début de l'état partenaire que l'on recherche.
-Exemple : coopérative "1D Touch" \url{http://signup.1dtouch.com/}, plateforme de créatifs culturels. On peut adhérer à cette plateforme individuellement, mais également les bibliothèques municipales (ainsi les membres de la bibliothèque ont accès aux contenus)
+* Autre forme assez innovante : la SCIC (société coopérative d'intérêt collectif). Est peut-être en partie responsable de la baisse de création des CAE. Cette forme peut avoir une structure de multi-partenariats, en particulier, dans beaucoup de cas les partenaires sont des collectivités locales. C'est le début de l'état partenaire que l'on recherche. Exemple : [1D Touch](http://signup.1dtouch.com), qui  agit comme plateforme pour travailleurs / professionnels de la création et de la culture ; on peut adhérer à cette plateforme individuellement, mais également les bibliothèques municipales (ainsi les membres de la bibliothèque ont accès aux contenus)
 
-* Il peut y avoir des architectures complexes SCIC+CAE+tiers-lieu. Le débat au sein de cet exemple de coopérative, c'était qu'une coopérative est une entreprise détenue et gérée et qui appartient à ses travailleurs. C'est un projet sur le travail, une démocratie du travail. Ouvrir à des institutions modifie cette nature-là du projet de travail. Ce n'est ni bien ni mal, mais c'est complexe car ça oblige à abandonner une dimension du projet. L'institution peut garantir un volet économique, mais l'architecture est complexe et cela dépend de quel projet on souhaite.
+* Il peut y avoir des architectures complexes SCIC + CAE + Tiers-Lieu. Une coopérative est une entreprise détenue et gérée et qui appartient à ses travailleurs. C'est un projet sur le travail, une démocratie du travail. Ouvrir à des institutions modifie cette nature-là du projet de travail. Ce n'est ni bien ni mal, mais c'est complexe car ça oblige à abandonner une dimension du projet. L'institution peut garantir un volet économique, mais l'architecture est rendue plus complexe et cela dépend de quel projet on souhaite...
 
-* La forme de gouvernance de la société impacte celle de l'entreprise. Dès lors qu'l y a un droit coopératif qui reconnaît comme responsables les dirigeants de l'entreprise, il y a un obstacle. Ce n'est pas seulement un problème interne au collectif, amis comment le collectif doit se confronter aux lois existantes. Question de la recherche-action dans un contexte particulier où le collectif de travail est déjà dans une pratique de réflexivité importante. Les chercheurs non institués n'ont pas besoin du savoir des chercheurs pour apprendre à se comprendre. Accompagner ? Voir là où il y a des obstacles au développement de formes que l'on souhaite appliquer en interne. C'est là que les chercheurs peuvent aider, par exemple sur la question de la gouvernance.
+* La forme de gouvernance de la société impacte celle de l'entreprise. Dès lors qu'll y a un droit coopératif qui reconnaît comme responsables les dirigeants de l'entreprise, il y a un obstacle. Ce n'est pas seulement un problème interne au collectif, mais comment le collectif doit se confronter aux lois existantes. Question de la recherche-action dans un contexte particulier où le collectif de travail est déjà dans une pratique de réflexivité importante. Les chercheurs non institués n'ont pas besoin du savoir des chercheurs pour apprendre à se comprendre. Accompagner ? Voir là où il y a des obstacles au développement de formes que l'on souhaite appliquer en interne. C'est là que les chercheurs peuvent "aider", par exemple sur la question de la gouvernance.
 
-* Il faut revenir sur l'essence même de notre système de protection actuel : avant le régime actuel, il y avait déjà les lois de 1930 en France, et encore avant des mutuelles, des syndicats, des patronages d'entreprises. Notre système a permis une unification mais est lié au statut du salariat.
-On a voulu protéger toute la population et faire au plus vite.
+* Il faut revenir sur l'essence même de notre système de protection actuel. Avant le régime actuel, il y avait déjà les lois de 1930 en France, et encore avant des mutuelles, des syndicats, des patronages d'entreprises. Notre système a permis une unification mais est lié au statut du salariat. On a voulu protéger toute la population et faire au plus vite. Cette question n'est pas nouvelle. L'assurance chômage a permis une unification aussi (communes, syndicats,...), pour le chômage total au début, puis à temps réduit ensuite. Les CAE ne se substituent pas, ils interrogent et complètent le dispositif. Comment faire pour que notre système de protection sociale puisse inclure plus de monde, pas forcément dans le salariat ? Il existe beaucoup d'autres régimes que le régime général.
 
-* Cette question n'est pas nouvelle, malgré les différentes réformes. L'assurance chômage a permis une unification aussi (communes, syndicats,...), pour la chômage total au début, puis à temps réduit ensuite. Les CAE ne se substituent pas, ils interrogent et complètent le dispositif. Comment faire pour que notre système de protection sociale puisse inclure plus de monde, pas forcément dans le salariat ? Il existe beaucoup d'autres régimes que le régime général.
+* Le potentiel des CAE n'est pas encore achevé. Ce qui est visé est une sorte d'auto-gestion complète de la coopérative. Qu'est-ce qu'on entend pas autonomie ? (Cf. Gorz : être autonome dans le travail ne signifie pas simplement décider quand et où travailler mais aussi déterminer les finalités de sa propre activité. Et c'est là qu'on a un grad enjeu des nouvelles formes de travail. La question soulevée par ces nouvelles formes est l'articulation entre le droit du travail / le droit du salarié / le droit de la personne. Il y a un risque important d'affaiblissement des droits, et les CAE ont un rôle important à jouer dans cette réflexion. 
 
-* Le potentiel des CAE n'est pas encore achevé. Ce qui est visé est une sorte d'auto-gestion complète de la coopérative.
-Qu'est-ce qu'on entend pas autonomie ? (Cf. Gorz : être autonome dans le travail ne signifie pas simplement décider quand et où travailler mais aussi déterminer les finalités de sa propre activité. Et c'est là qu'on a un grad enjeu des nouvelles formes de travail.
+* Le lieu physique est une opportunité de reconstruire du lien social. Il n'y a pas de réflexion théorique valide sans un lien direct avec la question des territoires et les expérimentations de terrain. Exemple : étudier les chartes passées en Italie entre les villes et les praticiens / activisites des communs qui consistent à appuyer des initiatives / déléguer des fonctions.
 
-* La question soulevée par ces nouvelles formes est l'articulation droit du travail + droit du salarié + droit de la personne.
-Il y a un risque important d'affaiblissement des droits, et les CAE ont un rôle important à jouer dans cette réflexion.
-Sortir de la situation où les droits d'une personne sont relatif à "en emploi / pas en emploi"
+---
 
-* Le lieu physique est une opportunité de reconstruire du lien social. Il n'y a pas de réflexion théorique valide sans un lien direct avec la question des territoires et les expérimentations de terrain. Exemple concret : étudier les chartes passées en Italie entre les villes et les commoners qui consistent à appuyer des initiatives / déléguer un certains nombre de fonctions.
+## Le travail des communs au prisme des coopératives
 
-## 14h30 – 17h30 : Le travail des communs au prisme des coopératives
-
-### Michel Bauwens (P2P Foundation**)
+### Michel Bauwens (P2P Foundation)
 
 * Je travaille actuellement avec la ville de Gand pour élaborer un plan de transition vers les communs. Le point de vue que je vais développer : une communauté de gens qui souhaitent faire vivre leur commun et qui ont besoin du marché pour ça.
 Voir le livre "Manifeste pour une véritable économie collaborative".
