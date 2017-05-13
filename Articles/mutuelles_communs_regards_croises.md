@@ -142,26 +142,21 @@ Comment augmenter sa marge de discrétion en faveur des coopérateurs mais aussi
   * Les individus engagés dans ces projets ont une conscience transnationale même quand ils sont actifs localement (au travers de pratiques de permaculture, de jardins partagés,...). Cela semble dessiner un nouvel imaginaire social
    * La réputation devient une nouvelle monnaie ("currency"). Elle se traduit par l'accès à des ressources.
     
-* Entre le 5ème et le 10ème siècle, fin de l'empire romain. L'économie est essentiellement un économie de rapine (on obtient des ressources par la guerre). Les structures sociales de l'empire romain ont été très vivaces jusqu'au 9ème siècle. À partir de 755, mouvement "La Paix de Dieu", avec l'élaboration de hartes (surtout en France) afin d'établir d'un nouveau régime. La terre devient la première ressource permettant d'accroitre la valeur. L'enjeu est de e marier plutôt que de faire la guerr. La pacification des luttes s'opère dans la famille (héritage du fils aîné). Transition de régime de valeurs vers un autre.
-
-* Exemple des 3 infirmières :
-  * Volontaire congrégation catholique : pas reconnue dans notre système comptable (PNB)
-  * Hôpital public : considérée comme un coût surtout en cas de crise
-  * Hôpital privé : la valeur pour les propriétaires
+* Entre le 5e et le 10e siècle, fin de l'empire romain, économie de rapine (on obtient des ressources par la guerre). Les structures sociales de l'empire romain sont restées vivaces jusqu'au 9e siècle. À partir de 755, mouvement de "La Paix de Dieu", avec l'élaboration de chartes (surtout en France) afin d'établir un nouveau régime. La terre devient la première ressource permettant d'accroitre la valeur. L'enjeu est de e marier plutôt que de faire la guerre. La pacification des luttes s'opère dans la famille (héritage du fils aîné). 
 
 * Nous sommes en train de vivre une transition dans le régime de valeur. Dans les nouvelles communautés de production entre pairs, le régime de valeur est basé sur la contribution. Au Moyen Age, des gens ont quitté les villes en proclamant "ici s'arrête la loi salienne" (romaine) et en instaurant d'autres valeurs (avec des membranes pour gérer la relation entre  valeurs minoritaires et valeurs dominantes).
 
 * Les 300 communautés étudiées font cela ("Ici s'arrête la valeur du marché et commence la valeur de la contribution"). A l'intérieur de ces communautés, la valeur est redistribuée. Chez Sensorica, la comptabilité permet de noter le projet (la communauté se mettant d'accord pour reconnaître ce qu'est une contribution). Cela se traduit par du "karma" gagné par du mérite dans la communauté productive. 
 
-* Dans ce nouveau régime, il y a une valeur pluraliste : c'est la communauté qui décide. La membrane : gestion de la relation entre la communauté productive et le marché. Plusieurs techniques cohabitent : Communauté ouverte / Organisations infrastructurelles (associations / fondations qui construisent les infrastructures) / Entreprises génératives : nées dans les communs et veulent créer une économie dans ces communs (au début bénévolat, puis on a besoin de gagner sa vie). Ce n'est plus un capitalisme extractif mais génératif. Exemple : Loomio est un commun co-créé, au début 18 entreprises sociales. Recréer de la réciprocité dans le marché. Par exemple au Moyen Age le marché était soumis à des valeurs éthiques / règles sociales.
+* La communauté décide, la membrane permet de gérer la relation entre la communauté productive et le marché. Plusieurs techniques cohabitent : communauté ouverte / organisations infrastructurelles (qui construisent les infrastructures) / entreprises génératives (nées dans les communs et qui veulent créer une économie dans ces communs ; au début bénévolat, puis on a besoin de gagner sa vie). Ce n'est plus un capitalisme extractif mais génératif. Exemple : Loomio est un commun co-créé (18 entreprises sociales au début) dont l'objectif est de recréer de la réciprocité dans le marché. NB : au Moyen Age le marché était soumis à des valeurs éthiques / règles sociales.
 
 * Transvestissement : technique qui consiste à utiliser des ressources qui viennent d'autres systèmes de valeurs pour développer des communs Le capital est utilisé pour développer un outil comme Loomio mais n'a aucun pouvoir sur la production du commun qu'est Enspiral Chez Sensorica, ils sont assez avancés dans les négociations avec l'état : convaincre le gouvernement canadien d'investir dans un écosystème ouvert. Résultats escomptés vont se faire par le système de valeur du commun.
 
 * Passer de licences Copyleft à des licences CopyFair.
-  * Copyleft : pas de réciprocité au niveau matériel, ce qui peut poser problèmes pour les investissement (machines, lieux, etc.)
+  * Copyleft : pas de réciprocité au niveau matériel, peut poser problèmes pour les investissement (machines, lieux, etc.)
   * Copyfair : licences qui autorisent tous les partages de la connaissance mais qui font dépendre la commercialisation de cette connaissance à de la réciprocité (licences à réciprocité renforcée). Exemple : licences pour des semences en Allemagne.
 
-* Question du commun et de l'état : comment gérer ce lien ? A Gand c'est intéressant : il existe une coalition progressiste (rouge - vert - bleu) depuis 16 ans. Cela a permis de créer des postes de fonctionnaires engagés qui se sont permis dans le temps de soutenir les transitions écologiques dans la ville. Rien que dans l'alimentaire, il y a 80 projets / entreprises autour des circuits courts.
+* Question du commun et de l'état : comment gérer ce lien ? À Gand c'est intéressant : il existe une coalition progressiste (Rouge - Vert - Bleu) depuis 16 ans. Cela a permis de créer des postes de fonctionnaires engagés qui se sont permis dans le temps de soutenir les transitions écologiques. Rien que dans l'alimentaire, il y a 80 projets / entreprises autour des circuits courts.
 
 * Idées en discussion :
   * Mobiliser le pouvoir d'achat via des institutions clés (hôpitaux, écoles,..) dans tous les quartiers. Ex : 1 million de repas délivrés à des enfants par an dans la ville de Gand => introduction de critères alternatifs dans les appels d'offres et combiner ça avec un "saucissonnage" de l'appel d'offre qui le rend plus intéressan pour les petites entreprises
@@ -179,24 +174,24 @@ Comment augmenter sa marge de discrétion en faveur des coopérateurs mais aussi
 
 #### Stéphanie Brulé Josso (Chrysalide)
 
-* La structure en 3 niveaux est très intéressante pour les CAE, notamment celles qui passent en SCIC. Chez Chrysalide, la gouvernance existe mais la non démocratie peut tout à fait exister même dans des structures coopératives. Non reconnaissance du commun produit par les commoners en dehors de l'activité salariée (réunions,...) = communs immatériels non valorisés par l'équipe qui gouvernen la CAE. Vrai enjeu d'introduire la question des communs. Problème aussi de la concurrence entre réseaux, CAE, etc.
+* La structure en 3 niveaux est très intéressante pour les CAE, notamment celles qui passent en SCIC. Chez Chrysalide, la gouvernance existe mais la "non démocratie" peut tout à fait exister même dans des structures coopératives. Non reconnaissance du commun produit par les commoners en dehors de l'activité salariée (réunions,...) = communs immatériels non valorisés par l'équipe qui gouvernen la CAE. Vrai enjeu d'introduire la question des communs. Problème aussi de la concurrence entre réseaux, CAE, etc.
 
 #### Nadine Richez Battesti (Lest, Manucoop)
 
-* Dans l'ESS on axe souvent sur l'organisation et une version étroite de la production réalisée (comptabilité). On perd parfois de vue l'action du collectif. Quelle est la place de l'organisation et de l'animation des communautés/de la vie coopérative dans les communs ?
+* Dans l'ESS on axe souvent sur l'organisation et une version étroite de la production réalisée (comptabilité). On perd parfois de vue l'action du collectif. Quelle est la place de l'organisation et de l'animation des communautés / de la vie coopérative dans les communs ?
   * La question de la réciprocité réapparaît dans le rapport au marché mais il devrait également y en avoir au niveau de l'état et des coopératives elles-mêmes.
   * Quelle est la place du travail ? Repenser le travail et son organisation, place du travailleur dans cette organisation. Comment gérer les rapports de pouvoir ?
 
 #### Justine Ballon (Coopaname, Manucoop, Ladyss)
 
-* Dialogue entre deux formes d'utopies. Construction d'un nouvel imaginaire, notamment via un nouveau vocabulaire qu'il n'est pas toujours facile de s'approprier. Comment on peut toucher d'autres personnes ? Dans le projet Jeunes de Coopaname, un effort est fait pour toucher d'autres publics.
+* Dialogue entre deux formes d'utopies. Construction d'un nouvel imaginaire, notamment via un nouveau vocabulaire qu'il n'est pas toujours facile de s'approprier. Comment on peut toucher d'autres personnes ? Dans le projet "Jeunes de Coopaname", un effort est fait pour toucher d'autres publics.
 
 * Distinction entre l'économie capitaliste basée sur un modèle extractif et l'économie post-capitaliste générative.
 
 * Si on essayent de découper les activités de travail des entrepreneurs salariés des CAE, on retrouve :
   * le temps lié à l'activité en vue de générer un revenu (prospection, prestation,...)
   * le temps lié à la communauté (les salariés qui accompagnent ont un rôle d'animation avec des événements)
-  * le temps de formation, d'apprentissage
+  * le temps de formation et d'apprentissage
   * le temps de construction des règles collectives
 
 * Comment répartir ces temps, sachant que certains n'ont pas de répercussion économique directe ? Nécessité de construire les communs (règles de gouvernance, répartition des résultats) alors que certains sont payés pour le faire et d'autres non ?
