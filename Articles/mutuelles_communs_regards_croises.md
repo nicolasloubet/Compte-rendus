@@ -1,29 +1,16 @@
 # Mutuelles de travail & travail des communs
 
-_Jeudi 11 mai 2017, **La manufacture coopérative** (1) et **En Communs** (2) ont animé aux [Grands Voisins](http://lesgrandsvoisins.org) un [séminaire](https://www.eventbrite.fr/e/inscription-seminaire-manucoop-en-communs-33333905609)  sur les modèles, les pratiques et les mutations des mutuelles de travail (notamment les Coopératives d'Activités et d'Emploi). Ce document est UNE mise en forme de la [prise de notes](https://mensuel.framapad.org/p/mutuelles-travail) de [Maia Dereva](http://maiadereva.semeoz.info) (qu'il convient de [remercier comme il se doit !](https://liberapay.com/MaiaDereva/donate))._
+_Jeudi 11 mai 2017, **La manufacture coopérative** (1) et **En Communs** (2) ont animé aux [Grands Voisins](http://lesgrandsvoisins.org) (3) un [séminaire](https://www.eventbrite.fr/e/inscription-seminaire-manucoop-en-communs-33333905609)  sur les modèles, les pratiques et les mutations des mutuelles de travail (notamment les Coopératives d'Activités et d'Emploi). Ce document est UNE mise en forme de la [prise de notes](https://mensuel.framapad.org/p/mutuelles-travail) de [Maia Dereva](http://maiadereva.semeoz.info) (qu'il convient de [remercier comme il se doit !](https://liberapay.com/MaiaDereva/donate))._
 
 (1) **La manufacture coopérative**, aux Grands Voisins depuis janvier, est née d'une recherche-action sur la coopération lancée en 2012 par Coopaname et Oxalis en partenariat avec le Ladyss. Transformée en coopérative autonome en 2015, son objectif est d'aider au développement coopératif par la recherche-action et l'accompagnement entre collectifs.
 
-(2) **EnCommuns** est un programme de recherche engagé en octobre 2016 qui se poursuivra jusqu'en 2019. À partir des résultats obtenus par l'ANR PROPICE, il propose d'élargir la réflexion au champ de l'entreprise, en analysant les activités et les modèles économiques développés autour des communs. Dans le cadre du projet, un séminaire mensuel, ouvert au public, est co-organisé par Sébastien Broca (Cemti, Paris 8), Benjamin Coriat (CEPN, Paris 13) et Fabienne Orsi (IRD, LPED, Aix-Marseille).
+(2) **EnCommuns** est un programme de recherche engagé en octobre 2016 qui se poursuivra jusqu'en 2019. À partir des résultats obtenus par l'ANR PROPICE, il propose d'élargir la réflexion au champ de l'entreprise, en analysant les activités et les modèles économiques développés autour des communs. Dans le cadre du projet, un séminaire mensuel, ouvert au public, est co-organisé par Sébastien Broca (Cemti), Benjamin Coriat (CEPN) et Fabienne Orsi (IRD).
 
-## 0- Présentation des structures organisatrices
+(3) **Grands Voisins** : occuptation temporaire et festive de l'ancien hôpital Saint-Vincent-de-Paul, co-pilotée par l'association Aurore, Plateau urbain et Yes We Camp. À la fin de l'année tout le monde devra être parti (démolition). 600 personnes sont accueillies en foyer d'urgence (migrants, etc.), entre 800 et 1000 personnes y travaillent.
 
-* Curateurs
-  * Sébastien Broca (Cemti / En Communs)
-  * Noémie de Grenier (Coopaname / Manucoop)
+## Les mutuelles de travail, des organisations pour entreprendre en commun ?
 
-* L'espace
-  * Les Grands Voisins : à la fin de l'année tout le monde devra être parti (démolition). Le côté éphémère du lieu est intéressant et énergisant.
-  * 600 personnes accueillies en foyer d'urgence (migrants, etc.), entre 800 et 1000 personnes qui travaillent. Énorme travail des associations qui gèrent le lieu.
-
-* Programme
-  * Comment le modèle coopératif peut-il contrer l'individualisation du travail ?
-  * La journée se découpe en deux grandes sessions : matin et après-midi
-    * Comment faire dialoguer les deux univers (communs et coopératives) ?
-    * Interventions pas trop courtes pour avoir le temps de déplier la pensée
----
-
-## 2- Antonella Corsani & Marie-Christine Bureau
+++Intervenantes++ : Antonella Corsani & Marie-Christine Bureau
 
 * Découverte des coopératives d'activité d'emplois en 2011. Ne connaissaient pas.
 * Il y a peu de recherches. Pour expliquer ce que c'est, ça prend beaucoup de temps.
@@ -169,8 +156,6 @@ Il y a un risque important d'affaiblissement des droits, et les CAE ont un rôle
 Sortir de la situation où les droits d'une personne sont relatif à "en emploi / pas en emploi"
 
 * Le lieu physique est une opportunité de reconstruire du lien social. Il n'y a pas de réflexion théorique valide sans un lien direct avec la question des territoires et les expérimentations de terrain. Exemple concret : étudier les chartes passées en Italie entre les villes et les commoners qui consistent à appuyer des initiatives / déléguer un certains nombre de fonctions.
-
----
 
 ## 14h30 – 17h30 : Le travail des communs au prisme des coopératives
 
