@@ -10,7 +10,7 @@ _Jeudi 11 mai 2017, **La manufacture coopérative** (1) et **En Communs** (2) on
 
 ## Les mutuelles de travail, des organisations pour entreprendre en commun ?
 
-### Intervnetion d'A. Corsani & M.-C. Bureau
+### Intervention d'A. Corsani & M.-C. Bureau
 
 * Découverte des coopératives d'activité d'emplois en 2011. Ne connaissaient pas
 * Il y a peu de recherches. Pour expliquer ce que c'est. Prend beaucoup de temps
