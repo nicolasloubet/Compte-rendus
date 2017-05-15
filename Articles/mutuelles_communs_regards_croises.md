@@ -184,17 +184,17 @@ Comment augmenter sa marge de discrétion en faveur des coopérateurs mais aussi
 
 #### Justine Ballon (Coopaname, Manucoop, Ladyss)
 
-* Dialogue entre deux formes d'utopies. Construction d'un nouvel imaginaire, notamment via un nouveau vocabulaire qu'il n'est pas toujours facile de s'approprier. Comment on peut toucher d'autres personnes ? Dans le projet "Jeunes de Coopaname", un effort est fait pour toucher d'autres publics.
+* Deux formes d'utopies. Construction d'un nouvel imaginaire, notamment via un nouveau vocabulaire qu'il n'est pas toujours facile de s'approprier. Comment on peut toucher d'autres personnes ? Dans "Jeunes de Coopaname", un effort est fait pour toucher d'autres publics.
 
 * Distinction entre l'économie capitaliste basée sur un modèle extractif et l'économie post-capitaliste générative.
 
-* Si on essayent de découper les activités de travail des entrepreneurs salariés des CAE, on retrouve :
+* Si on essaie de découper les activités de travail des entrepreneurs salariés des CAE, on retrouve :
   * le temps lié à l'activité en vue de générer un revenu (prospection, prestation,...)
   * le temps lié à la communauté (les salariés qui accompagnent ont un rôle d'animation avec des événements)
   * le temps de formation et d'apprentissage
   * le temps de construction des règles collectives
 
-* Comment répartir ces temps, sachant que certains n'ont pas de répercussion économique directe ? Nécessité de construire les communs (règles de gouvernance, répartition des résultats) alors que certains sont payés pour le faire et d'autres non ?
+* Comment répartir ces temps, sachant que certains n'ont pas de répercussion économique directe ? Nécessité de construire les communs (règles de gouvernance, répartition des résultats) ; certains sont payés pour le faire, d'autres non. 
 
 ### Réponse de Michel Bauwens
 
