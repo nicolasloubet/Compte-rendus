@@ -204,6 +204,6 @@ Comment augmenter sa marge de discrétion en faveur des coopérateurs mais aussi
   * Linux : contributeurs bénévoles existent, concurrencés par 20k développeurs salariés d'entreprises
   * Ouishare : plusieurs personnes pensent que ce sont toujours les mêmes qui récupèrent les contrats
 
-* Vous reprenez une idéologie capitaliste en ne considérant que la valeur marchande. Faire attention à jusqu'où on remonétarise le commun. Dans certaines structures, il y a décorrélation complète entre ceux qui créent le commun et ceux qui ont une activité commerciale.
-  * Systèmes de solidarité (achat de maison par exemple) sans revenu direct. Crowdfunding interne (Co-budget)
+* Attention : nous reprenons une idéologie capitaliste si on ne considère que la valeur marchande (d'échange). Dans certaines structures, il y a décorrélation complète entre ceux qui créent le commun et ceux qui ont une activité commerciale.
+  * Solidarité (e.g. achat de maison) sans revenu direct. Crowdfunding (Co-budget)
   * Il y a des choix différents dans le monde des communs (parfois très libéraux).
