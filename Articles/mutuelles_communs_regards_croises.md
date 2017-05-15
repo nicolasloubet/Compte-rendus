@@ -135,7 +135,7 @@ Comment augmenter sa marge de discrétion en faveur des coopérateurs mais aussi
 
 * Michel travaille actuellement avec la ville de Gand pour élaborer un plan de transition vers les communs. 
 
-* Le point de vue adopté : communauté de gens qui souhaitent faire vivre leur(s) commun(s) et qui ont besoin du marché pour ça (cf. "[Manifeste pour une véritable économie collaborative](http://blogfr.p2pfoundation.net/index.php/2017/04/04/manifeste-veritable-economie-collaborative)".
+* Le point de vue adopté : communauté de gens qui souhaitent faire vivre leur(s) commun(s) et qui ont besoin du marché pour ça (cf.[Manifeste pour une véritable économie collaborative](http://blogfr.p2pfoundation.net/index.php/2017/04/04/manifeste-veritable-economie-collaborative)).
 
 * Nous sommes en train de créer une nouvelle société. C'est confirmé par l'étude de [P2P Value](https://p2pvalue.eu) qui a porté sur 3 ans sur près de 300 communautés de production 'pair à pair' (Enspiral, Sensorica, Backfeed, etc.). Les enseignements :
   * 78% des communautés interrogées pratiquent une nouvelle forme de comptabilité : la comptabilité contributive (NB : selon Michel Bauwens, les grands changements de société ont **toujours** été aussi des changements de comptabilité)
@@ -158,11 +158,11 @@ Comment augmenter sa marge de discrétion en faveur des coopérateurs mais aussi
 
 * Question du commun et de l'état : comment gérer ce lien ? À Gand c'est intéressant : il existe une coalition progressiste (Rouge - Vert - Bleu) depuis 16 ans. Cela a permis de créer des postes de fonctionnaires engagés qui se sont permis dans le temps de soutenir les transitions écologiques. Rien que dans l'alimentaire, il y a 80 projets / entreprises autour des circuits courts.
 
-* Idées en discussion :
-  * Mobiliser le pouvoir d'achat via des institutions clés (hôpitaux, écoles,..) dans tous les quartiers. Ex : 1 million de repas délivrés à des enfants par an dans la ville de Gand => introduction de critères alternatifs dans les appels d'offres et combiner ça avec un "saucissonnage" de l'appel d'offre qui le rend plus intéressan pour les petites entreprises
-  * Appel à communs : un appel d'offre est basé sur la compétition individuelle (1 seul gagnant), remplacé par des appels à consortiums, technique qui stimule la coopération entre acteurs    Ex : consortium de 8 personnes pour acheter un bâtiment avec comptabilité contributive pour gérer le loyer
+* Idées :
+  * Mobiliser le pouvoir d'achat via des institutions clés (hôpitaux, écoles,..) dans tous les quartiers. Ex : 1 million de repas délivrés à des enfants par an dans la ville de Gand. Introduction de critères alternatifs dans les appels d'offres et combiner ça avec un "saucissonnage" de l'appel d'offre qui le rend plus intéressant pour les petites entreprises.
+  * Appel à communs : un appel d'offre est basé sur la compétition individuelle (1 seul gagnant), remplacé par des appels à consortiums, technique qui stimule la coopération entre acteurs. Ex : consortium de 8 personnes pour acheter un bâtiment avec comptabilité contributive pour gérer le loyer.
   
-* Deux critères : ouverture et engagement dans le projet. Financiariser les externalités négatives : Ex de Terre de Liens : avec l'agriculture biologique, on a beaucoup moins de coûts de nettoyage, donc la ville/l'état peut réinvestir X% de ce qui a été économié dans la constrcution du commun. Encore en émergence : les coopératives d'énergie (6% des toits en panneaux solaires, 1% seulement dans les quartiers pauvres ; projet "Energie du voisinage). Le coopératif est utilisé comme outil légal de gestion des communs.
+* Deux critères : ouverture et engagement. Financiariser les externalités négatives. Ex de Terre de Liens : avec l'agriculture biologique, on a moins de coûts de nettoyage, donc la ville / l'état peut réinvestir X% de ce qui a été économié dans la constrcution du commun. Encore en émergence : les coopératives d'énergie (6% des toits en panneaux solaires, 1% seulement dans les quartiers pauvres ; projet "Energie du voisinage"). Le coopératif est utilisé comme outil légal de gestion des communs.
 
 ### Temps de discussion
 
@@ -170,11 +170,12 @@ Comment augmenter sa marge de discrétion en faveur des coopérateurs mais aussi
 
 #### Germain Lefebvre (Oxalis, Manucoop)
 
-* La question de la membrane et de lien au marché n'est pas si simple que ça car on choisit de proposer aux entrepreneurs de rompre avec le lien de subordination tout en leur proposant une protection sociale dont les mécanismes dépassent la communauté.
+* La question de la membrane et de lien au marché n'est pas si simple car on choisit de proposer aux entrepreneurs de rompre avec le lien de subordination tout en leur proposant une protection sociale dont les mécanismes dépassent la communauté.
 
 #### Stéphanie Brulé Josso (Chrysalide)
 
-* La structure en 3 niveaux est très intéressante pour les CAE, notamment celles qui passent en SCIC. Chez Chrysalide, la gouvernance existe mais la "non démocratie" peut tout à fait exister même dans des structures coopératives. Non reconnaissance du commun produit par les commoners en dehors de l'activité salariée (réunions,...) = communs immatériels non valorisés par l'équipe qui gouvernen la CAE. Vrai enjeu d'introduire la question des communs. Problème aussi de la concurrence entre réseaux, CAE, etc.
+* La structure en 3 niveaux est intéressante pour les CAE, notamment celles qui passent en SCIC. Chez Chrysalide, la gouvernance existe mais la "non démocratie" peut tout à fait exister même dans des structures coopératives. 
+* Non reconnaissance du commun produit par les commoners en dehors de l'activité salariée (réunions,...) = communs immatériels non valorisés par l'équipe qui gouvernene la CAE. Vrai enjeu d'introduire la question des communs. Problème aussi de la concurrence entre réseaux, CAE, etc.
 
 #### Nadine Richez Battesti (Lest, Manucoop)
 
