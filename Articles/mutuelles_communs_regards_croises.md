@@ -57,7 +57,7 @@ _Jeudi 11 mai 2017, **La manufacture coopérative** (1) et **En Communs** (2) on
 * Collectif comme processus (Simondon) : mise en commun des "réserves de devenir" (toujours en mouvement).
   * L'institution = le fonctionnel (outils, organisation, etc.) ET l'imaginaire (projection vers le futur)
 
-### Discussion d'Elsa Peskine
+### Rebond d'Elsa Peskine
 
 * La CAE est un objet juridique assez particulier. On y trouve un cadre d'accompagnement, de protection juridique et un cadre de construction d'une structure collective.Dans une SCOP traditionnelle, on réunit des salariés autour d'un projet d'activité commun. Dans une CAE, les activités peuvent avoir ou non des liens. C'est un projet social.
 
@@ -67,7 +67,7 @@ _Jeudi 11 mai 2017, **La manufacture coopérative** (1) et **En Communs** (2) on
    * Comment protéger ? Par assimilation au salariat en appliquant certaines dispositions du code du travail (différent de ce qui a été retenu pour les travailleurs sur plateformes comme Uber). Hybridation entre salarié et entrepreneur.
    * Critère de dépendance économique par rapport à un seul donneur d'ordre : dans les CAE, le critère d'applicabilité de ce critère est différent. C'est l'isolement qui fait qu'on décide de créer un cadre de mutualisation des risques
 
-### Discussion de Sabina Issehnane
+### Rebond de Sabina Issehnane
 
 * Lecture au prisme d'une des motivations premières d'entrée dans la CAE : bénéficier de la couverture sociale.
 
@@ -82,7 +82,7 @@ _Jeudi 11 mai 2017, **La manufacture coopérative** (1) et **En Communs** (2) on
 * Problème : être non salarié au départ + carrière marquée par une discontinuité de l'emploi qui se voit dans les catégories B et C (X 3 depuis les années 90)
 * Secteur du spectacle marqué par l'intermittence constitue un "laboratoire" des transformations de l'emploi = s'en inspirer pour créer un régime spécifique
 
-### Discussion de Benjamin Coriat
+### Rebond de Benjamin Coriat
 
 * Dans les communs comme dans les coopératives on cherche à réinventer des modèles de vie pérennes.
 * Les acteurs des communs sont des champions de la gouvernance... mais pas des modèles économiques.
@@ -137,7 +137,7 @@ Comment augmenter sa marge de discrétion en faveur des coopérateurs mais aussi
 
 * Le point de vue adopté : communauté de gens qui souhaitent faire vivre leur(s) commun(s) et qui ont besoin du marché pour ça (cf. "[Manifeste pour une véritable économie collaborative](http://blogfr.p2pfoundation.net/index.php/2017/04/04/manifeste-veritable-economie-collaborative)".
 
-* Nous sommes en train de créer une nouvelle société. C'est confirmé par le groupe [P2P Value](https://p2pvalue.eu) qui a étudie sur 3 ans près de 300 communautés de production Pair-à-Pair (Enspiral, Sensorica, Backfeed, etc.). 3 enseignements :
+* Nous sommes en train de créer une nouvelle société. C'est confirmé par l'étude de [P2P Value](https://p2pvalue.eu) qui a porté sur 3 ans sur près de 300 communautés de production 'pair à pair' (Enspiral, Sensorica, Backfeed, etc.). Les enseignements :
   * 78% des communautés interrogées pratiquent une nouvelle forme de comptabilité : la comptabilité contributive (NB : selon Michel Bauwens, les grands changements de société ont **toujours** été aussi des changements de comptabilité)
   * Les individus engagés dans ces projets ont une conscience transnationale même quand ils sont actifs localement (au travers de pratiques de permaculture, de jardins partagés,...). Cela semble dessiner un nouvel imaginaire social
    * La réputation devient une nouvelle monnaie ("currency"). Elle se traduit par l'accès à des ressources.
@@ -200,7 +200,7 @@ Comment augmenter sa marge de discrétion en faveur des coopérateurs mais aussi
 
 * La domination reste évidemment. Il faut faire la différence entre captation externe et captation interne.
 
-* Il y a toujours 1% de personnes très actives, 9% actives de temps en temps... et le reste qui utilise(ent).
+* Il y a toujours 1% de personnes très actives, 9% actives de temps en temps... et le reste qui utilise(nt).
   * Linux : contributeurs bénévoles existent mais sont concurrencés par 20k développeurs salariés par des entreprises privées
   * Ouishare : Il y a des problèmes car plusieurs personnes pensent que ce sont toujours les mêmes qui récupèrent les contrats
 
