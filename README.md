@@ -9,6 +9,7 @@ Ce répertoire est un recueil d'articles issus de rencontres, de réunions, d'at
 ## Communs
 
 * [Économie sociale, communs et collectivités](https://github.com/nicolasloubet/Compte-rendus/blob/master/Articles/ESS-communs-collectivites.md)
+* [Mutuelles de travail & travail des communs](https://github.com/nicolasloubet/Compte-rendus/blob/master/Articles/mutuelles_communs_regards_croises.md)
 
 ## Tiers-Lieux
 * [Suis-je un tiers-lieu ? Tentative de définition](https://github.com/nicolasloubet/Compte-rendus/blob/master/Articles/suisjeuntierslieu.md)
