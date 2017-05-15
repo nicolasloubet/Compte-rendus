@@ -200,9 +200,9 @@ Comment augmenter sa marge de discrétion en faveur des coopérateurs mais aussi
 
 * La domination reste évidemment. Il faut faire la différence entre captation externe et captation interne.
 
-* Il y a toujours 1% de personnes très actives, 9% actives de temps en temps... et le reste qui utilise(nt).
-  * Linux : contributeurs bénévoles existent mais sont concurrencés par 20k développeurs salariés par des entreprises privées
-  * Ouishare : Il y a des problèmes car plusieurs personnes pensent que ce sont toujours les mêmes qui récupèrent les contrats
+* Il y a toujours 1% de personnes hyper actives, 9% actives de temps en temps et le reste qui "utilise".
+  * Linux : contributeurs bénévoles existent mais sont concurrencés par 20k développeurs salariés d'entreprises privées
+  * Ouishare : problèmes car plusieurs personnes pensent que ce sont toujours les mêmes qui récupèrent les contrats
 
 * Vous reprenez une idéologie capitaliste en ne considérant que la valeur marchande. Faire attention à jusqu'où on remonétarise le commun. Dans certaines structures, il y a décorrélation complète entre ceux qui créent le commun et ceux qui ont une activité commerciale.
   * Systèmes de solidarité (achat de maison par exemple) sans revenu direct. Crowdfunding interne (Co-budget)
