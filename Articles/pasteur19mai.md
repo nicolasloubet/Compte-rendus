@@ -4,16 +4,16 @@ Ce document est le compte-rendu collectif (Rieul Técher, Samuel Bausson, Nicola
 
 # 0- À propos de la rencontre
                                    
-## Forme
+## 0.1- Forme
 * Journée organisée par le Conseil Collégial de l’Hôtel Pasteur et Réseau solidaire.
 * Échanges en comité restreint (Conseil collégial de l’Hôtel Pasteur, hôtes, invités)
 	
-## Déroulé
+## 0.2- Déroulé
 * Retour sur l’histoire de la fabrique de l’Hôtel Pasteur par des personnes du Conseil Collégial
 * Retour d’expériences des invités et questionnement sur le fonctionnement de l’Hôtel Pasteur
 * Ateliers de réflexion en groupe plus restreint (6 groupes de 6 personnes maximum sur 6 axes)
 
-## Invités
+## 0.3- Invités
 * Antoine Burret : docteur en sociologie (Les tiers lieux comme objet conceptuel indentifiable)
 * Nicolas Loubet : co-fondateur d'Umaps, Cellabz, Bluenod. Contributeur actif de communs.
 * Rieul Techer : contributeur de La MYNE (tiers-lieux à Lyon) & DAISEE (réseau de recherche)
@@ -22,10 +22,15 @@ Ce document est le compte-rendu collectif (Rieul Técher, Samuel Bausson, Nicola
 * Paul Citron : urbaniste chez Plateau Urbain (asso qui remet en usage des lieux vacants)
 * Xavier Coadic : co-fondateur du Biome. Contributeur OpenBioFabrics, Movilab, Multibao.
 
-## Contexte
+# 1- A propos de l'Hotel Pasteur
+
+## 1.1- L'association collégiale
+
 * Alors que l’association collégiale de l’Hôtel Pasteur réfléchit à la définition des différents rôles attribués aux « forces Ouevrières » au sein de la communauté  de l’Hôtel Pasteur en vue de commencer à tester une gouvernance partagée et contributive pour 2017, l’hôtel Pasteur se doit d’initier une gouvernance collective et contributive ou la responsabilité d’accueil, de stimulation du lieu et des énergies, de mise en réseau, et de gestion au quotidien serait répartie en fonction des rôles de chacun. 
 
 * Cette association collégiale a été crée en octobre 2016 et a pour but de fédérer et regrouper autour d’elle des personnes désireuses de s’impliquer d’avantage dans la projet pasteur autour des notions de Gouvernance et écosystème. Elle a pour but d’initier, de tester et préfigurer sur site dans un lieu déjà occupé et ré-ouvert depuis maintenant 4 année un mode de gouvernance partagé regroupant des acteurs de la société civile afin de préfigurer une structure juridique capable de gérer en pleine responsabilité le lieu à partir de septembre 2019, date à laquelle la réhabilitation du bâtiment sera terminée.
+
+## 1.2- Pasteur, un bien commun
 
 * L’hôtel Pasteur est devenu un bien commun révélé, identifié, qui doit être entretenu par et avec le collectif.  L’enjeu économique de sa gestion future est aussi un enjeu de taille auquel nous devons nous préparer, essayer et réfléchir bien en amont aux nouvelles formes d’économie que l’on voit émerger depuis un certain nombre d’années sous l’appellation d’économie contributive, collaborative, partagée mais qui s’apparente plus aux « modèle de vie » qu’à un « modèle économique »au sens strictement pécunier. Pasteur comme un écosystème avec ses gens, ses contributions, sa politique interne, son tissu social, les mutualisations avec les autres, avec son territoire. Pasteur comme un lieu créateur de valeurs et donc de richesse, par l’échange, la rencontre, la coopération, et donc l’insertion sociale et culturelle dans la cité. « Pasteur devenue une institution politique au sens sociale et sociétale.»
 
@@ -35,7 +40,7 @@ Ce document est le compte-rendu collectif (Rieul Técher, Samuel Bausson, Nicola
 
 * Afin de nous aider à explorer les différentes innovations sur ces sujets qui ont lieu sur le territoire national et en Europe, nous organisons une journée d’étude consacrée à la fois aux nouveaux modèles économiques qui émergent des nouvelles formes d’appropriation de la ville  bien souvent révélé au point de départ de manière citoyenne.  
 
-## Historique
+## 1.3 Dates clés de Pasteur
 * 2012- Lancement de l’université Foraine à Rennes à l’instigation de Patrick Bouchain
 * 2012-2014 – Mise à l’épreuve du bâtiment par l’Usage , définition de qu’est aujourd’hui l’Hôtel pasteur
 * 2014 – Délégation de la MOA à la SPLA Territoires Publics afin de continuer le travail mener par l’UFO et d’y intégrer une école maternelle de 8 classes.
@@ -50,27 +55,27 @@ Ce document est le compte-rendu collectif (Rieul Técher, Samuel Bausson, Nicola
 
 ---
 
-# 1- Pourquoi cette rencontre ? 
+# 2- Pourquoi cette rencontre ? 
 
-## Situation  
+## 2.1- Situation  
 * Aujourd'hui le fonctionnement de l'Hôtel Pasteur repose sur un nombre restreint de personnes. Leur capacité de faire face aux sollicitations arrive à saturation.
 * Par ailleurs, il faut maintenant anticiper et construire une alternative viable à un fonctionnement classique de structure culturelle d’ici la fin des travaux d’aménagement. 
 * Un début de fonctionnement partagé s'est mis en place avec l’association collégiale et son comité de gouvernance rejoint par une diversité de profils. 
 * Il reste à ouvrir l’Hôtel Pasteur le plus largement possible à toutes les personnes partantes pour s’impliquer, selon leurs envies propres et les besoins du lieu. 
 
-## Enjeux 
+## 2.2- Enjeux 
 * Cette journée est un temps de respiration mais aussi un temps de travail. Un temps pour répondre à la question : 
 * "Comment faire en sorte que Pasteur fonctionne durablement et en cohérence avec son projet, un lieu mouvant capable de recevoir l’immédiateté du besoin dans le temps long de l’expérimentation ?" et plus précisément « Comment faire en sorte que l'Hôtel Pasteur fonctionne comme une communauté où chacun prend soin de faire vivre ce bien commun ? » 
 * L'enjeu à terme c'est de décentraliser la gouvernance du lieu et de mettre en capacité de contribuer toutes les bonnes volontés qui se manifestent régulièrement et engager les utilisateurs du lieu à prendre soin de son fonctionnement global, et commencer à réfléchir ensemble et avec d'autres ce que pourrait être son modèle économique futur.  
 
-## Objectifs
+## 2.3- Objectifs
 * Identifier des grandes lignes de principes de fonctionnement propices à cet enjeu (règles du jeux, prises de décision, animations de la communauté, structuration, outils d'échanges)
 * Identifier ceux que nous voulons adopter et intégrer dans la gouvernance de l'Hôtel Pasteur.
 *  S'inspirer de nouveaux modèles économique dites "modèle de vie" et écosystèmes, outils qui existent sur le territoire.
 * Première journée d’étude commune avec notre collectif en dehors de nos comités.          
 * Former un réseau, initier un partenariat intellectuel avec nos invités à plus grande échelle
 
-## Thématiques
+## 2.4- Thématiques
     
 ### Économie(s)
 * Quel  patrimoine commun ?
@@ -104,7 +109,7 @@ Ce document est le compte-rendu collectif (Rieul Técher, Samuel Bausson, Nicola
 
 ---
 
-# 2- Présent.e.s sur la rencontre
+# 3- Présent.e.s sur la rencontre
 
 * Erwan : Insertion par le sport
 * Paul : chez Plateau Urbain
@@ -136,15 +141,15 @@ Ce document est le compte-rendu collectif (Rieul Técher, Samuel Bausson, Nicola
 
 ---
 
-# 3- Interventions du matin
+# 4- Interventions du matin
 
-## *3.0 Pourquoi est-on là aujourd'hui ?
+## 4.0 Pourquoi est-on là aujourd'hui ?
 
 	* Comment continue t'on à travailler avec une gouvernance tournante ?
 	* Quel sera le modèle de vie de Pasteur demain ?
 	* Comment intégrer un réseau de démarche similaire ?
 
-## 3.1 Sélection de citations / textes
+## 4.1 Sélection de citations / textes
 
 1. Citation d'un texte de Georges Guiton
 	* Un désir de pionnier
@@ -164,7 +169,7 @@ Ce document est le compte-rendu collectif (Rieul Técher, Samuel Bausson, Nicola
 3. Citation d'un texte sur l'hospitalité
 	* Le mot hôte est au cœur des questions
 
-## 3.2 Introduction de Sophie Ricard 
+## 4.2 Introduction de Sophie Ricard 
 
 	* Réoccuper les lieux. Associer et accompagner les besoins de la société civile. Projets éphémères. 
 	* Accueillir les besoins immédiats d'une société en mouvement. Inventer les règles de programmation.
@@ -192,7 +197,7 @@ Ce document est le compte-rendu collectif (Rieul Técher, Samuel Bausson, Nicola
 	* Q. Comment faire ren sorte de ne pas aller chercher de subventions, de diversifier au maximum les sources ?
 	* La puissance publique joue le rôle d'accompagnateur (dans le cas de l'expérience de / avec l'Hotel Pasteur)
 
-## 3.3 Premiers témoignages / échanges
+## 4.3 Premiers témoignages / échanges
 
 	* On a tous été utilisateur de ce lieu On a envie de transmettre au travers de ce lieu
 	* Il y a besoin de trouver un modèle représentatif de ce nouveau lieu
@@ -206,7 +211,7 @@ Ce document est le compte-rendu collectif (Rieul Técher, Samuel Bausson, Nicola
 
 	* Citoyenneté = faire partie de la société rennaise. 
 
-## 3.4 Témoignage de Simon Sarrazin
+## 4.4 Témoignage de Simon Sarrazin
 
 	* Ressources de la Coroutine
 		* Site web : http://lacoroutine.org (site "re.copiable" depuis GitHub)
@@ -227,7 +232,7 @@ Ce document est le compte-rendu collectif (Rieul Técher, Samuel Bausson, Nicola
 	* Les réseaux de la Coroutine
 		* Réseau des tiers lieux à Lille  http://hauts.tiers-lieux.org (cartographie réutilisable si besoin ;-)). Appel à communs inter lieux : http://hauts.tiers-lieux.org/appel-a-communs/
 	
-## 3.5 Témoignage d'Antoine Burret
+## 4.5 Témoignage d'Antoine Burret
 
 	* Eléments de parcours
 		* Antoine s'est intéressé à / engagé sur la réhabilitation des friches urbaines dans les Balkans. Patrimoine industriel de l'Europe du Sud Est.
@@ -242,7 +247,7 @@ Ce document est le compte-rendu collectif (Rieul Técher, Samuel Bausson, Nicola
 		* Un espace qui est plus que "espace public" où il y a une représentation commune. Point commun = patrimoine informationnel.
 		* Depuis des années des personnes documentent . Wiki des Tiers-Lieux libres et Open Source http://movilab.org/index.php
 
-## 3.6 Témoignage de Rieul Techer
+## 4.6 Témoignage de Rieul Techer
 
 	* Éléments de parcours 
 		* Frustré de la recherche. Deux projets de thèse qui ont avortés. 
@@ -278,7 +283,7 @@ Ce document est le compte-rendu collectif (Rieul Técher, Samuel Bausson, Nicola
 			* Au sein d'un réseau : http://hauts.tiers-lieux.org/prestations-et-formation/
 		* L'économie c'est des économieS. Il s'agit de ré-équilibrer le rapport entre concurrence et réciprocité.
   
-## 3.7 Témoignage de Sylvia Frediksson
+## 4.7 Témoignage de Sylvia Frediksson
  
 	* Cité du Design
 		* Commissaire de l'expérience "Tiers lieux" à la Biennale de Design de Saint Etienne : https://www.gitbook.com/book/nicolasloubet/fork-the-world
@@ -299,7 +304,7 @@ Ce document est le compte-rendu collectif (Rieul Técher, Samuel Bausson, Nicola
 		* La données c'est un outil de contre-pouvoir citoyen 
 		* École des données : https://ecoledesdonnees.org/
 
-## 3.8 Témoignage de Nicolas Loubet
+## 4.8 Témoignage de Nicolas Loubet
 	
 	* Scientifique. A vécu le CPE (https://fr.wikipedia.org/wiki/Contrat_premi%C3%A8re_embauche) à l'origine d'une bifurcation. Capital de départ (héritage, compensation d'orphelin) et d'investissement dans diverses activités: "J'ai misé, j'ai parié, j'ai testé". Loi des 3 tiers du partage du capital de départ (personnel, ONG et entreprise). A chaque moment, toujours quelqu'un pour juger, décider et arbitrer.
 	
@@ -313,7 +318,7 @@ Ce document est le compte-rendu collectif (Rieul Técher, Samuel Bausson, Nicola
 	
 	* Permettre une démarche collégiale entre plusieurs structures sur un volet que chacun pris individuellement ne peut pas répondre mais que la somme des parties se dépassent et apporte une réponse à ce volet. 
 	
-## 3.9 Témoignage de Paul Citron
+## 4.9 Témoignage de Paul Citron
 
 	* Plateau Urbain : https://www.plateau-urbain.com. On va (re)donner de la valeur d'usage à des batiments sans valeur d'échange 
 	* Mise à disposition de lieux vacants à d'acteurs qui n'ont pas de modèles économiques "adaptés" à l'immobilier concurrentiel
@@ -322,7 +327,7 @@ Ce document est le compte-rendu collectif (Rieul Técher, Samuel Bausson, Nicola
 		* Comment les gens qui font de la poitique peuvent permettre et laisser faire pour qu'advienne du politique
 		* Comment prendre soin des politiques publiques. 
 
-## 3.10 Intervention de Samuel Bausson
+## 4.10 Intervention de Samuel Bausson
 
 	* Objectif : grandes pistes fortes de mode d'emploi de gouvernance. Organisation des discussions en groupes de 4-5 personnes.
 
@@ -330,29 +335,27 @@ Ce document est le compte-rendu collectif (Rieul Técher, Samuel Bausson, Nicola
 
 # Annexes
 
-
 Les différentes composantes de l’économie 
 
-	* **Contributive** : quelle contribution en dehors de la contribution pécuniaire ? Rejoint la question de la mutualisation et du partage à l’Hôtel pasteur !
+* **Contributive** : quelle contribution en dehors de la contribution pécuniaire ? Rejoint la question de la mutualisation et du partage à l’Hôtel pasteur !
 
-	(Wikipédia) L'économie contributive, ou économie de la contribution, est un modèle de création de valeur basé sur la contribution.
+(Wikipédia) L'économie contributive, ou économie de la contribution, est un modèle de création de valeur basé sur la contribution.
 	
-	Elle se caractérise par la non-dissociation entre producteur et consommateur : dans le cadre d'une économie contributive, l'usager du service est potentiellement à la fois consommateur et producteur du service. Par exemple, Wikipédia et ses projets frères ou sœurs reposent tous sur le modèle de l'économie contributive : les rédacteurs des articles et autres contributeurs sont aussi des utilisateurs de l'encyclopédie, de Wikiversité, Wikilivres, Wikimedia Commons, etc.
-	C'est le cas aussi des logiciels libres, où un certain nombre d'usagers apportent leur contribution en améliorant le logiciel qu'ils utilisent.
-	L'économie contributive est un concept développé en particulier par Bernard Stiegler1 et l'association Ars Industrialis.
-	L'association Ars Industrialis définit l'économie contributive par trois caractéristiques principales2.
-	Producteurs et  consommateurs sont assimilés en tant que contributeurs. 
-	La valeur produite par les contributeurs n'est pas intégralement monétarisable.
-	La production crée à la  fois du savoir-faire et du savoir-vivre, et dépasse ainsi la simple subsistance.
+* Elle se caractérise par la non-dissociation entre producteur et consommateur : dans le cadre d'une économie contributive, l'usager du service est potentiellement à la fois consommateur et producteur du service. Par exemple, Wikipédia et ses projets frères ou sœurs reposent tous sur le modèle de l'économie contributive : les rédacteurs des articles et autres contributeurs sont aussi des utilisateurs de l'encyclopédie, de Wikiversité, Wikilivres, Wikimedia Commons, etc. C'est le cas aussi des logiciels libres, où un certain nombre d'usagers apportent leur contribution en améliorant le logiciel qu'ils utilisent.
+* L'économie contributive est un concept développé en particulier par Bernard Stiegler1 et l'association Ars Industrialis.
+* L'association Ars Industrialis définit l'économie contributive par trois caractéristiques principales2.
+* Producteurs et  consommateurs sont assimilés en tant que contributeurs. 
+* La valeur produite par les contributeurs n'est pas intégralement monétarisable.
+* La production crée à la  fois du savoir-faire et du savoir-vivre, et dépasse ainsi la simple subsistance.
 
-	* **Collaborative** : rejoint la question d’une économie dans un réseaux économique qui existe déjà! Mutualisation des moyens et des objets !
+* **Collaborative** : rejoint la question d’une économie dans un réseaux économique qui existe déjà! Mutualisation des moyens et des objets !
 
-	(Wikipédia) L’économie collaborative est une activité humaine de pair à pair, qui vise à produire de la valeur en commun et qui repose sur de nouvelles formes d'organisation du travail et d'échanges. 
+(Wikipédia) L’économie collaborative est une activité humaine de pair à pair, qui vise à produire de la valeur en commun et qui repose sur de nouvelles formes d'organisation du travail et d'échanges. 
 	
-	Elle s'appuie sur une organisation plus horizontale que verticale1, la mutualisation des biens, des espaces et des outils, des savoirs (l'usage plutôt que la possession), l'organisation des citoyens en "réseau" ou en communautés et généralement l'intermédiation par des plateformes internet (à l'exception de modèles comme les réseaux d'échanges réciproques de savoirs)2.
-	Popularisé par le livre de Rachel Botsman et Roo Rogers, le terme d'économie collaborative et le champ qu'il recouvre ne font pas l'objet d'un consensus3,4. Dans une conception large, l'économie collaborative inclut la consommation collaborative (AMAP, couchsurfing, covoiturage, colis-voiturage, etc.), les modes de vie collaboratifs (coworking, colocation, habitat collectif), la finance collaborative (crowdfunding, prêt d'argent de pair à pair, monnaies alternatives), la production contributive (fabrication numérique, DIY, Fablabs, imprimantes 3D, maker space) et la culture libre5.
-	Elle prend différents types de formes (économie du partage, économie de fonctionnalité dont l’économie circulaire, économie des solutions, économie en pair à pair) selon les types de biens et services concernés ou de la finalité (empowerment du consommateur, éco-efficacité)6.
-	Ce type d'économie s'inscrit dans un contexte de défiance des acteurs institutionnels du système capitaliste traditionnel, de crise économique mais aussi d'éthique environnementale7 les enjeux sont multiples puisqu'il semble que l'on aille vers un nouveau modèle économique8
-	Son essor est dû à l'utilisation des nouvelles technologies permettant d'améliorer la créativité collective et la productivité. Il répond également au désir de pratiques écologiques et de relations sociales plus conviviales.
+* Elle s'appuie sur une organisation plus horizontale que verticale1, la mutualisation des biens, des espaces et des outils, des savoirs (l'usage plutôt que la possession), l'organisation des citoyens en "réseau" ou en communautés et généralement l'intermédiation par des plateformes internet (à l'exception de modèles comme les réseaux d'échanges réciproques de savoirs).
+* Popularisé par le livre de Rachel Botsman et Roo Rogers, le terme d'économie collaborative et le champ qu'il recouvre ne font pas l'objet d'un consensus3,4. Dans une conception large, l'économie collaborative inclut la consommation collaborative (AMAP, couchsurfing, covoiturage, colis-voiturage, etc.), les modes de vie collaboratifs (coworking, colocation, habitat collectif), la finance collaborative (crowdfunding, prêt d'argent de pair à pair, monnaies alternatives), la production contributive (fabrication numérique, DIY, Fablabs, imprimantes 3D, maker space) et la culture libre5.
+* Elle prend différents types de formes (économie du partage, économie de fonctionnalité dont l’économie circulaire, économie des solutions, économie en pair à pair) selon les types de biens et services concernés ou de la finalité (empowerment du consommateur, éco-efficacité)6.
+* Ce type d'économie s'inscrit dans un contexte de défiance des acteurs institutionnels du système capitaliste traditionnel, de crise économique mais aussi d'éthique environnementale7 les enjeux sont multiples puisqu'il semble que l'on aille vers un nouveau modèle économique8
+* Son essor est dû à l'utilisation des nouvelles technologies permettant d'améliorer la créativité collective et la productivité. Il répond également au désir de pratiques écologiques et de relations sociales plus conviviales.
 
 
