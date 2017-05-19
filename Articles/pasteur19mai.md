@@ -89,17 +89,17 @@ Ce document est le compte-rendu collectif (Rieul Técher, Samuel Bausson, Nicola
 * Qui sont ces gens ? Qu'est ce que les gens y font ? Quels modes de faire ? Que font-il pour et par eux-mêmes ?
 * Quelle configuration  sociale ? Quel type de communauté ? Comment fait-on partie de cette communauté ?
 * Quels liens entre les gens ?  Quelle  autonomie  ? Quelles initiatives ? Comment soutenir l'émancipation ?
-* Qu'est ce qu'il y a faire pour que Pasteur puisse continuer à accueillir ces gens ? Comment fait-on tourner un lieu comme Pasteur ?
-* Quelle  conciergerie et quel profil / posture de concierge pour Pasteur ? (comment décharger Sophie, hyper méga active)
+* Qu'est ce qu'il y a faire pour que Pasteur puisse continuer à accueillir ces gens ? Comment fait-on tourner le lieu ?
+* Quelle  conciergerie et quel profil / posture de concierge pour Pasteur ? (comment décharger Sophie, hyper active)
 * Quels modes de prises de décisions entre toutes les parties prenantes ? (cf. ce [document](https://hackmd.io/s/H1xBfPVx-#))
-* Comment conserver la place pour la libre appropriation et l'expérimentation ? La recherche-action ? Les essais-erreurs ?
-* Dans quelle mesure la structure  est "structurante" et impacte le projet ? Faut-il choisir un type de structure ? 
-* Comment la puissance  publique trouve sa  place au seins de cette structure? Comment on s'articule avec les services ?
-* Comment Pasteur s'articule avec les autres lieux de culture et autres ? Quels  outils pour faciliter la contribution de tous ? 
-* Comment assurer fluidité, agilité, capacité d'adaptation et résilience de la structure Pasteur ? Quelles sont les modularités ?
+* Comment conserver la place pour la libre appropriation et l'expérimentation ? Les essais-erreurs ?
+* Dans quelle mesure la structure  est "structurante" et impacte le projet ? Faut-il choisir UNE forme ? 
+* Comment la "mairie" trouve sa  place au seins de cette structure ? Comment on s'articule avec les services ?
+* Comment Pasteur s'articule avec les autres lieux de culture et autres ? Quels  outils pour faciliter la contribution ? 
+* Comment assurer fluidité, agilité, capacité d'adaptation et résilience à Pasteur ? Quelles sont les modularités ?
 
 ### Émancipation(s)
-* Aujourd'hui, le socle de confiance et l'autonomisation des hôtes permettent l'émancipation par le faire. Demain, COMMENT STRUCTURER les choses tout en garantissant toujours cela ? 
+* L'autonomisation des hôtes permettent l'émancipation par le faire. Demain, COMMENT STRUCTURER les choses ?
 
 ---
 
