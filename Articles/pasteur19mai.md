@@ -1,6 +1,6 @@
 # Première rencontre sur la GOUVERNANCE de l'Hotel Pasteur
 
-Ce document est le compte-rendu collectif de la journée de rencontre organisée à l'[Hotel Pasteur](http://hotelpasteur.fr) le 19 mai 2017.
+Ce document est le compte-rendu collectif (Rieul Técher, Samuel Bausson, Nicolas Loubet, Antoine Burret, Sylvia Fredriksson) de la rencontre organisée à / par l'[Hotel Pasteur](http://hotelpasteur.fr) le 19 mai 2017 sur les pratiques de gouvernance.
 
 # 0- À propos de la rencontre
                                    
