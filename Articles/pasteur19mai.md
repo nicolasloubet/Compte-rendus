@@ -4,17 +4,16 @@ Ce document est le compte-rendu collectif de la journée de rencontre organisée
 
 # 0- À propos de la rencontre
                                    
-
-**Forme** : 
-* Journée organisée par le conseil collégial de l’Hôtel Pasteur et Réseau solidaire.
+## Forme
+* Journée organisée par le Conseil Collégial de l’Hôtel Pasteur et Réseau solidaire.
 * Échanges en comité restreint (Conseil collégial de l’Hôtel Pasteur, hôtes, invités)
-	* Matinée : 
-		* Retour sur l’histoire de la fabrique de l’Hôtel Pasteur par des personnes du conseil collégial /
-		* Retour d’expériences de nos invités extérieurs et questionnement sur le fonctionnement de l’Hôtel Pasteur
-	* Après-midi : 
-		* 6 ateliers de travail (6 groupes de 6 personnes max.)
+	
+## Déroulé
+* Retour sur l’histoire de la fabrique de l’Hôtel Pasteur par des personnes du Conseil Collégial
+* Retour d’expériences des invités et questionnement sur le fonctionnement de l’Hôtel Pasteur
+* Ateliers de réflexion en groupe plus restreint (6 groupes de 6 personnes maximum sur 6 axes)
 
-**Invités**
+## Invités
 * Antoine Burret : docteur en sociologie (Les tiers lieux comme objet conceptuel indentifiable)
 * Nicolas Loubet : co-fondateur d'Umaps, Cellabz, Bluenod. Contributeur actif de communs.
 * Rieul Techer : contributeur de La MYNE (tiers-lieux à Lyon) & DAISEE (réseau de recherche)
@@ -23,22 +22,20 @@ Ce document est le compte-rendu collectif de la journée de rencontre organisée
 * Paul Citron : urbaniste chez Plateau Urbain (asso qui remet en usage des lieux vacants)
 * Xavier Coadic : co-fondateur du Biome. Contributeur OpenBioFabrics, Movilab, Multibao.
 
-**Contexte**
+## Contexte
 * Alors que l’association collégiale de l’Hôtel Pasteur réfléchi à la définition  des différents  rôles attribués aux « forces Ouevrières » au sein de la communauté  de l’Hôtel Pasteur en vue de commencer à tester une gouvernance partagée et contributive pour 2017, l’hôtel Pasteur se doit d’initier une gouvernance collective et contributive ou la responsabilité d’accueil, de stimulation du lieu et des énergies, de mise en réseau, et de gestion au quotidien serait répartie en fonction des rôles de chacun. 
 
 * Cette association collégiale a été crée en octobre 2016 et a pour but de fédérer et regrouper autour d’elle des personnes désireuses de s’impliquer d’avantage dans la projet pasteur autour des notions de Gouvernance et écosystème. Elle a pour but d’initier, de tester et préfigurer sur site dans un lieu déjà occupé et ré-ouvert depuis maintenant 4 année un mode de gouvernance partagé regroupant des acteurs de la société civile afin de préfigurer une structure juridique capable de gérer en pleine responsabilité le lieu à partir de septembre 2019, date à laquelle la réhabilitation du bâtiment sera terminée.
 
 * L’hôtel Pasteur est devenu un bien commun révélé, identifié, qui doit être entretenu par et avec le collectif.  L’enjeu économique de sa gestion future est aussi un enjeu de taille auquel nous devons nous préparer, essayer et réfléchir bien en amont aux nouvelles formes d’économie que l’on voit émerger depuis un certain nombre d’années sous l’appellation d’économie contributive, collaborative, partagée mais qui s’apparente plus aux « modèle de vie » qu’à un « modèle économique »au sens strictement pécunier. Pasteur comme un écosystème avec ses gens, ses contributions, sa politique interne, son tissu social, les mutualisations avec les autres, avec son territoire. Pasteur comme un lieu créateur de valeurs et donc de richesse, par l’échange, la rencontre, la coopération, et donc l’insertion sociale et culturelle dans la cité. « Pasteur devenue une institution politique au sens sociale et sociétale.»
 
-Nb : Suite à la soutenance de sa thèse, Antoine Burret défini aujourd’hui le modèle du Tiers lieu :  « Le tiers-Lieu comme une configuration sociale particulière ou se produit une rencontre entre des entités individuées qui s’engagent intentionnellement à la conception d’une représentation commune, c'est-à-dire à responsabilité partagée. »
+* Pasteur, un lieu non marchand – un lieu servicial car ne génère pas de recette ! A l’image des fab-lab mais pas forcèment des tiers-lieux ! (Cf : Le serment du jeu de Paume qu’utilise souvent les charte des tiers-lieux : « Préfigurant la souveraineté nationale et la séparation des pouvoirs, il amènera la réunion des trois ordres (noblesse, clergé, tiers état) en une « Assemblée nationale constituante », dont sera issue l'abolition de la féodalité (4 août 1789), la déclaration des droits de l'homme et du citoyen (26 août 1789), et les grands principes de la Constitution (fin 1791). »)Wilkipèdia
 
-Pasteur, un lieu non marchand – un lieu servicial car ne génère pas de recette ! A l’image des fab-lab mais pas forcèment des tiers-lieux ! (Cf : Le serment du jeu de Paume qu’utilise souvent les charte des tiers-lieux : « Préfigurant la souveraineté nationale et la séparation des pouvoirs, il amènera la réunion des trois ordres (noblesse, clergé, tiers état) en une « Assemblée nationale constituante », dont sera issue l'abolition de la féodalité (4 août 1789), la déclaration des droits de l'homme et du citoyen (26 août 1789), et les grands principes de la Constitution (fin 1791). »)Wilkipèdia
+* Pasteur ou l’on prône la responsabilité de chacun, Après avoir défini les rôles de chacun au sein de la communauté Pasteur (Concierge, veilleurs, relais de la conciergerie…) travailler sur la responsabilisation des hôtes du lieu. En partant  du principe que tout le monde devient hôte même de passage à partir du moment ou il vient dans le lieu, il est responsable. Nous ne parlerons pas de devoirs mais de responsabilité. Quelle grille ? Responsabilité = Contrepartie Comment quantifier et valoriser ses différentes contrepartie ? 
 
-Pasteur ou l’on prône la responsabilité de chacun, Après avoir défini les rôles de chacun au sein de la communauté Pasteur (Concierge, veilleurs, relais de la conciergerie…) travailler sur la responsabilisation des hôtes du lieu. En partant  du principe que tout le monde devient hôte même de passage à partir du moment ou il vient dans le lieu, il est responsable. Nous ne parlerons pas de devoirs mais de responsabilité. Quelle grille ? Responsabilité = Contrepartie Comment quantifier et valoriser ses différentes contrepartie ? 
+* Afin de nous aider à explorer les différentes innovations sur ces sujets qui ont lieu sur le territoire national et en Europe, nous organisons une journée d’étude consacrée à la fois aux nouveaux modèles économiques qui émergent des nouvelles formes d’appropriation de la ville  bien souvent révélé au point de départ de manière citoyenne.  
 
-Afin de nous aider à explorer les différentes innovations sur ces sujets qui ont lieu sur le territoire national et en Europe, nous organisons une journée d’étude consacrée à la fois aux nouveaux modèles économiques qui émergent des nouvelles formes d’appropriation de la ville  bien souvent révélé au point de départ de manière citoyenne.  
-
-**Les dates clés**
+## Les dates clés
 
 * 2012- Lancement de l’université Foraine à Rennes à l’instigation de Patrick Bouchain
 * 2012-2014 – Mise à l’épreuve du bâtiment par l’Usage , définition de qu’est aujourd’hui l’Hôtel pasteur
@@ -51,11 +48,12 @@ Afin de nous aider à explorer les différentes innovations sur ces sujets qui o
 * Octobre 2017 – Lancement du chantier de  réhabilitation
 * Février 2018 – Départ du Centre de Soin Dentaire
 * Septembre 2019 – Réception du chantier, 1ere rentrée des classe de l’école maternelle
---
+
+---
 
 # 1- Pourquoi cette rencontre ? 
 
-Situation  
+## Situation  
 	* Aujourd'hui le fonctionnement de l'Hôtel Pasteur repose sur un nombre restreint de personnes. Leur capacité de faire face aux sollicitations arrive à saturation.
 	* Par ailleurs, il faut maintenant anticiper et construire une alternative viable à un fonctionnement classique de structure culturelle d’ici la fin des travaux d’aménagement. 
 	* Un début de fonctionnement partagé s'est mis en place avec l’association collégiale et son comité de gouvernance rejoint par une diversité de profils. 
