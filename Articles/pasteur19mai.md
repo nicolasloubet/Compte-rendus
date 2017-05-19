@@ -1,13 +1,13 @@
-# Rencontre GOUVERNANCE et ÉCOSYSTEME de l'Hotel Pasteur (19 Mai)
+# Première rencontre sur la GOUVERNANCE de l'Hotel Pasteur (19 Mai)
 
 Ce document est le compte-rendu collectif de la rencontre à l'[Hotel Pasteur](http://hotelpasteur.fr) organisée à Rennes le 19 mai 2017.
 
 **Contributeurs**
-* Rieul Techer : La MYNE (http://lamyne.org) et DAISEE (http://daisee.org) à Lyon. Partage d'expérience et pratiques sur la thématique du jour et apprentissage pair-à-pair.
-* Antoine Burret : sociologue (thèse de doctorat "Etude de la configuration en Tiers-Lieu - La repolitisation par le service"). Co-initiateur de "POC Foundation" et CIntcom. 
-* Nicolas Loubet : co-fondateur de plusieurs organisations (Cellabz, Umaps, Bluenod). Cultivateur de "communs" (DAISEE, La MYNE) et butineur agile de communautés. 
-* Simon Sarazin : co-initiateur de la 
-* Sylvia Fredriksson : à renseigner
+* Rieul Techer : cityoen & ingénieur, co-initiateur [La MYNE](http://lamyne.org) et contributeur de [DAISEE](http://daisee.org)
+* Antoine Burret : sociologue (thèse de doctorat sur les tiers-lieux). Co-initiateur de "POC Foundation" et CIntcom. 
+* Nicolas Loubet : co-fondateur de plusieurs organisations (Cellabz, Umaps, Bluenod). Contributeur de DAISEE et la MYNE.
+* Simon Sarazin : coworker à la Coroutine, praticien aguerri des communs
+* Sylvia Fredriksson : chercheur-designer, engagé dans Open Knowledge / Ecole des Données et 
 * Samuel bausson : acteur de Pasteur 
 
 ---
