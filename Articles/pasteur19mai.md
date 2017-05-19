@@ -1,10 +1,6 @@
 # Rencontre GOUVERNANCE et ÉCOSYSTEME de l'Hotel Pasteur (19 Mai)
 
-Ce document est le compte-rendu collectif de la rencontre à l'Hotel Pasteur organisée à Rennes le 19 mai 2017.
-
-**Contribution**
-* Toute contribution écrite à ce document est précieuse. Elle n'a pas besoin d'être (très) élaborée ou structurée ! 
-* Merci de bien vouloir préciser dans la partie "Qui" (juste en dessous) qui vous êtes et votre intérêt pour la journée. 
+Ce document est le compte-rendu collectif de la rencontre à l'[Hotel Pasteur](http://hotelpasteur.fr) organisée à Rennes le 19 mai 2017.
 
 **Contributeurs**
 * Rieul Techer : La MYNE (http://lamyne.org) et DAISEE (http://daisee.org) à Lyon. Partage d'expérience et pratiques sur la thématique du jour et apprentissage pair-à-pair.
