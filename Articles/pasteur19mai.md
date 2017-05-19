@@ -167,177 +167,175 @@ Ce document est le compte-rendu collectif (Rieul Técher, Samuel Bausson, Nicola
 	* Il n'y a pas d'Univers mais un Plurivers
 
 3. Citation d'un texte sur l'hospitalité
-	* Le mot hôte est au cœur des questions
+	* Le mot **hôte** est au cœur des questions
 
 ## 4.2 Introduction de Sophie Ricard 
 
-	* Réoccuper les lieux. Associer et accompagner les besoins de la société civile. Projets éphémères. 
-	* Accueillir les besoins immédiats d'une société en mouvement. Inventer les règles de programmation.
-	* Non-programmation (Inverse de l'étude de faisabilité) et faire vivre le lieu à partir des usages (faits).
-	* Proposition d'architecture réversible (par le collectif construire) : https://goo.gl/ciL3eX
+* Réoccuper les lieux. Associer et accompagner les besoins de la société civile. Projets éphémères. 
+* Accueillir les besoins immédiats d'une société en mouvement. Inventer les règles de programmation.
+* Non-programmation (Inverse de l'étude de faisabilité) et faire vivre le lieu à partir des usages (faits).
+* Proposition d'architecture réversible (par le collectif construire) : https://goo.gl/ciL3eX
 
-	* En février 2018 : le RDC est libéré par le Centre Hospitalier. Remplacé par une école maternelle.
-	* Dans les étages, une école "buissonnière" s'est installée (et pourrait nourrir le projet d'école)
+* En février 2018 : le RDC est libéré par le Centre Hospitalier. Remplacé par une école maternelle.
+* Dans les étages, une école "buissonnière" s'est installée (et pourrait nourrir le projet d'école)
 
-	* Au départ, on pense que la culture est le premier biais pour s'approprier des lieux en friche.
-	* Rencontre avec des gens très différents. Même un toubib à besoin de sortir de son institution
-	* Que pourrait faire société dans cette architecture là. Pas de direction précise ("directeurs artistiques").
-	* Notions d'hospitalité. Pas d'erreur. Expérimenter projets.  Ouvrir au maximum. Pasteur = chose publique
-	* Monter une assemblé des partenaires. Lancement de comité sur différentes problématiques : ex. Gouvernance
-	* Autres comités : Comment accueillir à pasteur (problème de l'unique clé) tout en transmettant l'histoire.
-	* Comment faire de chaque hôte un relais. Création d'une asso. Projet incrémentale. MIse à l'épreuve par l'usage.
-	* Règles de vie, etc s'inventent au fur et à mesure. Aujourd'hui c'est la première grande journée d'étude.
+* Au départ, on pense que la culture est le premier biais pour s'approprier des lieux en friche.
+* Rencontre avec des gens très différents. Même un toubib à besoin de sortir de son institution
+* Que pourrait faire société dans cette architecture là. Pas de direction précise ("directeurs artistiques").
+* Notions d'hospitalité. Pas d'erreur. Expérimenter projets.  Ouvrir au maximum. Pasteur = chose publique
+* Monter une assemblé des partenaires. Lancement de comité sur différentes problématiques : ex. Gouvernance
+* Autres comités : Comment accueillir à pasteur (**problème de l'unique clé**) tout en transmettant l'histoire.
+* Comment faire de chaque hôte un relais. Création d'une asso. Projet incrémentale. MIse à l'épreuve par l'usage.
+* Règles de vie, etc s'inventent au fur et à mesure. Aujourd'hui c'est la première grande journée d'étude.
 
-	* Pas un "nouveau" lieu sous cloche mais inscrit dans un territoire (qui fonctionne dans un réseau d'institutions).
-		* Ex : accueil de migrants (phrase en note par Samuel). Pasteur : comme un outil de réseau et de gens
-		* Sur un rayon de 5 km - Hôpital, TNB, musée  / Mettre à contribution les voisins ...Qu’ils puissent partager les accueils d’urgence sociale – exemple cours de français pour demandeurs d’asile - entrer dans une économie de la contribution 
-		* Objectif à terme : passage de relais après les travaux. 
-	* Mandat pour réaliser des travaux > projet (10 millions € d'investissement de la ville). Étude du coût en charge.
+* Pas un "nouveau" lieu sous cloche mais inscrit dans un territoire (qui fonctionne dans un réseau d'institutions).
+	* Ex : accueil de migrants (phrase en note par @Samuel). Pasteur comme un outil de réseau et de gens.
+	* Sur un rayon de 5 km : Hôpital, TNB, musée... Possiblité de mettre à contribution les voisins, qu’ils puissent partager les accueils d’urgence sociale (ex. cours de Français pour les demandeurs d’asile) pour entrer dans une économie de la contribution. Objectif à terme : passage de relais après les travaux. 
+* Mandat pour réaliser des travaux > projet (10 millions € d'investissement de la ville). Étude du coût en charge.
 
-	* Q. Comment faire ren sorte de ne pas aller chercher de subventions, de diversifier au maximum les sources ?
-	* La puissance publique joue le rôle d'accompagnateur (dans le cas de l'expérience de / avec l'Hotel Pasteur)
+* Q. Comment faire ren sorte de ne pas aller chercher de subventions, de diversifier au maximum les sources ?
+* La puissance publique joue le rôle d'accompagnateur (dans le cas de l'expérience de / avec l'Hotel Pasteur)
 
 ## 4.3 Premiers témoignages / échanges
 
-	* On a tous été utilisateur de ce lieu On a envie de transmettre au travers de ce lieu
-	* Il y a besoin de trouver un modèle représentatif de ce nouveau lieu
-	* Besoin d'entendre des personnes ayant rencontré des problèmes similaires.
-	* Les utilisateurs ne sont pas là 8h par jours de façon installé avec un pseudo bail
+* On a tous été utilisateur de ce lieu On a envie de transmettre au travers de ce lieu
+* Il y a besoin de trouver un modèle représentatif de ce nouveau lieu
+* Besoin d'entendre des personnes ayant rencontré des problèmes similaires.
+* Les utilisateurs ne sont pas là 8h par jours de façon installé avec un pseudo bail
 
-	* Le commun est très peu étudié par la psychologie et par la littérature en psycho
-	* Essaie d'arriver avec un regard innocent pour comprendre ce qui meut les gens
-	* Notion d'habiter. On est à la rue pas parce que l'on est en perte de relation humaine
-	* Privé d'habitabilité => Pour les gens en situation précaire Pasteur permet l'habitabilité
+* Le commun est très peu étudié par la psychologie et par la littérature en psycho
+* Essaie d'arriver avec un regard innocent pour comprendre ce qui meut les gens
+* Notion d'habiter. On est à la rue pas parce que l'on est en perte de relation humaine
+* Privé d'habitabilité => Pour les gens en situation précaire Pasteur permet l'habitabilité
 
-	* Citoyenneté = faire partie de la société rennaise. 
+* Citoyenneté = faire partie de la société rennaise. 
 
 ## 4.4 Témoignage de Simon Sarrazin
 
-	* Ressources de la Coroutine
-		* Site web : http://lacoroutine.org (site "re.copiable" depuis GitHub)
-		* La documentation : http://wiki.lacoroutine.org/ (libre à la copie)
-		* Présentation : http://wiki.lescommuns.org/wiki/La_Coroutine 
-		* Afiches du lieu : https://drive.google.com/drive/folders/0BzUW0ZSBFWPecy1DVWt0RXM2dXc 
+### Ressources de la Coroutine
+* Site web : http://lacoroutine.org (site "re.copiable" depuis GitHub)
+* La documentation : http://wiki.lacoroutine.org/ (libre à la copie)
+* Présentation : http://wiki.lescommuns.org/wiki/La_Coroutine 
+* Afiches du lieu : https://drive.google.com/drive/folders/0BzUW0ZSBFWPecy1DVWt0RXM2dXc 
 
-	* Présentation de la Coroutine
-		* Espace de travail partagé pour les indépendants. Démarrage en squat à Lille puis ont connu plusieurs déménagements pour arrriver sur un lieu où est expérimenté la gouvernance ouverte dans une lieu ou il n'y peu voir pas de contraintes (exemple du ménage). Peut amener des pratiques de mutualisation et de responsabilisation des communautés > petites astuces. Analogie avec le logiciel libre (cf. La cathédrale et le bazar : https://framasoft.org/IMG/cathedrale-bazar.pdf). Attention: le logiciel n'est pas un lieu, les modes de gestion sontn donc distincts mais il y a des astuces intéressantes à aller chercher. 
-		* NB : les statuts ont été modifiées pour enlever les pouvoir aux conseil collégial et les remettre dans les main des membres actifs pour que ceux qui font fassent ;) Pas de subvention
-		* L'histoire du lieu en ligne de temps https://cdn.knightlab.com/libs/timeline/latest/embed/?source=1EFavJEK47HQN6cJaSaR7tp1bI90DrSFEvijWFW6UQeY&font=Bevan-PotanoSans&maptype=toner
+### Présentation de la Coroutine
+* Espace de travail partagé pour les indépendants. Démarrage en squat à Lille puis ont connu plusieurs déménagements pour arrriver sur un lieu où est expérimenté la gouvernance ouverte dans une lieu ou il n'y peu voir pas de contraintes (exemple du ménage). Peut amener des pratiques de mutualisation et de responsabilisation des communautés > petites astuces. Analogie avec le logiciel libre (cf. La cathédrale et le bazar : https://framasoft.org/IMG/cathedrale-bazar.pdf). Attention: le logiciel n'est pas un lieu, les modes de gestion sontn donc distincts mais il y a des astuces intéressantes à aller chercher. 
+* NB : les statuts ont été modifiées pour enlever les pouvoir aux conseil collégial et les remettre dans les main des membres actifs pour que ceux qui font fassent ;) Pas de subvention
+* L'histoire du lieu en ligne de temps https://cdn.knightlab.com/libs/timeline/latest/embed/?source=1EFavJEK47HQN6cJaSaR7tp1bI90DrSFEvijWFW6UQeY&font=Bevan-PotanoSans&maptype=toner
 
-	* Gouvernance de la Coroutine 
-		* Description : http://wiki.lacoroutine.org/gouvernance & https://docs.google.com/document/d/1sHADGAyzL4Jd_lUc5fFjQp16hQ-Ge_nWv2kwsPw_bw0/edit 
-		* Qu'est ce qu'un membre actif (ceux qui ont le pouvoir de décider si blocage sur une décision, sinon utilisation du consentement où chacun peut donner son avis) : https://www.loomio.org/d/TEs1CtZm/droit-et-d-finition-du-membre-contributeur-actif- 
-		* Ex de décision en cours qui intéressera Pasteur (pas besoin de compte pour pouvoir voter) : https://www.loomio.org/p/IEo1aqy8/mettre-en-place-un-tarif-pour-les-utilisateurs-des-collectifs-qui-utilisent-le-lieu
-		* Exemples pratiques : On autonomise ce qui est pénible / Le ménage collectif convivial / Pas d’assignation, pas de tâches attribuée et pourtant aujourd'hui la cuisine ré au quotidien 
-	* Les réseaux de la Coroutine
-		* Réseau des tiers lieux à Lille  http://hauts.tiers-lieux.org (cartographie réutilisable si besoin ;-)). Appel à communs inter lieux : http://hauts.tiers-lieux.org/appel-a-communs/
+### Gouvernance de la Coroutine 
+* Description : http://wiki.lacoroutine.org/gouvernance & https://docs.google.com/document/d/1sHADGAyzL4Jd_lUc5fFjQp16hQ-Ge_nWv2kwsPw_bw0/edit 
+* Qu'est ce qu'un membre actif (ceux qui ont le pouvoir de décider si blocage sur une décision, sinon utilisation du consentement où chacun peut donner son avis) : https://www.loomio.org/d/TEs1CtZm/droit-et-d-finition-du-membre-contributeur-actif- 
+* Ex de décision en cours qui intéressera Pasteur (pas besoin de compte pour pouvoir voter) : https://www.loomio.org/p/IEo1aqy8/mettre-en-place-un-tarif-pour-les-utilisateurs-des-collectifs-qui-utilisent-le-lieu
+* Exemples pratiques : On autonomise ce qui est pénible / Le ménage collectif convivial / Pas d’assignation, pas de tâches attribuée et pourtant aujourd'hui la cuisine ré au quotidien 
+* Les réseaux de la Coroutine | * Réseau des tiers lieux à Lille  http://hauts.tiers-lieux.org (cartographie réutilisable si besoin ;-)). Appel à communs inter lieux : http://hauts.tiers-lieux.org/appel-a-communs/
 	
 ## 4.5 Témoignage d'Antoine Burret
 
-	* Eléments de parcours
-		* Antoine s'est intéressé à / engagé sur la réhabilitation des friches urbaines dans les Balkans. Patrimoine industriel de l'Europe du Sud Est.
+### Eléments de parcours
+* Antoine s'est intéressé à / engagé sur la réhabilitation des friches urbaines dans les Balkans. Patrimoine industriel de l'Europe du Sud Est.
+* Docteur sur les tiers-lieux 
+	* Livre: Tiers-lieu et plus si affinité > http://www.fypeditions.com/tiers-lieux-et-plus-si-affinites/
+	* Retour sur la soutenance de thèse de Antoine Burret sur "La repolitisation par les tiers-lieux" > https://storify.com/nicolasloubet/tierslieuxphd
+	* La thèse > http://movilab.org/index.php?title=Etude_de_la_configuration_en_Tiers-Lieu_-_La_repolitisation_par_le_service > Étude des services des Tiers-Lieux 
 
-	* Docteur sur les tiers-lieux 
-		* Livre: Tiers-lieu et plus si affinité > http://www.fypeditions.com/tiers-lieux-et-plus-si-affinites/
-		* Retour sur la soutenance de thèse de Antoine Burret sur "La repolitisation par les tiers-lieux" > https://storify.com/nicolasloubet/tierslieuxphd
-		* La thèse > http://movilab.org/index.php?title=Etude_de_la_configuration_en_Tiers-Lieu_-_La_repolitisation_par_le_service > Étude des services des Tiers-Lieux 
-
-	* Eléments sur les tiers-lieux
-		* Tiers lieux = espaces de critiques (mais pas discursive) mais par le service, pour creer des usages qui contrarient ce qui nous déplait
-		* Un espace qui est plus que "espace public" où il y a une représentation commune. Point commun = patrimoine informationnel.
-		* Depuis des années des personnes documentent . Wiki des Tiers-Lieux libres et Open Source http://movilab.org/index.php
+# Eléments sur les tiers-lieux
+* Tiers lieux = espaces de critiques (mais pas discursive) mais par le service, pour creer des usages qui contrarient ce qui nous déplait
+* Un espace qui est plus que "espace public" où il y a une représentation commune. Point commun = patrimoine informationnel.
+* Depuis des années des personnes documentent . Wiki des Tiers-Lieux libres et Open Source http://movilab.org/index.php
 
 ## 4.6 Témoignage de Rieul Techer
 
-	* Éléments de parcours 
-		* Frustré de la recherche. Deux projets de thèse qui ont avortés. 
-		* Si l'Université n'est pas capable de développer des projets ouverts il faut créer son propre cadre
-		* Création de la Myne (http://www.lamyne.org/) : Laboratoire Ouvert (à l'origine La Paillasse Saône)
-		* 2014 : à l'ouverture, pas de lieu. Travail sur une communauté. Modèle et Fork de la Paillasse
+### Éléments de parcours 
 
-	* Historique de la MYNE
-		* Article : https://medium.com/@rieult/la-myne-une-manufacture-des-id%C3%A9es-et-nouvelles-exp%C3%A9rimentations-autonome-8b7ce1e835f5
+* Frustré de la recherche. Deux projets de thèse qui ont avortés. 
+* Si l'Université n'est pas capable de développer des projets ouverts il faut créer son propre cadre
+* Création de la Myne (http://www.lamyne.org/) : Laboratoire Ouvert (à l'origine La Paillasse Saône)
+* 2014 : à l'ouverture, pas de lieu. Travail sur une communauté. Modèle et Fork de la Paillasse
 
-	* Quelques (anti) conseils
-		* Les "pratiques" c'est un point clef pour faire le lien entre les communautés. 
-		* Moins se focaliser sur le lieu et plus sur les personnes qui y viennent, sur le "tiers"
-		* Le lieu ne définie pas les communauté. C'est un prétexte, ce qui compte c'est "habiter" 
-		* Le lieu de la Myne fait partie de la ville (en étant à la frontière Villeurbanne / Lyon)
-		* Pour faire ce lien rien de mieux que d'y aller, sur place et de travailler, de créer du lien sur place
-		* Habiter la ville, c'est aller habiter chez ceux qui font la ville
+### Historique de la MYNE
+* Article : https://medium.com/@rieult/la-myne-une-manufacture-des-id%C3%A9es-et-nouvelles-exp%C3%A9rimentations-autonome-8b7ce1e835f5
 
-	* Organisation à la MYNE 
-		* Groupes de travail - groupe de décisions & conseil collegial 
-		* Inverser la pyramide de prise de décision avec uniquement quelques personnes qui prennent des décisions mais au plus près des personnes qui contribuent
-		* La MYNE n'est qu'une structure, qui accueille une communauté qui fait les projets. La MYNE est un projet de la MYNE. 
-		* Cadre de réciprocité pour sortir des relations marchandes uniquement. Apports de compétences, expertises. 
+### Quelques (anti) conseils
+	* Les "pratiques" c'est un point clef pour faire le lien entre les communautés. 
+	* Moins se focaliser sur le lieu et plus sur les personnes qui y viennent, sur le "tiers"
+	* Le lieu ne définie pas les communauté. C'est un prétexte, ce qui compte c'est "habiter" 
+	* Le lieu de la Myne fait partie de la ville (en étant à la frontière Villeurbanne / Lyon)
+	* Pour faire ce lien rien de mieux que d'y aller, sur place et de travailler, de créer du lien sur place
+	* Habiter la ville, c'est aller habiter chez ceux qui font la ville
 
-	* Gouvernance de la MYNE
-		* https://hackpad.com/ep/pad/static/wdBGfQfAsb5
+### Organisation à la MYNE 
+	* Groupes de travail - groupe de décisions & conseil collegial 
+	* Inverser la pyramide de prise de décision avec uniquement quelques personnes qui prennent des décisions mais au plus près des personnes qui contribuent
+	* La MYNE n'est qu'une structure, qui accueille une communauté qui fait les projets. La MYNE est un projet de la MYNE. 
+	* Cadre de réciprocité pour sortir des relations marchandes uniquement. Apports de compétences, expertises. 
 
-	* Modèle de réciprocité
-		* La MYNE : https://hackpad.com/Cadre-de-Reciprocite-Template-NOMPRENOM-STRUCTURE-OM9oEtBOMK4
-		* Mutualab : https://www.loomio.org/d/vU2V5Wi4/r-diger-une-premi-re-version-d-un-contrat-de-r-ciprocit-
-		* Suivre les réciprocité au sein d'un lieu ?
-			* Coroutine (cf. Liste des réciprocités") : http://wiki.lescommuns.org/wiki/La_Coroutine). 
-			* Au sein d'un réseau : http://hauts.tiers-lieux.org/prestations-et-formation/
-		* L'économie c'est des économieS. Il s'agit de ré-équilibrer le rapport entre concurrence et réciprocité.
+### * Gouvernance de la MYNE
+* https://hackpad.com/ep/pad/static/wdBGfQfAsb5
+
+* Modèle de réciprocité
+	* La MYNE : https://hackpad.com/Cadre-de-Reciprocite-Template-NOMPRENOM-STRUCTURE-OM9oEtBOMK4
+	* Mutualab : https://www.loomio.org/d/vU2V5Wi4/r-diger-une-premi-re-version-d-un-contrat-de-r-ciprocit-
+	* Suivre les réciprocité au sein d'un lieu ?
+		* Coroutine (cf. Liste des réciprocités") : http://wiki.lescommuns.org/wiki/La_Coroutine). 
+		* Au sein d'un réseau : http://hauts.tiers-lieux.org/prestations-et-formation/
+	* L'économie c'est des économieS. Il s'agit de ré-équilibrer le rapport entre concurrence et réciprocité.
   
 ## 4.7 Témoignage de Sylvia Frediksson
  
-	* Cité du Design
-		* Commissaire de l'expérience "Tiers lieux" à la Biennale de Design de Saint Etienne : https://www.gitbook.com/book/nicolasloubet/fork-the-world
-		* Beaucoup de gens qui font des communs qui le font sans le savoir, à rapprocher, grace à ce patrimoine informationnel
+### Cité du Design
+* Commissaire de l'expérience "Tiers lieux" à la Biennale de Design de Saint Etienne : https://www.gitbook.com/book/nicolasloubet/fork-the-world
+* Beaucoup de gens qui font des communs qui le font sans le savoir, à rapprocher, grace à ce patrimoine informationnel
 
-	* Réciprocité
-		* Recherche non conventionnelle et recherche par le design > incnarnation des sujets notamment: la RECIPROCITE (comment on l'incarne autrement que par des tableurs et comment on la vie physiquemenent dans les lieux > ex. CAIRN: http://carrefour-numerique.cite-sciences.fr/blog/cairn-la-table-qui-permet-de-manipuler-et-visualiser-des-donnees/)
-		* Revendiquer la donnée ouverte, c'est un outil de compréhension de nos pratique, de mise en visibilité. 
-		* KODEAL > poignée de main numérique avec toutes les questions que ça pose (gêne, subordination... quand on parle de réciprocité) : http://movilab.org/index.php?title=KoDeal
-			* Répertorier les poignées de main dans les tiers-lieux : http://movilab.org/index.php?title=Recherche_et_design_:_r%C3%A9pertorier_les_poign%C3%A9es_de_main_dans_les_tiers-lieux
-			* L'échange dans le cadre d'un projet : http://movilab.org/index.php?title=Recherche_et_design_:_l%27%C3%A9change_dans_le_cadre_d%27un_projet
+### Réciprocité
+* Recherche non conventionnelle et recherche par le design > incnarnation des sujets notamment: la RECIPROCITE (comment on l'incarne autrement que par des tableurs et comment on la vie physiquemenent dans les lieux > ex. CAIRN: http://carrefour-numerique.cite-sciences.fr/blog/cairn-la-table-qui-permet-de-manipuler-et-visualiser-des-donnees/)
+* Revendiquer la donnée ouverte, c'est un outil de compréhension de nos pratique, de mise en visibilité. 
+* KODEAL > poignée de main numérique avec toutes les questions que ça pose (gêne, subordination... quand on parle de réciprocité) : http://movilab.org/index.php?title=KoDeal
+	* Répertorier les poignées de main dans les tiers-lieux : http://movilab.org/index.php?title=Recherche_et_design_:_r%C3%A9pertorier_les_poign%C3%A9es_de_main_dans_les_tiers-lieux
+	* L'échange dans le cadre d'un projet : http://movilab.org/index.php?title=Recherche_et_design_:_l%27%C3%A9change_dans_le_cadre_d%27un_projet
 
-	* Remix les communs
-		* Atlas des chartes des communs pour répertorier les pratiques : http://wiki.remixthecommons.org/index.php/Atlas_des_chartes_des_communs_urbains
-		* Premières chartes qui naissent en Italie pour définir des espaces comme des "communs" et pas des espaces publics
+### Remix les communs
+* Atlas des chartes des communs pour répertorier les pratiques : http://wiki.remixthecommons.org/index.php/Atlas_des_chartes_des_communs_urbains
+* Premières chartes qui naissent en Italie pour définir des espaces comme des "communs" et pas des espaces publics
 
-	* Open Knowledge
-		* La données c'est un outil de contre-pouvoir citoyen 
-		* École des données : https://ecoledesdonnees.org/
+### Open Knowledge
+* La données c'est un outil de contre-pouvoir citoyen 
+* École des données : https://ecoledesdonnees.org/
 
 ## 4.8 Témoignage de Nicolas Loubet
 	
-	* Scientifique. A vécu le CPE (https://fr.wikipedia.org/wiki/Contrat_premi%C3%A8re_embauche) à l'origine d'une bifurcation. Capital de départ (héritage, compensation d'orphelin) et d'investissement dans diverses activités: "J'ai misé, j'ai parié, j'ai testé". Loi des 3 tiers du partage du capital de départ (personnel, ONG et entreprise). A chaque moment, toujours quelqu'un pour juger, décider et arbitrer.
+* Scientifique. A vécu le CPE (https://fr.wikipedia.org/wiki/Contrat_premi%C3%A8re_embauche) à l'origine d'une bifurcation. Capital de départ (héritage, compensation d'orphelin) et d'investissement dans diverses activités: "J'ai misé, j'ai parié, j'ai testé". Loi des 3 tiers du partage du capital de départ (personnel, ONG et entreprise). A chaque moment, toujours quelqu'un pour juger, décider et arbitrer.
 	
-	* 2012 : début de quninquénat de François Hollande qui a amené beaucoup d'espoirs (ou pas). Enormément de déceptions (personnelles). Aucune nouveauté (plutôt de la régression). Au final, triple échec (ou difficulté) : Entreprise (Umaps) + Startup (Bluenod) + Tiers-lieu (La Paillasse). A également eu l'occasion de s'investir dans le développement d'un blog / média / communauté : http://knowtex.com
+* 2012 : début de quninquénat de François Hollande qui a amené beaucoup d'espoirs (ou pas). Enormément de déceptions (personnelles). Aucune nouveauté (plutôt de la régression). Au final, triple échec (ou difficulté) : Entreprise (Umaps) + Startup (Bluenod) + Tiers-lieu (La Paillasse). A également eu l'occasion de s'investir dans le développement d'un blog / média / communauté : http://knowtex.com
 	
-	* Entre 2013 et 2017, a essayé de comprendre pourquoi c'est si compliqué (aussi bien de développer une enterprise, une startup - ambitieuse - ou un tiers-lieux)  Dans beaucoup des ces lieux il y a des pratiques différentes et des temps qui sont liés à des procèdures et rituels. Comment peut-on faire en sorte de fluidifier et "l'optimiser" (en ayant le souci du collectif) ? "On est en permanence en lutte contre nos pratiques". L'incompréhension est une opportunité à saisir (pour développer des relations qui peuvent se traduire en échange de temps, en troc matériel ou en co-portage d'activités / services utiles).
+* Entre 2013 et 2017, a essayé de comprendre pourquoi c'est si compliqué (aussi bien de développer une enterprise, une startup - ambitieuse - ou un tiers-lieux)  Dans beaucoup des ces lieux il y a des pratiques différentes et des temps qui sont liés à des procèdures et rituels. Comment peut-on faire en sorte de fluidifier et "l'optimiser" (en ayant le souci du collectif) ? "On est en permanence en lutte contre nos pratiques". L'incompréhension est une opportunité à saisir (pour développer des relations qui peuvent se traduire en échange de temps, en troc matériel ou en co-portage d'activités / services utiles).
 
-	* S'intère davantage au fonctionnement des organsations qu'à la gouvernance. Au début il y a nécessairement une prise de risque. La dynamique n'existe aussi que par l'énergie d'un nombre de personnes limité.
+* 'intère davantage au fonctionnement des organsations qu'à la gouvernance. Au début il y a nécessairement une prise de risque. La dynamique n'existe aussi que par l'énergie d'un nombre de personnes limité.
 
-	* Selon lui, les tiers-lieu ne suvivront pas en tant que tel. Niclas lance l'idée de se préoccuper du milieu étudiant (2millions d'étudiants environ) et de faire en sorte que tous les étudiants soient dans des tiers-lieux. 
+* Selon lui, les tiers-lieu ne suvivront pas en tant que tel. Niclas lance l'idée de se préoccuper du milieu étudiant (2millions d'étudiants environ) et de faire en sorte que tous les étudiants soient dans des tiers-lieux. 
 	
-	* Permettre une démarche collégiale entre plusieurs structures sur un volet que chacun pris individuellement ne peut pas répondre mais que la somme des parties se dépassent et apporte une réponse à ce volet. 
+* Permettre une démarche collégiale entre plusieurs structures sur un volet que chacun pris individuellement ne peut pas répondre mais que la somme des parties se dépassent et apporte une réponse à ce volet. 
 	
 ## 4.9 Témoignage de Paul Citron
 
-	* Plateau Urbain : https://www.plateau-urbain.com. On va (re)donner de la valeur d'usage à des batiments sans valeur d'échange 
-	* Mise à disposition de lieux vacants à d'acteurs qui n'ont pas de modèles économiques "adaptés" à l'immobilier concurrentiel
-	* L'idée de la temporalité c'est de pas se focaliser sur les lieux. Temporalité d'usage des espaces 
-		* Comment la programmation ouverte permet d'être adaptable, modulable et produisant des politiques publiques adaptées aux territoires, en laissant faire pour qu'advienne le politique. 
-		* Comment les gens qui font de la poitique peuvent permettre et laisser faire pour qu'advienne du politique
-		* Comment prendre soin des politiques publiques. 
+* Plateau Urbain : https://www.plateau-urbain.com. On va (re)donner de la valeur d'usage à des batiments sans valeur d'échange 
+* Mise à disposition de lieux vacants à d'acteurs qui n'ont pas de modèles économiques "adaptés" à l'immobilier concurrentiel
+* L'idée de la temporalité c'est de pas se focaliser sur les lieux. Temporalité d'usage des espaces 
+	* Comment la programmation ouverte permet d'être adaptable, modulable et produisant des politiques publiques adaptées aux territoires, en laissant faire pour qu'advienne le politique. 
+	* Comment les gens qui font de la poitique peuvent permettre et laisser faire pour qu'advienne du politique
+	* Comment prendre soin des politiques publiques. 
 
 ## 4.10 Intervention de Samuel Bausson
 
-	* Objectif : grandes pistes fortes de mode d'emploi de gouvernance. Organisation des discussions en groupes de 4-5 personnes.
+* Objectif : grandes pistes fortes de mode d'emploi de gouvernance. Organisation des discussions en groupes de 4-5 personnes.
 
 ---
 
 # Annexes
 
-Les différentes composantes de l’économie 
+## **Économie contributive**
 
-* **Contributive** : quelle contribution en dehors de la contribution pécuniaire ? Rejoint la question de la mutualisation et du partage à l’Hôtel pasteur !
+Quelle contribution en dehors de la contribution pécuniaire ? Rejoint la question de la mutualisation et du partage à l’Hôtel pasteur !
 
 (Wikipédia) L'économie contributive, ou économie de la contribution, est un modèle de création de valeur basé sur la contribution.
 	
@@ -348,7 +346,9 @@ Les différentes composantes de l’économie
 * La valeur produite par les contributeurs n'est pas intégralement monétarisable.
 * La production crée à la  fois du savoir-faire et du savoir-vivre, et dépasse ainsi la simple subsistance.
 
-* **Collaborative** : rejoint la question d’une économie dans un réseaux économique qui existe déjà! Mutualisation des moyens et des objets !
+## **Économie collaborative**
+
+Rejoint la question d’une économie dans un réseaux économique qui existe déjà! Mutualisation des moyens et des objets !
 
 (Wikipédia) L’économie collaborative est une activité humaine de pair à pair, qui vise à produire de la valeur en commun et qui repose sur de nouvelles formes d'organisation du travail et d'échanges. 
 	
@@ -357,5 +357,3 @@ Les différentes composantes de l’économie
 * Elle prend différents types de formes (économie du partage, économie de fonctionnalité dont l’économie circulaire, économie des solutions, économie en pair à pair) selon les types de biens et services concernés ou de la finalité (empowerment du consommateur, éco-efficacité)6.
 * Ce type d'économie s'inscrit dans un contexte de défiance des acteurs institutionnels du système capitaliste traditionnel, de crise économique mais aussi d'éthique environnementale7 les enjeux sont multiples puisqu'il semble que l'on aille vers un nouveau modèle économique8
 * Son essor est dû à l'utilisation des nouvelles technologies permettant d'améliorer la créativité collective et la productivité. Il répond également au désir de pratiques écologiques et de relations sociales plus conviviales.
-
-
