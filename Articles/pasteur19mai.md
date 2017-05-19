@@ -1,4 +1,4 @@
-# Première rencontre sur la GOUVERNANCE de l'Hotel Pasteur (19 Mai)
+# 1ère rencontre sur la GOUVERNANCE de l'Hotel Pasteur (19 Mai)
 
 Ce document est le compte-rendu collectif de la rencontre à l'[Hotel Pasteur](http://hotelpasteur.fr) organisée à Rennes le 19 mai 2017.
 
