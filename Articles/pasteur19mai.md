@@ -64,8 +64,7 @@ Ce document est le compte-rendu collectif (Rieul Técher, Samuel Bausson, Nicola
 * Il reste à ouvrir l’Hôtel Pasteur le plus largement possible à toutes les personnes partantes pour s’impliquer, selon leurs envies propres et les besoins du lieu. 
 
 ## 2.2- Enjeux 
-* Cette journée est un temps de respiration mais aussi un temps de travail. Un temps pour répondre à la question : 
-* "Comment faire en sorte que Pasteur fonctionne durablement et en cohérence avec son projet, un lieu mouvant capable de recevoir l’immédiateté du besoin dans le temps long de l’expérimentation ?" et plus précisément « Comment faire en sorte que l'Hôtel Pasteur fonctionne comme une communauté où chacun prend soin de faire vivre ce bien commun ? » 
+* Cette journée est un temps de respiration mais aussi un temps de travail. Un temps pour répondre à la question : "Comment faire en sorte que Pasteur fonctionne durablement et en cohérence avec son projet, un lieu mouvant capable de recevoir l’immédiateté du besoin dans le temps long de l’expérimentation ?" et plus précisément « Comment faire en sorte que l'Hôtel Pasteur fonctionne comme une communauté où chacun prend soin de faire vivre ce bien commun ? » 
 * L'enjeu à terme c'est de décentraliser la gouvernance du lieu et de mettre en capacité de contribuer toutes les bonnes volontés qui se manifestent régulièrement et engager les utilisateurs du lieu à prendre soin de son fonctionnement global, et commencer à réfléchir ensemble et avec d'autres ce que pourrait être son modèle économique futur.  
 
 ## 2.3- Objectifs
@@ -78,30 +77,25 @@ Ce document est le compte-rendu collectif (Rieul Técher, Samuel Bausson, Nicola
 ## 2.4- Thématiques
     
 ### Économie(s)
-* Quel  patrimoine commun ?
-* Comment révéler les valeurs co-produites, l'innovation sociale et culturelle du lieu ? 
-* Comment valoriser les ressources fournies pour le fonctionnement : cf économie contributive?
-* L’articulation avec les autres lieux qui occupe pasteur et peuvent participer de fait à l’économie contributive.
-* Quels sont les besoins financiers minimum nécessaires (ordre de grandeur) ? 
-* Quels outils pour rendre  compte des réciprocités, des échanges de valeurs ? 
-* Quels  outils pour documenter les communs ? Comment diffuser nos connaissances ?
-* Quelles  types de licences pour faciliter la réappropriation ?
+* Quel patrimoine commun ? Comment révéler les valeurs co-produites, l'innovation du lieu ? 
+* Comment valoriser les ressources fournies pour le fonctionnement (cf. économie contributive) ?
+* Comment fédérer les lieux qui occupe pasteur et peuvent participer de fait à l’économie contributive.
+* Quels sont les besoins financiers minimum nécessaires (besoin d'ordre de grandeur) ? 
+* Quels sont les outils pour rendre compte des réciprocités, des échanges de valeurs ? 
+* Quels sont les outils pour documenter les communs ? Comment diffuser nos connaissances ?
+* Quelles sont les types de licences qui permettent de faciliter la réappropriation ?
 
 ### Gouvernance(s)
-* Qui sont ces gens ? Qu'est ce que les gens y font ? 
-* Quels modes de faire ? Que font-il pour et par eux-mêmes ?
-* Quelle configuration  sociale ?
-* Quels type de communauté ? Comment fait-on partie de cette communauté ? Sentiment d'appartenance alors que l’on accueil sur des temps  éphémères ?          
-* Quels liens entre les gens ? 
-* Quelle  autonomie  ? Quelles initiatives ? Comment soutenir l'émancipation par le faire ?
-* Rôles  et contributions :  Qu'est ce qu'il y a faire pour que Pasteur puisse continuer à accueillir ces gens ? Comment fait-on tourner un lieu comme Pasteur ?
-* Quelle  conciergerie   et quel profil / posture de concierge pour Pasteur ?  
+* Qui sont ces gens ? Qu'est ce que les gens y font ? Quels modes de faire ? Que font-il pour et par eux-mêmes ?
+* Quelle configuration  sociale ? Quel type de communauté ? Comment fait-on partie de cette communauté ?
+* Quels liens entre les gens ?  Quelle  autonomie  ? Quelles initiatives ? Comment soutenir l'émancipation ?
+* Qu'est ce qu'il y a faire pour que Pasteur puisse continuer à accueillir ces gens ? Comment fait-on tourner un lieu comme Pasteur ?
+* Quelle  conciergerie et quel profil / posture de concierge pour Pasteur ? (comment décharger Sophie, hyper méga active)
 * Quels modes de prises de décisions entre toutes les parties prenantes ? (cf. ce [document](https://hackmd.io/s/H1xBfPVx-#))
-* Comment conserver la place pour la libre appropriation et l'expérimentation ? la recherche-action ? les essais et erreurs ?
-* Dans  quelle mesure la structure  est "structurante" et impacte le projet ? Faut-il choisir un type de structure ? 
+* Comment conserver la place pour la libre appropriation et l'expérimentation ? La recherche-action ? Les essais-erreurs ?
+* Dans quelle mesure la structure  est "structurante" et impacte le projet ? Faut-il choisir un type de structure ? 
 * Comment la puissance  publique trouve sa  place au seins de cette structure? Comment on s'articule avec les services ?
-* Comment Pasteur s'articule avec les autres lieux de culture et autres ?
-* Quels  outils pour faciliter la contribution de tous ? 
+* Comment Pasteur s'articule avec les autres lieux de culture et autres ? Quels  outils pour faciliter la contribution de tous ? 
 * Comment assurer fluidité, agilité, capacité d'adaptation et résilience de la structure Pasteur ? Quelles sont les modularités ?
 
 ### Émancipation(s)
@@ -145,13 +139,13 @@ Ce document est le compte-rendu collectif (Rieul Técher, Samuel Bausson, Nicola
 
 ## 4.0 Pourquoi est-on là aujourd'hui ?
 
-* Comment continue t'on à travailler avec une gouvernance tournante ?
+* Comment travailler avec une gouvernance tournante ?
 * Quel sera le modèle de vie de Pasteur demain ?
 * Comment intégrer un réseau de démarche similaire ?
 
 ## 4.1 Sélection de citations / textes
 
-1. Citation d'un texte de Georges Guiton
+### Citation d'un texte de Georges Guiton
 * Un désir de pionnier
 * Un chantier républicain
 * Travailler sur un non programme
@@ -160,13 +154,13 @@ Ce document est le compte-rendu collectif (Rieul Técher, Samuel Bausson, Nicola
 * Analyser pasteur trouver l'usage
 * Réhabilitation de l'hospitalité
 
-2. Citation d'un texte de Williams James
+### Citation d'un texte de Williams James
 * Il n'y a pas de monde commun, 
 * Les désaccords ne sont pas superficielles
 * Si nous mettons de coté ce qui nous sépare il n'y a rien à mettre en commun
 * Il n'y a pas d'Univers mais un Plurivers
 
-3. Citation d'un texte sur l'hospitalité
+### Citation d'un texte sur l'hospitalité
 * Le mot **hôte** est au cœur des questions
 
 ## 4.2 Introduction de Sophie Ricard 
@@ -233,7 +227,7 @@ Ce document est le compte-rendu collectif (Rieul Técher, Samuel Bausson, Nicola
 ## 4.5 Témoignage d'Antoine Burret
 
 ### Eléments de parcours
-* Antoine s'est intéressé à / engagé sur la réhabilitation des friches urbaines dans les Balkans. Patrimoine industriel de l'Europe du Sud Est.
+* Antoine s'est intéressé à / engagé sur la réhabilitation des friches urbaines dans les Balkans.
 * Docteur sur les tiers-lieux 
 	* Livre: Tiers-lieu et plus si affinité > http://www.fypeditions.com/tiers-lieux-et-plus-si-affinites/
 	* Retour sur la soutenance de thèse de Antoine Burret sur "La repolitisation par les tiers-lieux" > https://storify.com/nicolasloubet/tierslieuxphd
@@ -254,24 +248,24 @@ Ce document est le compte-rendu collectif (Rieul Técher, Samuel Bausson, Nicola
 * 2014 : à l'ouverture, pas de lieu. Travail sur une communauté. Modèle et Fork de la Paillasse
 
 ### Historique de la MYNE
-* Article : https://medium.com/@rieult/la-myne-une-manufacture-des-id%C3%A9es-et-nouvelles-exp%C3%A9rimentations-autonome-8b7ce1e835f5
+* Lire cet rticle : https://medium.com/@rieult/la-myne-une-manufacture-des-id%C3%A9es-et-nouvelles-exp%C3%A9rimentations-autonome-8b7ce1e835f5
 
 ### Quelques (anti) conseils
-	* Les "pratiques" c'est un point clef pour faire le lien entre les communautés. 
-	* Moins se focaliser sur le lieu et plus sur les personnes qui y viennent, sur le "tiers"
-	* Le lieu ne définie pas les communauté. C'est un prétexte, ce qui compte c'est "habiter" 
-	* Le lieu de la Myne fait partie de la ville (en étant à la frontière Villeurbanne / Lyon)
-	* Pour faire ce lien rien de mieux que d'y aller, sur place et de travailler, de créer du lien sur place
-	* Habiter la ville, c'est aller habiter chez ceux qui font la ville
+* Les "pratiques" c'est un point clef pour faire le lien entre les communautés. 
+* Moins se focaliser sur le lieu et plus sur les personnes qui y viennent, sur le "tiers"
+* Le lieu ne définie pas les communauté. C'est un prétexte, ce qui compte c'est "habiter" 
+* Le lieu de la Myne fait partie de la ville (en étant à la frontière Villeurbanne / Lyon)
+* Pour faire ce lien rien de mieux que d'y aller, sur place et de travailler, de créer du lien sur place
+* Habiter la ville, c'est aller habiter chez ceux qui font la ville
 
 ### Organisation à la MYNE 
-	* Groupes de travail - groupe de décisions & conseil collegial 
-	* Inverser la pyramide de prise de décision avec uniquement quelques personnes qui prennent des décisions mais au plus près des personnes qui contribuent
-	* La MYNE n'est qu'une structure, qui accueille une communauté qui fait les projets. La MYNE est un projet de la MYNE. 
-	* Cadre de réciprocité pour sortir des relations marchandes uniquement. Apports de compétences, expertises. 
+* Groupes de travail - groupe de décisions & conseil collegial 
+* Inverser la pyramide de prise de décision avec uniquement quelques personnes qui prennent des décisions mais au plus près des personnes qui contribuent
+* La MYNE n'est qu'une structure, qui accueille une communauté qui fait les projets. La MYNE est un projet de la MYNE. 
+* Cadre de réciprocité pour sortir des relations marchandes uniquement. Apports de compétences, expertises. 
 
 ### * Gouvernance de la MYNE
-* https://hackpad.com/ep/pad/static/wdBGfQfAsb5
+* Voir ce document : https://hackpad.com/ep/pad/static/wdBGfQfAsb5
 
 * Modèle de réciprocité
 	* La MYNE : https://hackpad.com/Cadre-de-Reciprocite-Template-NOMPRENOM-STRUCTURE-OM9oEtBOMK4
