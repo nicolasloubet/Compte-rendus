@@ -1,23 +1,22 @@
-*Rencontre GOUVERNANCE et ÉCOSYSTEME de l'Hotel Pasteur (19 Mai)
+# Rencontre GOUVERNANCE et ÉCOSYSTEME de l'Hotel Pasteur (19 Mai)
 
-Ce document est le support de prise de notes - commun et temps réel - de la rencontre à l'Hotel Pasteur organisée à Rennes le 19 mai 2017. CC-BY-SA.
+Ce document est le compte-rendu collectif de la rencontre à l'Hotel Pasteur organisée à Rennes le 19 mai 2017.
 
-Contribution
-	* Toute contribution écrite à ce document est précieuse. Elle n'a pas besoin d'être (très) élaborée ou structurée ! 
-	* Merci de bien vouloir préciser dans la partie "Qui" (juste en dessous) qui vous êtes et votre intérêt pour la journée. 
+**Contribution**
+* Toute contribution écrite à ce document est précieuse. Elle n'a pas besoin d'être (très) élaborée ou structurée ! 
+* Merci de bien vouloir préciser dans la partie "Qui" (juste en dessous) qui vous êtes et votre intérêt pour la journée. 
 
-Contributeurs
-
-	* Rieul Techer : La MYNE (http://lamyne.org) et DAISEE (http://daisee.org) à Lyon. Partage d'expérience et pratiques sur la thématique du jour et apprentissage pair-à-pair.
-	* Antoine Burret : sociologue (thèse de doctorat "Etude de la configuration en Tiers-Lieu - La repolitisation par le service"). Co-initiateur de "POC Foundation" et CIntcom. 
-	* Nicolas Loubet : co-fondateur de plusieurs organisations (Cellabz, Umaps, Bluenod). Cultivateur de "communs" (DAISEE, La MYNE) et butineur agile de communautés. 
-	* Simon Sarazin : à renseigner
-	* Sylvia Fredriksson : à renseigner
-	* samuel bausson : acteur de Pasteur 
+**Contributeurs**
+* Rieul Techer : La MYNE (http://lamyne.org) et DAISEE (http://daisee.org) à Lyon. Partage d'expérience et pratiques sur la thématique du jour et apprentissage pair-à-pair.
+* Antoine Burret : sociologue (thèse de doctorat "Etude de la configuration en Tiers-Lieu - La repolitisation par le service"). Co-initiateur de "POC Foundation" et CIntcom. 
+* Nicolas Loubet : co-fondateur de plusieurs organisations (Cellabz, Umaps, Bluenod). Cultivateur de "communs" (DAISEE, La MYNE) et butineur agile de communautés. 
+* Simon Sarazin : co-initiateur de la 
+* Sylvia Fredriksson : à renseigner
+* Samuel bausson : acteur de Pasteur 
 
 ---
 
-*0- À propos de la rencontre
+# 0- À propos de la rencontre
                                    
 Journée organisée par : le conseil collégial de l’Hôtel Pasteur et Réseau solidaire.
 
@@ -68,8 +67,7 @@ Contexte
 	* Septembre 2019 – Réception du chantier, 1ere rentrée des classe de l’école maternelle
 --
 
-
-*1- Pourquoi cette rencontre ? 
+# 1- Pourquoi cette rencontre ? 
 
 Situation  
 	* Aujourd'hui le fonctionnement de l'Hôtel Pasteur repose sur un nombre restreint de personnes. Leur capacité de faire face aux sollicitations arrive à saturation.
@@ -156,15 +154,15 @@ Thématiques
 
 ---
 
-*3- Interventions du matin
+# 3- Interventions du matin
 
-*3.0 Pourquoi est-on là aujourd'hui ?
+## *3.0 Pourquoi est-on là aujourd'hui ?
 
 	* Comment continue t'on à travailler avec une gouvernance tournante ?
 	* Quel sera le modèle de vie de Pasteur demain ?
 	* Comment intégrer un réseau de démarche similaire ?
 
-*3.1 Sélection de citations / textes
+## 3.1 Sélection de citations / textes
 
 1. Citation d'un texte de Georges Guiton
 	* Un désir de pionnier
@@ -184,7 +182,7 @@ Thématiques
 3. Citation d'un texte sur l'hospitalité
 	* Le mot hôte est au cœur des questions
 
-*3.2 Introduction de Sophie Ricard 
+## 3.2 Introduction de Sophie Ricard 
 
 	* Réoccuper les lieux. Associer et accompagner les besoins de la société civile. Projets éphémères. 
 	* Accueillir les besoins immédiats d'une société en mouvement. Inventer les règles de programmation.
@@ -212,7 +210,7 @@ Thématiques
 	* Q. Comment faire ren sorte de ne pas aller chercher de subventions, de diversifier au maximum les sources ?
 	* La puissance publique joue le rôle d'accompagnateur (dans le cas de l'expérience de / avec l'Hotel Pasteur)
 
-*3.3 Premiers témoignages / échanges
+## 3.3 Premiers témoignages / échanges
 
 	* On a tous été utilisateur de ce lieu On a envie de transmettre au travers de ce lieu
 	* Il y a besoin de trouver un modèle représentatif de ce nouveau lieu
@@ -226,7 +224,7 @@ Thématiques
 
 	* Citoyenneté = faire partie de la société rennaise. 
 
-*3.4 Témoignage de Simon Sarrazin
+## 3.4 Témoignage de Simon Sarrazin
 
 	* Ressources de la Coroutine
 		* Site web : http://lacoroutine.org (site "re.copiable" depuis GitHub)
@@ -247,7 +245,7 @@ Thématiques
 	* Les réseaux de la Coroutine
 		* Réseau des tiers lieux à Lille  http://hauts.tiers-lieux.org (cartographie réutilisable si besoin ;-)). Appel à communs inter lieux : http://hauts.tiers-lieux.org/appel-a-communs/
 	
-*3.5 Témoignage d'Antoine Burret
+## 3.5 Témoignage d'Antoine Burret
 
 	* Eléments de parcours
 		* Antoine s'est intéressé à / engagé sur la réhabilitation des friches urbaines dans les Balkans. Patrimoine industriel de l'Europe du Sud Est.
@@ -262,7 +260,7 @@ Thématiques
 		* Un espace qui est plus que "espace public" où il y a une représentation commune. Point commun = patrimoine informationnel.
 		* Depuis des années des personnes documentent . Wiki des Tiers-Lieux libres et Open Source http://movilab.org/index.php
 
-*3.6 Témoignage de Rieul Techer
+## 3.6 Témoignage de Rieul Techer
 
 	* Éléments de parcours 
 		* Frustré de la recherche. Deux projets de thèse qui ont avortés. 
@@ -298,7 +296,7 @@ Thématiques
 			* Au sein d'un réseau : http://hauts.tiers-lieux.org/prestations-et-formation/
 		* L'économie c'est des économieS. Il s'agit de ré-équilibrer le rapport entre concurrence et réciprocité.
   
-*3.7 Témoignage de Sylvia Frediksson
+## 3.7 Témoignage de Sylvia Frediksson
  
 	* Cité du Design
 		* Commissaire de l'expérience "Tiers lieux" à la Biennale de Design de Saint Etienne : https://www.gitbook.com/book/nicolasloubet/fork-the-world
@@ -319,7 +317,7 @@ Thématiques
 		* La données c'est un outil de contre-pouvoir citoyen 
 		* École des données : https://ecoledesdonnees.org/
 
-*3.8 Témoignage de Nicolas Loubet
+## 3.8 Témoignage de Nicolas Loubet
 	
 	* Scientifique. A vécu le CPE (https://fr.wikipedia.org/wiki/Contrat_premi%C3%A8re_embauche) à l'origine d'une bifurcation. Capital de départ (héritage, compensation d'orphelin) et d'investissement dans diverses activités: "J'ai misé, j'ai parié, j'ai testé". Loi des 3 tiers du partage du capital de départ (personnel, ONG et entreprise). A chaque moment, toujours quelqu'un pour juger, décider et arbitrer.
 	
@@ -333,7 +331,7 @@ Thématiques
 	
 	* Permettre une démarche collégiale entre plusieurs structures sur un volet que chacun pris individuellement ne peut pas répondre mais que la somme des parties se dépassent et apporte une réponse à ce volet. 
 	
-*3.9 Témoignage de Paul Citron
+## 3.9 Témoignage de Paul Citron
 
 	* Plateau Urbain : https://www.plateau-urbain.com. On va (re)donner de la valeur d'usage à des batiments sans valeur d'échange 
 	* Mise à disposition de lieux vacants à d'acteurs qui n'ont pas de modèles économiques "adaptés" à l'immobilier concurrentiel
@@ -342,18 +340,18 @@ Thématiques
 		* Comment les gens qui font de la poitique peuvent permettre et laisser faire pour qu'advienne du politique
 		* Comment prendre soin des politiques publiques. 
 
-3.10 Intervention de Samuel Bausson
+## 3.10 Intervention de Samuel Bausson
 
 	* Objectif : grandes pistes fortes de mode d'emploi de gouvernance. Organisation des discussions en groupes de 4-5 personnes.
 
 ---
 
-*Annexes
+# Annexes
 
 
 Les différentes composantes de l’économie 
 
-	* Contributive : quelle contribution en dehors de la contribution pécuniaire ? Rejoint la question de la mutualisation et du partage à l’Hôtel pasteur !
+	* **Contributive** : quelle contribution en dehors de la contribution pécuniaire ? Rejoint la question de la mutualisation et du partage à l’Hôtel pasteur !
 
 	(Wikipédia) L'économie contributive, ou économie de la contribution, est un modèle de création de valeur basé sur la contribution.
 	
@@ -365,7 +363,7 @@ Les différentes composantes de l’économie
 	La valeur produite par les contributeurs n'est pas intégralement monétarisable.
 	La production crée à la  fois du savoir-faire et du savoir-vivre, et dépasse ainsi la simple subsistance.
 
-	* Collaborative : rejoint la question d’une économie dans un réseaux économique qui existe déjà! Mutualisation des moyens et des objets !
+	* **Collaborative** : rejoint la question d’une économie dans un réseaux économique qui existe déjà! Mutualisation des moyens et des objets !
 
 	(Wikipédia) L’économie collaborative est une activité humaine de pair à pair, qui vise à produire de la valeur en commun et qui repose sur de nouvelles formes d'organisation du travail et d'échanges. 
 	
