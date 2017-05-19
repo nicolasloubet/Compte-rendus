@@ -4,14 +4,15 @@ Ce document est le compte-rendu collectif de la journée de rencontre organisée
 
 # 0- À propos de la rencontre
                                    
-Journée organisée par le conseil collégial de l’Hôtel Pasteur et Réseau solidaire.
 
-**Forme** : Échanges en comité restreint (40 pers Conseil collégial de l’Hôtel Pasteur, hôtes et invités)
-* Matinée : 
-	* Retour sur l’histoire de la fabrique de l’Hôtel Pasteur par des personnes du conseil collégial /
-	* Retour d’expériences de nos invités extérieurs et questionnement sur le fonctionnement de l’Hôtel Pasteur
-* Après-midi : 
-	* 6 ateliers de travail (6 groupes de 6 personnes max.)
+**Forme** : 
+* Journée organisée par le conseil collégial de l’Hôtel Pasteur et Réseau solidaire.
+* Échanges en comité restreint (Conseil collégial de l’Hôtel Pasteur, hôtes, invités)
+	* Matinée : 
+		* Retour sur l’histoire de la fabrique de l’Hôtel Pasteur par des personnes du conseil collégial /
+		* Retour d’expériences de nos invités extérieurs et questionnement sur le fonctionnement de l’Hôtel Pasteur
+	* Après-midi : 
+		* 6 ateliers de travail (6 groupes de 6 personnes max.)
 
 **Invités**
 * Antoine Burret : docteur en sociologie (Les tiers lieux comme objet conceptuel indentifiable)
