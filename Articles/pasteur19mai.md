@@ -23,7 +23,7 @@ Ce document est le compte-rendu collectif de la journée de rencontre organisée
 * Xavier Coadic : co-fondateur du Biome. Contributeur OpenBioFabrics, Movilab, Multibao.
 
 ## Contexte
-* Alors que l’association collégiale de l’Hôtel Pasteur réfléchi à la définition  des différents  rôles attribués aux « forces Ouevrières » au sein de la communauté  de l’Hôtel Pasteur en vue de commencer à tester une gouvernance partagée et contributive pour 2017, l’hôtel Pasteur se doit d’initier une gouvernance collective et contributive ou la responsabilité d’accueil, de stimulation du lieu et des énergies, de mise en réseau, et de gestion au quotidien serait répartie en fonction des rôles de chacun. 
+* Alors que l’association collégiale de l’Hôtel Pasteur réfléchit à la définition des différents rôles attribués aux « forces Ouevrières » au sein de la communauté  de l’Hôtel Pasteur en vue de commencer à tester une gouvernance partagée et contributive pour 2017, l’hôtel Pasteur se doit d’initier une gouvernance collective et contributive ou la responsabilité d’accueil, de stimulation du lieu et des énergies, de mise en réseau, et de gestion au quotidien serait répartie en fonction des rôles de chacun. 
 
 * Cette association collégiale a été crée en octobre 2016 et a pour but de fédérer et regrouper autour d’elle des personnes désireuses de s’impliquer d’avantage dans la projet pasteur autour des notions de Gouvernance et écosystème. Elle a pour but d’initier, de tester et préfigurer sur site dans un lieu déjà occupé et ré-ouvert depuis maintenant 4 année un mode de gouvernance partagé regroupant des acteurs de la société civile afin de préfigurer une structure juridique capable de gérer en pleine responsabilité le lieu à partir de septembre 2019, date à laquelle la réhabilitation du bâtiment sera terminée.
 
@@ -35,8 +35,7 @@ Ce document est le compte-rendu collectif de la journée de rencontre organisée
 
 * Afin de nous aider à explorer les différentes innovations sur ces sujets qui ont lieu sur le territoire national et en Europe, nous organisons une journée d’étude consacrée à la fois aux nouveaux modèles économiques qui émergent des nouvelles formes d’appropriation de la ville  bien souvent révélé au point de départ de manière citoyenne.  
 
-## Les dates clés
-
+## Historique
 * 2012- Lancement de l’université Foraine à Rennes à l’instigation de Patrick Bouchain
 * 2012-2014 – Mise à l’épreuve du bâtiment par l’Usage , définition de qu’est aujourd’hui l’Hôtel pasteur
 * 2014 – Délégation de la MOA à la SPLA Territoires Publics afin de continuer le travail mener par l’UFO et d’y intégrer une école maternelle de 8 classes.
@@ -54,87 +53,86 @@ Ce document est le compte-rendu collectif de la journée de rencontre organisée
 # 1- Pourquoi cette rencontre ? 
 
 ## Situation  
-	* Aujourd'hui le fonctionnement de l'Hôtel Pasteur repose sur un nombre restreint de personnes. Leur capacité de faire face aux sollicitations arrive à saturation.
-	* Par ailleurs, il faut maintenant anticiper et construire une alternative viable à un fonctionnement classique de structure culturelle d’ici la fin des travaux d’aménagement. 
-	* Un début de fonctionnement partagé s'est mis en place avec l’association collégiale et son comité de gouvernance rejoint par une diversité de profils. 
-	* Il reste à ouvrir l’Hôtel Pasteur le plus largement possible à toutes les personnes partantes pour s’impliquer, selon leurs envies propres et les besoins du lieu. 
+* Aujourd'hui le fonctionnement de l'Hôtel Pasteur repose sur un nombre restreint de personnes. Leur capacité de faire face aux sollicitations arrive à saturation.
+* Par ailleurs, il faut maintenant anticiper et construire une alternative viable à un fonctionnement classique de structure culturelle d’ici la fin des travaux d’aménagement. 
+* Un début de fonctionnement partagé s'est mis en place avec l’association collégiale et son comité de gouvernance rejoint par une diversité de profils. 
+* Il reste à ouvrir l’Hôtel Pasteur le plus largement possible à toutes les personnes partantes pour s’impliquer, selon leurs envies propres et les besoins du lieu. 
 
-Enjeux 
-	* Cette journée est un temps de respiration mais aussi un temps de travail. Un temps pour répondre à la question : 
-	* "Comment faire en sorte que Pasteur fonctionne durablement et en cohérence avec son projet, un lieu mouvant capable de recevoir l’immédiateté du besoin dans le temps long de l’expérimentation ?" et plus précisément « Comment faire en sorte que l'Hôtel Pasteur fonctionne comme une communauté où chacun prend soin de faire vivre ce bien commun ? » 
-	* L'enjeu à terme c'est de décentraliser la gouvernance du lieu et de mettre en capacité de contribuer toutes les bonnes volontés qui se manifestent régulièrement et engager les utilisateurs du lieu à prendre soin de son fonctionnement global, et commencer à réfléchir ensemble et avec d'autres ce que pourrait être son modèle économique futur.  
+## Enjeux 
+* Cette journée est un temps de respiration mais aussi un temps de travail. Un temps pour répondre à la question : 
+* "Comment faire en sorte que Pasteur fonctionne durablement et en cohérence avec son projet, un lieu mouvant capable de recevoir l’immédiateté du besoin dans le temps long de l’expérimentation ?" et plus précisément « Comment faire en sorte que l'Hôtel Pasteur fonctionne comme une communauté où chacun prend soin de faire vivre ce bien commun ? » 
+* L'enjeu à terme c'est de décentraliser la gouvernance du lieu et de mettre en capacité de contribuer toutes les bonnes volontés qui se manifestent régulièrement et engager les utilisateurs du lieu à prendre soin de son fonctionnement global, et commencer à réfléchir ensemble et avec d'autres ce que pourrait être son modèle économique futur.  
 
-Objectifs
-	* Identifier des grandes lignes de principes de fonctionnement propices à cet enjeu (règles du jeux, prises de décision, animations de la communauté, structuration, outils d'échanges)
-		* Identifier ceux que nous voulons adopter et intégrer dans la gouvernance de l'Hôtel Pasteur.
-		*  S'inspirer de nouveaux modèles économique dites "modèle de vie" et écosystèmes, outils qui existent sur le territoire.
-		* Première journée d’étude commune avec notre collectif en dehors de nos comités.          
-		* Former un réseau, initier un partenariat intellectuel avec nos invités à plus grande échelle
+## Objectifs
+* Identifier des grandes lignes de principes de fonctionnement propices à cet enjeu (règles du jeux, prises de décision, animations de la communauté, structuration, outils d'échanges)
+* Identifier ceux que nous voulons adopter et intégrer dans la gouvernance de l'Hôtel Pasteur.
+*  S'inspirer de nouveaux modèles économique dites "modèle de vie" et écosystèmes, outils qui existent sur le territoire.
+* Première journée d’étude commune avec notre collectif en dehors de nos comités.          
+* Former un réseau, initier un partenariat intellectuel avec nos invités à plus grande échelle
 
-Thématiques
+## Thématiques
     
-*# Économies
-		* Quel  patrimoine commun ?
-		* Comment révéler les valeurs co-produites, l'innovation sociale et culturelle du lieu ? 
-		* Comment valoriser les ressources fournies pour le fonctionnement : cf économie contributive?
-		* L’articulation avec les autres lieux qui occupe pasteur et peuvent participer de         fait à l’économie contributive.
-		* Quels sont les besoins financiers minimum nécessaires (ordre de grandeur) ? 
-		* Quels outils pour rendre  compte des réciprocités, des échanges de valeurs ? 
-		* Quels  outils pour documenter les communs ? Comment diffuser nos connaissances ?
-		* Quelles  types de licences pour faciliter la réappropriation ?
+### Économie(s)
+* Quel  patrimoine commun ?
+* Comment révéler les valeurs co-produites, l'innovation sociale et culturelle du lieu ? 
+* Comment valoriser les ressources fournies pour le fonctionnement : cf économie contributive?
+* L’articulation avec les autres lieux qui occupe pasteur et peuvent participer de fait à l’économie contributive.
+* Quels sont les besoins financiers minimum nécessaires (ordre de grandeur) ? 
+* Quels outils pour rendre  compte des réciprocités, des échanges de valeurs ? 
+* Quels  outils pour documenter les communs ? Comment diffuser nos connaissances ?
+* Quelles  types de licences pour faciliter la réappropriation ?
 
-*# Gouvernances
-		* Qui sont ces gens ? Qu'est ce que les gens y font ? 
-		* Quels modes de faire ? Que font-il pour et par eux-mêmes ?
-		* Quelle configuration  sociale ?
-		* Quels type de communauté ? Comment fait-on partie de cette communauté ? Sentiment d'appartenance alors que l’on accueil sur des temps  éphémères ?          
-		* Quels liens entre les gens ? 
-		* Quelle  autonomie  ? Quelles initiatives ? Comment soutenir l'émancipation par le faire ?
-		* Rôles  et contributions :  Qu'est ce qu'il y a faire pour que Pasteur puisse continuer à accueillir ces gens ? Comment fait-on tourner un lieu comme Pasteur ?
-		* Quelle  conciergerie   et quel profil / posture de concierge pour Pasteur ?  
-		* Quels  modes de prises de décisions (votes, consensus…) entre toutes les parties prenantes ? https://hackmd.io/s/H1xBfPVx-#
-		* Comment conserver la place pour la libre appropriation et l'expérimentation ? la recherche-action ? les essais et erreurs ?
-		* Dans  quelle mesure la structure  est "structurante" et impacte le projet ? Faut-il choisir un type de structure ? 
-		* Comment la puissance  publique trouve sa  place au seins de cette structure? Comment on s'articule avec les services ?
-		* Comment Pasteur s'articule avec les autres lieux de culture et autres ?
-		* Quels  outils pour faciliter la contribution de tous ? 
-		* Comment assurer fluidité, agilité, capacité d'adaptation et résilience de la structure Pasteur ? Quelles sont les modularités ?
+### Gouvernance(s)
+* Qui sont ces gens ? Qu'est ce que les gens y font ? 
+* Quels modes de faire ? Que font-il pour et par eux-mêmes ?
+* Quelle configuration  sociale ?
+* Quels type de communauté ? Comment fait-on partie de cette communauté ? Sentiment d'appartenance alors que l’on accueil sur des temps  éphémères ?          
+* Quels liens entre les gens ? 
+* Quelle  autonomie  ? Quelles initiatives ? Comment soutenir l'émancipation par le faire ?
+* Rôles  et contributions :  Qu'est ce qu'il y a faire pour que Pasteur puisse continuer à accueillir ces gens ? Comment fait-on tourner un lieu comme Pasteur ?
+* Quelle  conciergerie   et quel profil / posture de concierge pour Pasteur ?  
+* Quels  modes de prises de décisions (votes, consensus…) entre toutes les parties prenantes ? https://hackmd.io/s/H1xBfPVx-#
+* Comment conserver la place pour la libre appropriation et l'expérimentation ? la recherche-action ? les essais et erreurs ?
+* Dans  quelle mesure la structure  est "structurante" et impacte le projet ? Faut-il choisir un type de structure ? 
+* Comment la puissance  publique trouve sa  place au seins de cette structure? Comment on s'articule avec les services ?
+* Comment Pasteur s'articule avec les autres lieux de culture et autres ?
+* Quels  outils pour faciliter la contribution de tous ? 
+* Comment assurer fluidité, agilité, capacité d'adaptation et résilience de la structure Pasteur ? Quelles sont les modularités ?
 
-# Émancipation par le faire
-	* Aujourd'hui, le socle de confiance et l'autonomisation des hôtes permettent l'émancipation par le faire. Demain, COMMENT STRUCTURER les choses tout en garantissant toujours cela ? 
+### Émancipation(s)
+* Aujourd'hui, le socle de confiance et l'autonomisation des hôtes permettent l'émancipation par le faire. Demain, COMMENT STRUCTURER les choses tout en garantissant toujours cela ? 
 
 ---
 
-*2- Présent.e.s sur la rencontre
+# 2- Présent.e.s sur la rencontre
 
-	* Erwan : Insertion par le sport
-	* Paul : chez Plateau Urbain
-	* Arthur : chez Plateau Urbain
-	* Arthur : usager de l'Hotel Pasteur
-	* Jade et Delphine : émergence spéctacle vivant
-	* Emilie : citoyenne et bénévole pôle de dev ESS
-	* Ludivine : accompagne les artistes
-	* Aude : engagé dans l'économie sociale
-	* Elise : travaille à Pasteur (coordination)
-	* Mathieu : L'atelier Daro (audiiovisuel)
-	* Louis-Marie : binome avec Sophie
-	* Cyrile : 
-	* Antoine : réalisateur (film sur Parsteur)
-	* Samuel : CM Champs LIbre. Museomix
-	* Simon : Lille. Communs et Logiciel Libre.
-	* Christine : bénévole de l'Hotel Pasteur
-	* Pricilla : ressourcerie (gestion des dechets)
-	* Sylvia : designer, communs et données
-	* Nicolas : Cellab. Aime prendre des notes
-	* Jakie  : accueil. Veille & Service Civique
-	* Philippe : psychiatre / santé mentale
-	* Sylvie : adjointe au maire
-	* Cyril : Conseiller municipale bâtiments et publics
-	* Gwenola : recherche en philo politique, TND
-	* Théo : Étudiant ingénieur, participe à des initiatives collective
-	* Gwennael : Voisin de Pasteur - Dispo Local
-	* Antoine : sociologue. Tiers-Lieux de Genève
-	* À compléter
+* Erwan : Insertion par le sport
+* Paul : chez Plateau Urbain
+* Arthur : chez Plateau Urbain
+* Arthur : usager de l'Hotel Pasteur
+* Jade et Delphine : émergence spéctacle vivant
+* Emilie : citoyenne et bénévole pôle de dev ESS
+* Ludivine : accompagne les artistes
+* Aude : engagé dans l'économie sociale
+* Elise : travaille à Pasteur (coordination)
+* Mathieu : L'atelier Daro (audiiovisuel)
+* Louis-Marie : binome avec Sophie
+* Cyrile : 
+* Antoine : réalisateur (film sur Parsteur)
+* Samuel : CM Champs LIbre. Museomix
+* Simon : Lille. Communs et Logiciel Libre.
+* Christine : bénévole de l'Hotel Pasteur
+* Pricilla : ressourcerie (gestion des dechets)
+* Sylvia : designer, communs et données
+* Nicolas : Cellab. Aime prendre des notes
+* Jakie  : accueil. Veille & Service Civique
+* Philippe : psychiatre / santé mentale
+* Sylvie : adjointe au maire
+* Cyril : Conseiller municipale bâtiments et publics
+* Gwenola : recherche en philo politique, TND
+* Théo : Étudiant ingénieur, participe à des initiatives collective
+* Gwennael : Voisin de Pasteur - Dispo Local
+* Antoine : sociologue. Tiers-Lieux de Genève
 
 ---
 
