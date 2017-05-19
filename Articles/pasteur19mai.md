@@ -96,7 +96,7 @@ Ce document est le compte-rendu collectif (Rieul Técher, Samuel Bausson, Nicola
 * Quelle  autonomie  ? Quelles initiatives ? Comment soutenir l'émancipation par le faire ?
 * Rôles  et contributions :  Qu'est ce qu'il y a faire pour que Pasteur puisse continuer à accueillir ces gens ? Comment fait-on tourner un lieu comme Pasteur ?
 * Quelle  conciergerie   et quel profil / posture de concierge pour Pasteur ?  
-* Quels  modes de prises de décisions (votes, consensus…) entre toutes les parties prenantes ? https://hackmd.io/s/H1xBfPVx-#
+* Quels modes de prises de décisions entre toutes les parties prenantes ? (cf. ce [document](https://hackmd.io/s/H1xBfPVx-#))
 * Comment conserver la place pour la libre appropriation et l'expérimentation ? la recherche-action ? les essais et erreurs ?
 * Dans  quelle mesure la structure  est "structurante" et impacte le projet ? Faut-il choisir un type de structure ? 
 * Comment la puissance  publique trouve sa  place au seins de cette structure? Comment on s'articule avec les services ?
@@ -122,7 +122,7 @@ Ce document est le compte-rendu collectif (Rieul Técher, Samuel Bausson, Nicola
 * Elise : travaille à Pasteur (coordination)
 * Mathieu : L'atelier Daro (audiiovisuel)
 * Louis-Marie : binome avec Sophie
-* Cyrile : 
+* Cyrile : _à compléter_
 * Antoine : réalisateur (film sur Parsteur)
 * Samuel : CM Champs LIbre. Museomix
 * Simon : Lille. Communs et Logiciel Libre.
@@ -145,29 +145,29 @@ Ce document est le compte-rendu collectif (Rieul Técher, Samuel Bausson, Nicola
 
 ## 4.0 Pourquoi est-on là aujourd'hui ?
 
-	* Comment continue t'on à travailler avec une gouvernance tournante ?
-	* Quel sera le modèle de vie de Pasteur demain ?
-	* Comment intégrer un réseau de démarche similaire ?
+* Comment continue t'on à travailler avec une gouvernance tournante ?
+* Quel sera le modèle de vie de Pasteur demain ?
+* Comment intégrer un réseau de démarche similaire ?
 
 ## 4.1 Sélection de citations / textes
 
 1. Citation d'un texte de Georges Guiton
-	* Un désir de pionnier
-	* Un chantier républicain
-	* Travailler sur un non programme
-	* Assistance sociale sans assistance
-	* Partir de ce que l'on veut faire
-	* Analyser pasteur trouver l'usage
-	* Réhabilitation de l'hospitalité
+* Un désir de pionnier
+* Un chantier républicain
+* Travailler sur un non programme
+* Assistance sociale sans assistance
+* Partir de ce que l'on veut faire
+* Analyser pasteur trouver l'usage
+* Réhabilitation de l'hospitalité
 
 2. Citation d'un texte de Williams James
-	* Il n'y a pas de monde commun, 
-	* Les désaccords ne sont pas superficielles
-	* Si nous mettons de coté ce qui nous sépare il n'y a rien à mettre en commun
-	* Il n'y a pas d'Univers mais un Plurivers
+* Il n'y a pas de monde commun, 
+* Les désaccords ne sont pas superficielles
+* Si nous mettons de coté ce qui nous sépare il n'y a rien à mettre en commun
+* Il n'y a pas d'Univers mais un Plurivers
 
 3. Citation d'un texte sur l'hospitalité
-	* Le mot **hôte** est au cœur des questions
+* Le mot **hôte** est au cœur des questions
 
 ## 4.2 Introduction de Sophie Ricard 
 
