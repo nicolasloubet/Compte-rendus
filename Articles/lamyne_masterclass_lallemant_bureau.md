@@ -1,6 +1,6 @@
 # [#Masterclass] Hacker, coopérer, travailler ?
 
-Ce document est le compte-rendu écrit (contributif) de la [masterclass de Michel Lallemant et Marie-Christine Bureau](https://www.facebook.com/events/329300317486078/?acontext=%7B%22ref%22%3A%222%22%2C%22ref_dashboard_filter%22%3A%22calendar%22%2C%22action_history%22%3A%22null%22%7D-) organisée le jeudi 18 Mai 2017 à [la MYNE](http://lamyne.org). Michel et Marie-Christine sont chercheurs au CNAM. Ils étudient les hackerpaces / fablabs et les coopératives d'emploi.
+Ce [document](https://hackmd.io/s/HJRrx8jlb) est le compte-rendu écrit (contributif) de la [masterclass de Michel Lallemant et Marie-Christine Bureau](https://www.facebook.com/events/329300317486078/?acontext=%7B%22ref%22%3A%222%22%2C%22ref_dashboard_filter%22%3A%22calendar%22%2C%22action_history%22%3A%22null%22%7D-) organisée le jeudi 18 Mai 2017 à [la MYNE](http://lamyne.org). Michel et Marie-Christine sont chercheurs au CNAM. Ils étudient les hackerpaces / fablabs et les coopératives d'emploi.
 
 Ce document est régi par les termes de la [licence Creative Commons CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0). Il a été amorcé par Benjamin Chow Petit et édité par Nicolas Loubet. Il peut être modifié par tou.te.s.
 
@@ -8,19 +8,19 @@ Ce document est régi par les termes de la [licence Creative Commons CC-BY-NC-SA
 
 ## 1. San Francisco
 
-### 1.1 ++Émergence de la micro-informatique++
+### 1.1 Émergence de la micro-informatique
 
 La Baie de San Francisco est proche de la Silicon Valley. Elle baie a joué un rôle déterminant dans l'émergence de la 'micro informatique' en accueillant plusieurs des pionniers de cette culture et industrie (ordinateurs à monter soi-même, logiciels, clubs d'informaticiens).
 
 Plusieurs des pionniers ont financé plus tard des "emblêmes" comme le [Hacker Dojo](https://www.hackerdojo.com). Certains sont restés dans l'univers du logiciel libre, d'autres ont montés des empires indutriels. 
 
-### 1.2 ++Mouvement de Contre Culture (hyppie)++
+### 1.2 Mouvement de Contre Culture (hyppie)
 
 San Francisco est le foyer culturel des Summer of Love, de la rupture du puritanisme, du mouvement hippie. Les leaguers font de la récupuration de déchets (notamment alimentaires).
 
 Stewart Brand, engagé dans le mouvement psychédélique, a imaginé (en 1968) le [Whole Earth Catalog](https://fr.wikipedia.org/wiki/Whole_Earth_Catalog). Ce "catalogue" permet de s'outiller tel un "cowboy des temps modernes".
 
-### 1.3 ++Des hybridations et des paradoxes...++
+### 1.3 Des hybridations et des paradoxes...
 
 La côte Ouest (et notamment la baie de San Francisco) a été le théâtre de rencontres (décisives) entre les promotteurs de la micro informatique et les activistes du mouvement hippie. C'est dans cet univers que s'est forgée une (nouvelle) éthique **hackers** (dont les valeurs sont l'autonomie, la créativité, l'initiative... certaines étant en contradication dans les faits).
 
@@ -30,7 +30,7 @@ Le festival [Burning Man](http://burningman.com) est l'une des manifestations le
 
 En 1984 est publié [L'éthique des hackers](https://fr.wikipedia.org/wiki/L%27Éthique_des_hackers) par Steven Levy (traduit récemment en France). 
 
-### 2.1 ++[NoiseBridge](http://noisebridge.net)++
+### 2.1 [NoiseBridge](http://noisebridge.net)
 
 Le logo exprime l'ambition : "Faire du bruit". Choix (de vie) : vivre en hacker et évangéliser (partout dans le monde. L'invention de la [TV-b-gone](https://en.wikipedia.org/wiki/TV-B-Gone) est un bon exemple. [Mitch](http://blog.dlenne.eu/mitch-altman-le-porteur-de-sens/) : "J'en avais marre des médias, j'ai crée une télécommande pour éteindre les téléviseurs'.
 
@@ -38,19 +38,19 @@ Noisebridge est localisé dans un quartier pauvre de San Francisco. Une feuille 
 
 Au premier étage, il y a une explication de ce qu'est Noisebridge avec un appel aux dons. Il y a un coin pour l'imprimante 3D, la découpe laser, le petit bricolage, la machine à coudre. Il y a également une grande table, des étagères, une bibliothèque, un espace photo argentique, deux salles de cours, un dirty shop et une cuisine (qu est un lieu de **tension** ; la cuisine attirait en effet les individus les plus pauvres du quartier 'non hackers', d'ou le choix de la fermer dans son [reboot](https://www.noisebridge.net/wiki/Reboot)... après de longues discussions et désaccords). Ex. de déco : Conway's Game of Life.
 
-### 2.2 ++[Hacker Dojo](https://www.hackerdojo.com)++
+### 2.2 [Hacker Dojo](https://www.hackerdojo.com)
 
 Au coeur de la Silicon Valley. Moitié des membres en projet. [Lee Felsenstein](https://en.wikipedia.org/wiki/Lee_Felsenstein) parrain.
 
-### 2.3 ++[BioCurious](http://biocurious.org)++
+### 2.3 [BioCurious](http://biocurious.org)
 
 Biohackerspace monté par des personnes qui viennent des sciences politiques et non de la biologie (le vivant comme un "sujet citoyen"). Ce qui attire : articuler biologie et informatique.
 
-### 2.4 ++[The Crucible](http://www.thecrucible.org)++
+### 2.4 [The Crucible](http://www.thecrucible.org)
 
 Entrepôt à Oakland, 5000 m^2^. Matériel pour construire (verre, acier... vraiment de tout !).
 
-### 2.4 ++[Hackermoms](http://mothership.hackermoms.org/about)++
+### 2.4 [Hackermoms](http://mothership.hackermoms.org/about)
 
 Hackerspace 'pour' mamans et enfants. Pour que les mères puissent faire de l'art, bricoler.
 
@@ -60,7 +60,7 @@ Il y a des hackerspaces pour les minorités ("ethniques", "sexuelles"...) Dans l
 
 Que font les gens ? De la bidouille informatique et des projets. Exemple : une spécialiste de neuroscience de Berkeley a fait une interface par EEG pour diriger un fauteuil roulant.
 
-### 3.1 ++Utilisateurs++
+### 3.1 Utilisateurs
 
 * Jeunes hommes blancs,techniciens ingénieurs (dans la grande majorité)
 * Parents ingénieurs / artistes. Sensibilisation précoce à l'informatique
@@ -71,7 +71,7 @@ Que font les gens ? De la bidouille informatique et des projets. Exemple : une s
 
 NoiseBridge permet de se former en continu le soir. Ils ont un workshop "Geek & Depression". Il faut que ce qu'on produit soit élégant. La facon de "travailler" se résume à `Seul en Groupe`.
 
-### 3.2 ++Organisation++
+### 3.2 Organisation
 
 "Nous, pas de règles ! Be excellent to each other dudes !" En pratique, c'est truffé de règles.
 
@@ -99,7 +99,7 @@ Ceux qui prennent l'initiative ont raison (jusqu'à un certain point)... Cela oc
 * Documentation avec wiki. Ouverture aux extérieurs. 
 * _5 minutes of fame_ (utilisé avec les jeunes enfants)
 
-### 3.3 ++Conclusion++
+### 3.3 Conclusion
 
 La (ré)création pour améliorer le monde est un rituel présent dans le quotidien des personnes.
 
@@ -109,13 +109,13 @@ La (ré)création pour améliorer le monde est un rituel présent dans le quotid
 
 ## 1. Coopératives et hackerspaces
 
-### 1.1 ++Éléments d'histoire++
+### 1.1 Éléments d'histoire
 
 L'un des ancêtres des coopératives d'activité et d'emploi (CAE) a été créé à Lyon en 1960 pour sécuriser un peu la vie des travailleurs de la soie (localisés à Croix-Rousse). Dès 1980-1990, les chomeurs (des usines fermées) sont tentés de créer leur entreprise'... mais elles se cassent la gueule. Les 'coopératives' ont été inventées pour renforcer ces démarches collectives.
 
 CAE pionnières (à Lyon) : [Oxalis](http://www.oxalis-scop.fr) & [Cap Service](http://www.cap-services.coop). Ipulsion : Elizabeth Bost et Béatrice Poncin. Valeurs : "travailler autrement", "coopérer pour entreprendre". [CoPaname](http://www.coopaname.coop) est une petite soeur initiée à Paris / en Ile-de-France en 2004. Rapprochement entre CoPaname et Oxalis.
 
-### 1.2 ++Entrepreneur salarié++
+### 1.2 Entrepreneur salarié
 
 * Explorer un modèle économique. Devenir entrepreneur-salarié
 * Collaboration importante. Démocratie et économie entremélées.
@@ -126,7 +126,7 @@ La protection sociale est donnée par les CAE du fait de la **subordination au c
 
 Au bout de trois ans, il **faut devenir sociétaire**. Les degrés d'engagement sont variables. Le [CAPE](https://www.service-public.fr/particuliers/vosdroits/F11299) a été refusé par certaines coopératives (dont CoPaname). Mais elles y reviennent avec du recul. Tout ça peut se déployer grâce au principe d'expérimentation (commun aux tiers-lieux).
 
-### 1.3 ++Revenu et comptabilité++
+### 1.3 Revenu et comptabilité
 
 Marie-Christine est interessée par les **zones grises du droit du travail**. Elle a co-monté une enquête avec Copaname et Oxalis. Il a fallu se mettre d'accord sur la formulation des question (avec deux modules différents qui ne rentrent pas dans les cases). Cela a pris du temps. 
 
@@ -134,7 +134,7 @@ Un des résulats : au départ de Copaname, des groupes de marque ont été cré�
 
 Le suivi comptable de l'activité provoque un **sur-engagement** des permanents salariés (perte de la maitrise du temps). La relation demeure délicate entre les entrepreneurs-salariés et les opérateurs de la structure. Le **coworking** (dans les murs) fonctionne de façon très variable...
 
-### 1.4 ++Hacking organisationnel++
+### 1.4 Hacking organisationnel
 
 **Instances représentatives du personnel** : 
 * pour se protéger mutuellement par rapport au surinvestissement
@@ -148,7 +148,7 @@ Le suivi comptable de l'activité provoque un **sur-engagement** des permanents 
 
 Engagement dans le collectif et dans la profession => l'un n'a pas d'effet sur l'autre. 
 
-#### 1.5 ++Coopératives et communs++
+#### 1.5 Coopératives et communs
 
 Les Grands Voisins ont accuelli le 11 mai [un séminaire](https://github.com/nicolasloubet/Compte-rendus/blob/master/Articles/mutuelles_communs_regards_croises.md) sur les coopératives de travail et les communs. Cette rencontre s'intègre dans un programme de recherche-action.
 
