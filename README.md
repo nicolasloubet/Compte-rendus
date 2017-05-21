@@ -17,4 +17,4 @@ Ce répertoire est un recueil d'articles issus de rencontres, de réunions, d'at
 * [Co-gestion des noms de domaine tiers-lieux](https://github.com/nicolasloubet/Compte-rendus/blob/master/Articles/tiers-lieux-domaines.md)
 * [Rencontre avec Karine Dognin-Sauze](https://github.com/nicolasloubet/Compte-rendus/blob/master/Articles/Maker-Lyon-MYNE.md)
 * [CAIRN : interview de Pauline Gourlet](https://github.com/nicolasloubet/Compte-rendus/blob/master/Articles/pauline-gourlet-cairn.md)
-
+* [Journée GOUVERNANCE de l'Hotel Pasteur](https://github.com/nicolasloubet/Compte-rendus/blob/master/Articles/pasteur19mai.md)
