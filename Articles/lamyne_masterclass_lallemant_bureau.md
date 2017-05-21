@@ -1,7 +1,3 @@
-<i class="fa fa-tag"></i> Lyon <i class="fa fa-clock-o"></i> 18-05-2017
-
-###### Tags: `masterclass` `La MYNE` `hackers`
-
 # [#Masterclass] Hacker, coopérer, travailler ?
 
 Ce document est le compte-rendu écrit (contributif) de la [masterclass de Michel Lallemant et Marie-Christine Bureau](https://www.facebook.com/events/329300317486078/?acontext=%7B%22ref%22%3A%222%22%2C%22ref_dashboard_filter%22%3A%22calendar%22%2C%22action_history%22%3A%22null%22%7D-) organisée le jeudi 18 Mai 2017 à [la MYNE](http://lamyne.org). Michel et Marie-Christine sont chercheurs au CNAM. Ils étudient les hackerpaces / fablabs et les coopératives d'emploi.
