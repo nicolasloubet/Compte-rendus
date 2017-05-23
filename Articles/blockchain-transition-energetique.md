@@ -40,7 +40,7 @@ Ce document est une synthèse écrite - partielle - d'un [meetup](https://www.me
 
 * **Stéphane** : dev web très engagé sur la blockchain. A travaillé - en stage - chez Ledger (qui développe des *hardware wallets*). Co-fondateur de [ASSETH](http://www.asseth.fr/). A créeé sa société de conseil pour former des équipes. 
 
-* **Jean-Mickael** : étudiant à l'[ESIEE](http://esiee.fr). Travaille actuellement sur un projet qui s'appuie sur [IOTA](https://iotatoken.com/) (pour des pratiques d'audit). Intéressé par les enjeux techniques de l'énergie. Également membre d'[ASSETH](http://www.asseth.fr/)
+* **Jean-Mickael** : étudiant à [L'ESILV ](http://www.esilv.fr. Travaille actuellement sur un projet qui s'appuie sur [IOTA](https://iotatoken.com/) (pour des pratiques d'audit). Intéressé par les enjeux techniques de l'énergie. Également membre d'[ASSETH](http://www.asseth.fr/)
 
 * **Martin** : étudiant à [SUPAERO](https://www.isae.fr/). Intéressé par le secteur de l'énergie. Présent par curiosité ! 
 
@@ -90,7 +90,7 @@ Questions (ouvertes), remarques et informations utiles :
 * IRISA est l'un des laboratoires spÈcialistes (en EU) dans le domaine du calcul distribué.
 * La 'startup' **[Trust In Soft](https://trust-in-soft.com/about-us-tis/)** est spécialisée dans la vérification automatique de code.
 
-**Action** : lien avec les core devi Ethereum (pendant [EDCON](http://edcon.io) !) => voici le [diaporama](https://www.dropbox.com/s/kxm5mthqw3l5p5f/Block-chain%40CEA_LIST4Meetup_2017.02.15.pdf?dl=0). 
+**Action** : lien avec les core dev Ethereum (pendant [EDCON](http://edcon.io) !) => voici le [diaporama](https://www.dropbox.com/s/kxm5mthqw3l5p5f/Block-chain%40CEA_LIST4Meetup_2017.02.15.pdf?dl=0). 
 
 ## Intervention de J.-B.
 
