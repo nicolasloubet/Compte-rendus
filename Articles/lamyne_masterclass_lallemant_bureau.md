@@ -65,7 +65,7 @@ Que font les gens ? De la bidouille informatique et des projets. Exemple : une s
 * Parcours scolaire heurté pour plusieurs des protagonistes (surdoués ?)
 * Situations pros d'ingénieurs : de la Silly Valley... aux sans abris.
 
-++Success story++: un jeune "décrocheur scolaire" a créé [Code Hero](https://codeherogame.wordpress.com), un jeu vidéo de conception de jeux vidéos. Il a fait des conférences TED, a monté un start-up et a amorcé une communauté dans une maison à SF. Le rapport à la réussite économique est différent par rapport à la France.
+`Success story`: un jeune "décrocheur scolaire" a créé [Code Hero](https://codeherogame.wordpress.com), un jeu vidéo de conception de jeux vidéos. Il a fait des conférences TED, a monté un start-up et a amorcé une communauté dans une maison à SF. Le rapport à la réussite économique est différent par rapport à la France.
 
 NoiseBridge permet de se former en continu le soir. Ils ont un workshop "Geek & Depression". Il faut que ce qu'on produit soit élégant. La facon de "travailler" se résume à `Seul en Groupe`.
 
