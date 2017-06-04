@@ -34,9 +34,9 @@ Ce document est le compte-rendu collectif de la rencontre organisée par l'assoc
 
 ## 1.2- Pasteur, un bien commun
 
-* L’hôtel Pasteur est devenu un **bien commun** qui doit être entretenu par et avec le collectif. L’enjeu économique de sa gestion future est  un enjeu de taille auquel il doit se préparer en s'appropriant les formes d’économie émergentes ( contributive, collaborative, partagée...) qui s’apparentent davantage à des « modèle de vie » que des « modèle économiques » au sens conventionnel. 
+* L’Hôtel Pasteur est un **bien commun** qui doit être entretenu par et avec le collectif. L’enjeu économique de sa gestion future est un enjeu de taille auquel il doit se préparer en s'appropriant les formes d’économie émergentes (contributive, collaborative, partagée...) qui s’apparentent plus à des « modèle de vie » qu'à des « modèles économiques ». 
 
-* L'Hotel Pasteur se construit depuis son origine en **écosystème** avec ses gens, ses contributions, sa politique interne, son tissu social, son territoire. Pasteur est un lieu créateur de valeurs et donc de richesses, par l’échange, la rencontre, la coopération, et donc l’insertion sociale et culturelle dans la Cité ("Pasteur est devenu une institution politique au sens sociale et sociétale").
+* L'Hôtel Pasteur se construit depuis son origine en **écosystème** avec ses gens, ses contributions, sa politique interne, son tissu social, son territoire. Pasteur est un lieu créateur de valeurs et donc de richesses, par l’échange, la rencontre, la coopération, et donc l’insertion sociale et culturelle dans la Cité ("Pasteur est devenu une institution politique au sens sociale et sociétale").
 
 * L'Hotel Pasteur est un **espace non marchand** qui ne génère pas de recette(s) et où l’on prône la responsabilité de chacun. Après avoir défini les rôles de chacun au sein de la communauté (concierge, veilleurs, relais de la conciergerie…), tout le monde a la resonsabilité d'agir en hôte à partir du moment ou elle/il vient dans le lieu. Ces responsabilités occasionnent des contre-parties (à définir).
 
