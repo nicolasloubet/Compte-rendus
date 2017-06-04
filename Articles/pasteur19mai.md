@@ -285,11 +285,11 @@ Timing | Action
 	* [L'échange dans le cadre d'un projet](http://movilab.org/index.php?title=Recherche_et_design_:_l%27%C3%A9change_dans_le_cadre_d%27un_projet)
 
 ### Remix the communs
-* Des chartes sont néées en Italie pour définir des espaces comme "communs". [Atlas des chartes des communs](http://wiki.remixthecommons.org/index.php/Atlas_des_chartes_des_communs_urbains)
+* Des chartes sont néées en Italie pour définir des espaces comme "communs". [Atlas des chartes des communs](http://wiki.remixthecommons.org/index.php/Atlas_des_chartes_des_communs_urbains).
 
 
 ### Open Knowledge
-* La donnée est un levier de contre-pouvoir citoyen. Sylbia est engagée dans le développement de l'[Ecole des Données](https://ecoledesdonnees.org).
+* Donnée = levier de contre-pouvoir citoyen. Sylbia est engagée dans le développement de l'[Ecole des Données](https://ecoledesdonnees.org).
 
 ## 5.5 Témoignage de Nicolas Loubet
 	
