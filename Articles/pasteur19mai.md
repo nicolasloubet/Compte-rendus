@@ -296,14 +296,14 @@ Timing | Action
 	
 * 2012 : début de quninquénat de François Hollande. Beaucoup d'espoirs et... beaucoup des déceptions. Constat en 2017 : en difficuté partout : Entreprise (Umaps), Startup (Bluenod, Tiers-lieu (La Paillasse). Entre 2013 et 2017, a essayé de comprendre pourquoi c'est si compliqué de péréniser une activité (une enterprise comme un tiers-lieux).
 
-* Dans les tiers-lieux, il y a des pratiques différentes et des temps qui sont liés à des rituels. Comment peut-on faire en sorte de fluidifier (en ayant le souci du collectif) ? L'incompréhension est une opportunité à saisir (pour développer des relations qui peuvent se traduire en échange de temps, en troc matériel ou en co-portage d'activités / services utiles). S'intéresse davantage au fonctionnement des organsations qu'à la gouvernacnce.
+* Dans les tiers-lieux, il y a des pratiques différentes et des temps qui sont liés à des rituels. Comment peut-on faire en sorte de fluidifier (en ayant le souci du collectif) ? L'incompréhension est une opportunité à saisir (pour développer des relations qui peuvent se traduire en échange de temps, en troc matériel ou en co-portage d'activités / services utiles). S'intéresse davantage au fonctionnement des organsations (qui fait quoi) qu'à la gouvernance (qui décide quoi).
 
 * Les tiers-lieux ne suvivront pas en tant que tel. Nicolas encourage de se préoccuper en priorité du milieu étudiant (il y a 2 millions d'étudiants environ en France). **Tous** les étudiants doivent absolulement faire / traverser des tiers-lieux ! 
 		
 ## 5.6 Témoignage de Paul Citron
 
 * [Plateau Urbain](https://www.plateau-urbain.com) exite pour (re)donner de la valeur d'usage à des batiments sans valeur d'échange 
-* Mise à disposition de lieux vacants à d'acteurs qui n'ont pas de modèles économiques "adaptés" à l'immobilier concurrentiel
+* Mise à dispo de lieux vacants à des acteurs qui n'ont pas de modèles éco. "adaptés" à l'immobilier concurrentiel.
 * L'idée de la temporalité c'est de ne pas se focaliser sur les lieux.
 	* Comment la programmation ouverte permet d'être adaptable, modulable et produisant des politiques publiques adaptées aux territoires, en laissant faire pour qu'advienne le politique. 
 	* Comment les gens qui font de la poitique peuvent permettre et laisser faire pour qu'advienne du politique
