@@ -1,5 +1,9 @@
 # Journée sur la GOUVERNANCE de l'Hotel Pasteur
 
+<p align="center">
+<img src="https://github.com/nicolasloubet/Compte-rendus/blob/master/Images/pasteur_1eretage.JPG?raw=true" width="80%">
+</p>
+
 Ce document est le compte-rendu collectif de la rencontre organisée par l'association collégiale de l'[Hotel Pasteur](http://hotelpasteur.fr), le 19 mai 2017 à Rennes. Il a réuni une quarantaine de personnes (membres de l'association, hôtes, invités-témoins).
 
 > Nous avons souhaité organiser une journée d’étude consacrée aux nouveaux modèles économiques qui émergent des nouvelles formes d’appropriation de la ville (bien souvent révélées de manière citoyenne au démarrage).
@@ -41,6 +45,11 @@ Ce document est le compte-rendu collectif de la rencontre organisée par l'assoc
 * L'Hotel Pasteur est un **espace non marchand** qui ne génère pas de recette(s) et où l’on prône la responsabilité de chacun. Après avoir défini les rôles de chacun au sein de la communauté (concierge, veilleurs, relais de la conciergerie…), tout le monde a la resonsabilité d'agir en hôte à partir du moment ou elle/il vient dans le lieu.
 
 ## 1.3 Dates clés de Pasteur
+
+<p align="center">
+<img src="https://github.com/nicolasloubet/Compte-rendus/blob/master/Images/pasteur_histoire.JPG?raw=true?raw=true" width="80%">
+</p>
+
 
 Timing | Action
 ------------ | -------------
