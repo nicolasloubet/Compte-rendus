@@ -30,6 +30,11 @@ Ce document est le compte-rendu collectif de la rencontre organisée par l'assoc
 
 # 1- À propos de l'Hotel Pasteur
 
+<p align="center">
+<img src="https://github.com/nicolasloubet/Compte-rendus/blob/master/Images/pasteur_histoire.JPG?raw=true?" width="80%">
+</p>
+
+
 ## 1.1- L'association collégiale
 
 * Une association collégiale a été créée en octobre 2016 pour fédérer autour d’elle des personnes désireuses de s’impliquer dans le projet. Elle a pour but d’initier et préfigurer sur site - dans un lieu déjà occupé et ré-ouvert depuis 4 années - un mode de gouvernance partagé préfigurant une structure juridique capable de gérer en pleine responsabilité le lieu à partir de septembre 2019 (date à laquelle la réhabilitation du bâtiment sera terminée).
@@ -45,11 +50,6 @@ Ce document est le compte-rendu collectif de la rencontre organisée par l'assoc
 * L'Hotel Pasteur est un **espace non marchand** qui ne génère pas de recette(s) et où l’on prône la responsabilité de chacun. Après avoir défini les rôles de chacun au sein de la communauté (concierge, veilleurs, relais de la conciergerie…), tout le monde a la resonsabilité d'agir en hôte à partir du moment ou elle/il vient dans le lieu.
 
 ## 1.3 Dates clés de Pasteur
-
-<p align="center">
-<img src="https://github.com/nicolasloubet/Compte-rendus/blob/master/Images/pasteur_histoire.JPG?raw=true?raw=true" width="80%">
-</p>
-
 
 Timing | Action
 ------------ | -------------
@@ -119,6 +119,10 @@ Timing | Action
 ---
 
 # 3- Présent.e.s sur la rencontre
+
+<p align="center">
+<img src="https://github.com/nicolasloubet/Compte-rendus/blob/master/Images/pasteur_assemblee.JPG?raw=true" width="80%">
+</p>
 
 * **Erwan** : insertion par le sport
 * **Paul** : membre de Plateau Urbain
