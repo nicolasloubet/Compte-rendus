@@ -229,58 +229,50 @@ Timing | Action
 
 ### Gouvernance de la Coroutine 
 * [Membres actifs](https://www.loomio.org/d/TEs1CtZm/droit-et-d-finition-du-membre-contributeur-actif-) = ceux qui ont le pouvoir de décider s'il y a blocage sur une décision. Utilisation du consentement sinon. [Exemple de décision en cours](https://www.loomio.org/p/IEo1aqy8/mettre-en-place-un-tarif-pour-les-utilisateurs-des-collectifs-qui-utilisent-le-lieu) qui intéressera Pasteur (il n'y pas besoin d'avoir un compte pour voter)
-* Bonnes pratiques : autonomiser ce qui est pénible, faire du ménage une activité collective et conviviale, ne surtout pas assigner de tâches. L'univers du logiciel libre permet de concevoir des astuces (cf. [La cathédrale et le bazar](https://framasoft.org/IMG/cathedrale-bazar.pdf)) Mais ATTENTION, le logiciel n'est pas un lieu. Les modes de gestion sont distincts.
+* Quelques bonnes pratiques (éprouvées empiriquement) : autonomiser ce qui est pénible, faire du ménage une activité collective et conviviale, ne surtout pas assigner de tâches. L'univers du logiciel libre permet de concevoir des astuces (cf. [La cathédrale et le bazar](https://framasoft.org/IMG/cathedrale-bazar.pdf)) Mais ATTENTION, le logiciel n'est pas un lieu. Les modes de gestion sont distincts.
 
-## 4.5 Témoignage d'Antoine Burret
+## 5.2 Témoignage d'Antoine Burret
 
 ### Eléments de parcours
 * Antoine s'est intéressé à / engagé sur la réhabilitation des friches urbaines dans les Balkans.
 * Docteur sur les tiers-lieux 
-	* Livre: Tiers-lieu et plus si affinité > http://www.fypeditions.com/tiers-lieux-et-plus-si-affinites/
-	* Retour sur la soutenance de thèse de Antoine Burret sur "La repolitisation par les tiers-lieux" > https://storify.com/nicolasloubet/tierslieuxphd
-	* La thèse > http://movilab.org/index.php?title=Etude_de_la_configuration_en_Tiers-Lieu_-_La_repolitisation_par_le_service > Étude des services des Tiers-Lieux 
+	* [Tiers-lieu et plus si affinité](http://www.fypeditions.com/tiers-lieux-et-plus-si-affinites)
+	* [Thèse "La repolitisation par les tiers-lieux"](http://movilab.org/index.php?title=Etude_de_la_configuration_en_Tiers-Lieu_-_La_repolitisation_par_le_service)	
+	* [Compte-rendu de la soutenance de thèse](https://storify.com/nicolasloubet/tierslieuxphd)
+	
+### Eléments sur les tiers-lieux
+* Tiers lieux = espaces de critiques par le service, pour creer des usages qui contrarient ce qui nous déplait.
+* Un espace qui est plus que "espace public" où il y a une représentation commune. Commun = patrimoine informationnel.
+* Depuis des années des personnes documentent. Wiki des Tiers-Lieux libres et Open Source http://movilab.org/index.php
 
-# Eléments sur les tiers-lieux
-* Tiers lieux = espaces de critiques (mais pas discursive) mais par le service, pour creer des usages qui contrarient ce qui nous déplait
-* Un espace qui est plus que "espace public" où il y a une représentation commune. Point commun = patrimoine informationnel.
-* Depuis des années des personnes documentent . Wiki des Tiers-Lieux libres et Open Source http://movilab.org/index.php
-
-## 4.6 Témoignage de Rieul Techer
+## 5.3 Témoignage de Rieul Techer
 
 ### Éléments de parcours 
-
-* Frustré de la recherche. Deux projets de thèse qui ont avortés. 
+* Frustré de la recherche. A monté deux projets de thèse qui ont avorté (pour des raisons différentes)
 * Si l'Université n'est pas capable de développer des projets ouverts il faut créer son propre cadre
-* Création de la Myne (http://www.lamyne.org/) : Laboratoire Ouvert (à l'origine La Paillasse Saône)
-* 2014 : à l'ouverture, pas de lieu. Travail sur une communauté. Modèle et Fork de la Paillasse
+* Création de la [MYNE](https://medium.com/@rieult/la-myne-une-manufacture-des-id%C3%A9es-et-nouvelles-exp%C3%A9rimentations-autonome-8b7ce1e835f5) (http://www.lamyne.org/) comme Laboratoire Ouvert (à l'origine La Paillasse Saône)
+* 2014 : à l'ouverture, pas de lieu. Travail sur une communauté. Fork de la Paillasse (située à Paris)
 
-### Historique de la MYNE
-* Lire cet rticle : https://medium.com/@rieult/la-myne-une-manufacture-des-id%C3%A9es-et-nouvelles-exp%C3%A9rimentations-autonome-8b7ce1e835f5
-
-### Quelques (anti) conseils
-* Les "pratiques" c'est un point clef pour faire le lien entre les communautés. 
-* Moins se focaliser sur le lieu et plus sur les personnes qui y viennent, sur le "tiers"
-* Le lieu ne définie pas les communauté. C'est un prétexte, ce qui compte c'est "habiter" 
-* Le lieu de la Myne fait partie de la ville (en étant à la frontière Villeurbanne / Lyon)
-* Pour faire ce lien rien de mieux que d'y aller, sur place et de travailler, de créer du lien sur place
-* Habiter la ville, c'est aller habiter chez ceux qui font la ville
+### Quelques suggestions
+* Les "pratiques" c'est un point cleé pour faire le lien entre les différentes communautés
+* Moins se focaliser sur le lieu et plus sur les personnes qui y viennent (sur le "tiers")
+* Le lieu ne définit pas les communauté, c'est un prétexte. Ce qui compte c'est "habiter" !
+* Le lieu de la MYNE fait partie de la ville (en étant à la frontière Villeurbanne / Lyon)
+* Pour faire ce lien rien de mieux que d'y aller travailler, de créer du lien sur place
+* Habiter la ville, c'est aussi aller habiter chez ceux qui font la ville (cf. hospitalité)
 
 ### Organisation à la MYNE 
-* Groupes de travail - groupe de décisions & conseil collegial 
-* Inverser la pyramide de prise de décision avec uniquement quelques personnes qui prennent des décisions mais au plus près des personnes qui contribuent
-* La MYNE n'est qu'une structure, qui accueille une communauté qui fait les projets. La MYNE est un projet de la MYNE. 
-* Cadre de réciprocité pour sortir des relations marchandes uniquement. Apports de compétences, expertises. 
+* La MYNE est une (infra)structure qui accueille une communauté de projets (La MYNE est un projet de la MYNE). La définition de cadres de réciprocité permet de sortir des relations marchandes (comptabilité des apports de compétences).
+* [Modèle de gouvenance](https://hackpad.com/ep/pad/static/wdBGfQfAsb5). L'organisation se compose de groupes de travail, de groupes de décisions et d'un conseil collegial. Le but est d'inverser la chaîne de prise de décision avec uniquement quelques personnes qui prennent des décisions mais au plus près des personnes qui contribuent.
 
-### * Gouvernance de la MYNE
-* Voir ce document : https://hackpad.com/ep/pad/static/wdBGfQfAsb5
 
-* Modèle de réciprocité
-	* La MYNE : https://hackpad.com/Cadre-de-Reciprocite-Template-NOMPRENOM-STRUCTURE-OM9oEtBOMK4
-	* Mutualab : https://www.loomio.org/d/vU2V5Wi4/r-diger-une-premi-re-version-d-un-contrat-de-r-ciprocit-
-	* Suivre les réciprocité au sein d'un lieu ?
-		* Coroutine (cf. Liste des réciprocités") : http://wiki.lescommuns.org/wiki/La_Coroutine). 
-		* Au sein d'un réseau : http://hauts.tiers-lieux.org/prestations-et-formation/
-	* L'économie c'est des économieS. Il s'agit de ré-équilibrer le rapport entre concurrence et réciprocité.
+### Modèle de réciprocité
+* La MYNE : https://hackpad.com/Cadre-de-Reciprocite-Template-NOMPRENOM-STRUCTURE-OM9oEtBOMK4
+* Mutualab : https://www.loomio.org/d/vU2V5Wi4/r-diger-une-premi-re-version-d-un-contrat-de-r-ciprocit-
+* Suivre les réciprocité au sein d'un lieu : 
+	* Coroutine (cf. Liste des réciprocités") : http://wiki.lescommuns.org/wiki/La_Coroutine). 
+	* Au sein d'un réseau : http://hauts.tiers-lieux.org/prestations-et-formation/
+* L'économie c'est des économies. Il s'agit de ré-équilibrer le rapport entre concurrence et réciprocité.
   
 ## 4.7 Témoignage de Sylvia Frediksson
  
