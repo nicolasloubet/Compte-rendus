@@ -216,8 +216,9 @@ Timing | Action
 * [Présentation](http://wiki.lescommuns.org/wiki/La_Coroutine)
 * [Afiches du lieu](https://drive.google.com/drive/folders/0BzUW0ZSBFWPecy1DVWt0RXM2dXc)
 * [Histoire du lieu](https://cdn.knightlab.com/libs/timeline/latest/embed/?source=1EFavJEK47HQN6cJaSaR7tp1bI90DrSFEvijWFW6UQeY&font=Bevan-PotanoSans&maptype=toner)
-* [Gouvernance](http://wiki.lacoroutine.org/gouvernance & https://docs.google.com/document/d/1sHADGAyzL4Jd_lUc5fFjQp16hQ-Ge_nWv2kwsPw_bw0/edit)
-* [Réseau des tiers lieux](http://hauts.tiers-lieux.org)
+* [Gouvernance](http://wiki.lacoroutine.org/gouvernance)
+* [Prises de décision](https://docs.google.com/document/d/1sHADGAyzL4Jd_lUc5fFjQp16hQ-Ge_nWv2kwsPw_bw0/edit)
+* [Réseau tiers lieux](http://hauts.tiers-lieux.org)
 * [Appel à communs](http://hauts.tiers-lieux.org/appel-a-communs)
 
 ### Présentation de la Coroutine
