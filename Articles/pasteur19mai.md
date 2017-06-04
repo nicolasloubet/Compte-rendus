@@ -211,7 +211,7 @@ Timing | Action
 ## 4.4 Témoignage de Simon Sarrazin
 
 ### Ressources de la Coroutine
-* [Site web](http://lacoroutine.org)
+* [Site Internet](http://lacoroutine.org)
 * [Documentation](http://wiki.lacoroutine.org)
 * [Présentation](http://wiki.lescommuns.org/wiki/La_Coroutine)
 * [Afiches du lieu](https://drive.google.com/drive/folders/0BzUW0ZSBFWPecy1DVWt0RXM2dXc)
@@ -226,10 +226,10 @@ Timing | Action
 * Les statuts de l'association ont été modifiées pour enlever les pouvoir aux conseil collégial et les remettre dans les mains des membres actifs (pour que ceux qui font fassent). L'association n'a pas de subvention des collectivités.
 
 ### Gouvernance de la Coroutine 
-* [Membres actifs](https://www.loomio.org/d/TEs1CtZm/droit-et-d-finition-du-membre-contributeur-actif-)= ceux qui ont le pouvoir de décider s'il y a blocage sur une décision. Utilisation du consentement sinon. 
+* [Membres actifs](https://www.loomio.org/d/TEs1CtZm/droit-et-d-finition-du-membre-contributeur-actif-) = ceux qui ont le pouvoir de décider s'il y a blocage sur une décision. Utilisation du consentement. 
 * [Exemple de décision en cours](https://www.loomio.org/p/IEo1aqy8/mettre-en-place-un-tarif-pour-les-utilisateurs-des-collectifs-qui-utilisent-le-lieu) qui intéressera Pasteur (il n'y pas besoin d'avoir un compte pour voter)
 * Bonnes pratiques : autonomiser ce qui est pénible, faire du ménage une activité collective et conviviale, ne surtout pas assigner / attribuer de tâches (routinières).
-* L'univers du logociel libre permet de penser des astuces (lire [La cathédrale et le bazar] : https://framasoft.org/IMG/cathedrale-bazar.pdf) ATTENTION, le logiciel n'est pas un lieu et les modes de gestion sont donc distincts.
+* L'univers du logociel libre permet de penser des astuces (lire [La cathédrale et le bazar](https://framasoft.org/IMG/cathedrale-bazar.pdf)) ATTENTION, le logiciel n'est pas un lieu et les modes de gestion sont donc distincts.
 
 ## 4.5 Témoignage d'Antoine Burret
 
