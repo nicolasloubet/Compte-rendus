@@ -282,15 +282,13 @@ Timing | Action
 * Beaucoup font du ommun sans le savoir. Possibilité de se retrouver grace au patrimoine informationnel.
 
 ### Réciprocité
-* S'intéresse aux pratiques de RECIPROCITE (comment on l'incarne autrement que par des tableurs et comment on la vie physiquemenent dans les lieux. E.g. [CAIRN](http://carrefour-numerique.cite-sciences.fr/blog/cairn-la-table-qui-permet-de-manipuler-et-visualiser-des-donnees/) (représentation tangible de flux) & [KODEAL](http://movilab.org/index.php?title=KoDeal) (poignée de main numérique).
-	* [Poignées de main dans les tiers-lieux](http://movilab.org/index.php?title=Recherche_et_design_:_r%C3%A9pertorier_les_poign%C3%A9es_de_main_dans_les_tiers-lieux)
-	* [L'échange dans le cadre d'un projet](http://movilab.org/index.php?title=Recherche_et_design_:_l%27%C3%A9change_dans_le_cadre_d%27un_projet)
+* S'intéresse aux pratiques de RECIPROCITE (comment on l'incarne autrement que par des tableurs et comment on la vie physiquemenent dans les lieux : [CAIRN](http://carrefour-numerique.cite-sciences.fr/blog/cairn-la-table-qui-permet-de-manipuler-et-visualiser-des-donnees/), & [KODEAL](http://movilab.org/index.php?title=KoDeal) ([Poignées de main dans les tiers-lieux](http://movilab.org/index.php?title=Recherche_et_design_:_r%C3%A9pertorier_les_poign%C3%A9es_de_main_dans_les_tiers-lieux),[L'échange dans le cadre d'un projet](http://movilab.org/index.php?title=Recherche_et_design_:_l%27%C3%A9change_dans_le_cadre_d%27un_projet)).
 
 ### Remix the communs
 * Des chartes sont néées en Italie pour définir des espaces comme "communs". [Atlas des chartes des communs](http://wiki.remixthecommons.org/index.php/Atlas_des_chartes_des_communs_urbains).
 
 ### Open Knowledge
-* Donnée = levier de contre-pouvoir citoyen. Sylbia est engagée dans le développement de l'[Ecole des Données](https://ecoledesdonnees.org).
+* Donnée = levier de contre-pouvoir citoyen. Sylvia est engagée dans le développement de l'[Ecole des Données](https://ecoledesdonnees.org).
 
 ## 5.5 Témoignage de Nicolas Loubet
 	
