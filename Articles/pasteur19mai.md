@@ -195,7 +195,7 @@ Timing | Action
 ### Territoire
 * Pas un "nouveau" lieu sous cloche mais inscrit dans un territoire (qui doit fonctionner dans un réseau)
 	* Ex : accueil de migrants (phrase en note par @Samuel). Pasteur comme un outil de réseau de gens
-	* Sur un rayon de 5 km : Hôpital, TNB, musée... Possiblité de mettre à contribution les voisins, qu’ils puissent partager les accueils d’urgence sociale (ex. cours de Français pour les demandeurs d’asile) pour entrer dans une économie de la contribution. Objectif à terme : passage de relais après les travaux (10 millions € d'investissement de la ville).
+	* Sur un rayon de 5 km : Hôpital, TNB, musée, etc. Possiblité de mettre à contribution les voisins (ex. cours de Français pour les demandeurs d’asile) pour entrer dans une économie de la contribution. Objectif à terme : passage de relais après les travaux (la ville a investi 10 millions d'euros).
 * Q. Comment faire ren sorte de ne pas aller chercher de subventions, de diversifier au maximum les sources ?
 * La puissance publique joue le rôle d'accompagnateur (dans le cas de l'expérience de / avec l'Hotel Pasteur)
 
@@ -226,10 +226,9 @@ Timing | Action
 * Les statuts de l'association ont été modifiées pour enlever les pouvoir aux conseil collégial et les remettre dans les mains des membres actifs (pour que ceux qui font fassent). L'association n'a pas de subvention des collectivités.
 
 ### Gouvernance de la Coroutine 
-* [Membres actifs](https://www.loomio.org/d/TEs1CtZm/droit-et-d-finition-du-membre-contributeur-actif-) = ceux qui ont le pouvoir de décider s'il y a blocage sur une décision. Utilisation du consentement. 
-* [Exemple de décision en cours](https://www.loomio.org/p/IEo1aqy8/mettre-en-place-un-tarif-pour-les-utilisateurs-des-collectifs-qui-utilisent-le-lieu) qui intéressera Pasteur (il n'y pas besoin d'avoir un compte pour voter)
-* Bonnes pratiques : autonomiser ce qui est pénible, faire du ménage une activité collective et conviviale, ne surtout pas assigner / attribuer de tâches (routinières).
-* L'univers du logociel libre permet de penser des astuces (lire [La cathédrale et le bazar](https://framasoft.org/IMG/cathedrale-bazar.pdf)) ATTENTION, le logiciel n'est pas un lieu et les modes de gestion sont donc distincts.
+* [Membres actifs](https://www.loomio.org/d/TEs1CtZm/droit-et-d-finition-du-membre-contributeur-actif-) = ceux qui ont le pouvoir de décider s'il y a blocage sur une décision. Utilisation du consentement sinon. [Exemple de décision en cours](https://www.loomio.org/p/IEo1aqy8/mettre-en-place-un-tarif-pour-les-utilisateurs-des-collectifs-qui-utilisent-le-lieu) qui intéressera Pasteur (il n'y pas besoin d'avoir un compte pour voter)
+* Bonnes pratiques : autonomiser ce qui est pénible, faire du ménage une activité collective et conviviale, ne surtout pas assigner de tâches.
+* Le ogociel libre permet de concevoir des astuces (cf. [La cathédrale et le bazar](https://framasoft.org/IMG/cathedrale-bazar.pdf)) Mais ATTENTION, le logiciel n'est pas un lieu. Les modes de gestion sont distincts.
 
 ## 4.5 Témoignage d'Antoine Burret
 
