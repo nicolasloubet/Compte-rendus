@@ -310,7 +310,11 @@ Timing | Action
 
 ---
 
-# 6- Economies émergentes
+# 6- Ateliers de réflexion
+
+Voir les notes réunies dans ce [document](https://bimestriel.framapad.org/p/GouvernancePasteur) (en cours d'édition / mise en forme) par de valeurs.ses éditeurs.trices.
+
+# Annexes
 
 ## **Économie contributive**
 
