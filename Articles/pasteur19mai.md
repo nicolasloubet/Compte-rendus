@@ -69,11 +69,6 @@ Timing | Action
 
 # 2- Pourquoi cette rencontre ? 
 
-<p align="center">
-<img src="https://github.com/nicolasloubet/Compte-rendus/blob/master/Images/pasteur_espace.JPG?raw=true" width="80%">
-</p>
-
-
 ## 2.1- Situation  
 
 * Aujourd'hui le fonctionnement de l'Hôtel Pasteur repose sur un nombre restreint de personnes. Leur capacité à faire face aux sollicitations arrive à saturation. Par ailleurs, il faut maintenant anticiper et construire une alternative viable à un fonctionnement classique de structure culturelle d’ici la fin des travaux d’aménagement. 
@@ -159,6 +154,10 @@ Timing | Action
 ---
 
 # 4- Introduction de la rencontre
+
+<p align="center">
+<img src="https://github.com/nicolasloubet/Compte-rendus/blob/master/Images/pasteur_espace.JPG?raw=true" width="80%">
+</p>
 
 ## 4.0- Pourquoi sommes-nous là aujourd'hui ?
 
