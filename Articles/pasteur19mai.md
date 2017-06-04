@@ -294,11 +294,11 @@ Timing | Action
 	
 * Scientifique. A vécu à l'Université le [CPE](https://fr.wikipedia.org/wiki/Contrat_premi%C3%A8re_embauche). À l'origine d'une bifurcation (création d'entreprise plutôt qu'une carrière académique). Capital de départ = investissement dans diverses activités (pesonnels, dons, entreprise). A eu l'occasion de s'investir plus de 5 ans dans le développement d'un [média](http://knowtex.com) sur les "communautés créatives".
 	
-* 2012 : début de quninquénat de François Hollande. Beaucoup d'espoirs et finalement beaucoup des déceptions. Constat en 2017 : en difficuté / échec partout : Entreprise (Umaps), Startup (Bluenod, Tiers-lieu (La Paillasse). Entre 2013 et 2017, a essayé de comprendre pourquoi c'est si compliqué de péréniser une activité (aussi une enterprise qu'un tiers-lieux).
+* 2012 : début de quninquénat de François Hollande. Beaucoup d'espoirs et... beaucoup des déceptions. Constat en 2017 : en difficuté partout : Entreprise (Umaps), Startup (Bluenod, Tiers-lieu (La Paillasse). Entre 2013 et 2017, a essayé de comprendre pourquoi c'est si compliqué de péréniser une activité (aussi bien une enterprise qu'un tiers-lieux).
 
 * Dans les tiers-lieux, il y a des pratiques différentes et des temps qui sont liés à des procèdures et rituels. Comment peut-on faire en sorte de fluidifier et "l'optimiser" (en ayant le souci du collectif) ? "On est en permanence en lutte contre nos pratiques". L'incompréhension est une opportunité à saisir (pour développer des relations qui peuvent se traduire en échange de temps, en troc matériel ou en co-portage d'activités / services utiles). S'intéresse davantage au fonctionnement des organsations qu'à la gouvernacnce.
 
-* Selon Nicolas, les tiers-lieux ne suvivront pas en tant que tel. Il souhait de se préoccuper en priorité du milieu étudiant (il y a 2 millions d'étudiants environ en France). **Tous** les étudiants doivent absolulement faire / traverser des tiers-lieux ! 
+* Les tiers-lieux ne suvivront pas en tant que tel. Nicolas encourage de se préoccuper en priorité du milieu étudiant (il y a 2 millions d'étudiants environ en France). **Tous** les étudiants doivent absolulement faire / traverser des tiers-lieux ! 
 		
 ## 5.6 Témoignage de Paul Citron
 
