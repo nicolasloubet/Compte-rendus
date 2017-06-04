@@ -293,9 +293,9 @@ Timing | Action
 
 ## 5.5 Témoignage de Nicolas Loubet
 	
-* Scientifique de formmation. A vécu à l'Université le [CPE](https://fr.wikipedia.org/wiki/Contrat_premi%C3%A8re_embauche), à l'origine d'une bifurcation (création d'entreprise plutôt qu'une carrière académique). Capital de départ. Investissement dans diverses activités (frais pesonnels, dons à des ONGs et investissement en capital).
+* Scientifique. A vécu à l'Université le [CPE](https://fr.wikipedia.org/wiki/Contrat_premi%C3%A8re_embauche), à l'origine d'une bifurcation (création d'entreprise plutôt qu'une carrière académique). Capital de départ > investissement dans diverses activités (pesonnels, dons, entreprise). A eu l'occasion de s'investir plus de 5 ans dans le développement d'un [média](http://knowtex.com) sur les communautés créatives.
 	
-* 2012 : début de quninquénat de François Hollande. Beaucoup d'espoirs. Finalement, que des déceptions. 2017 : triple échec (ou difficulté) : Entreprise (Umaps) / Startup (Bluenod) / Tiers-lieu (La Paillasse). A eu l'occasion de s'investir plus de 5 ans dans le développement d'un [média](http://knowtex.com) sur les communautés créatives.
+* 2012 : début de quninquénat de François Hollande. Beaucoup d'espoirs... et finalement beaucoup des déceptions. Constat en 2017 : en difficuté ou situation d'échec sur tous les plans : Entreprise (Umaps), Startup (Bluenod, Tiers-lieu (La Paillasse). 
 	
 * Entre 2013 et 2017, a essayé de comprendre pourquoi c'est si compliqué (aussi bien de développer une enterprise, une startup - ambitieuse - ou un tiers-lieux)  Dans beaucoup des ces lieux il y a des pratiques différentes et des temps qui sont liés à des procèdures et rituels. Comment peut-on faire en sorte de fluidifier et "l'optimiser" (en ayant le souci du collectif) ? "On est en permanence en lutte contre nos pratiques". L'incompréhension est une opportunité à saisir (pour développer des relations qui peuvent se traduire en échange de temps, en troc matériel ou en co-portage d'activités / services utiles).
 
