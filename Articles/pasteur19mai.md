@@ -16,7 +16,7 @@ Ce document est le compte-rendu collectif de la rencontre organisée par l'assoc
 * Ateliers de réflexion en groupe plus restreint (6 groupes de 6 personnes max sur 6 axes)
 
 ## 0.3- Invités
-* **Antoine Burret** : docteur en sociologie (_tiers lieux comme objet conceptuel indentifiable_)
+* **Antoine Burret** : docteur en sociologie (_Les Tiers-Lieux comme objet conceptuel indentifiable_)
 * **Rieul Techer** : contributeur de La MYNE (tiers-lieux à Lyon) & DAISEE (programme de recherche)
 * **Sylvia Fredriksson** : designer civique (Open Knowledge / Ecole des données, Cité du Design)
 * **Simon Sarazin** : fondateur de la Coroutine à Lille et contributeur actif aux communs libres
@@ -38,7 +38,7 @@ Ce document est le compte-rendu collectif de la rencontre organisée par l'assoc
 
 * L'Hôtel Pasteur se construit depuis son origine en **écosystème** avec ses gens, ses contributions, sa politique interne, son tissu social, son territoire. C'est un lieu créateur de richesses par l’échange, la rencontre, la coopération et donc l’insertion sociale et culturelle dans la Cité ("Pasteur est une institution politique au sens sociale et sociétale").
 
-* L'Hotel Pasteur est un **espace non marchand** qui ne génère pas de recette(s) et où l’on prône la responsabilité de chacun. Après avoir défini les rôles de chacun au sein de la communauté (concierge, veilleurs, relais de la conciergerie…), tout le monde a la resonsabilité d'agir en hôte à partir du moment ou elle/il vient dans le lieu. Ces responsabilités occasionnent des contre-parties (à définir).
+* L'Hotel Pasteur est un **espace non marchand** qui ne génère pas de recette(s) et où l’on prône la responsabilité de chacun. Après avoir défini les rôles de chacun au sein de la communauté (concierge, veilleurs, relais de la conciergerie…), tout le monde a la resonsabilité d'agir en hôte à partir du moment ou elle/il vient dans le lieu.
 
 ## 1.3 Dates clés de Pasteur
 
