@@ -265,7 +265,6 @@ Timing | Action
 * La MYNE est une structure qui soutient une communauté de projets (La MYNE est un projet de la MYNE !). Les cadres de réciprocité permettent de s'extraire des relations marchandes (comptabilité des apports de compétences).
 * [Voici un aperçu du modèle de gouvenance de la MYNE](https://hackpad.com/ep/pad/static/wdBGfQfAsb5). L'organisation se compose actuelellement de groupes de travail, de groupes de décisions et d'un conseil collegial. Le but est d'inverser la chaîne de prise de décision avec uniquement quelques personnes qui prennent des décisions... et d'être au plus près des personnes qui contribuent.
 
-
 ### Modèle de réciprocité
 * [Modèle de La MYNE](https://hackpad.com/Cadre-de-Reciprocite-Template-NOMPRENOM-STRUCTURE-OM9oEtBOMK4)
 * [Modèle du Mutualab](https://www.loomio.org/d/vU2V5Wi4/r-diger-une-premi-re-version-d-un-contrat-de-r-ciprocit-)
@@ -280,7 +279,7 @@ Timing | Action
 
 ### Réciprocité
 * S'intéresse aux pratiques de RECIPROCITE (comment on l'incarne autrement que par des tableurs et comment on la vie physiquemenent dans les lieux. 
-	* [CAIRN](http://carrefour-numerique.cite-sciences.fr/blog/cairn-la-table-qui-permet-de-manipuler-et-visualiser-des-donnees/) > table qui permet la représentation tangible des flux dans un espace
+	* [CAIRN](http://carrefour-numerique.cite-sciences.fr/blog/cairn-la-table-qui-permet-de-manipuler-et-visualiser-des-donnees/) > eprésentation tangible de flux dans un espace
 * [KODEAL](http://movilab.org/index.php?title=KoDeal) > poignée de main numérique
 	* [Ppoignées de main dans les tiers-lieux](http://movilab.org/index.php?title=Recherche_et_design_:_r%C3%A9pertorier_les_poign%C3%A9es_de_main_dans_les_tiers-lieux)
 	* [L'échange dans le cadre d'un projet](http://movilab.org/index.php?title=Recherche_et_design_:_l%27%C3%A9change_dans_le_cadre_d%27un_projet)
@@ -294,7 +293,7 @@ Timing | Action
 
 ## 5.5 Témoignage de Nicolas Loubet
 	
-* Scientifique de formmation. A vécuà l'Université le CPE (https://fr.wikipedia.org/wiki/Contrat_premi%C3%A8re_embauche), à l'origine d'une bifurcation (création d'entreprise plutôt qu'une carrière académique). Capital de départ (héritage, compensation d'orphelin). Investissement dans diverses activités (beosins pesonnels, dons à ONG et capital d'entreprise).
+* Scientifique de formmation. A vécu à l'Université le CPE (https://fr.wikipedia.org/wiki/Contrat_premi%C3%A8re_embauche), à l'origine d'une bifurcation (création d'entreprise plutôt qu'une carrière académique). Capital de départ. Investissement dans diverses activités (frais pesonnels, dons à des ONGs et investissement en capital).
 	
 * 2012 : début de quninquénat de François Hollande. Beaucoup d'espoirs. Finalement, que des déceptions. 2017 : triple échec (ou difficulté) : Entreprise (Umaps) / Startup (Bluenod) / Tiers-lieu (La Paillasse). A eu l'occasion de s'investir plus de 5 ans dans le développement d'un [média](http://knowtex.com) sur les communautés créatives.
 	
