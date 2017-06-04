@@ -262,8 +262,8 @@ Timing | Action
 * Habiter la ville, c'est aussi aller habiter chez ceux qui font la ville (cf. hospitalité)
 
 ### Organisation à la MYNE 
-* La MYNE est une (infra)structure qui accueille une communauté de projets (La MYNE est un projet de la MYNE !). Les cadres de réciprocité permet de sortir des relations strictement marchandes (comptabilité des apports de compétences).
-* [Modèle de gouvenance](https://hackpad.com/ep/pad/static/wdBGfQfAsb5). L'organisation se compose de groupes de travail, de groupes de décisions et d'un conseil collegial. Le but est d'inverser la chaîne de prise de décision avec uniquement quelques personnes qui prennent des décisions mais au plus près des personnes qui contribuent.
+* La MYNE est une structure qui soutient une communauté de projets (La MYNE est un projet de la MYNE !). Les cadres de réciprocité permettent de s'extraire des relations marchandes (comptabilité des apports de compétences).
+* [Voici un aperçu du modèle de gouvenance de la MYNE](https://hackpad.com/ep/pad/static/wdBGfQfAsb5). L'organisation se compose de groupes de travail, de groupes de décisions et d'un conseil collegial. Le but est d'inverser la chaîne de prise de décision avec uniquement quelques personnes qui prennent des décisions... et d'être au plus près des personnes qui contribuent.
 
 
 ### Modèle de réciprocité
