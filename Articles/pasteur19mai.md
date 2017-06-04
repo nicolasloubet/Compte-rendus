@@ -142,13 +142,13 @@ Timing | Action
 
 # 4- Introduction de la rencontre
 
-## 4.0 Pourquoi sommes-nous là aujourd'hui ?
+## 4.0- Pourquoi sommes-nous là aujourd'hui ?
 
 * Comment travailler avec une gouvernance tournante ?
 * Quel sera demain le "modèle de vie" avec Pasteur ?
 * Comment intégrer un réseau de démarches similaires ?
 
-## 4.1 Sélection de citations / textes
+## 4.1- Sélection de citations / textes
 
 ### Citation d'un texte de Georges Guiton
 * Un désir de pionnier
@@ -168,7 +168,7 @@ Timing | Action
 ### Citation d'un texte sur l'hospitalité
 * Le mot **hôte** est au cœur des questions
 
-## 4.2 Intervention de Sophie Ricard 
+## 4.2- Intervention de Sophie Ricard 
 
 ### Intentions
 * Réoccuper les lieux, associer et accompagner les besoins de la société civile (projets éphémères)
@@ -199,7 +199,7 @@ Timing | Action
 * Q. Comment faire ren sorte de ne pas aller chercher de subventions, de diversifier au maximum les sources ?
 * La puissance publique joue le rôle d'accompagnateur (dans le cas de l'expérience de / avec l'Hotel Pasteur)
 
-## 4.3 Premiers témoignages / échanges
+## 4.3- Premiers témoignages / échanges
 
 * On a tous été utilisateur de ce lieu. Envie de transmettre à travers ce lieu
 * Il y a besoin de trouver un (nouveau) modèle représentatif de ce nouveau lieu
@@ -210,7 +210,7 @@ Timing | Action
 
 # 5- Présent.e.s sur la rencontre
 
-## 5.1 Témoignage de Simon Sarrazin
+## 5.1- Témoignage de Simon Sarrazin
 
 ### Ressources de la Coroutine
 * [Site Internet](http://lacoroutine.org)
@@ -231,7 +231,7 @@ Timing | Action
 * [Membres actifs](https://www.loomio.org/d/TEs1CtZm/droit-et-d-finition-du-membre-contributeur-actif-) = ceux qui ont le pouvoir de décider s'il y a blocage sur une décision. Utilisation du consentement sinon. [Exemple de décision en cours](https://www.loomio.org/p/IEo1aqy8/mettre-en-place-un-tarif-pour-les-utilisateurs-des-collectifs-qui-utilisent-le-lieu) qui intéressera Pasteur (il n'y pas besoin d'avoir un compte pour voter)
 * Quelques bonnes pratiques (éprouvées empiriquement) : autonomiser ce qui est pénible, faire du ménage une activité collective et conviviale, ne surtout pas assigner de tâches. L'univers du logiciel libre permet de concevoir des astuces (cf. [La cathédrale et le bazar](https://framasoft.org/IMG/cathedrale-bazar.pdf)) Mais ATTENTION, le logiciel n'est pas un lieu. Les modes de gestion sont distincts.
 
-## 5.2 Témoignage d'Antoine Burret
+## 5.2- Témoignage d'Antoine Burret
 
 ### Eléments de parcours
 * Antoine s'est intéressé à / engagé sur la réhabilitation des friches urbaines dans les Balkans.
@@ -245,7 +245,7 @@ Timing | Action
 * C'est plus qu'un "espace public" où il y a une représentation commune. Patrimoine informationnel commun
 * Depuis des années des personnes documentent. [Wiki des Tiers-Lieux libres et Open Source](http://movilab.org/index.php)
 
-## 5.3 Témoignage de Rieul Techer
+## 5.3- Témoignage de Rieul Techer
 
 ### Éléments de parcours 
 * Frustré de la recherche. A monté deux projets de thèse qui ont avorté (pour des raisons différentes)
@@ -271,7 +271,7 @@ Timing | Action
 * [Liste des réciprocités](http://wiki.lescommuns.org/wiki/La_Coroutine)
 * [Prestations & Formations](http://hauts.tiers-lieux.org/prestations-et-formation)
   
-## 5.4 Témoignage de Sylvia Frediksson
+## 5.4- Témoignage de Sylvia Frediksson
  
 ### Cité du Design
 * Co-commissaire scientifique de l'[expérience "Tiers lieux" à la Biennale de Design de Saint Etienne 2017]( https://www.gitbook.com/book/nicolasloubet/fork-the-world).
@@ -285,11 +285,11 @@ Timing | Action
 	* [L'échange dans le cadre d'un projet](http://movilab.org/index.php?title=Recherche_et_design_:_l%27%C3%A9change_dans_le_cadre_d%27un_projet)
 
 ### Remix the communs
-* Des chartes sont néées en Italie pour définir des espaces comme "communs". [Atlas des chartes des communs pour répertorier les pratiques](http://wiki.remixthecommons.org/index.php/Atlas_des_chartes_des_communs_urbains)
+* Des chartes sont néées en Italie pour définir des espaces comme "communs". [Atlas des chartes des communs](http://wiki.remixthecommons.org/index.php/Atlas_des_chartes_des_communs_urbains)
 
 
 ### Open Knowledge
-* La donnée est un levier de contre-pouvoir citoyen. Sylbia est engagée dans le développement de l'[Ecole des Données](https://ecoledesdonnees.org) à l'échelle internationale.
+* La donnée est un levier de contre-pouvoir citoyen. Sylbia est engagée dans le développement de l'[Ecole des Données](https://ecoledesdonnees.org).
 
 ## 5.5 Témoignage de Nicolas Loubet
 	
