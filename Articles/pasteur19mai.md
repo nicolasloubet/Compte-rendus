@@ -272,15 +272,15 @@ Timing | Action
 * [Liste des réciprocités](http://wiki.lescommuns.org/wiki/La_Coroutine)
 * [Prestations & Formations](http://hauts.tiers-lieux.org/prestations-et-formation)
   
-## 4.7 Témoignage de Sylvia Frediksson
+## 5.4 Témoignage de Sylvia Frediksson
  
 ### Cité du Design
 * Co-commissaire scientifique de l'[expérience "Tiers lieux" à la Biennale de Design de Saint Etienne]( https://www.gitbook.com/book/nicolasloubet/fork-the-world)
 * Beaucoup de gens font des communs sans le savoir... Elles peuvent se retrouver grace au patrimoine informationnel.
 
 ### Réciprocité
-* Recherche non conventionnelle et recherche par le design > incnarnation des sujets notamment: la RECIPROCITE (comment on l'incarne autrement que par des tableurs et comment on la vie physiquemenent dans les lieux > ex. [CAIRN][http://carrefour-numerique.cite-sciences.fr/blog/cairn-la-table-qui-permet-de-manipuler-et-visualiser-des-donnees/)
-* Revendiquer la donnée ouverte, c'est un outil de compréhension de nos pratiques, de mise en visibilité. 
+* Recherche non conventionnelle et recherche par le design. S'intéresse aux pratiques de RECIPROCITE (comment on l'incarne autrement que par des tableurs et comment on la vie physiquemenent dans les lieux. 
+	* [CAIRN][http://carrefour-numerique.cite-sciences.fr/blog/cairn-la-table-qui-permet-de-manipuler-et-visualiser-des-donnees/) > table de représentation tangible des flux dans un espace
 * [KODEAL](http://movilab.org/index.php?title=KoDeal) > poignée de main numérique avec toutes les questions que ça pose (gêne, subordination... quand on parle de réciprocité) : 
 	* [Répertorier les poignées de main dans les tiers-lieux](http://movilab.org/index.php?title=Recherche_et_design_:_r%C3%A9pertorier_les_poign%C3%A9es_de_main_dans_les_tiers-lieux)
 	* [L'échange dans le cadre d'un projet](http://movilab.org/index.php?title=Recherche_et_design_:_l%27%C3%A9change_dans_le_cadre_d%27un_projet)
@@ -290,19 +290,19 @@ Timing | Action
 * Des chartes sont néées en Italie pour définir des espaces comme "communs"
 
 ### Open Knowledge
-* La données c'est un outil de contre-pouvoir citoyen. A l'origjne du programme d'apprentissage [Ecole des Données](https://ecoledesdonnees.org)
+* La donnée est un levier de contre-pouvoir citoyen. Est engagée dans le développement en France de l'[Ecole des Données](https://ecoledesdonnees.org)
 
-## 4.8 Témoignage de Nicolas Loubet
+## 5.5 Témoignage de Nicolas Loubet
 	
-* Scientifique. A vécu le CPE (https://fr.wikipedia.org/wiki/Contrat_premi%C3%A8re_embauche) à l'origine d'une bifurcation. Capital de départ (héritage, compensation d'orphelin) et d'investissement dans diverses activités: "J'ai misé, j'ai parié, j'ai testé". Loi des 3 tiers du partage du capital de départ (personnel, ONG et entreprise). A chaque moment, toujours quelqu'un pour juger, décider et arbitrer.
+* Scientifique de formmation. A vécuà l'Université le CPE (https://fr.wikipedia.org/wiki/Contrat_premi%C3%A8re_embauche), à l'origine d'une bifurcation (création d'entreprise plutôt qu'une carrière académique). Capital de départ (héritage, compensation d'orphelin). Investissement dans diverses activités (beosins pesonnels, dons à ONG et capital d'entreprise).
 	
-* 2012 : début de quninquénat de François Hollande qui a amené beaucoup d'espoirs (ou pas). Enormément de déceptions (personnelles). Aucune nouveauté (plutôt de la régression). Au final, triple échec (ou difficulté) : Entreprise (Umaps) + Startup (Bluenod) + Tiers-lieu (La Paillasse). A également eu l'occasion de s'investir dans le développement d'un blog / média / communauté : http://knowtex.com
+* 2012 : début de quninquénat de François Hollande. Beaucoup d'espoirs. Finalement, que des déceptions. 2017 : triple échec (ou difficulté) : Entreprise (Umaps) / Startup (Bluenod) / Tiers-lieu (La Paillasse). A eu l'occasion de s'investir plus de 5 ans dans le développement d'un [média](http://knowtex.com) sur les communautés créatives.
 	
 * Entre 2013 et 2017, a essayé de comprendre pourquoi c'est si compliqué (aussi bien de développer une enterprise, une startup - ambitieuse - ou un tiers-lieux)  Dans beaucoup des ces lieux il y a des pratiques différentes et des temps qui sont liés à des procèdures et rituels. Comment peut-on faire en sorte de fluidifier et "l'optimiser" (en ayant le souci du collectif) ? "On est en permanence en lutte contre nos pratiques". L'incompréhension est une opportunité à saisir (pour développer des relations qui peuvent se traduire en échange de temps, en troc matériel ou en co-portage d'activités / services utiles).
 
 * 'intère davantage au fonctionnement des organsations qu'à la gouvernance. Au début il y a nécessairement une prise de risque. La dynamique n'existe aussi que par l'énergie d'un nombre de personnes limité.
 
-* Selon lui, les tiers-lieu ne suvivront pas en tant que tel. Niclas lance l'idée de se préoccuper du milieu étudiant (2millions d'étudiants environ) et de faire en sorte que tous les étudiants soient dans des tiers-lieux. 
+* Selon lui, les tiers-lieux ne suvivront pas en tant que tel. Niclas lance l'idée de se préoccuper du milieu étudiant (2 millions d'étudiants environ) et de faire en sorte que tous les étudiants soient dans des tiers-lieux. 
 	
 * Permettre une démarche collégiale entre plusieurs structures sur un volet que chacun pris individuellement ne peut pas répondre mais que la somme des parties se dépassent et apporte une réponse à ce volet. 
 	
