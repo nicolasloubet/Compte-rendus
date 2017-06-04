@@ -1,6 +1,6 @@
 # Journée sur la GOUVERNANCE de l'Hotel Pasteur
 
-Ce document est le compte-rendu collectif de la rencontre organisée par l'association collégiale de l'[Hotel Pasteur](http://hotelpasteur.fr), le 19 mai 2017 à Rennes. Il a réuni pendant une journée pleine une quarantaine de personnes. 
+Ce document est le compte-rendu collectif de la rencontre organisée par l'association collégiale de l'[Hotel Pasteur](http://hotelpasteur.fr), le 19 mai 2017 à Rennes. Il a réuni une quarantaine de personnes (membres de l'association, hôtes, invités-témoins).
 
 > Nous avons souhaité organiser une journée d’étude consacrée aux nouveaux modèles économiques qui émergent des nouvelles formes d’appropriation de la ville (bien souvent révélées de manière citoyenne au démarrage).
 
