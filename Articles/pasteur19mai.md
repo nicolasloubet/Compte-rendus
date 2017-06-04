@@ -67,7 +67,7 @@ Timing | Action
 
 ## 2.2- Enjeux 
 
-* Cette journée est un temps de respiration et de travail pour répondre à la question : "Comment faire en sorte que Pasteur fonctionne durablement et en cohérence avec son projet, un lieu flexible capable de recevoir l’immédiateté du besoin dans le temps long de l’expérimentation ?" ou « Comment faire en sorte que l'Hôtel Pasteur fonctionne comme une communauté où chacun prend soin de faire vivre ce bien commun ? » 
+* Cette journée est un temps de respiration et de travail pour répondre à la question : "Comment faire en sorte que Pasteur fonctionne durablement et en cohérence avec son projet (un lieu flexible capable de recevoir l’immédiateté du besoin dans le temps long de l’expérimentation) ?" ou « Comment faire en sorte que l'Hôtel Pasteur fonctionne comme une communauté où chacun prend soin de faire vivre ce bien commun ? » 
 * L'enjeu à terme est de "démonopoliser" la gouvernance du lieu et de mettre en capacité de contribuer toutes les bonnes volontés qui se manifestent régulièrement et engager les utilisateurs du lieu à prendre soin de son fonctionnement, et commencer à réfléchir ensemble ce que pourrait être son modèle économique futur.  
 
 ## 2.3- Objectifs
