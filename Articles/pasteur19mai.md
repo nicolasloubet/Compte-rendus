@@ -44,17 +44,17 @@ Ce document est le compte-rendu collectif de la rencontre organisée par l'assoc
 
 Timing | Action
 ------------ | -------------
-**2012** | Lancement de l’Université Foraine à Rennes à l’instigation de Patrick Bouchain
-**2012-2014** | Mise à l’épreuve du bâtiment par l’Usage; définition de qu’est aujourd’hui l’Hôtel pasteur
-**2014** | Délégation de la MOA à la SPLA Territoires Publics afin de continuer le travail mener par l’UFO et d’y intégrer une école maternelle de 8 classes.
-**Dec. 2015** | Rencontre publiques Nouveaux Besoins, Nouveaux équipements
-**Jan 2016** | Création d’une assemblée des partenaires, représentants de la société civile dans des disciplines variées en vue de penser et d’écrire le projet et programme de l’Hôtel Pasteur
+**2012** | Lancement de l’Université Foraine à Rennes sur impulsion de Patrick Bouchain
+**2012-2014** | Mise à l’épreuve du bâtiment par l’Usage (définition de qu’est l’Hôtel pasteur)
+**2014** | Délégation de la MOA à la SPLA Territoires Publics afin de continuer le travail mené par l’UFO et d’y intégrer une école maternelle (8 classes)
+**Dec. 2015** | Rencontre publique "Nouveaux Bbsoins, Nouveaux équipements"
+**Jan 2016** | Création d’une assemblée des partenaires, représentants de la société civile en vue d’écrire le projet de l’Hôtel Pasteur
 **Eté 2016** | Lancement des appels d’offres concernant la réhabilitation du bâtiment
 **Oct. 2016** | Création de l’association collégiale l’Hôtel Pasteur afin de penser et esquisser la gouvernance future de Pasteur
-**Jan 2017** | Attribution du projet de réhabilitation à l’équipe de MOE Encore Heureux 
-**Oct 2017** | Lancement du chantier de  réhabilitation
+**Jan 2017** | Attribution du projet de réhabilitation à l’équipe de MOE _Encore Heureux_
+**Oct 2017** | Lancement du chantier de réhabilitation
 **Fev 2018** | Départ du Centre de Soin Dentaire
-**Sept 2019** | Réception du chantier, 1ere rentrée des classes de l’école maternelle
+**Sept 2019** | Réception du chantier, première rentrée des classes de l’école maternelle
 
 ---
 
