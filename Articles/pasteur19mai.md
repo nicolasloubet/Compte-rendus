@@ -14,21 +14,21 @@ Ce document est le compte-rendu collectif de la rencontre organisée par l'[Hote
 * Ateliers de réflexion en groupe plus restreint (6 groupes de 6 personnes maximum sur 6 axes)
 
 ## 0.3- Invités
-* Antoine Burret : docteur en sociologie (Les tiers lieux comme objet conceptuel indentifiable)
-* Nicolas Loubet : co-fondateur d'Umaps, Cellabz, Bluenod. Contributeur actif de communs.
-* Rieul Techer : contributeur de La MYNE (tiers-lieux à Lyon) & DAISEE (réseau de recherche)
-* Sylvia Fredriksson : designer (Open Knowledge, Ecole des données, Cité du Design)
-* Simon Sarazin : fondateur de la Coroutine à Lille et contributeur aux communs libres,
-* Paul Citron : urbaniste chez Plateau Urbain (asso qui remet en usage des lieux vacants)
-* Xavier Coadic : co-fondateur du Biome. Contributeur OpenBioFabrics, Movilab, Multibao.
+* **Antoine Burret** : docteur en sociologie (Les tiers lieux comme objet conceptuel indentifiable)
+* **Nicolas Loubet** : co-fondateur d'Umaps, Cellabz, Bluenod. Contributeur actif de communs.
+* **Rieul Techer** : contributeur de La MYNE (tiers-lieux à Lyon) & DAISEE (réseau de recherche)
+* **Sylvia Fredriksson** : designer (Open Knowledge, Ecole des données, Cité du Design)
+* **Simon Sarazin** : fondateur de la Coroutine à Lille et contributeur aux communs libres
+* **Paul Citron** : urbaniste chez Plateau Urbain (asso qui remet en usage des lieux vacants)
+* **Xavier Coadic** : co-fondateur du Biome. Contributeur OpenBioFabrics, Movilab, Multibao
 
 # 1- A propos de l'Hotel Pasteur
 
 ## 1.1- L'association collégiale
 
-* Alors que l’association collégiale de l’Hôtel Pasteur réfléchit à la définition des différents rôles attribués aux « forces Ouevrières » au sein de la communauté  de l’Hôtel Pasteur en vue de commencer à tester une gouvernance partagée et contributive pour 2017, l’hôtel Pasteur se doit d’initier une gouvernance collective et contributive ou la responsabilité d’accueil, de stimulation du lieu et des énergies, de mise en réseau, et de gestion au quotidien serait répartie en fonction des rôles de chacun. 
+* Alors que l’association collégiale de l’Hôtel Pasteur réfléchit à la définition des différents rôles attribués aux « forces Ouevrières » au sein de la communauté de l’Hôtel Pasteur en vue de commencer à tester une gouvernance partagée et contributive pour 2017, l’Hôtel Pasteur se doit d’initier une gouvernance collective et contributive ou la responsabilité d’accueil, de stimulation du lieu et des énergies, de mise en réseau et de gestion au quotidien serait répartie en fonction des rôles de chacun. 
 
-* Cette association collégiale a été crée en octobre 2016 et a pour but de fédérer et regrouper autour d’elle des personnes désireuses de s’impliquer d’avantage dans la projet pasteur autour des notions de Gouvernance et écosystème. Elle a pour but d’initier, de tester et préfigurer sur site dans un lieu déjà occupé et ré-ouvert depuis maintenant 4 année un mode de gouvernance partagé regroupant des acteurs de la société civile afin de préfigurer une structure juridique capable de gérer en pleine responsabilité le lieu à partir de septembre 2019, date à laquelle la réhabilitation du bâtiment sera terminée.
+* Une association collégiale a été crée en octobre 2016 et a pour but de fédérer et regrouper autour d’elle des personnes désireuses de s’impliquer d’avantage dans la projet. Elle a pour but d’initier, de tester et préfigurer sur site dans un lieu déjà occupé et ré-ouvert depuis maintenant 4 année un mode de gouvernance partagé regroupant des acteurs de la société civile afin de préfigurer une structure juridique capable de gérer en pleine responsabilité le lieu à partir de septembre 2019, date à laquelle la réhabilitation du bâtiment sera terminée.
 
 ## 1.2- Pasteur, un bien commun
 
@@ -41,6 +41,7 @@ Ce document est le compte-rendu collectif de la rencontre organisée par l'[Hote
 * Afin de nous aider à explorer les différentes innovations sur ces sujets qui ont lieu sur le territoire national et en Europe, nous organisons une journée d’étude consacrée à la fois aux nouveaux modèles économiques qui émergent des nouvelles formes d’appropriation de la ville  bien souvent révélé au point de départ de manière citoyenne.  
 
 ## 1.3 Dates clés de Pasteur
+
 * 2012- Lancement de l’université Foraine à Rennes à l’instigation de Patrick Bouchain
 * 2012-2014 – Mise à l’épreuve du bâtiment par l’Usage , définition de qu’est aujourd’hui l’Hôtel pasteur
 * 2014 – Délégation de la MOA à la SPLA Territoires Publics afin de continuer le travail mener par l’UFO et d’y intégrer une école maternelle de 8 classes.
@@ -58,16 +59,19 @@ Ce document est le compte-rendu collectif de la rencontre organisée par l'[Hote
 # 2- Pourquoi cette rencontre ? 
 
 ## 2.1- Situation  
+
 * Aujourd'hui le fonctionnement de l'Hôtel Pasteur repose sur un nombre restreint de personnes. Leur capacité de faire face aux sollicitations arrive à saturation.
 * Par ailleurs, il faut maintenant anticiper et construire une alternative viable à un fonctionnement classique de structure culturelle d’ici la fin des travaux d’aménagement. 
 * Un début de fonctionnement partagé s'est mis en place avec l’association collégiale et son comité de gouvernance rejoint par une diversité de profils. 
 * Il reste à ouvrir l’Hôtel Pasteur le plus largement possible à toutes les personnes partantes pour s’impliquer, selon leurs envies propres et les besoins du lieu. 
 
 ## 2.2- Enjeux 
+
 * Cette journée est un temps de respiration mais aussi un temps de travail. Un temps pour répondre à la question : "Comment faire en sorte que Pasteur fonctionne durablement et en cohérence avec son projet, un lieu mouvant capable de recevoir l’immédiateté du besoin dans le temps long de l’expérimentation ?" et plus précisément « Comment faire en sorte que l'Hôtel Pasteur fonctionne comme une communauté où chacun prend soin de faire vivre ce bien commun ? » 
 * L'enjeu à terme c'est de décentraliser la gouvernance du lieu et de mettre en capacité de contribuer toutes les bonnes volontés qui se manifestent régulièrement et engager les utilisateurs du lieu à prendre soin de son fonctionnement global, et commencer à réfléchir ensemble et avec d'autres ce que pourrait être son modèle économique futur.  
 
 ## 2.3- Objectifs
+
 * Identifier des grandes lignes de principes de fonctionnement propices à cet enjeu (règles du jeux, prises de décision, animations de la communauté, structuration, outils d'échanges)
 * Identifier ceux que nous voulons adopter et intégrer dans la gouvernance de l'Hôtel Pasteur.
 *  S'inspirer de nouveaux modèles économique dites "modèle de vie" et écosystèmes, outils qui existent sur le territoire.
@@ -77,6 +81,7 @@ Ce document est le compte-rendu collectif de la rencontre organisée par l'[Hote
 ## 2.4- Thématiques
     
 ### Économie(s)
+
 * Quel patrimoine commun ? Comment révéler les valeurs co-produites, l'innovation du lieu ? 
 * Comment valoriser les ressources fournies pour le fonctionnement (cf. économie contributive) ?
 * Comment fédérer les lieux qui occupe pasteur et peuvent participer de fait à l’économie contributive.
@@ -86,6 +91,7 @@ Ce document est le compte-rendu collectif de la rencontre organisée par l'[Hote
 * Quelles sont les types de licences qui permettent de faciliter la réappropriation ?
 
 ### Gouvernance(s)
+
 * Qui sont ces gens ? Qu'est ce que les gens y font ? Quels modes de faire ? Que font-il pour et par eux-mêmes ?
 * Quelle configuration  sociale ? Quel type de communauté ? Comment fait-on partie de cette communauté ?
 * Quels liens entre les gens ?  Quelle  autonomie  ? Quelles initiatives ? Comment soutenir l'émancipation ?
@@ -99,6 +105,7 @@ Ce document est le compte-rendu collectif de la rencontre organisée par l'[Hote
 * Comment assurer fluidité, agilité, capacité d'adaptation et résilience à Pasteur ? Quelles sont les modularités ?
 
 ### Émancipation(s)
+
 * L'autonomisation des hôtes permettent l'émancipation par le faire. Demain, COMMENT STRUCTURER les choses ?
 
 ---
