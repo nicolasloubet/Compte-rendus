@@ -28,9 +28,9 @@ Ce document est le compte-rendu collectif de la rencontre organisée par l'assoc
 
 ## 1.1- L'association collégiale
 
-* Une association collégiale a été créée en octobre 2016 pour fédérer autour d’elle des personnes désireuses de s’impliquer d’avantage dans la projet de l'Hotel Pasteur. Elle a pour but d’initier et préfigurer sur site - dans un lieu déjà occupé et ré-ouvert depuis maintenant 4 années - un mode de gouvernance partagé préfigurant une structure juridique capable de gérer en pleine responsabilité le lieu à partir de septembre 2019, date à laquelle la réhabilitation du bâtiment sera terminée.
+* Une association collégiale a été créée en octobre 2016 pour fédérer autour d’elle des personnes désireuses de s’impliquer d’avantage dans le projet. Elle a pour but d’initier et préfigurer sur site - dans un lieu déjà occupé et ré-ouvert depuis 4 années - un mode de gouvernance partagé préfigurant une structure juridique capable de gérer en pleine responsabilité le lieu à partir de septembre 2019 (date à laquelle la réhabilitation du bâtiment sera terminée).
 
-* Alors que l’association collégiale de l’Hôtel Pasteur réfléchit à la définition des différents rôles attribués aux « forces ouevrières » au sein de la communauté en vue de commencer à tester une gouvernance partagée et contributive pour 2017, l’Hôtel Pasteur se doit d’initier une gouvernance collective et contributive ou la responsabilité d’accueil, de stimulation du lieu et des énergies, de mise en réseau et de gestion au quotidien est répartie en fonction des rôles de chacun. 
+* Alors que l’association collégiale de l’Hôtel Pasteur réfléchit à la définition des différents rôles attribués aux « forces ouevrières » au sein de la communauté en vue de commencer à tester une gouvernance partagée et contributive pour 2017, l’Hôtel Pasteur se doit d’initier une gouvernance collective et contributive où la responsabilité d’accueil, de stimulation du lieu et des énergies, de mise en réseau et de gestion au quotidien est distribuée. 
 
 ## 1.2- Pasteur, un bien commun
 
