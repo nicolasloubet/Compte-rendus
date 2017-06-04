@@ -312,18 +312,20 @@ Timing | Action
 
 # 6- Ateliers de réflexion
 
-Voir les notes réunies dans ce [document](https://bimestriel.framapad.org/p/GouvernancePasteur) (en cours d'édition / mise en forme) par de valeurs.ses éditeurs.trices.
+Les notes 'brutes' sont réunies dans ce [document](https://bimestriel.framapad.org/p/GouvernancePasteur) qui est en cours d'édition / mise en forme par de valeurs éditeurs ! 
 
-# Annexes
+---
 
-## **Économie contributive**
+# 7- Annexes sur l'économie
+
+## 7.1- **Économie contributive**
 
 > L'économie contributive est un modèle de création de valeur basé sur la contribution. - **Wikipedia**
 	
 * Elle se caractérise par la non-dissociation entre producteur et consommateur. Dans le cadre d'une économie contributive, l'usager du service est potentiellement à la fois consommateur et producteur du service. Par exemple, Wikipédia et ses projets frères ou sœurs reposent tous sur le modèle de l'économie contributive (les rédacteurs des articles et autres contributeurs sont aussi des utilisateurs de l'encyclopédie, de Wikiversité, Wikimedia Commons, etc.) C'est le cas aussi des logiciels libres, où un certain nombre d'usagers apportent leur contribution en améliorant le logiciel qu'ils utilisent.
 * L'économie contributive est un concept développé en particulier par Bernard Stiegler et l'association Ars Industrialis. L'association Ars Industrialis définit l'économie contributive par trois caractéristiques principales : (1) Producteurs et  consommateurs sont assimilés en tant que contributeurs (2) La valeur produite par les contributeurs n'est pas intégralement monétarisable (3) La production crée à la  fois du savoir-faire et du savoir-vivre, et dépasse ainsi la simple subsistance.
 
-## **Économie collaborative**
+## 7.2- **Économie collaborative**
 
 > L’économie collaborative est une activité humaine de pair à pair, qui vise à produire de la valeur en commun et qui repose sur de nouvelles formes d'organisation du travail et d'échanges. - **Wikipedia**
 	
