@@ -6,53 +6,53 @@ Ce document est le compte-rendu collectif de la rencontre organisée par l'assoc
 
 # 0- À propos de la rencontre
                                    
-### 0.1- Forme
-* Journée organisée par le Conseil Collégial de l’Hôtel Pasteur et Réseau solidaire.
-* Échanges en comité restreint (Conseil collégial de l’Hôtel Pasteur, hôtes, invités)
+## 0.1- Format
+* Journée organisée par l'assocation collégiale de l’Hôtel Pasteur et le Réseau solidaire
+* Échanges en comité restreint (Conseil collégial de l’Hôtel Pasteur, hôtes, invité.e.s)
 	
-### 0.2- Déroulé
-* Retour sur l’histoire de la fabrique de l’Hôtel Pasteur par des personnes du Conseil Collégial
+## 0.2- Déroulé
+* Retour sur l’histoire de l’Hôtel Pasteur par des personnes de l'association collégiale
 * Retour d’expériences des invités et questionnement sur le fonctionnement de l’Hôtel Pasteur
-* Ateliers de réflexion en groupe plus restreint (6 groupes de 6 personnes maximum sur 6 axes)
+* Ateliers de réflexion en groupe plus restreint (6 groupes de 6 personnes max sur 6 axes)
 
-### 0.3- Invités
-* **Antoine Burret** : docteur en sociologie (Les tiers lieux comme objet conceptuel indentifiable)
-* **Nicolas Loubet** : co-fondateur d'Umaps, Cellabz, Bluenod. Contributeur actif de communs.
-* **Rieul Techer** : contributeur de La MYNE (tiers-lieux à Lyon) & DAISEE (réseau de recherche)
-* **Sylvia Fredriksson** : designer (Open Knowledge, Ecole des données, Cité du Design)
-* **Simon Sarazin** : fondateur de la Coroutine à Lille et contributeur aux communs libres
+## 0.3- Invités
+* **Antoine Burret** : docteur en sociologie (_tiers lieux comme objet conceptuel indentifiable_)
+* **Rieul Techer** : contributeur de La MYNE (tiers-lieux à Lyon) & DAISEE (programme de recherche)
+* **Sylvia Fredriksson** : designer civique (Open Knowledge / Ecole des données, Cité du Design)
+* **Simon Sarazin** : fondateur de la Coroutine à Lille et contributeur actif aux communs libres
+* **Nicolas Loubet** : co-fondateur de Cellabz,Bluenod, Umaps. Co-producteur du programme DAISEE
 * **Paul Citron** : urbaniste chez Plateau Urbain (asso qui remet en usage des lieux vacants)
-* **Xavier Coadic** : co-fondateur du Biome. Contributeur OpenBioFabrics, Movilab, Multibao
+* **Xavier Coadic** : co-fondateur du Biome. Contributeur d'OpenBioFabrics, Movilab, Multibao
 
-# 1- A propos de l'Hotel Pasteur
+# 1- À propos de l'Hotel Pasteur
 
 ## 1.1- L'association collégiale
 
-* Alors que l’association collégiale de l’Hôtel Pasteur réfléchit à la définition des différents rôles attribués aux « forces Ouevrières » au sein de la communauté de l’Hôtel Pasteur en vue de commencer à tester une gouvernance partagée et contributive pour 2017, l’Hôtel Pasteur se doit d’initier une gouvernance collective et contributive ou la responsabilité d’accueil, de stimulation du lieu et des énergies, de mise en réseau et de gestion au quotidien serait répartie en fonction des rôles de chacun. 
+* Une association collégiale a été créée en octobre 2016 pour fédérer autour d’elle des personnes désireuses de s’impliquer d’avantage dans la projet de l'Hotel Pasteur. Elle a pour but d’initier et préfigurer sur site - dans un lieu déjà occupé et ré-ouvert depuis maintenant 4 années - un mode de gouvernance partagé préfigurant une structure juridique capable de gérer en pleine responsabilité le lieu à partir de septembre 2019, date à laquelle la réhabilitation du bâtiment sera terminée.
 
-* Une association collégiale a été crée en octobre 2016 et a pour but de fédérer et regrouper autour d’elle des personnes désireuses de s’impliquer d’avantage dans la projet. Elle a pour but d’initier, de tester et préfigurer sur site dans un lieu déjà occupé et ré-ouvert depuis maintenant 4 année un mode de gouvernance partagé regroupant des acteurs de la société civile afin de préfigurer une structure juridique capable de gérer en pleine responsabilité le lieu à partir de septembre 2019, date à laquelle la réhabilitation du bâtiment sera terminée.
+* Alors que l’association collégiale de l’Hôtel Pasteur réfléchit à la définition des différents rôles attribués aux « forces ouevrières » au sein de la communauté en vue de commencer à tester une gouvernance partagée et contributive pour 2017, l’Hôtel Pasteur se doit d’initier une gouvernance collective et contributive ou la responsabilité d’accueil, de stimulation du lieu et des énergies, de mise en réseau et de gestion au quotidien est répartie en fonction des rôles de chacun. 
 
 ## 1.2- Pasteur, un bien commun
 
-* L’hôtel Pasteur est devenu un bien commun révélé, identifié, qui doit être entretenu par et avec le collectif. L’enjeu économique de sa gestion future est aussi un enjeu de taille auquel nous devons nous préparer, essayer et réfléchir bien en amont aux nouvelles formes d’économie que l’on voit émerger depuis un certain nombre d’années sous l’appellation d’économie contributive, collaborative, partagée mais qui s’apparente plus aux « modèle de vie » qu’à un « modèle économique »au sens strictement pécunier. Pasteur comme un écosystème avec ses gens, ses contributions, sa politique interne, son tissu social, les mutualisations avec les autres, avec son territoire. Pasteur comme un lieu créateur de valeurs et donc de richesse, par l’échange, la rencontre, la coopération, et donc l’insertion sociale et culturelle dans la cité. « Pasteur devenue une institution politique au sens sociale et sociétale.»
+* L’hôtel Pasteur est devenu un **bien commun** qui doit être entretenu par et avec le collectif. L’enjeu économique de sa gestion future est  un enjeu de taille auquel il doit se préparer en s'appropriant les formes d’économie émergentes ( contributive, collaborative, partagée...) qui s’apparentent davantage à des « modèle de vie » que des « modèle économiques » au sens conventionnel. 
 
-* Pasteur, un lieu non marchan qui ne génère pas de recette(s), à l’image des fablab mais pas forcèment des tiers-lieux ! (Cf : Le serment du jeu de Paume qu’utilise souvent les charte des Tiers-Lieux : « Préfigurant la souveraineté nationale et la séparation des pouvoirs, il amènera la réunion des trois ordres (noblesse, clergé, tiers état) en une « Assemblée nationale constituante », dont sera issue l'abolition de la féodalité (4 août 1789), la déclaration des droits de l'homme et du citoyen (26 août 1789), et les grands principes de la Constitution (fin 1791). ») - Wilkipédia
+* L'Hotel Pasteur se construit depuis son origine en **écosystème** avec ses gens, ses contributions, sa politique interne, son tissu social, son territoire. Pasteur est un lieu créateur de valeurs et donc de richesses, par l’échange, la rencontre, la coopération, et donc l’insertion sociale et culturelle dans la Cité ("Pasteur est devenu une institution politique au sens sociale et sociétale").
 
-* Pasteur ou l’on prône la responsabilité de chacun. Après avoir défini les rôles de chacun au sein de la communauté Pasteur (Concierge, veilleurs, relais de la conciergerie…) travailler sur la responsabilisation des hôtes du lieu. En partant  du principe que tout le monde devient hôte même de passage à partir du moment ou il vient dans le lieu, il est responsable. Nous ne parlerons pas de devoirs mais de responsabilité. Quelle grille ? Responsabilité = Contrepartie. Comment quantifier et valoriser ses différentes contrepartie ? 
+* L'Hotel Pasteur est un **espace non marchand** qui ne génère pas de recette(s) et où l’on prône la responsabilité de chacun. Après avoir défini les rôles de chacun au sein de la communauté (concierge, veilleurs, relais de la conciergerie…), tout le monde a la resonsabilité d'agir en hôte à partir du moment ou elle/il vient dans le lieu. Ces responsabilités occasionnent des contre-parties (à définir).
 
 ## 1.3 Dates clés de Pasteur
 
-* 2012- Lancement de l’université Foraine à Rennes à l’instigation de Patrick Bouchain
-* 2012-2014 – Mise à l’épreuve du bâtiment par l’Usage , définition de qu’est aujourd’hui l’Hôtel pasteur
-* 2014 – Délégation de la MOA à la SPLA Territoires Publics afin de continuer le travail mener par l’UFO et d’y intégrer une école maternelle de 8 classes.
-* Déc 2015- Rencontre publiques Nouveaux Besoins, Nouveaux équipements
-* Janvier 2016 – création d’une assemblée des partenaires, représentants de la société civile dans des disciplines variées en vue de penser et d’écrire le projet et programme de l’Hôtel Pasteur
-* Eté 2016- Lancement des appels d’offres concernant la réhabilitation du bâtiment
-* Oct 2016 – Création de l’association collégiale l’Hôtel Pasteur afin de penser et esquisser la gouvernance future de Pasteur
-* Janvier 2017 – Attribution du projet de réhabilitation à l’équipe de MOE Encore Heureux 
-* Octobre 2017 – Lancement du chantier de  réhabilitation
-* Février 2018 – Départ du Centre de Soin Dentaire
-* Septembre 2019 – Réception du chantier, 1ere rentrée des classe de l’école maternelle
+* 2012 : Lancement de l’Université Foraine à Rennes à l’instigation de Patrick Bouchain
+* 2012-2014 : Mise à l’épreuve du bâtiment par l’Usage; définition de qu’est aujourd’hui l’Hôtel pasteur
+* 2014 :  Délégation de la MOA à la SPLA Territoires Publics afin de continuer le travail mener par l’UFO et d’y intégrer une école maternelle de 8 classes.
+* Déc 2015 : Rencontre publiques Nouveaux Besoins, Nouveaux équipements
+* Janvier 2016 : Création d’une assemblée des partenaires, représentants de la société civile dans des disciplines variées en vue de penser et d’écrire le projet et programme de l’Hôtel Pasteur
+* Eté 2016 : Lancement des appels d’offres concernant la réhabilitation du bâtiment
+* Octobre 2016 : Création de l’association collégiale l’Hôtel Pasteur afin de penser et esquisser la gouvernance future de Pasteur
+* Janvier 2017 : Attribution du projet de réhabilitation à l’équipe de MOE Encore Heureux 
+* Octobre 2017 : Lancement du chantier de  réhabilitation
+* Février 2018 : Départ du Centre de Soin Dentaire
+* Septembre 2019 : Réception du chantier, 1ere rentrée des classes de l’école maternelle
 
 ---
 
