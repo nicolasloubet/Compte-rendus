@@ -275,14 +275,14 @@ Timing | Action
 ## 5.4 Témoignage de Sylvia Frediksson
  
 ### Cité du Design
-* Co-commissaire scientifique de l'[expérience "Tiers lieux" à la Biennale Internationale de Design de Saint Etienne 2017]( https://www.gitbook.com/book/nicolasloubet/fork-the-world)
+* Co-commissaire scientifique de l'[expérience "Tiers lieux" à la Biennale de Design de Saint Etienne 2017]( https://www.gitbook.com/book/nicolasloubet/fork-the-world)
 * Beaucoup font du ommun sans le savoir. Possibilité de se retrouver grace au patrimoine informationnel.
 
 ### Réciprocité
 * S'intéresse aux pratiques de RECIPROCITE (comment on l'incarne autrement que par des tableurs et comment on la vie physiquemenent dans les lieux. 
-	* [CAIRN](http://carrefour-numerique.cite-sciences.fr/blog/cairn-la-table-qui-permet-de-manipuler-et-visualiser-des-donnees/) > table de représentation tangible des flux dans un espace
-* [KODEAL](http://movilab.org/index.php?title=KoDeal) > poignée de main numérique avec toutes les questions que ça pose (gêne, subordination... quand on parle de réciprocité) : 
-	* [Répertorier les poignées de main dans les tiers-lieux](http://movilab.org/index.php?title=Recherche_et_design_:_r%C3%A9pertorier_les_poign%C3%A9es_de_main_dans_les_tiers-lieux)
+	* [CAIRN](http://carrefour-numerique.cite-sciences.fr/blog/cairn-la-table-qui-permet-de-manipuler-et-visualiser-des-donnees/) > table qui permet la représentation tangible des flux dans un espace
+* [KODEAL](http://movilab.org/index.php?title=KoDeal) > poignée de main numérique
+	* [Ppoignées de main dans les tiers-lieux](http://movilab.org/index.php?title=Recherche_et_design_:_r%C3%A9pertorier_les_poign%C3%A9es_de_main_dans_les_tiers-lieux)
 	* [L'échange dans le cadre d'un projet](http://movilab.org/index.php?title=Recherche_et_design_:_l%27%C3%A9change_dans_le_cadre_d%27un_projet)
 
 ### Remix the communs
