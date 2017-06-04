@@ -236,7 +236,7 @@ Timing | Action
 ### Eléments de parcours
 * Antoine s'est intéressé à / engagé sur la réhabilitation des friches urbaines dans les Balkans.
 * Docteur sur les tiers-lieux 
-	* Ouvrage _[Tiers-lieu et plus si affinité](http://www.fypeditions.com/tiers-lieux-et-plus-si-affinites)_
+	* Ouvrage _["Tiers-lieux. Et plus si affinités"](http://www.fypeditions.com/tiers-lieux-et-plus-si-affinites)_
 	* Thèse _["La repolitisation par les tiers-lieux"](http://movilab.org/index.php?title=Etude_de_la_configuration_en_Tiers-Lieu_-_La_repolitisation_par_le_service)_
 	* [Compte-rendu de la soutenance de thèse](https://storify.com/nicolasloubet/tierslieuxphd)
 	
