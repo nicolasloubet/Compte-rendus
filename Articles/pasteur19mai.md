@@ -112,33 +112,32 @@ Ce document est le compte-rendu collectif de la rencontre organisée par l'[Hote
 
 # 3- Présent.e.s sur la rencontre
 
-* Erwan : Insertion par le sport
+* Erwan : insertion par le sport
 * Paul : chez Plateau Urbain
 * Arthur : chez Plateau Urbain
 * Arthur : usager de l'Hotel Pasteur
 * Jade et Delphine : émergence spéctacle vivant
 * Emilie : citoyenne et bénévole pôle de dev ESS
 * Ludivine : accompagne les artistes
-* Aude : engagé dans l'économie sociale
+* Aude : engagée dans l'économie sociale
 * Elise : travaille à Pasteur (coordination)
 * Mathieu : L'atelier Daro (audiiovisuel)
 * Louis-Marie : binome avec Sophie
-* Cyrile : _à compléter_
 * Antoine : réalisateur (film sur Parsteur)
 * Samuel : CM Champs LIbre. Museomix
 * Simon : Lille. Communs et Logiciel Libre.
 * Christine : bénévole de l'Hotel Pasteur
 * Pricilla : ressourcerie (gestion des dechets)
 * Sylvia : designer, communs et données
-* Nicolas : Cellab. Aime prendre des notes
+* Nicolas : Cellabz. Aime prendre des notes
 * Jakie  : accueil. Veille & Service Civique
 * Philippe : psychiatre / santé mentale
-* Sylvie : adjointe au maire
-* Cyril : Conseiller municipale bâtiments et publics
-* Gwenola : recherche en philo politique, TND
-* Théo : Étudiant ingénieur, participe à des initiatives collective
-* Gwennael : Voisin de Pasteur - Dispo Local
-* Antoine : sociologue. Tiers-Lieux de Genève
+* Sylvie : adjointe au maire (ville de Rennes)
+* Cyril : Conseiller municipal bâtiments et publics
+* Gwenola : recherche en philo politique, TNB
+* Théo : Étudiant ingénieur, contributeur du Biome
+* Gwennael : Voisin de Pasteur - Dispo Locale
+* Antoine : sociologue, tiers-lieux à Genève
 
 ---
 
@@ -147,7 +146,7 @@ Ce document est le compte-rendu collectif de la rencontre organisée par l'[Hote
 ## 4.0 Pourquoi est-on là aujourd'hui ?
 
 * Comment travailler avec une gouvernance tournante ?
-* Quel sera le modèle de vie de Pasteur demain ?
+* Quel sera demain le modèle de vie avec Pasteur ?
 * Comment intégrer un réseau de démarche similaire ?
 
 ## 4.1 Sélection de citations / textes
