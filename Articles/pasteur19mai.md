@@ -262,38 +262,36 @@ Timing | Action
 * Habiter la ville, c'est aussi aller habiter chez ceux qui font la ville (cf. hospitalité)
 
 ### Organisation à la MYNE 
-* La MYNE est une (infra)structure qui accueille une communauté de projets (La MYNE est un projet de la MYNE !). La définition de cadres de réciprocité permet de sortir des relations marchandes (comptabilité des apports de compétences).
+* La MYNE est une (infra)structure qui accueille une communauté de projets (La MYNE est un projet de la MYNE !). Les cadres de réciprocité permet de sortir des relations strictement marchandes (comptabilité des apports de compétences).
 * [Modèle de gouvenance](https://hackpad.com/ep/pad/static/wdBGfQfAsb5). L'organisation se compose de groupes de travail, de groupes de décisions et d'un conseil collegial. Le but est d'inverser la chaîne de prise de décision avec uniquement quelques personnes qui prennent des décisions mais au plus près des personnes qui contribuent.
 
 
 ### Modèle de réciprocité
-* [La MYNE](https://hackpad.com/Cadre-de-Reciprocite-Template-NOMPRENOM-STRUCTURE-OM9oEtBOMK4)
-* [Mutualab](https://www.loomio.org/d/vU2V5Wi4/r-diger-une-premi-re-version-d-un-contrat-de-r-ciprocit-)
-* Suivre les réciprocité au sein d'un lieu : 
-	* [Coroutine (cf. Liste des réciprocités")](http://wiki.lescommuns.org/wiki/La_Coroutine)
-	* [Au sein d'un réseau](http://hauts.tiers-lieux.org/prestations-et-formation)
-* L'économie c'est des économies. Il s'agit de ré-équilibrer le rapport entre concurrence et réciprocité.
+* [Modèle de La MYNE](https://hackpad.com/Cadre-de-Reciprocite-Template-NOMPRENOM-STRUCTURE-OM9oEtBOMK4)
+* [Modèle du Mutualab](https://www.loomio.org/d/vU2V5Wi4/r-diger-une-premi-re-version-d-un-contrat-de-r-ciprocit-)
+* Suivre les réciprocités :  
+	* [Liste des réciprocités](http://wiki.lescommuns.org/wiki/La_Coroutine)
+	* [Prestations & Formations](http://hauts.tiers-lieux.org/prestations-et-formation)
   
 ## 4.7 Témoignage de Sylvia Frediksson
  
 ### Cité du Design
-* Commissaire de l'expérience "Tiers lieux" à la Biennale de Design de Saint Etienne : https://www.gitbook.com/book/nicolasloubet/fork-the-world
+* Co-commissaire scientifique de l'[expérience "Tiers lieux" à la Biennale de Design de Saint Etienne]( https://www.gitbook.com/book/nicolasloubet/fork-the-world)
 * Beaucoup de gens qui font des communs qui le font sans le savoir, à rapprocher, grace à ce patrimoine informationnel
 
 ### Réciprocité
-* Recherche non conventionnelle et recherche par le design > incnarnation des sujets notamment: la RECIPROCITE (comment on l'incarne autrement que par des tableurs et comment on la vie physiquemenent dans les lieux > ex. CAIRN: http://carrefour-numerique.cite-sciences.fr/blog/cairn-la-table-qui-permet-de-manipuler-et-visualiser-des-donnees/)
-* Revendiquer la donnée ouverte, c'est un outil de compréhension de nos pratique, de mise en visibilité. 
-* KODEAL > poignée de main numérique avec toutes les questions que ça pose (gêne, subordination... quand on parle de réciprocité) : http://movilab.org/index.php?title=KoDeal
-	* Répertorier les poignées de main dans les tiers-lieux : http://movilab.org/index.php?title=Recherche_et_design_:_r%C3%A9pertorier_les_poign%C3%A9es_de_main_dans_les_tiers-lieux
-	* L'échange dans le cadre d'un projet : http://movilab.org/index.php?title=Recherche_et_design_:_l%27%C3%A9change_dans_le_cadre_d%27un_projet
+* Recherche non conventionnelle et recherche par le design > incnarnation des sujets notamment: la RECIPROCITE (comment on l'incarne autrement que par des tableurs et comment on la vie physiquemenent dans les lieux > ex. [CAIRN][http://carrefour-numerique.cite-sciences.fr/blog/cairn-la-table-qui-permet-de-manipuler-et-visualiser-des-donnees/)
+* Revendiquer la donnée ouverte, c'est un outil de compréhension de nos pratiques, de mise en visibilité. 
+* [KODEAL](http://movilab.org/index.php?title=KoDeal) > poignée de main numérique avec toutes les questions que ça pose (gêne, subordination... quand on parle de réciprocité) : 
+	* [Répertorier les poignées de main dans les tiers-lieux](http://movilab.org/index.php?title=Recherche_et_design_:_r%C3%A9pertorier_les_poign%C3%A9es_de_main_dans_les_tiers-lieux)
+	* [L'échange dans le cadre d'un projet](http://movilab.org/index.php?title=Recherche_et_design_:_l%27%C3%A9change_dans_le_cadre_d%27un_projet)
 
-### Remix les communs
-* Atlas des chartes des communs pour répertorier les pratiques : http://wiki.remixthecommons.org/index.php/Atlas_des_chartes_des_communs_urbains
-* Premières chartes qui naissent en Italie pour définir des espaces comme des "communs" et pas des espaces publics
+### Remix the communs
+* [Atlas des chartes des communs pour répertorier les pratiques](http://wiki.remixthecommons.org/index.php/Atlas_des_chartes_des_communs_urbains)
+* Des chartes sont néées en Italie pour définir des espaces comme "communs"
 
 ### Open Knowledge
-* La données c'est un outil de contre-pouvoir citoyen 
-* École des données : https://ecoledesdonnees.org/
+* La données c'est un outil de contre-pouvoir citoyen. A l'origjne du programme d'apprentissage [Ecole des Données](https://ecoledesdonnees.org)
 
 ## 4.8 Témoignage de Nicolas Loubet
 	
