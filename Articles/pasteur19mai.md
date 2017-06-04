@@ -262,16 +262,16 @@ Timing | Action
 * Habiter la ville, c'est aussi aller habiter chez ceux qui font la ville (cf. hospitalité)
 
 ### Organisation à la MYNE 
-* La MYNE est une (infra)structure qui accueille une communauté de projets (La MYNE est un projet de la MYNE). La définition de cadres de réciprocité permet de sortir des relations marchandes (comptabilité des apports de compétences).
+* La MYNE est une (infra)structure qui accueille une communauté de projets (La MYNE est un projet de la MYNE !). La définition de cadres de réciprocité permet de sortir des relations marchandes (comptabilité des apports de compétences).
 * [Modèle de gouvenance](https://hackpad.com/ep/pad/static/wdBGfQfAsb5). L'organisation se compose de groupes de travail, de groupes de décisions et d'un conseil collegial. Le but est d'inverser la chaîne de prise de décision avec uniquement quelques personnes qui prennent des décisions mais au plus près des personnes qui contribuent.
 
 
 ### Modèle de réciprocité
-* La MYNE : https://hackpad.com/Cadre-de-Reciprocite-Template-NOMPRENOM-STRUCTURE-OM9oEtBOMK4
-* Mutualab : https://www.loomio.org/d/vU2V5Wi4/r-diger-une-premi-re-version-d-un-contrat-de-r-ciprocit-
+* [La MYNE](https://hackpad.com/Cadre-de-Reciprocite-Template-NOMPRENOM-STRUCTURE-OM9oEtBOMK4)
+* [Mutualab](https://www.loomio.org/d/vU2V5Wi4/r-diger-une-premi-re-version-d-un-contrat-de-r-ciprocit-)
 * Suivre les réciprocité au sein d'un lieu : 
-	* Coroutine (cf. Liste des réciprocités") : http://wiki.lescommuns.org/wiki/La_Coroutine). 
-	* Au sein d'un réseau : http://hauts.tiers-lieux.org/prestations-et-formation/
+	* [Coroutine (cf. Liste des réciprocités")](http://wiki.lescommuns.org/wiki/La_Coroutine)
+	* [Au sein d'un réseau](http://hauts.tiers-lieux.org/prestations-et-formation)
 * L'économie c'est des économies. Il s'agit de ré-équilibrer le rapport entre concurrence et réciprocité.
   
 ## 4.7 Témoignage de Sylvia Frediksson
