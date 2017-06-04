@@ -274,26 +274,26 @@ Timing | Action
 ## 5.4 Témoignage de Sylvia Frediksson
  
 ### Cité du Design
-* Co-commissaire scientifique de l'[expérience "Tiers lieux" à la Biennale de Design de Saint Etienne 2017]( https://www.gitbook.com/book/nicolasloubet/fork-the-world)
+* Co-commissaire scientifique de l'[expérience "Tiers lieux" à la Biennale de Design de Saint Etienne 2017]( https://www.gitbook.com/book/nicolasloubet/fork-the-world).
 * Beaucoup font du ommun sans le savoir. Possibilité de se retrouver grace au patrimoine informationnel.
 
 ### Réciprocité
 * S'intéresse aux pratiques de RECIPROCITE (comment on l'incarne autrement que par des tableurs et comment on la vie physiquemenent dans les lieux. 
-	* [CAIRN](http://carrefour-numerique.cite-sciences.fr/blog/cairn-la-table-qui-permet-de-manipuler-et-visualiser-des-donnees/) > eprésentation tangible de flux dans un espace
+	* [CAIRN](http://carrefour-numerique.cite-sciences.fr/blog/cairn-la-table-qui-permet-de-manipuler-et-visualiser-des-donnees/) > eprésentation tangible de flux
 * [KODEAL](http://movilab.org/index.php?title=KoDeal) > poignée de main numérique
 	* [Ppoignées de main dans les tiers-lieux](http://movilab.org/index.php?title=Recherche_et_design_:_r%C3%A9pertorier_les_poign%C3%A9es_de_main_dans_les_tiers-lieux)
 	* [L'échange dans le cadre d'un projet](http://movilab.org/index.php?title=Recherche_et_design_:_l%27%C3%A9change_dans_le_cadre_d%27un_projet)
 
 ### Remix the communs
-* [Atlas des chartes des communs pour répertorier les pratiques](http://wiki.remixthecommons.org/index.php/Atlas_des_chartes_des_communs_urbains)
-* Des chartes sont néées en Italie pour définir des espaces comme "communs"
+* Des chartes sont néées en Italie pour définir des espaces comme "communs". [Atlas des chartes des communs pour répertorier les pratiques](http://wiki.remixthecommons.org/index.php/Atlas_des_chartes_des_communs_urbains)
+
 
 ### Open Knowledge
-* La donnée est un levier de contre-pouvoir citoyen. Est engagée dans le développement en France de l'[Ecole des Données](https://ecoledesdonnees.org)
+* La donnée est un levier de contre-pouvoir citoyen. Sylbia est engagée dans le développement de l'[Ecole des Données](https://ecoledesdonnees.org) à l'échelle internationale.
 
 ## 5.5 Témoignage de Nicolas Loubet
 	
-* Scientifique de formmation. A vécu à l'Université le CPE (https://fr.wikipedia.org/wiki/Contrat_premi%C3%A8re_embauche), à l'origine d'une bifurcation (création d'entreprise plutôt qu'une carrière académique). Capital de départ. Investissement dans diverses activités (frais pesonnels, dons à des ONGs et investissement en capital).
+* Scientifique de formmation. A vécu à l'Université le [CPE](https://fr.wikipedia.org/wiki/Contrat_premi%C3%A8re_embauche), à l'origine d'une bifurcation (création d'entreprise plutôt qu'une carrière académique). Capital de départ. Investissement dans diverses activités (frais pesonnels, dons à des ONGs et investissement en capital).
 	
 * 2012 : début de quninquénat de François Hollande. Beaucoup d'espoirs. Finalement, que des déceptions. 2017 : triple échec (ou difficulté) : Entreprise (Umaps) / Startup (Bluenod) / Tiers-lieu (La Paillasse). A eu l'occasion de s'investir plus de 5 ans dans le développement d'un [média](http://knowtex.com) sur les communautés créatives.
 	
