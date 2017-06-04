@@ -111,32 +111,32 @@ Timing | Action
 
 # 3- Présent.e.s sur la rencontre
 
-* Erwan : insertion par le sport
-* Paul : membre de Plateau Urbain
-* Arthur : membre de  Plateau Urbain
-* Arthur : usager de l'Hotel Pasteur
-* Jade et Delphine : spéctacle vivant
-* Emilie : citoyenne (pôle de dev ESS)
-* Ludivine : accompagne les artistes
-* Aude : engagée dans l'économie sociale
-* Elise : travaille à Pasteur (coordination)
-* Mathieu : L'atelier Daro (audiiovisuel)
-* Louis-Marie : binome avec Sophie (Pasteur)
-* Antoine : réalisateur (film sur Parsteur)
-* Samuel : Champs Libres. Museomix
-* Simon : Lille. Communs, logiciel Libre
-* Christine : bénévole de l'Hotel Pasteur
-* Pricilla : ressourcerie (gestion des dechets)
-* Sylvia : designer (communs et données)
-* Nicolas : Cellabz. Aime prendre des notes
-* Jakie  : accueil. Veille & Service Civique
-* Philippe : psychiatre (santé mentale)
-* Sylvie : adjointe au Maire (ville de Rennes)
-* Cyril : Conseiller municipal bâtiments et publics
-* Gwenola : recherche en philo politique, TNB
-* Théo : Étudiant ingénieur, actif avec Le Biome
-* Gwennael : Voisin de Pasteur - Dispo Locale
-* Antoine : sociologue, tiers-lieux à Genève
+* **Erwan** : insertion par le sport
+* **Paul** : membre de Plateau Urbain
+* **Arthur** : membre de  Plateau Urbain
+* **Arthur** : usager de l'Hotel Pasteur
+* **Jade** et **Delphine** : spéctacle vivant
+* **Emilie** : citoyenne (pôle de dev ESS)
+* **Ludivine** : accompagne les artistes
+* **Aude** : engagée dans l'économie sociale
+* **Elise** : travaille à Pasteur (coordination)
+* **Mathieu** : L'atelier Daro (audiiovisuel)
+* **Louis-Marie** : binome avec Sophie (Pasteur)
+* **Antoine** : réalisateur (film sur Parsteur)
+* **Samuel** : Champs Libres. Museomix
+* **Simon** : Lille. Communs, logiciel Libre
+* **Christine** : bénévole de l'Hotel Pasteur
+* **Pricilla** : ressourcerie (gestion des dechets)
+* **Sylvia** : designer (communs et données)
+* **Nicolas** : Cellabz. Aime prendre des notes
+* **Jakie**  : accueil. Veille & Service Civique
+* **Philippe** : psychiatre (santé mentale)
+* **Sylvie** : adjointe au Maire (ville de Rennes)
+* **Cyril** : Conseiller municipal bâtiments et publics
+* **Gwenola** : recherche en philo politique, TNB
+* **Théo** : étudiant ingénieur, actif avec Le Biome
+* **Gwennael** : voisin de Pasteur - Dispo Locale
+* **Antoine** : sociologue, tiers-lieux à Genève
 
 ---
 
@@ -263,7 +263,7 @@ Timing | Action
 
 ### Organisation à la MYNE 
 * La MYNE est une structure qui soutient une communauté de projets (La MYNE est un projet de la MYNE !). Les cadres de réciprocité permettent de s'extraire des relations marchandes (comptabilité des apports de compétences).
-* [Voici un aperçu du modèle de gouvenance de la MYNE](https://hackpad.com/ep/pad/static/wdBGfQfAsb5) (AG 2016). L'organisation se compose actuelellement de groupes de travail, de groupes de décisions et d'un conseil collegial. Le but est d'inverser la chaîne de prise de décision avec uniquement quelques personnes qui prennent des décisions... et d'être au plus près des personnes qui contribuent.
+* [Voici un aperçu du modèle de gouvenance de la MYNE](https://hackpad.com/ep/pad/static/wdBGfQfAsb5). L'organisation se compose actuelellement de groupes de travail, de groupes de décisions et d'un conseil collegial. Le but est d'inverser la chaîne de prise de décision avec uniquement quelques personnes qui prennent des décisions... et d'être au plus près des personnes qui contribuent.
 
 
 ### Modèle de réciprocité
