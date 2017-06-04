@@ -263,21 +263,20 @@ Timing | Action
 
 ### Organisation à la MYNE 
 * La MYNE est une structure qui soutient une communauté de projets (La MYNE est un projet de la MYNE !). Les cadres de réciprocité permettent de s'extraire des relations marchandes (comptabilité des apports de compétences).
-* [Voici un aperçu du modèle de gouvenance de la MYNE](https://hackpad.com/ep/pad/static/wdBGfQfAsb5). L'organisation se compose de groupes de travail, de groupes de décisions et d'un conseil collegial. Le but est d'inverser la chaîne de prise de décision avec uniquement quelques personnes qui prennent des décisions... et d'être au plus près des personnes qui contribuent.
+* [Voici un aperçu du modèle de gouvenance de la MYNE](https://hackpad.com/ep/pad/static/wdBGfQfAsb5) (AG 2016). L'organisation se compose actuelellement de groupes de travail, de groupes de décisions et d'un conseil collegial. Le but est d'inverser la chaîne de prise de décision avec uniquement quelques personnes qui prennent des décisions... et d'être au plus près des personnes qui contribuent.
 
 
 ### Modèle de réciprocité
 * [Modèle de La MYNE](https://hackpad.com/Cadre-de-Reciprocite-Template-NOMPRENOM-STRUCTURE-OM9oEtBOMK4)
 * [Modèle du Mutualab](https://www.loomio.org/d/vU2V5Wi4/r-diger-une-premi-re-version-d-un-contrat-de-r-ciprocit-)
-* Suivre les réciprocités :  
-	* [Liste des réciprocités](http://wiki.lescommuns.org/wiki/La_Coroutine)
-	* [Prestations & Formations](http://hauts.tiers-lieux.org/prestations-et-formation)
+* [Liste des réciprocités](http://wiki.lescommuns.org/wiki/La_Coroutine)
+* [Prestations & Formations](http://hauts.tiers-lieux.org/prestations-et-formation)
   
 ## 4.7 Témoignage de Sylvia Frediksson
  
 ### Cité du Design
 * Co-commissaire scientifique de l'[expérience "Tiers lieux" à la Biennale de Design de Saint Etienne]( https://www.gitbook.com/book/nicolasloubet/fork-the-world)
-* Beaucoup de gens qui font des communs qui le font sans le savoir, à rapprocher, grace à ce patrimoine informationnel
+* Beaucoup de gens font des communs sans le savoir... Elles peuvent se retrouver grace au patrimoine informationnel.
 
 ### Réciprocité
 * Recherche non conventionnelle et recherche par le design > incnarnation des sujets notamment: la RECIPROCITE (comment on l'incarne autrement que par des tableurs et comment on la vie physiquemenent dans les lieux > ex. [CAIRN][http://carrefour-numerique.cite-sciences.fr/blog/cairn-la-table-qui-permet-de-manipuler-et-visualiser-des-donnees/)
