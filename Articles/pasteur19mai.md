@@ -236,14 +236,14 @@ Timing | Action
 ### Eléments de parcours
 * Antoine s'est intéressé à / engagé sur la réhabilitation des friches urbaines dans les Balkans.
 * Docteur sur les tiers-lieux 
-	* [Tiers-lieu et plus si affinité](http://www.fypeditions.com/tiers-lieux-et-plus-si-affinites)
-	* [Thèse "La repolitisation par les tiers-lieux"](http://movilab.org/index.php?title=Etude_de_la_configuration_en_Tiers-Lieu_-_La_repolitisation_par_le_service)	
+	* Ouvrage _[Tiers-lieu et plus si affinité](http://www.fypeditions.com/tiers-lieux-et-plus-si-affinites)_
+	* Thèse _["La repolitisation par les tiers-lieux"](http://movilab.org/index.php?title=Etude_de_la_configuration_en_Tiers-Lieu_-_La_repolitisation_par_le_service)_
 	* [Compte-rendu de la soutenance de thèse](https://storify.com/nicolasloubet/tierslieuxphd)
 	
 ### Eléments sur les tiers-lieux
-* Tiers lieux = espaces de critiques par le service, pour creer des usages qui contrarient ce qui nous déplait.
-* Un espace qui est plus que "espace public" où il y a une représentation commune. Commun = patrimoine informationnel.
-* Depuis des années des personnes documentent. Wiki des Tiers-Lieux libres et Open Source http://movilab.org/index.php
+* Tiers-Lieux = espaces de critiques par le service (creer des usages qui contrarient ce qui nous déplait)
+* C'est plus qu'un "espace public" où il y a une représentation commune. Patrimoine informationnel commun
+* Depuis des années des personnes documentent. [Wiki des Tiers-Lieux libres et Open Source](http://movilab.org/index.php)
 
 ## 5.3 Témoignage de Rieul Techer
 
