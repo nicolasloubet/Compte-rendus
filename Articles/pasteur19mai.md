@@ -282,7 +282,7 @@ Timing | Action
 * Beaucoup font du ommun sans le savoir. Possibilité de se retrouver grace au patrimoine informationnel.
 
 ### Réciprocité
-* S'intéresse aux pratiques de RECIPROCITE (comment on l'incarne autrement que par des tableurs et comment on la vie physiquemenent dans les lieux : [CAIRN](http://carrefour-numerique.cite-sciences.fr/blog/cairn-la-table-qui-permet-de-manipuler-et-visualiser-des-donnees/), & [KODEAL](http://movilab.org/index.php?title=KoDeal) ([Poignées de main dans les tiers-lieux](http://movilab.org/index.php?title=Recherche_et_design_:_r%C3%A9pertorier_les_poign%C3%A9es_de_main_dans_les_tiers-lieux),[L'échange dans le cadre d'un projet](http://movilab.org/index.php?title=Recherche_et_design_:_l%27%C3%A9change_dans_le_cadre_d%27un_projet)).
+* S'intéresse aux pratiques de RECIPROCITE (comment on l'incarne autrement que par des tableurs et comment on la vie physiquemenent dans les lieux : [CAIRN](http://carrefour-numerique.cite-sciences.fr/blog/cairn-la-table-qui-permet-de-manipuler-et-visualiser-des-donnees/), & [KODEAL](http://movilab.org/index.php?title=KoDeal) ([Poignées de main](http://movilab.org/index.php?title=Recherche_et_design_:_r%C3%A9pertorier_les_poign%C3%A9es_de_main_dans_les_tiers-lieux),[L'échange dans un projet](http://movilab.org/index.php?title=Recherche_et_design_:_l%27%C3%A9change_dans_le_cadre_d%27un_projet)).
 
 ### Remix the communs
 * Des chartes sont néées en Italie pour définir des espaces comme "communs". [Atlas des chartes des communs](http://wiki.remixthecommons.org/index.php/Atlas_des_chartes_des_communs_urbains).
@@ -304,14 +304,13 @@ Timing | Action
 
 * [Plateau Urbain](https://www.plateau-urbain.com) exite pour (re)donner de la valeur d'usage à des batiments sans valeur d'échange 
 * Mise à disposition de lieux vacants à d'acteurs qui n'ont pas de modèles économiques "adaptés" à l'immobilier concurrentiel
-* L'idée de la temporalité c'est de ne pas se focaliser sur les lieux. Temporalité d'usage des espaces 
+* L'idée de la temporalité c'est de ne pas se focaliser sur les lieux.
 	* Comment la programmation ouverte permet d'être adaptable, modulable et produisant des politiques publiques adaptées aux territoires, en laissant faire pour qu'advienne le politique. 
 	* Comment les gens qui font de la poitique peuvent permettre et laisser faire pour qu'advienne du politique
-	* Comment prendre soin des politiques publiques. 
 
 ---
 
-# Annexes
+# 6- Economies émergentes
 
 ## **Économie contributive**
 
