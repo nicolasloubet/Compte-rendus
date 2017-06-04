@@ -28,15 +28,15 @@ Ce document est le compte-rendu collectif de la rencontre organisée par l'assoc
 
 ## 1.1- L'association collégiale
 
-* Une association collégiale a été créée en octobre 2016 pour fédérer autour d’elle des personnes désireuses de s’impliquer d’avantage dans le projet. Elle a pour but d’initier et préfigurer sur site - dans un lieu déjà occupé et ré-ouvert depuis 4 années - un mode de gouvernance partagé préfigurant une structure juridique capable de gérer en pleine responsabilité le lieu à partir de septembre 2019 (date à laquelle la réhabilitation du bâtiment sera terminée).
+* Une association collégiale a été créée en octobre 2016 pour fédérer autour d’elle des personnes désireuses de s’impliquer dans le projet. Elle a pour but d’initier et préfigurer sur site - dans un lieu déjà occupé et ré-ouvert depuis 4 années - un mode de gouvernance partagé préfigurant une structure juridique capable de gérer en pleine responsabilité le lieu à partir de septembre 2019 (date à laquelle la réhabilitation du bâtiment sera terminée).
 
 * Alors que l’association collégiale de l’Hôtel Pasteur réfléchit à la définition des différents rôles attribués aux « forces ouevrières » au sein de la communauté en vue de commencer à tester une gouvernance partagée et contributive pour 2017, l’Hôtel Pasteur se doit d’initier une gouvernance collective et contributive où la responsabilité d’accueil, de stimulation du lieu et des énergies, de mise en réseau et de gestion au quotidien est distribuée équitablement.
 
 ## 1.2- Pasteur, un bien commun
 
-* L’Hôtel Pasteur est un **bien commun** qui doit être entretenu par et avec le collectif. L’enjeu économique de sa gestion future est un enjeu de taille auquel il doit se préparer en s'appropriant les formes d’économie émergentes (contributive, collaborative, partagée...) qui s’apparentent plus à des « modèle de vie » qu'à des « modèles économiques ». 
+* L’Hôtel Pasteur est un **bien commun** entretenu par et avec le collectif. L’enjeu économique de sa gestion future est un enjeu de taille auquel il doit se préparer en s'appropriant les formes d’économie émergentes (contributive, collaborative, partagée...) qui s’apparentent plus à des « modèle de vie » qu'à des « modèles économiques ». 
 
-* L'Hôtel Pasteur se construit depuis son origine en **écosystème** avec ses gens, ses contributions, sa politique interne, son tissu social, son territoire. Pasteur est un lieu créateur de valeurs et donc de richesses, par l’échange, la rencontre, la coopération, et donc l’insertion sociale et culturelle dans la Cité ("Pasteur est devenu une institution politique au sens sociale et sociétale").
+* L'Hôtel Pasteur se construit depuis son origine en **écosystème** avec ses gens, ses contributions, sa politique interne, son tissu social, son territoire. C'est un lieu créateur de richesses par l’échange, la rencontre, la coopération et donc l’insertion sociale et culturelle dans la Cité ("Pasteur est une institution politique au sens sociale et sociétale").
 
 * L'Hotel Pasteur est un **espace non marchand** qui ne génère pas de recette(s) et où l’on prône la responsabilité de chacun. Après avoir défini les rôles de chacun au sein de la communauté (concierge, veilleurs, relais de la conciergerie…), tout le monde a la resonsabilité d'agir en hôte à partir du moment ou elle/il vient dans le lieu. Ces responsabilités occasionnent des contre-parties (à définir).
 
