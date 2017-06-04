@@ -155,10 +155,6 @@ Timing | Action
 
 # 4- Introduction de la rencontre
 
-<p align="center">
-<img src="https://github.com/nicolasloubet/Compte-rendus/blob/master/Images/pasteur_espace.JPG?raw=true" width="80%">
-</p>
-
 ## 4.0- Pourquoi sommes-nous là aujourd'hui ?
 
 * Comment travailler avec une gouvernance tournante ?
