@@ -1,8 +1,8 @@
 # Journée sur la GOUVERNANCE de l'Hotel Pasteur
 
-Ce document est le compte-rendu collectif de la rencontre organisée par l'[Hotel Pasteur](http://hotelpasteur.fr) le 19 mai 2017 à Rennes. Il a réuni une quarantaine de personnes dans le but d'interroger le modèle de gouvernance actuel et futur de l'Hotel Pasteur. 
+Ce document est le compte-rendu collectif de la rencontre organisée par l'association collégiale de l'[Hotel Pasteur](http://hotelpasteur.fr) le 19 mai 2017 à Rennes. Il a réuni une quarantaine de personnes dans le but d'interroger le modèle de gouvernance de l'Hotel Pasteur. 
 
-> Nous avons souhaité organisée une journée d’étude consacrée aux nouveaux modèles économiques qui émergent des nouvelles formes d’appropriation de la ville (bien souvent révélées de manière citoyenne au démarrage).
+> Nous avons souhaité organiser une journée d’étude consacrée aux nouveaux modèles économiques qui émergent des nouvelles formes d’appropriation de la ville (bien souvent révélées de manière citoyenne au démarrage).
 
 # 0- À propos de la rencontre
                                    
@@ -36,7 +36,7 @@ Ce document est le compte-rendu collectif de la rencontre organisée par l'[Hote
 
 * L’hôtel Pasteur est devenu un bien commun révélé, identifié, qui doit être entretenu par et avec le collectif. L’enjeu économique de sa gestion future est aussi un enjeu de taille auquel nous devons nous préparer, essayer et réfléchir bien en amont aux nouvelles formes d’économie que l’on voit émerger depuis un certain nombre d’années sous l’appellation d’économie contributive, collaborative, partagée mais qui s’apparente plus aux « modèle de vie » qu’à un « modèle économique »au sens strictement pécunier. Pasteur comme un écosystème avec ses gens, ses contributions, sa politique interne, son tissu social, les mutualisations avec les autres, avec son territoire. Pasteur comme un lieu créateur de valeurs et donc de richesse, par l’échange, la rencontre, la coopération, et donc l’insertion sociale et culturelle dans la cité. « Pasteur devenue une institution politique au sens sociale et sociétale.»
 
-* Pasteur, un lieu non marchan qui ne génère pas de recette(s), à l’image des fablab mais pas forcèment des tiers-lieux ! (Cf : Le serment du jeu de Paume qu’utilise souvent les charte des Tiers-Lieux : « Préfigurant la souveraineté nationale et la séparation des pouvoirs, il amènera la réunion des trois ordres (noblesse, clergé, tiers état) en une « Assemblée nationale constituante », dont sera issue l'abolition de la féodalité (4 août 1789), la déclaration des droits de l'homme et du citoyen (26 août 1789), et les grands principes de la Constitution (fin 1791). ») - Wilkipèdia
+* Pasteur, un lieu non marchan qui ne génère pas de recette(s), à l’image des fablab mais pas forcèment des tiers-lieux ! (Cf : Le serment du jeu de Paume qu’utilise souvent les charte des Tiers-Lieux : « Préfigurant la souveraineté nationale et la séparation des pouvoirs, il amènera la réunion des trois ordres (noblesse, clergé, tiers état) en une « Assemblée nationale constituante », dont sera issue l'abolition de la féodalité (4 août 1789), la déclaration des droits de l'homme et du citoyen (26 août 1789), et les grands principes de la Constitution (fin 1791). ») - Wilkipédia
 
 * Pasteur ou l’on prône la responsabilité de chacun. Après avoir défini les rôles de chacun au sein de la communauté Pasteur (Concierge, veilleurs, relais de la conciergerie…) travailler sur la responsabilisation des hôtes du lieu. En partant  du principe que tout le monde devient hôte même de passage à partir du moment ou il vient dans le lieu, il est responsable. Nous ne parlerons pas de devoirs mais de responsabilité. Quelle grille ? Responsabilité = Contrepartie. Comment quantifier et valoriser ses différentes contrepartie ? 
 
