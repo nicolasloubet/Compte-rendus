@@ -63,7 +63,7 @@ Timing | Action
 ## 2.1- Situation  
 
 * Aujourd'hui le fonctionnement de l'Hôtel Pasteur repose sur un nombre restreint de personnes. Leur capacité à faire face aux sollicitations arrive à saturation. Par ailleurs, il faut maintenant anticiper et construire une alternative viable à un fonctionnement classique de structure culturelle d’ici la fin des travaux d’aménagement. 
-* Un début de fonctionnement partagé s'est mis en place avec l’association collégiale et son comité de gouvernance rejoint par une diversité de profils. Il reste à ouvrir l’Hôtel Pasteur le plus largement possible à toutes les personnes partantes pour s’impliquer, selon leurs envies propres et les besoins du lieu. 
+* Un début de fonctionnement partagé s'est mis en place avec l’association collégiale et son comité de gouvernance rejoint par une diversité de profils. Il reste à ouvrir l’Hôtel Pasteur le plus largement possible à toutes les personnes dans le désir de s’impliquer (selon leurs envies propres et les besoins spécifiques du lieu).
 
 ## 2.2- Enjeux 
 
