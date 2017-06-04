@@ -67,15 +67,14 @@ Timing | Action
 
 ## 2.2- Enjeux 
 
-* Cette journée est un temps de respiration mais aussi un temps de travail. Un temps pour répondre à la question : "Comment faire en sorte que Pasteur fonctionne durablement et en cohérence avec son projet, un lieu mouvant capable de recevoir l’immédiateté du besoin dans le temps long de l’expérimentation ?" et plus précisément « Comment faire en sorte que l'Hôtel Pasteur fonctionne comme une communauté où chacun prend soin de faire vivre ce bien commun ? » 
-* L'enjeu à terme c'est de décentraliser la gouvernance du lieu et de mettre en capacité de contribuer toutes les bonnes volontés qui se manifestent régulièrement et engager les utilisateurs du lieu à prendre soin de son fonctionnement global, et commencer à réfléchir ensemble et avec d'autres ce que pourrait être son modèle économique futur.  
+* Cette journée est un temps de respiration et de travail pour répondre à la question : "Comment faire en sorte que Pasteur fonctionne durablement et en cohérence avec son projet, un lieu flexible capable de recevoir l’immédiateté du besoin dans le temps long de l’expérimentation ?" ou « Comment faire en sorte que l'Hôtel Pasteur fonctionne comme une communauté où chacun prend soin de faire vivre ce bien commun ? » 
+* L'enjeu à terme est de "démonopoliser" la gouvernance du lieu et de mettre en capacité de contribuer toutes les bonnes volontés qui se manifestent régulièrement et engager les utilisateurs du lieu à prendre soin de son fonctionnement global, et commencer à réfléchir ensemble et avec d'autres ce que pourrait être son modèle économique futur.  
 
 ## 2.3- Objectifs
 
-* Identifier des grandes lignes de principes de fonctionnement propices à cet enjeu (règles du jeux, prises de décision, animations de la communauté, structuration, outils d'échanges)
-* Identifier ceux que nous voulons adopter et intégrer dans la gouvernance de l'Hôtel Pasteur.
-*  S'inspirer de nouveaux modèles économique dites "modèle de vie" et écosystèmes, outils qui existent sur le territoire.
-* Première journée d’étude commune avec notre collectif en dehors de nos comités.          
+* Identifier des grandes lignes de principes de fonctionnement (décisions, animations, outils)
+* Identifier ceux que nous voulons adopter et intégrer dans la gouvernance de l'Hôtel Pasteur
+* S'inspirer de modèles économique qui se revendiquent avant tout chose comme "modèle de vie"
 * Former un réseau, initier un partenariat intellectuel avec nos invités à plus grande échelle
 
 ## 2.4- Thématiques
@@ -84,58 +83,58 @@ Timing | Action
 
 * Quel patrimoine commun ? Comment révéler les valeurs co-produites, l'innovation du lieu ? 
 * Comment valoriser les ressources fournies pour le fonctionnement (cf. économie contributive) ?
-* Comment fédérer les lieux qui occupe pasteur et peuvent participer de fait à l’économie contributive.
+* Comment fédérer les lieux qui occupent Pasteur et participer de fait à l’économie contributive.
 * Quels sont les besoins financiers minimum nécessaires (besoin d'ordre de grandeur) ? 
-* Quels sont les outils pour rendre compte des réciprocités, des échanges de valeurs ? 
+* Quels sont les outils pour rendre compte des réciprocités, des échanges de valeur ? 
 * Quels sont les outils pour documenter les communs ? Comment diffuser nos connaissances ?
 * Quelles sont les types de licences qui permettent de faciliter la réappropriation ?
 
 ### Gouvernance(s)
 
-* Qui sont ces gens ? Qu'est ce que les gens y font ? Quels modes de faire ? Que font-il pour et par eux-mêmes ?
-* Quelle configuration  sociale ? Quel type de communauté ? Comment fait-on partie de cette communauté ?
+* Qui sont ces gens ? Qu'est ce qu'ils y font ? Quels sont les modes de faire ? Que font-il pour et par eux-mêmes ?
+* Quelle type de configuration  sociale (communauté) ? Comment fait-on pour faire partie de cette communauté ?
 * Quels liens entre les gens ?  Quelle  autonomie  ? Quelles initiatives ? Comment soutenir l'émancipation ?
 * Qu'est ce qu'il y a faire pour que Pasteur puisse continuer à accueillir ces gens ? Comment fait-on tourner le lieu ?
-* Quelle  conciergerie et quel profil / posture de concierge pour Pasteur ? (comment décharger Sophie, hyper active)
-* Quels modes de prises de décisions entre toutes les parties prenantes ? (cf. ce [document](https://hackmd.io/s/H1xBfPVx-#))
+* Quelle  conciergerie et quel profil ? Quel type de de concierge pour Pasteur ? (ie. .comment décharger Sophie !) 
+* Quels modes de prises de décisions entre parties prenantes ? (cf. ce [document](https://hackmd.io/s/H1xBfPVx-#))
 * Comment conserver la place pour la libre appropriation et l'expérimentation ? Les essais-erreurs ?
-* Dans quelle mesure la structure  est "structurante" et impacte le projet ? Faut-il choisir UNE forme ? 
-* Comment la "mairie" trouve sa  place au seins de cette structure ? Comment on s'articule avec les services ?
-* Comment Pasteur s'articule avec les autres lieux de culture et autres ? Quels  outils pour faciliter la contribution ? 
-* Comment assurer fluidité, agilité, capacité d'adaptation et résilience à Pasteur ? Quelles sont les modularités ?
+* Dans quelle mesure la structure est "structurante" et impacte le projet ? Faut-il choisir une forme unique ? 
+* Comment la "Mairie" trouve sa  place au seins de cette structure ? Comment on s'articule avec les services ?
+* Comment Pasteur s'articule avec les autres lieux de culture (et au-delà) sur le territoire de Rennes ?
+* Comment assurer fluidité, agilité, capacité d'adaptation et résilience ? Comment péréniser la modularité ?
 
 ### Émancipation(s)
 
-* L'autonomisation des hôtes permettent l'émancipation par le faire. Demain, COMMENT STRUCTURER les choses ?
+* L'autonomisation des hôtes permettent l'émancipation par le faire. Demain, comment STRUCTURER les actions ?
 
 ---
 
 # 3- Présent.e.s sur la rencontre
 
 * Erwan : insertion par le sport
-* Paul : chez Plateau Urbain
-* Arthur : chez Plateau Urbain
+* Paul : membre de Plateau Urbain
+* Arthur : membre de  Plateau Urbain
 * Arthur : usager de l'Hotel Pasteur
-* Jade et Delphine : émergence spéctacle vivant
-* Emilie : citoyenne et bénévole pôle de dev ESS
+* Jade et Delphine : spéctacle vivant
+* Emilie : citoyenne (pôle de dev ESS)
 * Ludivine : accompagne les artistes
 * Aude : engagée dans l'économie sociale
 * Elise : travaille à Pasteur (coordination)
 * Mathieu : L'atelier Daro (audiiovisuel)
-* Louis-Marie : binome avec Sophie
+* Louis-Marie : binome avec Sophie (Pasteur)
 * Antoine : réalisateur (film sur Parsteur)
-* Samuel : CM Champs LIbre. Museomix
-* Simon : Lille. Communs et Logiciel Libre.
+* Samuel : Champs Libres. Museomix
+* Simon : Lille. Communs, logiciel Libre
 * Christine : bénévole de l'Hotel Pasteur
 * Pricilla : ressourcerie (gestion des dechets)
-* Sylvia : designer, communs et données
+* Sylvia : designer (communs et données)
 * Nicolas : Cellabz. Aime prendre des notes
 * Jakie  : accueil. Veille & Service Civique
-* Philippe : psychiatre / santé mentale
-* Sylvie : adjointe au maire (ville de Rennes)
+* Philippe : psychiatre (santé mentale)
+* Sylvie : adjointe au Maire (ville de Rennes)
 * Cyril : Conseiller municipal bâtiments et publics
 * Gwenola : recherche en philo politique, TNB
-* Théo : Étudiant ingénieur, contributeur du Biome
+* Théo : Étudiant ingénieur, actif avec Le Biome
 * Gwennael : Voisin de Pasteur - Dispo Locale
 * Antoine : sociologue, tiers-lieux à Genève
 
@@ -143,11 +142,11 @@ Timing | Action
 
 # 4- Interventions du matin
 
-## 4.0 Pourquoi est-on là aujourd'hui ?
+## 4.0 Pourquoi sommes-nous là aujourd'hui ?
 
 * Comment travailler avec une gouvernance tournante ?
-* Quel sera demain le modèle de vie avec Pasteur ?
-* Comment intégrer un réseau de démarche similaire ?
+* Quel sera demain le "modèle de vie" avec Pasteur ?
+* Comment intégrer un réseau de démarches similaires ?
 
 ## 4.1 Sélection de citations / textes
 
@@ -171,44 +170,43 @@ Timing | Action
 
 ## 4.2 Introduction de Sophie Ricard 
 
-* Réoccuper les lieux. Associer et accompagner les besoins de la société civile. Projets éphémères. 
-* Accueillir les besoins immédiats d'une société en mouvement. Inventer les règles de programmation.
-* Non-programmation (Inverse de l'étude de faisabilité) et faire vivre le lieu à partir des usages (faits).
+### Intentions
+* Réoccuper les lieux, associer et accompagner les besoins de la société civile (projets éphémères)
+* Accueillir les besoins immédiats d'une société en mouvement, inventer les règles de programmation
+* Non-programmation = Inverse de l'étude de faisabilité) = faire vivre le lieu à partir des usages
 * Proposition d'architecture réversible (par le collectif construire) : https://goo.gl/ciL3eX
 
-* En février 2018 : le RDC est libéré par le Centre Hospitalier. Remplacé par une école maternelle.
+### Réflexions
+* Au départ, on pense que la culture est le premier biais pour s'approprier des lieux en friche
+* Rencontre avec des gens très différents. Même un médecin à besoin de sortir de son institution
+* Que peut faire la société civile dans une architecture sans direction (artistique) précise ?
+* Principe d'hospitalité permet d'expérimenter, d'ouvrir au maximum. Pasteur = chose publique
+
+### Actualités
+* En février 2018 : le RDC est libéré par le Centre Hospitalier. Remplacé par une école maternelle
 * Dans les étages, une école "buissonnière" s'est installée (et pourrait nourrir le projet d'école)
 
-* Au départ, on pense que la culture est le premier biais pour s'approprier des lieux en friche.
-* Rencontre avec des gens très différents. Même un toubib à besoin de sortir de son institution
-* Que pourrait faire société dans cette architecture là. Pas de direction précise ("directeurs artistiques").
-* Notions d'hospitalité. Pas d'erreur. Expérimenter projets.  Ouvrir au maximum. Pasteur = chose publique
-* Monter une assemblé des partenaires. Lancement de comité sur différentes problématiques : ex. Gouvernance
-* Autres comités : Comment accueillir à pasteur (**problème de l'unique clé**) tout en transmettant l'histoire.
-* Comment faire de chaque hôte un relais. Création d'une asso. Projet incrémentale. MIse à l'épreuve par l'usage.
-* Règles de vie, etc s'inventent au fur et à mesure. Aujourd'hui c'est la première grande journée d'étude.
+### Organisation
+* Montage d'une assemblé de partenaires. Lancement de comité sur des problématiques (dont `Gouvernance`)
+	* Comment accueillir à pasteur (**problème de l'unique clé**) tout en transmettant l'histoire ?
+	* Comment faire de chaque hôte un relais. Création d'une asso. "Mise à l'épreuve" par l'usage
+* Règles de vie, etc s'inventent au fur et à mesure. Aujourd'hui c'est la 1ère grande journée d'étude ! 
 
-* Pas un "nouveau" lieu sous cloche mais inscrit dans un territoire (qui fonctionne dans un réseau d'institutions).
-	* Ex : accueil de migrants (phrase en note par @Samuel). Pasteur comme un outil de réseau et de gens.
-	* Sur un rayon de 5 km : Hôpital, TNB, musée... Possiblité de mettre à contribution les voisins, qu’ils puissent partager les accueils d’urgence sociale (ex. cours de Français pour les demandeurs d’asile) pour entrer dans une économie de la contribution. Objectif à terme : passage de relais après les travaux. 
-* Mandat pour réaliser des travaux > projet (10 millions € d'investissement de la ville). Étude du coût en charge.
-
+### Territoire
+* Pas un "nouveau" lieu sous cloche mais inscrit dans un territoire (qui doit fonctionner dans un réseau)
+	* Ex : accueil de migrants (phrase en note par @Samuel). Pasteur comme un outil de réseau de gens
+	* Sur un rayon de 5 km : Hôpital, TNB, musée... Possiblité de mettre à contribution les voisins, qu’ils puissent partager les accueils d’urgence sociale (ex. cours de Français pour les demandeurs d’asile) pour entrer dans une économie de la contribution. Objectif à terme : passage de relais après les travaux (10 millions € d'investissement de la ville).
 * Q. Comment faire ren sorte de ne pas aller chercher de subventions, de diversifier au maximum les sources ?
 * La puissance publique joue le rôle d'accompagnateur (dans le cas de l'expérience de / avec l'Hotel Pasteur)
 
 ## 4.3 Premiers témoignages / échanges
 
-* On a tous été utilisateur de ce lieu On a envie de transmettre au travers de ce lieu
-* Il y a besoin de trouver un modèle représentatif de ce nouveau lieu
-* Besoin d'entendre des personnes ayant rencontré des problèmes similaires.
-* Les utilisateurs ne sont pas là 8h par jours de façon installé avec un pseudo bail
-
+* On a tous été utilisateur de ce lieu. Envie de transmettre à travers ce lieu
+* Il y a besoin de trouver un (nouveau) modèle représentatif de ce nouveau lieu
+* Besoin d'entendre des personnes ayant rencontré des "situations" similaires.
+* Les utilisateurs ne sont pas là 8h/jour de façon installé avec un pseudo bail
 * Le commun est très peu étudié par la psychologie et par la littérature en psycho
-* Essaie d'arriver avec un regard innocent pour comprendre ce qui meut les gens
-* Notion d'habiter. On est à la rue pas parce que l'on est en perte de relation humaine
-* Privé d'habitabilité => Pour les gens en situation précaire Pasteur permet l'habitabilité
-
-* Citoyenneté = faire partie de la société rennaise. 
+* Pour les gens en situation précaire Pasteur permet l'habitabilite de la ville
 
 ## 4.4 Témoignage de Simon Sarrazin
 
