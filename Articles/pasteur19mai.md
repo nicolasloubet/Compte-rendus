@@ -2,7 +2,7 @@
 
 Ce document est le compte-rendu collectif de la rencontre organisée par l'[Hotel Pasteur](http://hotelpasteur.fr) le 19 mai 2017 à Rennes. Il a réuni une quarantaine de personnes dans le but d'interroger le modèle de gouvernance actuel et futur de l'Hotel Pasteur. 
 
-> Nous organisons une journée d’étude consacrée à la fois aux nouveaux modèles économiques qui émergent des nouvelles formes d’appropriation de la ville  bien souvent révélé au point de départ de manière citoyenne.  
+> Nous avons souhaité organisée une journée d’étude consacrée aux nouveaux modèles économiques qui émergent des nouvelles formes d’appropriation de la ville, bien souvent révélées de manière citoyenne.  
 
 # 0- À propos de la rencontre
                                    
