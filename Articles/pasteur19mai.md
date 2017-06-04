@@ -199,7 +199,11 @@ Timing | Action
 * Q. Comment faire ren sorte de ne pas aller chercher de subventions, de diversifier au maximum les sources ?
 * La puissance publique joue le rôle d'accompagnateur (dans le cas de l'expérience de / avec l'Hotel Pasteur)
 
-## 4.3- Premiers témoignages / échanges
+## 4.3- Intervention de Samuel Bausson
+
+* Objectif : grandes pistes de mode d'emploi de gouvernance. Organisation des discussions en groupes (4-5 personnes).
+
+## 4.4- Premiers témoignages / échanges
 
 * On a tous été utilisateur de ce lieu. Envie de transmettre à travers ce lieu
 * Il y a besoin de trouver un (nouveau) modèle représentatif de ce nouveau lieu
@@ -287,36 +291,27 @@ Timing | Action
 ### Remix the communs
 * Des chartes sont néées en Italie pour définir des espaces comme "communs". [Atlas des chartes des communs](http://wiki.remixthecommons.org/index.php/Atlas_des_chartes_des_communs_urbains).
 
-
 ### Open Knowledge
 * Donnée = levier de contre-pouvoir citoyen. Sylbia est engagée dans le développement de l'[Ecole des Données](https://ecoledesdonnees.org).
 
 ## 5.5 Témoignage de Nicolas Loubet
 	
-* Scientifique. A vécu à l'Université le [CPE](https://fr.wikipedia.org/wiki/Contrat_premi%C3%A8re_embauche), à l'origine d'une bifurcation (création d'entreprise plutôt qu'une carrière académique). Capital de départ > investissement dans diverses activités (pesonnels, dons, entreprise). A eu l'occasion de s'investir plus de 5 ans dans le développement d'un [média](http://knowtex.com) sur les communautés créatives.
+* Scientifique. A vécu à l'Université le [CPE](https://fr.wikipedia.org/wiki/Contrat_premi%C3%A8re_embauche). À l'origine d'une bifurcation (création d'entreprise plutôt qu'une carrière académique). Capital de départ = investissement dans diverses activités (pesonnels, dons, entreprise). A eu l'occasion de s'investir plus de 5 ans dans le développement d'un [média](http://knowtex.com) sur les "communautés créatives".
 	
-* 2012 : début de quninquénat de François Hollande. Beaucoup d'espoirs... et finalement beaucoup des déceptions. Constat en 2017 : en difficuté ou situation d'échec sur tous les plans : Entreprise (Umaps), Startup (Bluenod, Tiers-lieu (La Paillasse). 
-	
-* Entre 2013 et 2017, a essayé de comprendre pourquoi c'est si compliqué (aussi bien de développer une enterprise, une startup - ambitieuse - ou un tiers-lieux)  Dans beaucoup des ces lieux il y a des pratiques différentes et des temps qui sont liés à des procèdures et rituels. Comment peut-on faire en sorte de fluidifier et "l'optimiser" (en ayant le souci du collectif) ? "On est en permanence en lutte contre nos pratiques". L'incompréhension est une opportunité à saisir (pour développer des relations qui peuvent se traduire en échange de temps, en troc matériel ou en co-portage d'activités / services utiles).
+* 2012 : début de quninquénat de François Hollande. Beaucoup d'espoirs et finalement beaucoup des déceptions. Constat en 2017 : en difficuté / échec partout : Entreprise (Umaps), Startup (Bluenod, Tiers-lieu (La Paillasse). Entre 2013 et 2017, a essayé de comprendre pourquoi c'est si compliqué de péréniser une activité (aussi une enterprise qu'un tiers-lieux).
 
-* 'intère davantage au fonctionnement des organsations qu'à la gouvernance. Au début il y a nécessairement une prise de risque. La dynamique n'existe aussi que par l'énergie d'un nombre de personnes limité.
+* Dans les tiers-lieux, il y a des pratiques différentes et des temps qui sont liés à des procèdures et rituels. Comment peut-on faire en sorte de fluidifier et "l'optimiser" (en ayant le souci du collectif) ? "On est en permanence en lutte contre nos pratiques". L'incompréhension est une opportunité à saisir (pour développer des relations qui peuvent se traduire en échange de temps, en troc matériel ou en co-portage d'activités / services utiles). S'intéresse davantage au fonctionnement des organsations qu'à la gouvernacnce.
 
-* Selon lui, les tiers-lieux ne suvivront pas en tant que tel. Niclas lance l'idée de se préoccuper du milieu étudiant (2 millions d'étudiants environ) et de faire en sorte que tous les étudiants soient dans des tiers-lieux. 
-	
-* Permettre une démarche collégiale entre plusieurs structures sur un volet que chacun pris individuellement ne peut pas répondre mais que la somme des parties se dépassent et apporte une réponse à ce volet. 
-	
-## 4.9 Témoignage de Paul Citron
+* Selon Nicolas, les tiers-lieux ne suvivront pas en tant que tel. Il souhait de se préoccuper en priorité du milieu étudiant (il y a 2 millions d'étudiants environ en France). **Tous** les étudiants doivent absolulement faire / traverser des tiers-lieux ! 
+		
+## 5.6 Témoignage de Paul Citron
 
-* Plateau Urbain : https://www.plateau-urbain.com. On va (re)donner de la valeur d'usage à des batiments sans valeur d'échange 
+* [Plateau Urbain](https://www.plateau-urbain.com) exite pour (re)donner de la valeur d'usage à des batiments sans valeur d'échange 
 * Mise à disposition de lieux vacants à d'acteurs qui n'ont pas de modèles économiques "adaptés" à l'immobilier concurrentiel
-* L'idée de la temporalité c'est de pas se focaliser sur les lieux. Temporalité d'usage des espaces 
+* L'idée de la temporalité c'est de ne pas se focaliser sur les lieux. Temporalité d'usage des espaces 
 	* Comment la programmation ouverte permet d'être adaptable, modulable et produisant des politiques publiques adaptées aux territoires, en laissant faire pour qu'advienne le politique. 
 	* Comment les gens qui font de la poitique peuvent permettre et laisser faire pour qu'advienne du politique
 	* Comment prendre soin des politiques publiques. 
-
-## 4.10 Intervention de Samuel Bausson
-
-* Objectif : grandes pistes fortes de mode d'emploi de gouvernance. Organisation des discussions en groupes de 4-5 personnes.
 
 ---
 
