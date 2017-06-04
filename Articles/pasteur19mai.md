@@ -69,6 +69,11 @@ Timing | Action
 
 # 2- Pourquoi cette rencontre ? 
 
+<p align="center">
+<img src="https://github.com/nicolasloubet/Compte-rendus/blob/master/Images/pasteur_espace.JPG?raw=true" width="80%">
+</p>
+
+
 ## 2.1- Situation  
 
 * Aujourd'hui le fonctionnement de l'Hôtel Pasteur repose sur un nombre restreint de personnes. Leur capacité à faire face aux sollicitations arrive à saturation. Par ailleurs, il faut maintenant anticiper et construire une alternative viable à un fonctionnement classique de structure culturelle d’ici la fin des travaux d’aménagement. 
@@ -225,7 +230,7 @@ Timing | Action
 * Le commun est très peu étudié par la psychologie et par la littérature en psycho
 * Pour les gens en situation précaire Pasteur permet l'habitabilite de la ville
 
-# 5- Présent.e.s sur la rencontre
+# 5- Interventions des invité.e.s
 
 ## 5.1- Témoignage de Simon Sarrazin
 
