@@ -6,16 +6,16 @@ Ce document est le compte-rendu collectif de la rencontre organisée par l'[Hote
 
 # 0- À propos de la rencontre
                                    
-## 0.1- Forme
+### 0.1- Forme
 * Journée organisée par le Conseil Collégial de l’Hôtel Pasteur et Réseau solidaire.
 * Échanges en comité restreint (Conseil collégial de l’Hôtel Pasteur, hôtes, invités)
 	
-## 0.2- Déroulé
+### 0.2- Déroulé
 * Retour sur l’histoire de la fabrique de l’Hôtel Pasteur par des personnes du Conseil Collégial
 * Retour d’expériences des invités et questionnement sur le fonctionnement de l’Hôtel Pasteur
 * Ateliers de réflexion en groupe plus restreint (6 groupes de 6 personnes maximum sur 6 axes)
 
-## 0.3- Invités
+### 0.3- Invités
 * **Antoine Burret** : docteur en sociologie (Les tiers lieux comme objet conceptuel indentifiable)
 * **Nicolas Loubet** : co-fondateur d'Umaps, Cellabz, Bluenod. Contributeur actif de communs.
 * **Rieul Techer** : contributeur de La MYNE (tiers-lieux à Lyon) & DAISEE (réseau de recherche)
