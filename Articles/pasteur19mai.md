@@ -140,7 +140,7 @@ Timing | Action
 
 ---
 
-# 4- Interventions du matin
+# 4- Introduction de la rencontre
 
 ## 4.0 Pourquoi sommes-nous là aujourd'hui ?
 
@@ -168,7 +168,7 @@ Timing | Action
 ### Citation d'un texte sur l'hospitalité
 * Le mot **hôte** est au cœur des questions
 
-## 4.2 Introduction de Sophie Ricard 
+## 4.2 Intervention de Sophie Ricard 
 
 ### Intentions
 * Réoccuper les lieux, associer et accompagner les besoins de la société civile (projets éphémères)
@@ -208,7 +208,9 @@ Timing | Action
 * Le commun est très peu étudié par la psychologie et par la littérature en psycho
 * Pour les gens en situation précaire Pasteur permet l'habitabilite de la ville
 
-## 4.4 Témoignage de Simon Sarrazin
+# 5- Présent.e.s sur la rencontre
+
+## 5.1 Témoignage de Simon Sarrazin
 
 ### Ressources de la Coroutine
 * [Site Internet](http://lacoroutine.org)
@@ -227,8 +229,7 @@ Timing | Action
 
 ### Gouvernance de la Coroutine 
 * [Membres actifs](https://www.loomio.org/d/TEs1CtZm/droit-et-d-finition-du-membre-contributeur-actif-) = ceux qui ont le pouvoir de décider s'il y a blocage sur une décision. Utilisation du consentement sinon. [Exemple de décision en cours](https://www.loomio.org/p/IEo1aqy8/mettre-en-place-un-tarif-pour-les-utilisateurs-des-collectifs-qui-utilisent-le-lieu) qui intéressera Pasteur (il n'y pas besoin d'avoir un compte pour voter)
-* Bonnes pratiques : autonomiser ce qui est pénible, faire du ménage une activité collective et conviviale, ne surtout pas assigner de tâches.
-* Le ogociel libre permet de concevoir des astuces (cf. [La cathédrale et le bazar](https://framasoft.org/IMG/cathedrale-bazar.pdf)) Mais ATTENTION, le logiciel n'est pas un lieu. Les modes de gestion sont distincts.
+* Bonnes pratiques : autonomiser ce qui est pénible, faire du ménage une activité collective et conviviale, ne surtout pas assigner de tâches. L'univers du logiciel libre permet de concevoir des astuces (cf. [La cathédrale et le bazar](https://framasoft.org/IMG/cathedrale-bazar.pdf)) Mais ATTENTION, le logiciel n'est pas un lieu. Les modes de gestion sont distincts.
 
 ## 4.5 Témoignage d'Antoine Burret
 
