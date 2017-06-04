@@ -1,4 +1,4 @@
-# Première rencontre sur la GOUVERNANCE de l'Hotel Pasteur
+# Journée de rencontre sur la GOUVERNANCE de l'Hotel Pasteur
 
 Ce document est le compte-rendu collectif de la rencontre organisée par l'[Hotel Pasteur](http://hotelpasteur.fr) le 19 mai 2017 à Rennes. Il a réuni une quarantaine de personnes dans le but d'interroger le modèle de gouvernance actuel et futur de l'Hotel Pasteur. 
 
