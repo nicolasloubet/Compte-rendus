@@ -1,6 +1,6 @@
 # Première rencontre sur la GOUVERNANCE de l'Hotel Pasteur
 
-Ce document est le compte-rendu collectif (de R. Técher, S. Bausson, N. Loubet, A. Burret, S. Fredriksson...) de la rencontre organisée par l'[Hotel Pasteur](http://hotelpasteur.fr) le 19 mai 2017 à Rennes sur les pratiques de gouvernance.
+Ce document est le compte-rendu collectif de la rencontre organisée par l'[Hotel Pasteur](http://hotelpasteur.fr) le 19 mai 2017 à Rennes sur les pratiques de gouvernance.
 
 # 0- À propos de la rencontre
                                    
