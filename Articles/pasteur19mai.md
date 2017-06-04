@@ -83,9 +83,9 @@ Timing | Action
 
 * Quel patrimoine commun ? Comment révéler les valeurs co-produites, l'innovation du lieu ? 
 * Comment valoriser les ressources fournies pour le fonctionnement (cf. économie contributive) ?
-* Comment fédérer les lieux qui occupent Pasteur et participer de fait à l’économie contributive.
-* Quels sont les besoins financiers minimum nécessaires (besoin d'ordre de grandeur) ? 
-* Quels sont les outils pour rendre compte des réciprocités, des échanges de valeur ? 
+* Comment fédérer les lieux qui occupent Pasteur et donc développer une économie contributive ?
+* Quels sont les besoins financiers minimum nécessaires ? Quels sont les ordres de grandeur ? 
+* Quels sont les outils pour rendre compte des réciprocités, des divers échanges de valeur ? 
 * Quels sont les outils pour documenter les communs ? Comment diffuser nos connaissances ?
 * Quelles sont les types de licences qui permettent de faciliter la réappropriation ?
 
@@ -96,7 +96,7 @@ Timing | Action
 * Quels liens entre les gens ?  Quelle  autonomie  ? Quelles initiatives ? Comment soutenir l'émancipation ?
 * Qu'est ce qu'il y a faire pour que Pasteur puisse continuer à accueillir ces gens ? Comment fait-on tourner le lieu ?
 * Quelle  conciergerie et quel profil ? Quel type de de concierge pour Pasteur ? (ie. .comment décharger Sophie !) 
-* Quels modes de prises de décisions entre parties prenantes ? (cf. ce [document](https://hackmd.io/s/H1xBfPVx-#))
+* Quels modes de prises de décisions entre parties prenantes ? (cf. ce [document](https://hackmd.io/s/H1xBfPVx-#) sur le design de processus)
 * Comment conserver la place pour la libre appropriation et l'expérimentation ? Les essais-erreurs ?
 * Dans quelle mesure la structure est "structurante" et impacte le projet ? Faut-il choisir une forme unique ? 
 * Comment la "Mairie" trouve sa  place au seins de cette structure ? Comment on s'articule avec les services ?
