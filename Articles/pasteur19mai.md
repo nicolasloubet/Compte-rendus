@@ -211,10 +211,10 @@ Timing | Action
 ## 4.4 Témoignage de Simon Sarrazin
 
 ### Ressources de la Coroutine
-* Site web : http://lacoroutine.org (site "re.copiable" depuis GitHub)
-* La documentation : http://wiki.lacoroutine.org/ (libre à la copie)
-* Présentation : http://wiki.lescommuns.org/wiki/La_Coroutine 
-* Afiches du lieu : https://drive.google.com/drive/folders/0BzUW0ZSBFWPecy1DVWt0RXM2dXc 
+* [Site web](http://lacoroutine.org) ("re.copiable" depuis GitHub)
+* [Documentation](http://wiki.lacoroutine.org) (libre à la copie)
+* [Présentation](http://wiki.lescommuns.org/wiki/La_Coroutine)
+* [Afiches du lieu](https://drive.google.com/drive/folders/0BzUW0ZSBFWPecy1DVWt0RXM2dXc)
 
 ### Présentation de la Coroutine
 * Espace de travail partagé pour les indépendants. Démarrage en squat à Lille puis ont connu plusieurs déménagements pour arrriver sur un lieu où est expérimenté la gouvernance ouverte dans une lieu ou il n'y peu voir pas de contraintes (exemple du ménage). Peut amener des pratiques de mutualisation et de responsabilisation des communautés > petites astuces. Analogie avec le logiciel libre (cf. La cathédrale et le bazar : https://framasoft.org/IMG/cathedrale-bazar.pdf). Attention: le logiciel n'est pas un lieu, les modes de gestion sontn donc distincts mais il y a des astuces intéressantes à aller chercher. 
