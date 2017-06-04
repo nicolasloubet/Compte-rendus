@@ -314,9 +314,7 @@ Timing | Action
 
 ## **Économie contributive**
 
-Quelle contribution en dehors de la contribution pécuniaire ? Rejoint la question de la mutualisation et du partage à l’Hôtel pasteur !
-
-(Wikipédia) L'économie contributive, ou économie de la contribution, est un modèle de création de valeur basé sur la contribution.
+> L'économie contributive, ou économie de la contribution, est un modèle de création de valeur basé sur la contribution. - **Wikipedia**
 	
 * Elle se caractérise par la non-dissociation entre producteur et consommateur : dans le cadre d'une économie contributive, l'usager du service est potentiellement à la fois consommateur et producteur du service. Par exemple, Wikipédia et ses projets frères ou sœurs reposent tous sur le modèle de l'économie contributive : les rédacteurs des articles et autres contributeurs sont aussi des utilisateurs de l'encyclopédie, de Wikiversité, Wikilivres, Wikimedia Commons, etc. C'est le cas aussi des logiciels libres, où un certain nombre d'usagers apportent leur contribution en améliorant le logiciel qu'ils utilisent.
 * L'économie contributive est un concept développé en particulier par Bernard Stiegler1 et l'association Ars Industrialis.
@@ -327,9 +325,7 @@ Quelle contribution en dehors de la contribution pécuniaire ? Rejoint la questi
 
 ## **Économie collaborative**
 
-Rejoint la question d’une économie dans un réseaux économique qui existe déjà! Mutualisation des moyens et des objets !
-
-(Wikipédia) L’économie collaborative est une activité humaine de pair à pair, qui vise à produire de la valeur en commun et qui repose sur de nouvelles formes d'organisation du travail et d'échanges. 
+> L’économie collaborative est une activité humaine de pair à pair, qui vise à produire de la valeur en commun et qui repose sur de nouvelles formes d'organisation du travail et d'échanges. - **Wikipedia**
 	
 * Elle s'appuie sur une organisation plus horizontale que verticale1, la mutualisation des biens, des espaces et des outils, des savoirs (l'usage plutôt que la possession), l'organisation des citoyens en "réseau" ou en communautés et généralement l'intermédiation par des plateformes internet (à l'exception de modèles comme les réseaux d'échanges réciproques de savoirs).
 * Popularisé par le livre de Rachel Botsman et Roo Rogers, le terme d'économie collaborative et le champ qu'il recouvre ne font pas l'objet d'un consensus3,4. Dans une conception large, l'économie collaborative inclut la consommation collaborative (AMAP, couchsurfing, covoiturage, colis-voiturage, etc.), les modes de vie collaboratifs (coworking, colocation, habitat collectif), la finance collaborative (crowdfunding, prêt d'argent de pair à pair, monnaies alternatives), la production contributive (fabrication numérique, DIY, Fablabs, imprimantes 3D, maker space) et la culture libre5.
