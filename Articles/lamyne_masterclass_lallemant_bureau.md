@@ -1,6 +1,6 @@
 # Masterclass "Hacker, coopérer, travailler ?"
 
-Ce document est un duplicta du compte-rendu de la [masterclass de Michel Lallemant et Marie-Christine Bureau](https://www.facebook.com/events/329300317486078/?acontext=%7B%22ref%22%3A%222%22%2C%22ref_dashboard_filter%22%3A%22calendar%22%2C%22action_history%22%3A%22null%22%7D-) organisée le jeudi 18 Mai 2017 à [la MYNE](http://lamyne.org), deux chercheurs du CNAM qui étudient les liens entre hackerpaces / fablabs et coopératives d'emploi. Le [document d'origine]((https://hackmd.io/s/HJRrx8jlb)) a été amorcé par B. Chow Petit sous [Licence CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0).
+Ce document est une adaptation du [compte-rendu](https://hackmd.io/s/HJRrx8jlb) de la [masterclass de Michel Lallemant et Marie-Christine Bureau](https://www.facebook.com/events/329300317486078/?acontext=%7B%22ref%22%3A%222%22%2C%22ref_dashboard_filter%22%3A%22calendar%22%2C%22action_history%22%3A%22null%22%7D-) organisée le jeudi 18 Mai 2017 à [la MYNE](http://lamyne.org), deux chercheurs du CNAM qui étudient les liens entre hackerpaces / fablabs et coopératives d'emploi. Le [document d'origine]((https://hackmd.io/s/HJRrx8jlb)) a été amorcé par B. Chow Petit sous [Licence CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0).
 
 # I. Intervention de Michel Lallemant
 
