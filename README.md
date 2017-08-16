@@ -13,7 +13,7 @@ Ce répertoire est un recueil d'articles issus de rencontres, de réunions, d'at
 * [Mutuelles de travail & travail des communs](https://github.com/nicolasloubet/Compte-rendus/blob/master/Articles/mutuelles_communs_regards_croises.md)
 
 ## Tiers-Lieux
-* [Journée GOUVERNANCE de l'Hotel Pasteur](https://github.com/nicolasloubet/Compte-rendus/blob/master/Articles/pasteur19mai.md)
+* [Journée Gouvernance de l'Hotel Pasteur](https://github.com/nicolasloubet/Compte-rendus/blob/master/Articles/pasteur19mai.md)
 * [Suis-je un tiers-lieu ? Tentative de définition](https://github.com/nicolasloubet/Compte-rendus/blob/master/Articles/suisjeuntierslieu.md)
 * [Co-gestion des noms de domaine tiers-lieux](https://github.com/nicolasloubet/Compte-rendus/blob/master/Articles/tiers-lieux-domaines.md)
 * [Y a t-il vraiment trop de tiers-lieux en France ?](https://github.com/nicolasloubet/Compte-rendus/blob/master/Articles/INTERConnectes-tiers-lieux.md)
