@@ -42,6 +42,6 @@
 * [Tilioscamp 2017 à Aurec sur Loire](https://pad.lamyne.org/s/r1Hgi9VI-)
 * [Appel à projets "Tiers-Lieux" AURA 2017](https://pad.lamyne.org/s/HkspVDy3W)
 * [Fabrique des communs (@ Lyon et au-delà)](https://pad.lamyne.org/s/HyHZVeuNW)
-* [Assemblée Générale 2017 de l'association AADN](https://hackmd.io/s/H14NbVL1-)
+* [Assemblée Générale 2017 de l'asso. AADN](https://hackmd.io/s/H14NbVL1-)
 
 
