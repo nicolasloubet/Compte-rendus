@@ -1,6 +1,6 @@
 # Répertoire des PADS de [la MYNE](http://lamyne.org) auxquels je crontribue
 
-La MYNE est un laboratoire citoyen / espace d'expérimentation dédié aux transitions, situé à proximité du campus de la Doua (à Lyon / Villeurbanne). J'y contribue de façon occasionnelle depuis son amorçage en 2014. 
+La MYNE s'auto-définit comme un laboratoire citoyen / espace d'expérimentation dédié aux transitions (sous toutes leurs formes), situé à proximité du campus de la Doua (à Lyon / Villeurbanne). J'y contribue de façon régulière depuis 2014. 
 
 ## Manifestations
 
