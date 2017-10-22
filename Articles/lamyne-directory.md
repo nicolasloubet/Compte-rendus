@@ -8,13 +8,15 @@
 * [Centre Erasme x la MYNE x Oxamyne](https://pad.lamyne.org/s/SJngwjQSb)
 * [Labo de la Cité du Design x la MYNE](https://annuel2.framapad.org/p/myne-cite-design)
 * [Communecter x la MYNE x DAISEE](https://pad.lamyne.org/s/SJmHZJYN-)
- 
+* [Rencontre avec Karine Dognin-Sauze](https://github.com/nicolasloubet/Compte-rendus/blob/master/Articles/Maker-Lyon-MYNE.md)
+
 ## Temps de convivialité (apéros)
 * [Apéro des designers ethiques (Juilelt 2017)](https://pad.lamyne.org/s/Bk2-qDcBW)
 
 ## Temps de transmission (masterclass)
 * [La MYNE, c'est quoi ce bordel ?](https://pad.lamyne.org/s/By6Rq42GW)
 * [La conciergerie, c'est quoi ce bordel ?](https://pad.lamyne.org/s/r1LL3wSmZ)
+* [Masterclass "Hacker, coopérer, travailler ?"](https://github.com/nicolasloubet/Compte-rendus/blob/master/Articles/lamyne_masterclass_lallemant_bureau.md)
 * [Community building 101 (avec Yann Heurtaux)](https://pad.lamyne.org/s/BJk4-Lti-)
 * [Masterclass d'Open Source Ecologie France](https://pad.lamyne.org/s/ryip0QX-b)
 
