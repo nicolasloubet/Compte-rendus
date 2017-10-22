@@ -1,4 +1,6 @@
-# Répertoire des PADS de la MYNE auxquels je crontribue
+# Répertoire des PADS de [la MYNE](http://lamyne.org) auxquels je crontribue
+
+La MYNE est un laboratoire citoyen implanté depuis 2014 à proximité du campus de la Doua. 
 
 ## Manifestations
 
