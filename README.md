@@ -19,5 +19,6 @@ Ce répertoire est un recueil d'articles issus de rencontres, de réunions, d'at
 * [Y a t-il vraiment trop de tiers-lieux en France ?](https://github.com/nicolasloubet/Compte-rendus/blob/master/Articles/INTERConnectes-tiers-lieux.md)
 
 ## La MYNE
+* [Répertoire des PADS de la MYNE auxquels je crontribue](https://github.com/nicolasloubet/Compte-rendus/blob/master/Articles/lamyne-directory.md)
 * [Rencontre avec Karine Dognin-Sauze](https://github.com/nicolasloubet/Compte-rendus/blob/master/Articles/Maker-Lyon-MYNE.md)
 * [Masterclass "Hacker, coopérer, travailler ?"](https://github.com/nicolasloubet/Compte-rendus/blob/master/Articles/lamyne_masterclass_lallemant_bureau.md)
