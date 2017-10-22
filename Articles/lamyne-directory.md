@@ -16,6 +16,7 @@
 * [La MYNE, c'est quoi ce bordel ?](https://pad.lamyne.org/s/By6Rq42GW)
 * [La conciergerie, c'est quoi ce bordel ?](https://pad.lamyne.org/s/r1LL3wSmZ)
 * [Community building 101 (avec Yann Heurtaux)](https://pad.lamyne.org/s/BJk4-Lti-)
+* [Masterclass d'Open Source Ecologie France](https://pad.lamyne.org/s/ryip0QX-b)
 
 ## Temps de réflexion (meetups/ateliers)
 * [Schéma directeur des énergies du Grand Lyon](https://pad.lamyne.org/s/BJApqzsWZ)
@@ -43,5 +44,3 @@
 * [Appel à projets "Tiers-Lieux" AURA 2017](https://pad.lamyne.org/s/HkspVDy3W)
 * [Fabrique des communs (@ Lyon et au-delà)](https://pad.lamyne.org/s/HyHZVeuNW)
 * [Assemblée Générale 2017 de l'asso. AADN](https://hackmd.io/s/H14NbVL1-)
-
-
