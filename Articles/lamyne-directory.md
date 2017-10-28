@@ -14,7 +14,7 @@
 * [Apéro des designers ethiques (Juilelt 2017)](https://pad.lamyne.org/s/Bk2-qDcBW)
 
 ## Temps de transmission (masterclass)
-* [La MYNE, c'est quoi ce bordel ?](https://pad.lamyne.org/s/By6Rq42GW)
+* [La MYNE, c'est quoi ce f*** bordel ?](https://pad.lamyne.org/s/By6Rq42GW)
 * [La conciergerie, c'est quoi ce bordel ?](https://pad.lamyne.org/s/r1LL3wSmZ)
 * [Masterclass "Hacker, coopérer, travailler ?"](https://github.com/nicolasloubet/Compte-rendus/blob/master/Articles/lamyne_masterclass_lallemant_bureau.md)
 * [Community building 101 (avec Yann Heurtaux)](https://pad.lamyne.org/s/BJk4-Lti-)
