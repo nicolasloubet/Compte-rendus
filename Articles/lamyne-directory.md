@@ -21,6 +21,7 @@
 * [Masterclass d'Open Source Ecologie France](https://pad.lamyne.org/s/ryip0QX-b)
 
 ## Temps de réflexion (meetups/ateliers)
+* [Meetup #1 Open Source Ecologie @ La MYNE](https://pad.lamyne.org/s/ByxpPBjp-)
 * [Schéma directeur des énergies du Grand Lyon](https://pad.lamyne.org/s/BJApqzsWZ)
 * [Kick-Off meetup de l'expérience "Titre à Venir"](https://hackmd.io/s/ryQmhtlxb)
 * [Meetup #1 de l'expérience "Titre à Venir"](https://pad.lamyne.org/s/ryHA5RLqb)
