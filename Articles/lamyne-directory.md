@@ -31,6 +31,7 @@
 
 ## Temps d'apprentissage (colloques)
 * [Colloque 'Penser l'émancipation](https://pad.lamyne.org/s/ByJHkdqcb)
+* [Connaissance, Communs et Tiers-Lieux](https://pad.lamyne.org/s/BJZyafQ0Z)
 
 ## Temps de recherche (résidences)
 * [SummerLab à Mouans-Sartoux (2015)](https://pad.lamyne.org/s/Bkq0ebASW)
