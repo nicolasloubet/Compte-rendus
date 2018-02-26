@@ -1,4 +1,4 @@
-# Répertoire des PADS de la MYNE auxquels je crontribue
+# Répertoire des PADS de la MYNE auxquels je contribue
 
 [La MYNE]( http://lamyne.org) s'auto-définit comme un laboratoire citoyen / espace d'expérimentation dédié aux transitions (sous toutes leurs formes), situé à proximité du campus de la Doua (à Lyon / Villeurbanne). J'y contribue de façon régulière depuis 2014. 
 
@@ -11,7 +11,7 @@
 * [Rencontre avec Karine Dognin-Sauze](https://github.com/nicolasloubet/Compte-rendus/blob/master/Articles/Maker-Lyon-MYNE.md)
 
 ## Temps de convivialité (apéros)
-* [Apéro des designers ethiques (Juilelt 2017)](https://pad.lamyne.org/s/Bk2-qDcBW)
+* [Apéro des designers ethiques (Juillet 2017)](https://pad.lamyne.org/s/Bk2-qDcBW)
 
 ## Temps de transmission (masterclass)
 * [La MYNE, c'est quoi ce f*** bordel ?](https://pad.lamyne.org/s/By6Rq42GW)
