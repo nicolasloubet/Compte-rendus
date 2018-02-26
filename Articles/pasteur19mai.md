@@ -24,7 +24,7 @@ Ce document est le compte-rendu collectif de la rencontre organisée par l'assoc
 * **Rieul Techer** : contributeur de La MYNE (tiers-lieux à Lyon) & DAISEE (programme de recherche)
 * **Sylvia Fredriksson** : designer civique (Open Knowledge / Ecole des données, Cité du Design)
 * **Simon Sarazin** : fondateur de la Coroutine à Lille et contributeur actif aux communs libres
-* **Nicolas Loubet** : co-fondateur de Cellabz,Bluenod, Umaps. Co-producteur du programme DAISEE
+* **Nicolas Loubet** : co-fondateur de Cellabz, Bluenod, Umaps. Co-producteur du programme DAISEE
 * **Paul Citron** : urbaniste chez Plateau Urbain (asso qui remet en usage des lieux vacants)
 * **Xavier Coadic** : co-fondateur du Biome. Contributeur d'OpenBioFabrics, Movilab, Multibao
 
@@ -54,7 +54,7 @@ Ce document est le compte-rendu collectif de la rencontre organisée par l'assoc
 Timing | Action
 ------------ | -------------
 **2012** | Lancement de l’Université Foraine à Rennes sur impulsion de Patrick Bouchain
-**2012-2014** | Mise à l’épreuve du bâtiment par l’Usage (définition de qu’est l’Hôtel pasteur)
+**2012-2014** | Mise à l’épreuve du bâtiment par l’Usage (définition de ce qu’est l’Hôtel Pasteur)
 **2014** | Délégation de la MOA à la SPLA Territoires Publics afin de continuer le travail mené par l’UFO et d’y intégrer une école maternelle (8 classes)
 **Dec. 2015** | Rencontre publique "Nouveaux Bbsoins, Nouveaux équipements"
 **Jan 2016** | Création d’une assemblée des partenaires, représentants de la société civile en vue d’écrire le projet de l’Hôtel Pasteur
@@ -104,7 +104,7 @@ Timing | Action
 * Quelle type de configuration  sociale (communauté) ? Comment fait-on pour faire partie de cette communauté ?
 * Quels liens entre les gens ?  Quelle  autonomie  ? Quelles initiatives ? Comment soutenir l'émancipation ?
 * Qu'est ce qu'il y a faire pour que Pasteur puisse continuer à accueillir ces gens ? Comment fait-on tourner le lieu ?
-* Quelle  conciergerie et quel profil ? Quel type de de concierge pour Pasteur ? (ie. .comment décharger Sophie !) 
+* Quelle  conciergerie et quel profil ? Quel type de de concierge pour Pasteur ? (i.e. comment décharger Sophie !) 
 * Quels modes de prises de décisions entre parties prenantes ? (cf. ce [document](https://hackmd.io/s/H1xBfPVx-#) sur le design de processus)
 * Comment conserver la place pour la libre appropriation et l'expérimentation ? Les essais-erreurs ?
 * Dans quelle mesure la structure est "structurante" et impacte le projet ? Faut-il choisir une forme unique ? 
@@ -114,7 +114,7 @@ Timing | Action
 
 ### Émancipation(s)
 
-* L'autonomisation des hôtes permettent l'émancipation par le faire. Demain, comment STRUCTURER les actions ?
+* L'autonomisation des hôtes permet l'émancipation par le faire. Demain, comment STRUCTURER les actions ?
 
 ---
 
@@ -128,14 +128,14 @@ Timing | Action
 * **Paul** : membre de Plateau Urbain
 * **Arthur** : membre de  Plateau Urbain
 * **Arthur** : usager de l'Hotel Pasteur
-* **Jade** et **Delphine** : spéctacle vivant
+* **Jade** et **Delphine** : spectacle vivant
 * **Emilie** : citoyenne (pôle de dev ESS)
 * **Ludivine** : accompagne les artistes
 * **Aude** : engagée dans l'économie sociale
 * **Elise** : travaille à Pasteur (coordination)
 * **Mathieu** : L'atelier Daro (audiiovisuel)
 * **Louis-Marie** : binome avec Sophie (Pasteur)
-* **Antoine** : réalisateur (film sur Parsteur)
+* **Antoine** : réalisateur (film sur Pasteur)
 * **Samuel** : Champs Libres. Museomix
 * **Simon** : Lille. Communs, logiciel Libre
 * **Christine** : bénévole de l'Hotel Pasteur
@@ -209,7 +209,7 @@ Timing | Action
 * Pas un "nouveau" lieu sous cloche mais inscrit dans un territoire (qui doit fonctionner dans un réseau)
 	* Ex : accueil de migrants (phrase en note par @Samuel). Pasteur comme un outil de réseau de gens
 	* Sur un rayon de 5 km : Hôpital, TNB, musée, etc. Possiblité de mettre à contribution les voisins (ex. cours de Français pour les demandeurs d’asile) pour entrer dans une économie de la contribution. Objectif à terme : passage de relais après les travaux (la ville a investi 10 millions d'euros).
-* Q. Comment faire ren sorte de ne pas aller chercher de subventions, de diversifier au maximum les sources ?
+* Q. Comment faire en sorte de ne pas aller chercher de subventions, de diversifier au maximum les sources ?
 * La puissance publique joue le rôle d'accompagnateur (dans le cas de l'expérience de / avec l'Hotel Pasteur)
 
 ## 4.3- Intervention de Samuel Bausson
@@ -241,7 +241,7 @@ Timing | Action
 * [Appel à communs](http://hauts.tiers-lieux.org/appel-a-communs)
 
 ### Présentation de la Coroutine
-* Espace de travail partagé pour les indépendants qui a démarré en squat à Lille et a connu plusieurs déménagements pour arrriver sur un lieu où est expérimenté la gouvernance ouverte où il n'y peu voir pas de contraintes (e.g ménage). 
+* Espace de travail partagé pour les indépendants qui a démarré en squat à Lille et a connu plusieurs déménagements pour arrriver sur un lieu où est expérimenté la gouvernance ouverte où il y a peu voire pas de contraintes (e.g. ménage). 
 * Les statuts de l'association ont été modifiées pour enlever les pouvoir aux conseil collégial et les remettre dans les mains des membres actifs (pour que ceux qui font fassent). L'association n'a pas de subvention des collectivités.
 
 ### Gouvernance de la Coroutine 
@@ -271,7 +271,7 @@ Timing | Action
 * 2014 : à l'ouverture, pas de lieu. Travail sur une communauté. Fork de la Paillasse (située à Paris)
 
 ### Quelques suggestions
-* Les "pratiques" c'est un point cleé pour faire le lien entre les différentes communautés
+* Les "pratiques" c'est un point clé pour faire le lien entre les différentes communautés
 * Moins se focaliser sur le lieu et plus sur les personnes qui y viennent (sur le "tiers")
 * Le lieu ne définit pas les communauté, c'est un prétexte. Ce qui compte c'est "habiter" !
 * Le lieu de la MYNE fait partie de la ville (en étant à la frontière Villeurbanne / Lyon)
@@ -292,10 +292,10 @@ Timing | Action
  
 ### Cité du Design
 * Co-commissaire scientifique de l'[expérience "Tiers lieux" à la Biennale de Design de Saint Etienne 2017]( https://www.gitbook.com/book/nicolasloubet/fork-the-world).
-* Beaucoup font du ommun sans le savoir. Possibilité de se retrouver grace au patrimoine informationnel.
+* Beaucoup font du commun sans le savoir. Possibilité de se retrouver grace au patrimoine informationnel.
 
 ### Réciprocité
-* S'intéresse aux pratiques de RECIPROCITE (comment on l'incarne autrement que par des tableurs et comment on la vie physiquemenent dans les lieux : [CAIRN](http://carrefour-numerique.cite-sciences.fr/blog/cairn-la-table-qui-permet-de-manipuler-et-visualiser-des-donnees/), & [KODEAL](http://movilab.org/index.php?title=KoDeal) ([Poignées de main](http://movilab.org/index.php?title=Recherche_et_design_:_r%C3%A9pertorier_les_poign%C3%A9es_de_main_dans_les_tiers-lieux),[L'échange dans un projet](http://movilab.org/index.php?title=Recherche_et_design_:_l%27%C3%A9change_dans_le_cadre_d%27un_projet)).
+* S'intéresse aux pratiques de RECIPROCITE (comment on l'incarne autrement que par des tableurs et comment on la vie physiquement dans les lieux : [CAIRN](http://carrefour-numerique.cite-sciences.fr/blog/cairn-la-table-qui-permet-de-manipuler-et-visualiser-des-donnees/), & [KODEAL](http://movilab.org/index.php?title=KoDeal) ([Poignées de main](http://movilab.org/index.php?title=Recherche_et_design_:_r%C3%A9pertorier_les_poign%C3%A9es_de_main_dans_les_tiers-lieux),[L'échange dans un projet](http://movilab.org/index.php?title=Recherche_et_design_:_l%27%C3%A9change_dans_le_cadre_d%27un_projet)).
 
 ### Remix the communs
 * Des chartes sont néées en Italie pour définir des espaces comme "communs". [Atlas des chartes des communs](http://wiki.remixthecommons.org/index.php/Atlas_des_chartes_des_communs_urbains).
@@ -307,7 +307,7 @@ Timing | Action
 	
 * Scientifique. A vécu à l'Université le [CPE](https://fr.wikipedia.org/wiki/Contrat_premi%C3%A8re_embauche). À l'origine d'une bifurcation (création d'entreprise plutôt qu'une carrière académique). Capital de départ = investissement dans diverses activités (pesonnels, dons, entreprise). A eu l'occasion de s'investir plus de 5 ans dans le développement d'un [média](http://knowtex.com) sur les "communautés créatives".
 	
-* 2012 : début de quninquénat de François Hollande. Beaucoup d'espoirs et... beaucoup des déceptions. Constat en 2017 : en difficuté partout : Entreprise (Umaps), Startup (Bluenod, Tiers-lieu (La Paillasse). Entre 2013 et 2017, a essayé de comprendre pourquoi c'est si compliqué de péréniser une activité (une enterprise comme un tiers-lieux).
+* 2012 : début de quninquénat de François Hollande. Beaucoup d'espoirs et... beaucoup des déceptions. Constat en 2017 : en difficuté partout : Entreprise (Umaps), Startup (Bluenod), Tiers-lieu (La Paillasse). Entre 2013 et 2017, a essayé de comprendre pourquoi c'est si compliqué de péréniser une activité (une enterprise comme un tiers-lieux).
 
 * Dans les tiers-lieux, il y a des pratiques différentes et des temps qui sont liés à des rituels. Comment peut-on faire en sorte de fluidifier (en ayant le souci du collectif) ? L'incompréhension est une opportunité à saisir (pour développer des relations qui peuvent se traduire en échange de temps, en troc matériel ou en co-portage d'activités / services utiles). S'intéresse davantage au fonctionnement des organsations (qui fait quoi) qu'à la gouvernance (qui décide quoi).
 
@@ -325,7 +325,7 @@ Timing | Action
 
 # 6- Ateliers de réflexion
 
-Les notes 'brutes' sont réunies dans ce [document](https://bimestriel.framapad.org/p/GouvernancePasteur) qui est en cours d'édition / mise en forme par de valeurs éditeurs ! 
+Les notes 'brutes' sont réunies dans ce [document](https://bimestriel.framapad.org/p/GouvernancePasteur) qui est en cours d'édition / mise en forme par de valeureux éditeurs ! 
 
 ---
 
