@@ -25,12 +25,12 @@
 * [Schéma directeur des énergies du Grand Lyon](https://pad.lamyne.org/s/BJApqzsWZ)
 * [Kick-Off meetup de l'expérience "Titre à Venir"](https://hackmd.io/s/ryQmhtlxb)
 * [Meetup #1 de l'expérience "Titre à Venir"](https://pad.lamyne.org/s/ryHA5RLqb)
-* [Présentation du projet d’exposition ‘Titre à venir’](https://hackmd.io/s/SJJCcK81W)
+* [Présentation du projet d’exposition "Titre à venir"](https://hackmd.io/s/SJJCcK81W)
 * [[Polymathès] Rencontre sur la cybersécurité](https://pad.lamyne.org/s/ry3nOo9ib)
 * [[Design des instances] La Fabrique des Communs](https://pad.lamyne.org/s/S1m_Yimab)
 
 ## Temps d'apprentissage (colloques)
-* [Colloque 'Penser l'émancipation](https://pad.lamyne.org/s/ByJHkdqcb)
+* [Colloque "Penser l'émancipation"](https://pad.lamyne.org/s/ByJHkdqcb)
 * [Connaissance, Communs et Tiers-Lieux](https://pad.lamyne.org/s/BJZyafQ0Z)
 
 ## Temps de recherche (résidences)
