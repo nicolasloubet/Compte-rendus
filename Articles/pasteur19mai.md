@@ -319,29 +319,31 @@ Timing | Action
 * Mise à dispo de lieux vacants à des acteurs qui n'ont pas de modèles éco. "adaptés" à l'immobilier concurrentiel.
 * L'idée de la temporalité c'est de ne pas se focaliser sur les lieux.
 	* Comment la programmation ouverte permet d'être adaptable, modulable et produisant des politiques publiques adaptées aux territoires, en laissant faire pour qu'advienne le politique. 
-	* Comment les gens qui font de la poitique peuvent permettre et laisser faire pour qu'advienne du politique
-
----
-
+	* Comment les gens qui font de la politique peuvent permettre et laisser faire pour qu'advienne du politique
+	
 # 6- Ateliers de réflexion
 
 Les notes 'brutes' sont réunies dans ce [document](https://bimestriel.framapad.org/p/GouvernancePasteur) qui est en cours d'édition / mise en forme par de valeureux éditeurs ! 
 
----
-
 # 7- Annexes sur l'économie
 
-## 7.1- **Économie contributive**
+## 7.1- Économie contributive
 
 > L'économie contributive est un modèle de création de valeur basé sur la contribution. - **Wikipedia**
 	
 * Elle se caractérise par la non-dissociation entre producteur et consommateur. Dans le cadre d'une économie contributive, l'usager du service est potentiellement à la fois consommateur et producteur du service. Par exemple, Wikipédia et ses projets frères ou sœurs reposent tous sur le modèle de l'économie contributive (les rédacteurs des articles et autres contributeurs sont aussi des utilisateurs de l'encyclopédie, de Wikiversité, Wikimedia Commons, etc.) C'est le cas aussi des logiciels libres, où un certain nombre d'usagers apportent leur contribution en améliorant le logiciel qu'ils utilisent.
-* L'économie contributive est un concept développé en particulier par Bernard Stiegler et l'association Ars Industrialis. L'association Ars Industrialis définit l'économie contributive par trois caractéristiques principales : (1) Producteurs et  consommateurs sont assimilés en tant que contributeurs (2) La valeur produite par les contributeurs n'est pas intégralement monétarisable (3) La production crée à la  fois du savoir-faire et du savoir-vivre, et dépasse ainsi la simple subsistance.
 
-## 7.2- **Économie collaborative**
+* L'économie contributive est un concept développé en particulier par Bernard Stiegler et l'association Ars Industrialis. L'association Ars Industrialis définit l'économie contributive par trois caractéristiques principales : 
+  1. Producteurs et  consommateurs sont assimilés en tant que contributeurs 
+  2. La valeur produite par les contributeurs n'est pas intégralement monétarisable 
+  3. La production crée à la  fois du savoir-faire et du savoir-vivre, et dépasse ainsi la simple subsistance
+  
+## 7.2- Économie collaborative
 
 > L’économie collaborative est une activité humaine de pair à pair, qui vise à produire de la valeur en commun et qui repose sur de nouvelles formes d'organisation du travail et d'échanges. - **Wikipedia**
 	
 * Elle s'appuie sur la mutualisation des biens, des espaces et des outils, des savoirs (l'usage plutôt que la possession), l'organisation des citoyens en "réseau" ou en communautés et généralement l'intermédiation par des plateformes internet (à l'exception de modèles comme les réseaux d'échanges réciproques de savoirs).
+
 * Popularisé par le livre de Rachel Botsman et Roo Rogers, le terme d'économie collaborative et le champ qu'il recouvre ne font pas l'objet d'un consensus. Dans une conception large, l'économie collaborative inclut la consommation collaborative (AMAP, couchsurfing, covoiturage, colis-voiturage, etc.), les modes de vie collaboratifs (coworking, colocation, habitat collectif), la finance collaborative (crowdfunding, prêt d'argent de pair à pair, monnaies alternatives), la production contributive (fabrication numérique, DIY, Fablabs, imprimantes 3D, maker space) et la culture libre. Elle prend différents types de formes (économie du partage, économie de fonctionnalité dont l’économie circulaire, économie des solutions, économie en pair à pair) selon les types de biens et services concernés ou de la finalité (empowerment du consommateur, éco-efficacité).
+
 * Ce type d'économie s'inscrit dans un contexte de défiance des acteurs institutionnels du système capitaliste traditionnel, de crise économique mais aussi d'éthique environnementale les enjeux sont multiples puisqu'il semble que l'on aille vers un nouveau modèle économique. Son essor est dû à l'utilisation des nouvelles technologies permettant d'améliorer la créativité collective et la productivité. Il répond également au désir de pratiques écologiques et de relations sociales plus conviviales.
