@@ -1,4 +1,4 @@
-# Répertoire des PADS de la MYNE auxquels je crontribue
+# Répertoire des PADS de la MYNE auxquels je contribue
 
 [La MYNE]( http://lamyne.org) s'auto-définit comme un laboratoire citoyen / espace d'expérimentation dédié aux transitions (sous toutes leurs formes), situé à proximité du campus de la Doua (à Lyon / Villeurbanne). J'y contribue de façon régulière depuis 2014. 
 
@@ -11,7 +11,7 @@
 * [Rencontre avec Karine Dognin-Sauze](https://github.com/nicolasloubet/Compte-rendus/blob/master/Articles/Maker-Lyon-MYNE.md)
 
 ## Temps de convivialité (apéros)
-* [Apéro des designers ethiques (Juilelt 2017)](https://pad.lamyne.org/s/Bk2-qDcBW)
+* [Apéro des designers ethiques (Juillet 2017)](https://pad.lamyne.org/s/Bk2-qDcBW)
 
 ## Temps de transmission (masterclass)
 * [La MYNE, c'est quoi ce f*** bordel ?](https://pad.lamyne.org/s/By6Rq42GW)
@@ -25,12 +25,12 @@
 * [Schéma directeur des énergies du Grand Lyon](https://pad.lamyne.org/s/BJApqzsWZ)
 * [Kick-Off meetup de l'expérience "Titre à Venir"](https://hackmd.io/s/ryQmhtlxb)
 * [Meetup #1 de l'expérience "Titre à Venir"](https://pad.lamyne.org/s/ryHA5RLqb)
-* [Présentation du projet d’exposition ‘Titre à venir’](https://hackmd.io/s/SJJCcK81W)
+* [Présentation du projet d’exposition "Titre à venir"](https://hackmd.io/s/SJJCcK81W)
 * [[Polymathès] Rencontre sur la cybersécurité](https://pad.lamyne.org/s/ry3nOo9ib)
 * [[Design des instances] La Fabrique des Communs](https://pad.lamyne.org/s/S1m_Yimab)
 
 ## Temps d'apprentissage (colloques)
-* [Colloque 'Penser l'émancipation](https://pad.lamyne.org/s/ByJHkdqcb)
+* [Colloque "Penser l'émancipation"](https://pad.lamyne.org/s/ByJHkdqcb)
 * [Connaissance, Communs et Tiers-Lieux](https://pad.lamyne.org/s/BJZyafQ0Z)
 
 ## Temps de recherche (résidences)
