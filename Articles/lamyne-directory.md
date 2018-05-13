@@ -59,7 +59,7 @@
  
 ## 1- Ce qu'on fait avec la MYNE
 
-### 1.1- ++Apprendre entre pairs++
+### 1.1- <u>Apprendre entre pairs</u>
 
 #### Apéros
 * [Apéro Doc @ Lyon à la MYNE (avec Inventaire.io)](https://pad.lamyne.org/docalyon-lamyne)
@@ -98,13 +98,13 @@
 * [Utopoly Camp à la MYNE (Juillet 2017)](https://pad.lamyne.org/GzDMA4BMCZwIwLTlABlAgLHApgMwXMCsAthNtgMbEaXC5A==)
 * [[TILIOS] SumerCamp 2017 @ Aurec sur Loire](https://pad.lamyne.org/CbBmDYEYGZIVgLQA5rgIYICwCNuQdgMboKECmeATIdAAwDs4ZhQA)
  
-### 1.2- ++Se saisir de questions++
+### 1.2- <u>Se saisir de questions</u>
 * [Des données en (biens) communs à La MYNE](https://pad.lamyne.org/donnees-en-communs)
 * [La MYNE x MediaCités : vers un DataCités ?](https://pad.lamyne.org/CwDgRgDMDGCG0FoBmYCcEHAgNkagTCAOwLRICmArLPvtGMGPkA==)
 * [[Kuuki] Captation de données de pollution](https://frama.link/lamyne-kuuki) 
 * [[Polymathès] Labo citoyen de cybersécurité](https://pad.lamyne.org/GYBgbMCGCmIEwFpLAKwGMEBYDs0CcCeAzAEbAIliYnYwCMJRAHCEA===)
 
-### 1.3- ++Se fédérer en réseau(x)++
+### 1.3- <u>Se fédérer en réseau(x)</u>
 * [Expérience Tiers-Lieux "Fork The World"](https://world-trust-foundation.gitbooks.io/fork-the-world/content/)
 * [DAISEE - Faire transition par les communs](https://pad.lamyne.org/daisee-knowledge)
 * [Actions sur & autour des communs à Lyon](https://pad.lamyne.org/communs-lyon-annuaire)
@@ -118,11 +118,11 @@
 
 ## 3- Infrastructure de la MYNE
 
-### 3.1- ++Infrastructure contributive++
+### 3.1- <u>Infrastructure contributive</u>
 * [[La MYNE] Coordination du GT-Documentation](https://pad.lamyne.org/KYdgxgRgDAHAjANgLRQCwE4CsTWpOpdOEZGfAZhCnL3LnSA=)
 * [[La MYNE] Vers une culture collective du SI (UX)](https://pad.lamyne.org/KYBgJsDGwEwwtATjIgRvALIgjNpBWAZgDYliB2YKmVVbZIA=)
 
-### 3.2- ++Infrastructure associative++
+### 3.2- <u>Infrastructure associative</u>
 * [[La MYNE] AGO 2017 et AGE 2018 de la MYNE](https://pad.lamyne.org/s/HywNiL5Xf)
 * [4 missions critiques pour le dev. de la MYNE](https://pad.lamyne.org/GwVhGYA5gIwBgLQDMBMNgICwEZYIJyQCGKCAxpCAOwwpkqSYhxA=)
 * [[MYNEmix] Remix de la collectividualité mynoise](https://pad.lamyne.org/EYTgxgrAJmDMCmBaMAzAjAJkQFhMNiwAhhsIkRBCEfLBABxgDs8QA===)
@@ -130,7 +130,7 @@
 * [[MYNEmix] Actes du MYNEmix #2 (Fév. 2018)](https://pad.lamyne.org/MwEwDALGCcwQtNAZgIwEzwikA2eBDFfPJAVgHZYQAOYYagRjCA==)
 * [Quel(s) lieu(x) pour la MYNE après 2018 ?](https://pad.lamyne.org/AwEw7ApgjATAhhAtAVlUgLPAxogRgTiikXxHznlzlywhCA==?view)
 
-### 3.3- ++Infrastructure coopérative++
+### 3.3- <u>Infrastructure coopérative</u>
 * [[OxaMYNE] Rapprochement OXALIS x La MYNE](https://pad.lamyne.org/GYZgJgbA7ALAhiAtAVgEwA5WPsij1xgCciwAxmOmQEZECM9wMQA=)
 * [AAP "Tiers lieux pour l’innovation" de l'AURA](https://pad.lamyne.org/IYdgjAJgDCBGCsBaApgFmRRqAcBmAZorNtgMaIBssFwu2FuAnCKY0A==)
 * [[Coexiscience] Proto budget pour le FEDER](https://pad.lamyne.org/feder-coexiscience)
