@@ -1,4 +1,4 @@
-###### tags: `AURASMUS` `AGERA` `carnet de bord` `communauté`
+
 
 **Si vous n'êtes pas à l'aise avec la syntaxe Markdown, ce [tutoriel](https://pad.numerique-en-commun.fr/utiliser-codimd?view) est fait pour vous.**
 
