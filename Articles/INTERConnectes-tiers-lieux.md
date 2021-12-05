@@ -16,7 +16,7 @@
 
 ## À propos de ce document
 
-Ce document est une synthèse écrite de la [session consacrée aux tiers-lieux](http://www.amnyos.com/234-137eme-Forum-des.html) lors du dernier [forum des interconnectés](http://forum.interconnectes.fr) (le 13/12/2016). Elle est basée sur la [prise de notes](/Ya-t-il-trop-de-tiers-lieux--RabDWSzgERS) de [Claudine Revol](https://fr.linkedin.com/in/claudinerevol/fr) (encore merci à elle de sa présence et de ses notes).
+Ce document est une synthèse écrite de la [session consacrée aux tiers-lieux](http://www.amnyos.com/234-137eme-Forum-des.html) lors du dernier [forum des interconnectés](http://forum.interconnectes.fr) (le 13/12/2016). Elle est basée sur une prise de notes de [Claudine Revol](https://fr.linkedin.com/in/claudinerevol/fr) (encore merci à elle de sa présence et de ses notes).
 
 ## Introduction
 
